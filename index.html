@@ -1,13 +1,41 @@
 ---
 layout: default
 title: Your New Jekyll Site
+isMainPage: true
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div id="posts">
+<h1 class="front-h1">Articles<span>
+More community at <a href="http://antinews.nushackers.org">Antinews</a> &rarr;</br>
+<a href='http://school.nushackers.org'>hackerschool</a>: workshops for hackers &rarr;
+</span></h1>
+{% for post in site.posts %}
+    <article>
+        <header class="entry-header">
+            <div class="entry-meta">
+                <time>{{ post.date | date_to_string }}</time>
+            </div><!-- .entry-meta -->
+            <h1 class="entry-title"><a href="{{ post.url }}" title="Permalink {{ post.title }}" rel="bookmark">{{ post.title }}</a></h1>
+
+        </header><!-- .entry-header -->
+
+        <div class="entry-content">
+            <p>
+            {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+            [...]<a class="readmore" href="{{ post.url }}">Read More</a>
+            </p>
+        </div><!-- .entry-content -->
+
+    </article><!-- #post-<?php the_ID(); ?> -->
+
+{% endfor %}
+<a href="/articles">More Articles &rarr;</a>
+</div><!--posts-->
+
+<div id="right">
+<h1 class="front-h1">Friday Hacks<span><a href="/sponsor">Supported</a> by IDA. <br/>Every Friday @ <a href="/fridayhacks">7pm SR3 COM1, School of Computing</a></span></h1>
+    {% include friday_hacks.html %}
 </div>
+
+<div id="leftbar">
+    <strong>We're building a community of passionate hackers in NUS.</strong> <a href="/about">Read more about us</a>, attend or speak at <a href="/fridayhacks">one of our meetings</a>, or <a href="/code">use our code</a>.</div>

@@ -1,0 +1,16 @@
+<ul class="clear-list">
+{% assign date = site.data.friday_hacks.start_date %}
+{% for hack in site.data.friday_hacks.hacks %}
+<li>
+<time>{{ date | date: "%b %-d" }}</time>
+{% capture date %}
+    {{ date | date: "%s" | plus: 604800 | date: "%b %d, %Y %I:%M %p +0800"}}
+{% endcapture %}
+<div><strong>{{ hack.speaker }}</strong> <span>( {{ hack.from }})</span></div>
+<div>{{ hack.title }}</div>
+{% if hack.venue %}
+    <div><small><i>{{ hack.venue }}</i></small></div>
+{% endif %}
+</li>
+{% endfor %}
+</ul>

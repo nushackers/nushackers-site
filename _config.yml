@@ -1,3 +1,17 @@
-name: Your New Jekyll Site
+name: NUS Hackers
+description: >
+  Linux, Open Source Software, and the Hacker Culture
 markdown: redcarpet
 pygments: true
+permalink: pretty
+mainpages:
+  - url: /about
+    title: About
+  - url: /discussion
+    title: Discussion
+  - url: /events
+    title: Events
+  - url: /code
+    title: Code
+  - url: /contact
+    title: Contact
