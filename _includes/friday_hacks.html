@@ -6,10 +6,16 @@
 {% capture date %}
     {{ date | date: "%s" | plus: 604800 | date: "%b %d, %Y %I:%M %p +0800"}}
 {% endcapture %}
-<div><strong>{{ hack.speaker }}</strong> <span>( {{ hack.from }})</span></div>
-<div>{{ hack.title }}</div>
-{% if hack.venue %}
-    <div><small><i>{{ hack.venue }}</i></small></div>
+{% if hack.nohack %}
+    <em>{{ hack.nohack }}, no Friday Hacks</em>
+{% elsif hack.speaker == null %}
+    <div>Slot is open()</div>
+{% else %}
+    <div><strong>{{ hack.speaker }}</strong> <span>( {{ hack.from }})</span></div>
+    <div>{{ hack.title }}</div>
+    {% if hack.venue %}
+        <div><small><i>{{ hack.venue }}</i></small></div>
+    {% endif %}
 {% endif %}
 </li>
 {% endfor %}

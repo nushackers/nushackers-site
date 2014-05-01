@@ -8,13 +8,10 @@ hacks:
     from: NUS Student
     title: "Product Analytics: Building Something People Want"
     venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-  - speaker: Cedric Chin
-    from: NUS Student
-    title: "Product Analytics: Building Something People Want"
-  - speaker: Cedric Chin
-    from: NUS Student
-    title: "Product Analytics: Building Something People Want"
-    venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
+  - speaker:
+    from:
+    title:
+  - nohack: Good Friday
   - speaker: Cedric Ching
     from: NUS Student
     title: "Product Analytics: Building Something People Want"
