@@ -9,7 +9,7 @@ isMainPage: true
 More community at <a href="http://antinews.nushackers.org">Antinews</a> &rarr;</br>
 <a href='http://school.nushackers.org'>hackerschool</a>: workshops for hackers &rarr;
 </span></h1>
-{% for post in site.posts %}
+{% for post in site.posts limit: 5 %}
     <article>
         <header class="entry-header">
             <div class="entry-meta">
@@ -21,8 +21,8 @@ More community at <a href="http://antinews.nushackers.org">Antinews</a> &rarr;</
 
         <div class="entry-content">
             <p>
-            {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-            [...]<a class="readmore" href="{{ post.url }}">Read More</a>
+            {{ post.content | strip_html | truncate: 180 }}
+            <a class="readmore" href="{{ post.url }}">Read More</a>
             </p>
         </div><!-- .entry-content -->
 
