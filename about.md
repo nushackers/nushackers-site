@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+permalink: /about/
 notes: |
   <h3>What is Hacking?</h3>
 
