@@ -1,0 +1,38 @@
+---
+layout: default
+title: Articles
+isMainPage: true
+---
+<div id="secondary" class="widget-area" role="complementary">
+   {% monthly_archives %}
+</div>
+<div id="single-loop" role="main">
+    <nav id="nav-above">
+        {% if paginator.next_page %}
+            <div class="nav-previous"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" rel="prev"><span class="meta-nav">&larr;</span>Older articles</a></div>
+        {% endif %}
+        {% if paginator.previous_page %}
+            <div class="nav-next"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' | remove: 'index.html' }}" rel="next">Newer articles<span class="meta-nav">&rarr;</span></a></div>
+        {% endif %}
+    </nav>
+    <article>
+        <header class="page-header">
+            <h1 class="page-title">{{ page.title }}</h1>
+        </header><!-- .entry-header -->
+
+        <div class="entry-content">
+            {% for post in paginator.posts %}
+                {% include post_excerpt.html %}
+            {% endfor %}
+        </div><!-- .entry-content -->
+    </article>
+
+    <nav id="nav-below">
+        {% if paginator.next_page %}
+            <div class="nav-previous"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" rel="prev"><span class="meta-nav">&larr;</span>Older articles</a></div>
+        {% endif %}
+        {% if paginator.previous_page %}
+            <div class="nav-next"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' | remove: 'index.html' }}" rel="next">Newer articles<span class="meta-nav">&rarr;</span></a></div>
+        {% endif %}
+    </nav>
+</div><!-- #content -->

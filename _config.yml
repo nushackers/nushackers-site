@@ -4,6 +4,8 @@ description: >
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title
+paginate: 10
+paginate_path: /articles/page/:num
 mainpages:
   - url: /about
     title: About

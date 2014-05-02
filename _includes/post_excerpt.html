@@ -1,0 +1,17 @@
+<article>
+        <header class="entry-header">
+            <div class="entry-meta">
+                <time>{{ post.date | date_to_string }}</time>
+            </div><!-- .entry-meta -->
+            <h1 class="entry-title"><a href="{{ post.url }}" title="Permalink {{ post.title }}" rel="bookmark">{{ post.title }}</a></h1>
+
+        </header><!-- .entry-header -->
+
+        <div class="entry-content">
+            <p>
+            {{ post.content | strip_html | truncate: 180 }}
+            <a class="readmore" href="{{ post.url }}">Read More</a>
+            </p>
+        </div><!-- .entry-content -->
+
+    </article><!-- #post-<?php the_ID(); ?> -->
