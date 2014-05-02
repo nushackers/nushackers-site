@@ -1,6 +1,7 @@
 ---
 layout: post
-title: UNIX Usage Tips
+
+title: "UNIX Usage Tips"
 date: 2008-09-08 17:14
 author: Ruiwen
 comments: true

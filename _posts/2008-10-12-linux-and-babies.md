@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Linux and babies
+
+title: "Linux and babies"
 date: 2008-10-12 15:19
 author: Luther Goh Lu Feng
 comments: true

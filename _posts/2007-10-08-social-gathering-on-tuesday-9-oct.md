@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Social Gathering on Tuesday, 9 Oct!
+
+title: "Social Gathering on Tuesday, 9 Oct!"
 date: 2007-10-08 07:31
 author: jmarki
 comments: true

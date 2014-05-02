@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Gelato Itanium Conference & Expo (ICE) Singapore
+
+title: "Gelato Itanium Conference & Expo (ICE) Singapore"
 date: 2007-09-07 00:51
 author: rey
 comments: true

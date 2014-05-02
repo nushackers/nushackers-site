@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS.org is now live.
+
+title: "linuxNUS.org is now live."
 date: 2006-09-14 16:05
 author: Luther Goh Lu Feng
 comments: true

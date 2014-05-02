@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The linuxNUS Hackfest returns!
+
+title: "The linuxNUS Hackfest returns!"
 date: 2009-05-07 12:51
 author: iced
 comments: true

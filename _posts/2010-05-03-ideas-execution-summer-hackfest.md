@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ideas >> Execution; Summer Hackfest
+
+title: "Ideas >> Execution; Summer Hackfest"
 date: 2010-05-03 03:45
 author: angad
 comments: true

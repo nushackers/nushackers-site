@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hackfest Again! November 2009
+
+title: "Hackfest Again! November 2009"
 date: 2009-11-10 23:58
 author: angad
 comments: true

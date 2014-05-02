@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Not Participating? You're Still Invited To Hack&Roll 2012 (Free Food, Free Hacking!)
+
+title: "Not Participating? You're Still Invited To Hack&Roll 2012 (Free Food, Free Hacking!)"
 date: 2012-02-16 11:43
 author: ejames
 comments: true

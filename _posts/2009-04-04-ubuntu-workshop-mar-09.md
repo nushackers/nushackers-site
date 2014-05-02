@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ubuntu Workshop Mar 09
+
+title: "Ubuntu Workshop Mar 09"
 date: 2009-04-04 15:43
 author: Luther Goh Lu Feng
 comments: true

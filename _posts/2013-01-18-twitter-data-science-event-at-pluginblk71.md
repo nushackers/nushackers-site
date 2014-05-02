@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Twitter Data Science Event at Plugin@Blk71
+
+title: "Twitter Data Science Event at Plugin@Blk71"
 date: 2013-01-18 10:05
 author: ejames
 comments: true

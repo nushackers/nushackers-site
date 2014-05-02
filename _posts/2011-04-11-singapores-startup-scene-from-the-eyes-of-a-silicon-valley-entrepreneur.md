@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Singapore's Startup scene - words of a Silicon Valley Entrepreneur
+
+title: "Singapore's Startup scene - words of a Silicon Valley Entrepreneur"
 date: 2011-04-11 23:25
 author: angad
 comments: true

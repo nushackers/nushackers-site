@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Build Random Shit For Fun, Experience, and Glory
+
+title: "Build Random Shit For Fun, Experience, and Glory"
 date: 2012-01-03 03:00
 author: ejames
 comments: true

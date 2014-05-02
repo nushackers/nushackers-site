@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Food Donation to Sharity Gift Box on 20 Dec 06
+
+title: "Food Donation to Sharity Gift Box on 20 Dec 06"
 date: 2006-12-18 00:09
 author: rey
 comments: true

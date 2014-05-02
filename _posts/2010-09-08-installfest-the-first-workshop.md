@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Installfest! The first Workshop!
+
+title: "Installfest! The first Workshop!"
 date: 2010-09-08 15:05
 author: angad
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: hackerschool by NUS Hackers
+
+title: "hackerschool by NUS Hackers"
 date: 2013-01-22 19:33
 author: pallav
 comments: true

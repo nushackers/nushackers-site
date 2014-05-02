@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Fridiay Hacks #31, Oct 5
+
+title: "Fridiay Hacks #31, Oct 5"
 date: 2012-10-04 12:07
 author: ejames
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: CodeAndroid Meetup 4 and GTUG-SG Meetup 1
+
+title: "CodeAndroid Meetup 4 and GTUG-SG Meetup 1"
 date: 2009-08-28 02:47
 author: Luther Goh Lu Feng
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: [Podcast] Episode 1: Birth of the Alliance
+
+title: "[Podcast] Episode 1: Birth of the Alliance"
 date: 2009-05-20 10:30
 author: Ruiwen
 comments: true

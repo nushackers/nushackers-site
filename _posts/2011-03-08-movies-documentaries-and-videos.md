@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Movies, Documentaries and Videos
+
+title: "Movies, Documentaries and Videos"
 date: 2011-03-08 22:42
 author: angad
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 27 March: Ubuntu.SG comes to NUS
+
+title: "27 March: Ubuntu.SG comes to NUS"
 date: 2009-03-24 00:16
 author: iced
 comments: true

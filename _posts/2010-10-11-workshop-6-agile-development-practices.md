@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Workshop #6 Agile Development Practices
+
+title: "Workshop #6 Agile Development Practices"
 date: 2010-10-11 13:16
 author: angad
 comments: true

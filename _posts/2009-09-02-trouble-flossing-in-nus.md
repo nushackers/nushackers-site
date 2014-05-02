@@ -1,6 +1,7 @@
 ---
 layout: post
-title: [Poll] Trouble FLOSSing in NUS?
+
+title: "[Poll] Trouble FLOSSing in NUS?"
 date: 2009-09-02 13:12
 author: Ruiwen
 comments: true

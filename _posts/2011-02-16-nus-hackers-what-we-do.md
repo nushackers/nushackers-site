@@ -1,6 +1,7 @@
 ---
 layout: post
-title: NUS Hackers: What We Do
+
+title: "NUS Hackers: What We Do"
 date: 2011-02-16 21:06
 author: ejames
 comments: true

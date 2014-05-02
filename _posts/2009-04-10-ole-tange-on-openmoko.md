@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ole Tange on OpenMoko
+
+title: "Ole Tange on OpenMoko"
 date: 2009-04-10 09:00
 author: Ruiwen
 comments: true

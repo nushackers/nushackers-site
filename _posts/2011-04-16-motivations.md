@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Motivations
+
+title: "Motivations"
 date: 2011-04-16 22:28
 author: ejames
 comments: true

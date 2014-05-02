@@ -1,6 +1,7 @@
 ---
 layout: post
-title: HoN-y Night Report and Photos
+
+title: "HoN-y Night Report and Photos"
 date: 2009-08-27 12:58
 author: Luther Goh Lu Feng
 comments: true

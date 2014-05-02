@@ -1,6 +1,7 @@
 ---
 layout: post
-title: SLMG meetup Apr 09
+
+title: "SLMG meetup Apr 09"
 date: 2009-04-21 15:12
 author: Luther Goh Lu Feng
 comments: true

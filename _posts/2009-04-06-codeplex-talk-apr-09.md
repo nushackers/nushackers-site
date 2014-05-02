@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Codeplex Talk Apr 09
+
+title: "Codeplex Talk Apr 09"
 date: 2009-04-06 00:30
 author: Luther Goh Lu Feng
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hacking: The Best Way To Get Hired, While At SoC
+
+title: "Hacking: The Best Way To Get Hired, While At SoC"
 date: 2012-02-13 06:16
 author: ejames
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Learning Ruby The Fun Way
+
+title: "Learning Ruby The Fun Way"
 date: 2011-02-13 01:23
 author: ejames
 comments: true

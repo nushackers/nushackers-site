@@ -3,7 +3,7 @@ description: >
   Linux, Open Source Software, and the Hacker Culture
 markdown: redcarpet
 pygments: true
-permalink: pretty
+permalink: /:year/:month/:title
 mainpages:
   - url: /about
     title: About

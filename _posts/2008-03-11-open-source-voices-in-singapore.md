@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Open Source Voices in Singapore
+
+title: "Open Source Voices in Singapore"
 date: 2008-03-11 22:29
 author: Ruiwen
 comments: true

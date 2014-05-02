@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hackfest!! Crisis Camp @ HackerspaceSG
+
+title: "Hackfest!! Crisis Camp @ HackerspaceSG"
 date: 2010-02-03 22:52
 author: angad
 comments: true

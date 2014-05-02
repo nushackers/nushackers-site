@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Welcome Tea Sep 2009
+
+title: "Welcome Tea Sep 2009"
 date: 2009-09-07 01:46
 author: Luther Goh Lu Feng
 comments: true

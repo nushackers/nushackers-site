@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Do We Need A New Richard Stallman?
+
+title: "Do We Need A New Richard Stallman?"
 date: 2012-03-13 02:51
 author: ejames
 comments: true

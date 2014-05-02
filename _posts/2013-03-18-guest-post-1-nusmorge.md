@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Guest Post #1 NUSMorge
+
+title: "Guest Post #1 NUSMorge"
 date: 2013-03-18 23:20
 author: omer
 comments: true

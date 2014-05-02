@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Singapore Linux March Meetup + Singapore Lubuntu Team
+
+title: "The Singapore Linux March Meetup + Singapore Lubuntu Team"
 date: 2009-03-17 21:24
 author: Luther Goh Lu Feng
 comments: true

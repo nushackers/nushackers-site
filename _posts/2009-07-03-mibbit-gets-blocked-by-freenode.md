@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mibbit gets blocked by Freenode
+
+title: "Mibbit gets blocked by Freenode"
 date: 2009-07-03 01:54
 author: Luther Goh Lu Feng
 comments: true

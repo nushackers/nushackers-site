@@ -1,6 +1,7 @@
 ---
 layout: post
-title: NUS Hackers Welcome Tea
+
+title: "NUS Hackers Welcome Tea"
 date: 2011-08-31 13:27
 author: ejames
 comments: true

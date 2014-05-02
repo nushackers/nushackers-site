@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web tripwires" reveal 1.3% of web pages altered in transit
+title: "\"Web tripwires\" reveal 1.3% of web pages altered in transit"
 date: 2008-04-18 00:43
 author: Ruiwen
 comments: true

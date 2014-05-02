@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks Talk 30th Mar - Philosophy of Unix
+
+title: "Friday Hacks Talk 30th Mar - Philosophy of Unix"
 date: 2012-03-26 16:51
 author: admin
 comments: true

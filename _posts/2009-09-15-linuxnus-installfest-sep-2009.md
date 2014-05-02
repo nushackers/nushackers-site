@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS Installfest Sep 2009
+
+title: "linuxNUS Installfest Sep 2009"
 date: 2009-09-15 03:25
 author: Luther Goh Lu Feng
 comments: true

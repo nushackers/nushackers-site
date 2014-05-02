@@ -1,6 +1,7 @@
 ---
 layout: post
-title: What Fun, an Install Fest!
+
+title: "What Fun, an Install Fest!"
 date: 2009-02-10 00:18
 author: iced
 comments: true

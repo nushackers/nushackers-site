@@ -1,6 +1,7 @@
 ---
 layout: post
-title: An Unofficial CORS API
+
+title: "An Unofficial CORS API"
 date: 2011-12-14 16:55
 author: ejames
 comments: true

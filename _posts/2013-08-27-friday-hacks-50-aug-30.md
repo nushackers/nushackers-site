@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #50, Aug 30
+
+title: "Friday Hacks #50, Aug 30"
 date: 2013-08-27 22:19
 author: fazli
 comments: true

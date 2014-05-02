@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Happy April Fool's!
+
+title: "Happy April Fool's!"
 date: 2012-04-02 15:18
 author: ejames
 comments: true

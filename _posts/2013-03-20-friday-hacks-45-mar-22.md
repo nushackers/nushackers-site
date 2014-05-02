@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #45, Mar 22
+
+title: "Friday Hacks #45, Mar 22"
 date: 2013-03-20 21:26
 author: benedict
 comments: true

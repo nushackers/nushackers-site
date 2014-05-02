@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS at Barcamp 3
+
+title: "linuxNUS at Barcamp 3"
 date: 2009-03-01 21:18
 author: Luther Goh Lu Feng
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks This Week Moved to LT19
+
+title: "Friday Hacks This Week Moved to LT19"
 date: 2012-11-07 20:47
 author: ejames
 comments: true

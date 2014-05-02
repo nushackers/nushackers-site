@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sun NUS Open Source Day
+
+title: "Sun NUS Open Source Day"
 date: 2008-03-29 19:14
 author: Ruiwen
 comments: true

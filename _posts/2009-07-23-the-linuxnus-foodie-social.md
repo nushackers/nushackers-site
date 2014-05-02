@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The linuxNUS Foodie Social
+
+title: "The linuxNUS Foodie Social"
 date: 2009-07-23 00:47
 author: Luther Goh Lu Feng
 comments: true

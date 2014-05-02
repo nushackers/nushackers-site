@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hackers@NUS
+
+title: "Hackers@NUS"
 date: 2010-12-12 15:01
 author: angad
 comments: true

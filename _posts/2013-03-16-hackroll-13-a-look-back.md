@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hack&Roll '13: A Look Back
+
+title: "Hack&Roll '13: A Look Back"
 date: 2013-03-16 21:51
 author: jerome
 comments: true

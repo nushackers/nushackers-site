@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #52, Sept 20
+
+title: "Friday Hacks #52, Sept 20"
 date: 2013-09-18 12:42
 author: jerome
 comments: true

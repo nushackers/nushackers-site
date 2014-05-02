@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AMD/ATI go open source
+
+title: "AMD/ATI go open source"
 date: 2007-09-22 23:15
 author: Ruiwen
 comments: true

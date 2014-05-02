@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks Talk 2nd Mar - Building responsive frontends with Backbone.js
+
+title: "Friday Hacks Talk 2nd Mar - Building responsive frontends with Backbone.js"
 date: 2012-02-27 21:44
 author: admin
 comments: true

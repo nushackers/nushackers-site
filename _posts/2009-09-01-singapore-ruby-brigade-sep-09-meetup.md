@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Singapore Ruby Brigade Sep 09 Meetup
+
+title: "Singapore Ruby Brigade Sep 09 Meetup"
 date: 2009-09-01 11:23
 author: Luther Goh Lu Feng
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Security Security meetup Jan 09: Information Leakage
+
+title: "Security Security meetup Jan 09: Information Leakage"
 date: 2009-03-12 23:52
 author: Luther Goh Lu Feng
 comments: true

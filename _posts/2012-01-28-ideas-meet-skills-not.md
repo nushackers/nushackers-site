@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ideas, Meet Skills! Not.
+
+title: "Ideas, Meet Skills! Not."
 date: 2012-01-28 16:36
 author: ejames
 comments: true

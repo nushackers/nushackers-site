@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS Hackfest the Third: Hack Reality
+
+title: "linuxNUS Hackfest the Third: Hack Reality"
 date: 2009-08-06 10:00
 author: Ruiwen
 comments: true

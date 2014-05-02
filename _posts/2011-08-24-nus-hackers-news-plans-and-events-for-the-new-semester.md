@@ -1,6 +1,7 @@
 ---
 layout: post
-title: NUS Hackers: News, Plans, and Events For The New Semester
+
+title: "NUS Hackers: News, Plans, and Events For The New Semester"
 date: 2011-08-24 23:14
 author: ejames
 comments: true

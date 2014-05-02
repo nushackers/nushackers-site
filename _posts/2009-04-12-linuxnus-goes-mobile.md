@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS goes mobile
+
+title: "linuxNUS goes mobile"
 date: 2009-04-12 12:32
 author: Luther Goh Lu Feng
 comments: true

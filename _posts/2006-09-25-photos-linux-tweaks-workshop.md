@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Photos: Linux Tweaks Workshop
+
+title: "Photos: Linux Tweaks Workshop"
 date: 2006-09-25 12:14
 author: Luther Goh Lu Feng
 comments: true

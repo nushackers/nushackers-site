@@ -1,6 +1,7 @@
 ---
 layout: post
-title: [Podcast] Episode 3: Software Freedom Day 09
+
+title: "[Podcast] Episode 3: Software Freedom Day 09"
 date: 2009-09-15 11:03
 author: Ruiwen
 comments: true

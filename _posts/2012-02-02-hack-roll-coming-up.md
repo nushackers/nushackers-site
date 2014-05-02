@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hack & Roll coming up!
+
+title: "Hack & Roll coming up!"
 date: 2012-02-02 15:16
 author: admin
 comments: true

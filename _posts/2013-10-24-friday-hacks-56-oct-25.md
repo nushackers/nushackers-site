@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #56, Oct 25
+
+title: "Friday Hacks #56, Oct 25"
 date: 2013-10-24 21:01
 author: fazli
 comments: true

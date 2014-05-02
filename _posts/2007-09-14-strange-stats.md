@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Strange stats
+
+title: "Strange stats"
 date: 2007-09-14 16:06
 author: Ruiwen
 comments: true

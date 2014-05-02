@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #37, Jan 18
+
+title: "Friday Hacks #37, Jan 18"
 date: 2013-01-16 23:35
 author: omer
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hackfest! Hacking education
+
+title: "Hackfest! Hacking education"
 date: 2010-10-14 09:23
 author: angad
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: In memoriam, Aaron Swartz
+
+title: "In memoriam, Aaron Swartz"
 date: 2013-01-14 03:07
 author: ejames
 comments: true

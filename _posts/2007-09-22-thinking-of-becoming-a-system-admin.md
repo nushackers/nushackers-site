@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Thinking of becoming a system admin?
+
+title: "Thinking of becoming a system admin?"
 date: 2007-09-22 09:05
 author: Ruiwen
 comments: true

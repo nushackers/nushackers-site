@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Singapore supports Ubuntu!
+
+title: "Singapore supports Ubuntu!"
 date: 2008-12-23 21:00
 author: Luther Goh Lu Feng
 comments: true

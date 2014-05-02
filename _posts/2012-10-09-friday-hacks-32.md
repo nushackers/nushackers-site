@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #32, Oct 12
+
+title: "Friday Hacks #32, Oct 12"
 date: 2012-10-09 02:03
 author: ejames
 comments: true

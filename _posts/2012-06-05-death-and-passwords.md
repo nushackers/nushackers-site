@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Death and Passwords
+
+title: "Death and Passwords"
 date: 2012-06-05 14:46
 author: ejames
 comments: true

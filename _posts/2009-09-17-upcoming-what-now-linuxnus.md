@@ -1,6 +1,7 @@
 ---
 layout: post
-title: [Upcoming] What now, linuxNUS?
+
+title: "[Upcoming] What now, linuxNUS?"
 date: 2009-09-17 11:30
 author: Ruiwen
 comments: true

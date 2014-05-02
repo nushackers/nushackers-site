@@ -1,6 +1,7 @@
 ---
 layout: post
-title: [Podcast] Episode 0 recorded; release pending.
+
+title: "[Podcast] Episode 0 recorded; release pending."
 date: 2009-03-27 23:41
 author: dwu
 comments: true

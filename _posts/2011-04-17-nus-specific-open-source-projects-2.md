@@ -1,6 +1,7 @@
 ---
 layout: post
-title: NUS-Specific Open Source Projects
+
+title: "NUS-Specific Open Source Projects"
 date: 2011-04-17 16:19
 author: ejames
 comments: true

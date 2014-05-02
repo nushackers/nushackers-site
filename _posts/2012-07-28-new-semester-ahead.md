@@ -1,6 +1,7 @@
 ---
 layout: post
-title: New Semester ahead :)
+
+title: "New Semester ahead :)"
 date: 2012-07-28 13:46
 author: admin
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS.org has been upgraded
+
+title: "linuxNUS.org has been upgraded"
 date: 2007-08-14 22:55
 author: Luther Goh Lu Feng
 comments: true

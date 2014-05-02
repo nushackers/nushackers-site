@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Good Luck For the Exams!
+
+title: "Good Luck For the Exams!"
 date: 2007-04-10 16:01
 author: jmarki
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS Forums are up!
+
+title: "linuxNUS Forums are up!"
 date: 2008-02-27 23:52
 author: Ruiwen
 comments: true

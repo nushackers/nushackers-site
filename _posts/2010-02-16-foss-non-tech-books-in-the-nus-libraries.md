@@ -1,6 +1,7 @@
 ---
 layout: post
-title: FOSS Non-tech Books in the NUS libraries
+
+title: "FOSS Non-tech Books in the NUS libraries"
 date: 2010-02-16 18:28
 author: angad
 comments: true

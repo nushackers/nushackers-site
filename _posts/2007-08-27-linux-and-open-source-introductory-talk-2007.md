@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Linux and Open Source Introductory Talk 2007
+
+title: "Linux and Open Source Introductory Talk 2007"
 date: 2007-08-27 02:40
 author: Luther Goh Lu Feng
 comments: true

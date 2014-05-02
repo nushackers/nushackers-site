@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Android Singapore Meetup Mar 09
+
+title: "Android Singapore Meetup Mar 09"
 date: 2009-04-04 16:31
 author: Luther Goh Lu Feng
 comments: true

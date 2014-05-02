@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks Talk 16th Mar – The Mathematics of Luxury
+
+title: "Friday Hacks Talk 16th Mar – The Mathematics of Luxury"
 date: 2012-03-14 04:46
 author: admin
 comments: true

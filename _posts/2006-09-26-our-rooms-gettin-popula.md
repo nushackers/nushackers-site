@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Our room's gettin' popula'!!
+
+title: "Our room's gettin' popula'!!"
 date: 2006-09-26 11:24
 author: jmarki
 comments: true

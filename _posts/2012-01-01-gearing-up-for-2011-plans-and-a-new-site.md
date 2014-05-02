@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Gearing Up For 2012 (Plans, and a New Site!)
+
+title: "Gearing Up For 2012 (Plans, and a New Site!)"
 date: 2012-01-01 02:07
 author: admin
 comments: true

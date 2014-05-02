@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Projects Recently Shared On The Mailing List
+
+title: "Projects Recently Shared On The Mailing List"
 date: 2012-01-07 17:08
 author: ejames
 comments: true

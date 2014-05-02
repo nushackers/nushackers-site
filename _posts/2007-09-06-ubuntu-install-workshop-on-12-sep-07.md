@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ubuntu Install Workshop on 12 Sep 07
+
+title: "Ubuntu Install Workshop on 12 Sep 07"
 date: 2007-09-06 22:05
 author: rey
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: LinuxNUS Install Fest!
+
+title: "LinuxNUS Install Fest!"
 date: 2009-02-03 18:40
 author: iced
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The UNIX Philosophy Workshop (#3)
+
+title: "The UNIX Philosophy Workshop (#3)"
 date: 2010-10-02 16:23
 author: angad
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Openmoko Talk Apr 09
+
+title: "Openmoko Talk Apr 09"
 date: 2009-04-07 01:39
 author: Luther Goh Lu Feng
 comments: true

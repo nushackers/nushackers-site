@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks Talk April 13th - Introduction to an Agile Python!
+
+title: "Friday Hacks Talk April 13th - Introduction to an Agile Python!"
 date: 2012-04-13 01:05
 author: admin
 comments: true

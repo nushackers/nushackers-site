@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Non Sequitur
+
+title: "Non Sequitur"
 date: 2009-02-28 02:16
 author: iced
 comments: true

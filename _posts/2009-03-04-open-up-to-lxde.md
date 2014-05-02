@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS presents: LXDE's Mario Behling!
+
+title: "linuxNUS presents: LXDE's Mario Behling!"
 date: 2009-03-04 01:05
 author: iced
 comments: true

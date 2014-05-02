@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Cost savings with Linux: An NUS case study
+
+title: "Cost savings with Linux: An NUS case study"
 date: 2009-04-04 21:00
 author: Ruiwen
 comments: true

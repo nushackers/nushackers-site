@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Intro to Nokia Qt C++ Framework
+
+title: "Intro to Nokia Qt C++ Framework"
 date: 2010-06-16 22:08
 author: Viet Le
 comments: true

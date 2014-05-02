@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Things you miss on #linuxNUS
+
+title: "Things you miss on #linuxNUS"
 date: 2007-09-18 15:08
 author: Ruiwen
 comments: true

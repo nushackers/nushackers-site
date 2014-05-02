@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Happy New Year!!!
+
+title: "Happy New Year!!!"
 date: 2007-01-13 15:56
 author: jmarki
 comments: true

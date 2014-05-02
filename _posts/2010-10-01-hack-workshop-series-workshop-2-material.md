@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hack Workshop Series Workshop #2 Material
+
+title: "Hack Workshop Series Workshop #2 Material"
 date: 2010-10-01 14:40
 author: angad
 comments: true

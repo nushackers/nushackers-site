@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS Workshop series
+
+title: "linuxNUS Workshop series"
 date: 2010-07-02 00:04
 author: angad
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Microsoft CodePlex Talk: SourceForge à la Redmond
+
+title: "Microsoft CodePlex Talk: SourceForge à la Redmond"
 date: 2009-04-09 00:56
 author: iced
 comments: true

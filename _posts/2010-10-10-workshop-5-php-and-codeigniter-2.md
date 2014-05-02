@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Workshop #5 PHP and CodeIgniter
+
+title: "Workshop #5 PHP and CodeIgniter"
 date: 2010-10-10 10:55
 author: angad
 comments: true

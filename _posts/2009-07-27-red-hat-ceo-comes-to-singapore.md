@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Red Hat CEO comes to Singapore
+
+title: "Red Hat CEO comes to Singapore"
 date: 2009-07-27 19:56
 author: Luther Goh Lu Feng
 comments: true
@@ -12,14 +13,16 @@ Red Hat CEO, Jim Whitehurst, will be in Singapore this Friday, 31st July 2009, a
 
 The 1st talk will take place at SIM in the morning..
 
-Title:    Our Mothers Asked Us To Share
+
+title: "   Our Mothers Asked Us To Share"
 Date:   31 July 2009 (Friday)
 Time:   10:00am to 11:00am
 Venue: SIM HQ (LT 1.10), 461 Clementi Road
 
 The 2nd talk will take place in evening:
 
-Title: New Business. New Model. New Era. The Open Source Way!
+
+title: "New Business. New Model. New Era. The Open Source Way!"
 Date: 31 July 2009 (Fri)
 Time: 6:30pm to 9:30pm
 Venue: Ngee Ann Auditorium, Asian Civilisations Museum, 1 Empress Place, Singapore 179555

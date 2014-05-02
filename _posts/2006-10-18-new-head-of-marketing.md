@@ -1,6 +1,7 @@
 ---
 layout: post
-title: New Head of Marketing
+
+title: "New Head of Marketing"
 date: 2006-10-18 18:45
 author: jmarki
 comments: true

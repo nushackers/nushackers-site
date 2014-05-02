@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hack&Roll '12 Wrapup
+
+title: "Hack&Roll '12 Wrapup"
 date: 2012-02-27 20:25
 author: admin
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks Talk 23rd Mar – Agile Dev + GSoC Information Session
+
+title: "Friday Hacks Talk 23rd Mar – Agile Dev + GSoC Information Session"
 date: 2012-03-21 17:38
 author: admin
 comments: true

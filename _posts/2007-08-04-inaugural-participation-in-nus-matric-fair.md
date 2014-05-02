@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Inaugural participation in NUS Matric Fair
+
+title: "Inaugural participation in NUS Matric Fair"
 date: 2007-08-04 17:44
 author: Luther Goh Lu Feng
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #38, Jan 25
+
+title: "Friday Hacks #38, Jan 25"
 date: 2013-01-22 16:50
 author: ejames
 comments: true

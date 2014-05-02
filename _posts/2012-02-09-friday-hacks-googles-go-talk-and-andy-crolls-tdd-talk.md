@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks: Google's Go Talk and Andy Croll's TDD Talk
+
+title: "Friday Hacks: Google's Go Talk and Andy Croll's TDD Talk"
 date: 2012-02-09 23:43
 author: ejames
 comments: true

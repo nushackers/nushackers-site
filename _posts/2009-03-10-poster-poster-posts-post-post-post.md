@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Poster poster posts post-post post!
+
+title: "Poster poster posts post-post post!"
 date: 2009-03-10 09:04
 author: Ruiwen
 comments: true

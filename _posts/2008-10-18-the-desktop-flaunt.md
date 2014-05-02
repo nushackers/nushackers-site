@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Desktop Flaunt (!)
+
+title: "The Desktop Flaunt (!)"
 date: 2008-10-18 01:07
 author: Yuen Hoe
 comments: true

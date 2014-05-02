@@ -1,6 +1,7 @@
 ---
 layout: post
-title: LXDE Talk Mar 09: aftermath
+
+title: "LXDE Talk Mar 09: aftermath"
 date: 2009-03-12 23:00
 author: Luther Goh Lu Feng
 comments: true

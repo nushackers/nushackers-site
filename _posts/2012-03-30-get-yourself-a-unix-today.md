@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Get Yourself A UNIX Today!
+
+title: "Get Yourself A UNIX Today!"
 date: 2012-03-30 21:56
 author: ejames
 comments: true

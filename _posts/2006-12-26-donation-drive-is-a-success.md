@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Donation drive is a success!
+
+title: "Donation drive is a success!"
 date: 2006-12-26 00:33
 author: jmarki
 comments: true

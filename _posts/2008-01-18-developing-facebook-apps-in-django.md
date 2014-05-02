@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Developing Facebook Apps in Django
+
+title: "Developing Facebook Apps in Django"
 date: 2008-01-18 19:56
 author: Ruiwen
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Workshop #4 HTML5 and CSS3
+
+title: "Workshop #4 HTML5 and CSS3"
 date: 2010-10-06 21:03
 author: angad
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #58, Nov 8
+
+title: "Friday Hacks #58, Nov 8"
 date: 2013-11-07 13:25
 author: fazli
 comments: true

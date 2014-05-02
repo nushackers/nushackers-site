@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The software wars shifts to a new front
+
+title: "The software wars shifts to a new front"
 date: 2009-10-11 16:46
 author: Luther Goh Lu Feng
 comments: true

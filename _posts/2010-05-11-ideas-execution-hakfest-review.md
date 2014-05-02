@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ideas >> Execution Hackfest - Review
+
+title: "Ideas >> Execution Hackfest - Review"
 date: 2010-05-11 02:10
 author: angad
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We're Linux" video contest winners announced
+title: ""We're Linux" video contest winners announced"
 date: 2009-04-15 15:00
 author: Ruiwen
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Singapore Open Source News on ZDNet
+
+title: "Singapore Open Source News on ZDNet"
 date: 2009-08-14 18:20
 author: Luther Goh Lu Feng
 comments: true

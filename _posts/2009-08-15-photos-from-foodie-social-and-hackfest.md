@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Photos from Foodie Social and Hackfest
+
+title: "Photos from Foodie Social and Hackfest"
 date: 2009-08-15 00:37
 author: Luther Goh Lu Feng
 comments: true

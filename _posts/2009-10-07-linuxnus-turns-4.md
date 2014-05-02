@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS Turns 4!
+
+title: "linuxNUS Turns 4!"
 date: 2009-10-07 00:00
 author: Ruiwen
 comments: true

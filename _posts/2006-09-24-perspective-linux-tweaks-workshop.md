@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Perspective: Linux Tweaks  Workshop
+
+title: "Perspective: Linux Tweaks  Workshop"
 date: 2006-09-24 00:07
 author: Luther Goh Lu Feng
 comments: true

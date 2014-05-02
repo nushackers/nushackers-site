@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hack&Roll Briefing
+
+title: "Hack&Roll Briefing"
 date: 2012-02-18 22:28
 author: ejames
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: A summer to conquer
+
+title: "A summer to conquer"
 date: 2011-06-06 04:53
 author: angad
 comments: true

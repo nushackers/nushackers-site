@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Ruby Tournament!
+
+title: "The Ruby Tournament!"
 date: 2010-10-25 09:41
 author: angad
 comments: true

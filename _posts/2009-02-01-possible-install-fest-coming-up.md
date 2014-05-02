@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Possible Install Fest Coming Up
+
+title: "Possible Install Fest Coming Up"
 date: 2009-02-01 23:21
 author: jmarki
 comments: true

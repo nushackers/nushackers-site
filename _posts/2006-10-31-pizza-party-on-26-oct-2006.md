@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Pizza Party on 26 Oct 2006
+
+title: "Pizza Party on 26 Oct 2006"
 date: 2006-10-31 00:06
 author: rey
 comments: true

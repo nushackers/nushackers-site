@@ -1,6 +1,7 @@
 ---
 layout: post
-title: [Interoperability Group Singapore] The Virtualisation Shootout
+
+title: "[Interoperability Group Singapore] The Virtualisation Shootout"
 date: 2009-04-15 10:30
 author: Ruiwen
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Inaugural linuxNUS HackFest
+
+title: "Inaugural linuxNUS HackFest"
 date: 2009-04-21 22:26
 author: Luther Goh Lu Feng
 comments: true

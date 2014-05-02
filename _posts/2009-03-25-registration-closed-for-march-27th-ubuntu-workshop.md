@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Registration closed for March 27th Ubuntu Workshop
+
+title: "Registration closed for March 27th Ubuntu Workshop"
 date: 2009-03-25 00:31
 author: iced
 comments: true

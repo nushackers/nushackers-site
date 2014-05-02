@@ -1,6 +1,7 @@
 ---
 layout: post
-title: An Afternoon with Simone Brunozzi, Amazon Web Services
+
+title: "An Afternoon with Simone Brunozzi, Amazon Web Services"
 date: 2009-11-11 23:32
 author: angad
 comments: true

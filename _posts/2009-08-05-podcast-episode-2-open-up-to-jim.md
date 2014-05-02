@@ -1,6 +1,7 @@
 ---
 layout: post
-title: [Podcast] Episode 2: Open Up to Jim
+
+title: "[Podcast] Episode 2: Open Up to Jim"
 date: 2009-08-05 23:25
 author: Ruiwen
 comments: true

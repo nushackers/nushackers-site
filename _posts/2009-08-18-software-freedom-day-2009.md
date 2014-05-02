@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Software Freedom Day 2009
+
+title: "Software Freedom Day 2009"
 date: 2009-08-18 02:32
 author: Luther Goh Lu Feng
 comments: true

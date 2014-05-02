@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks Talk 9th Mar - FREE Nokia Lumia 710 Giveaway + 2 Talks
+
+title: "Friday Hacks Talk 9th Mar - FREE Nokia Lumia 710 Giveaway + 2 Talks"
 date: 2012-03-05 20:03
 author: admin
 comments: true

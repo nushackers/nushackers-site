@@ -1,6 +1,7 @@
 ---
 layout: post
-title: GNOME.Asia Summit 2009
+
+title: "GNOME.Asia Summit 2009"
 date: 2009-10-28 01:37
 author: Luther Goh Lu Feng
 comments: true

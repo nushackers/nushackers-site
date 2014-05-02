@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #43, Mar 8
+
+title: "Friday Hacks #43, Mar 8"
 date: 2013-03-08 00:08
 author: michael
 comments: true

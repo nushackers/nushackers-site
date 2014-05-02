@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Why every undergrad should intern for a startup at least once.
+
+title: "Why every undergrad should intern for a startup at least once."
 date: 2011-06-14 23:03
 author: admin
 comments: true

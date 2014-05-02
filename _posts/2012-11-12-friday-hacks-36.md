@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #36, Nov 16: On Impact - An Introduction to Palantir
+
+title: "Friday Hacks #36, Nov 16: On Impact - An Introduction to Palantir"
 date: 2012-11-12 18:07
 author: ejames
 comments: true
@@ -18,7 +19,8 @@ More detailed map for LT19: <a href="http://bit.ly/nus-lt19" target="_blank">htt
 <strong>Food is served after the talks. </strong><strong>Register at </strong><a href="http://bit.ly/palantir-sg-2012" target="_blank">http://bit.ly/palantir-sg-<wbr>2012</wbr></a>
 </div>
 
-<h3><strong>Talk Title: On Impact: An Introduction to Palantir</strong></h3>
+<h3><strong>Talk title: 
+title: "On Impact: An Introduction to Palantir</strong></h3>"
 Please join Kevin Lee, Forward Deployed Engineer at Palantir, who will discuss how Palantir is revolutionizing the analysis of hard and important problems that face our world today. We build the technology that allows people at the world’s most critical institutions to make sense of their data. We solve the technical problems, so they can solve the human ones. Combating terrorism. Tracking disease outbreaks. Finding missing and exploited children. We believe that with the right technology and enough data, people can still solve hard problems and change the world for the better.
 
 View a live demo of our data fusion platforms, and learn how you can be a part of our mission.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Wubi-ing Ubuntu 8.10 Intrepid Beta
+
+title: "Wubi-ing Ubuntu 8.10 Intrepid Beta"
 date: 2008-10-11 00:29
 author: Luther Goh Lu Feng
 comments: true

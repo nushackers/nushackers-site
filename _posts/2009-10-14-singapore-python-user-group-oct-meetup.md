@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Singapore Python User Group Oct Meetup
+
+title: "Singapore Python User Group Oct Meetup"
 date: 2009-10-14 02:03
 author: Luther Goh Lu Feng
 comments: true

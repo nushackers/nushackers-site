@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS goes to SLMG meetup
+
+title: "linuxNUS goes to SLMG meetup"
 date: 2009-03-19 22:42
 author: Luther Goh Lu Feng
 comments: true

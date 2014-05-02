@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Live blogging at LXDE Talk Mar 09
+
+title: "Live blogging at LXDE Talk Mar 09"
 date: 2009-03-11 18:56
 author: Luther Goh Lu Feng
 comments: true

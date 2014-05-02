@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS @ HackerspaceSG Christmas party
+
+title: "linuxNUS @ HackerspaceSG Christmas party"
 date: 2009-12-16 13:23
 author: dqminh
 comments: true

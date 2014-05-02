@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS goes to Geylang
+
+title: "linuxNUS goes to Geylang"
 date: 2008-11-08 23:29
 author: Luther Goh Lu Feng
 comments: true

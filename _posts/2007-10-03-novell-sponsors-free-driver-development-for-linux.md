@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Novell sponsors free driver development for Linux
+
+title: "Novell sponsors free driver development for Linux"
 date: 2007-10-03 02:30
 author: Ruiwen
 comments: true

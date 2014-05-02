@@ -1,6 +1,7 @@
 ---
 layout: post
-title: IVLE now welcomes Firefox
+
+title: "IVLE now welcomes Firefox"
 date: 2007-05-23 18:50
 author: Luther Goh Lu Feng
 comments: true

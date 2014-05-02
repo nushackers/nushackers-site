@@ -1,6 +1,7 @@
 ---
 layout: post
-title: e27 unConference 2009: Discounts with linuxNUS
+
+title: "e27 unConference 2009: Discounts with linuxNUS"
 date: 2009-04-29 12:14
 author: Ruiwen
 comments: true

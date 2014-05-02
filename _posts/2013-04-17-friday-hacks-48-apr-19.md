@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Friday Hacks #48, Apr 19
+
+title: "Friday Hacks #48, Apr 19"
 date: 2013-04-17 23:52
 author: benedict
 comments: true

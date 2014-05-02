@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Python meetup Apr 09
+
+title: "Python meetup Apr 09"
 date: 2009-04-14 21:06
 author: Luther Goh Lu Feng
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: linuxNUS Welcome Tea 2007
+
+title: "linuxNUS Welcome Tea 2007"
 date: 2007-08-20 16:43
 author: rey
 comments: true
