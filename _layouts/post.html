@@ -30,7 +30,7 @@ layout: default
         <footer class="entry-meta-single">
         This entry was posted in
         {% for category in page.categories %}
-            <a href="/{{ categtory }}" title="View all posts in {{ category }}" rel="category tag">{{ category }}</a>
+            <a href="/categories/{{ category | slugize }}" title="View all posts in {{ category }}" rel="category tag">{{ category }}</a>
         {% endfor %}
 
         . Bookmark the <a href="{{ page.url }}" title="Permalink to {{ page.title }}" rel="bookmark">permalink</a>.
