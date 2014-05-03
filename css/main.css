@@ -280,13 +280,6 @@ article li {
   text-align: right;
   width: 50%;
 }
-#content #nav-above {
-  display: none;
-}
-.paged #content #nav-above,
-.single #content #nav-above {
-  display: block;
-}
 #nav-below {
   margin: 2.5em 0 0;
 }

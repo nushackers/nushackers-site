@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: post
 permalink: /about/
 notes: |
   <h3>What is Hacking?</h3>

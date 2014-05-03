@@ -1,19 +1,10 @@
 ---
-layout: default
+layout: single-loop
 ---
-<div id="secondary" class="widget-area" role="complementary">
+{% capture secondaryContent %}
    {% monthly_archives %}
-</div>
-<div id="single-loop" role="main">
-    <article>
-        <header class="page-header">
-            <h1 class="page-title">{{ page.title }}</h1>
-        </header><!-- .entry-header -->
+{% endcapture %}
 
-        <div class="entry-content">
-            {% for post in site.categories[page.category] %}
-                {% include post_excerpt.html %}
-            {% endfor %}
-        </div><!-- .entry-content -->
-    </article>
-</div><!-- #content -->
+{% for post in site.categories[page.category] %}
+    {% include post_excerpt.html %}
+{% endfor %}
