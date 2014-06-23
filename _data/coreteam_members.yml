@@ -1,0 +1,61 @@
+- name: Vishnu
+  description: |
+    a CS student who's interested in too many things at once. You can learn
+    absolutely nothing more about him at his website <a
+    href="http://vishnuprem.com">vishnuprem.com</a>, but you should follow him
+    on <a href="http://twitter.com/burnflare">twitter</a>; He's contactable at
+    vishnu@nushackers.org
+
+- name: Benedict 
+  description: |
+    a Computer Science undergraduate with interests in Software Engineering. You
+    can reach him at benedict@nushackers.org
+
+- name: Michael
+  description: |
+    a Computer Science undergraduate. <em>More about him at</em> <a
+    href="http://ymichael.com">ymichael.com</a>.
+
+- name: Jerome 
+  description: |
+    a Computer Science undergraduate. <em>More about him at</em> <a
+    href="http://www.ayulin.net" target="_blank">ayulin.net</a>.
+
+- name: Pallav
+  description: |
+    a Computer Science undergraduate and AI enthusiast. <em>More about him
+    at</em> <a title="Pallav's homepage"
+    href="http://pshinghal.com">pshinghal.com</a>.
+
+- name: Camillus
+  description: |
+    a Computer Science undergraduate interested in information security.
+    <em>More about him at</em> <a href="http://www.qxcg.net/">qxcg.net</a>.
+
+- name: Yujian
+  description: |
+    a Computer Science undergraduate who likes reading, mathematics, computer
+    science, technology and Spongebob. He also likes to try out new stuff when
+    he's free. <em>More about him at</em> <a
+    href="http://yjyao.com">yjyao.com</a>.
+
+- name: Johannes 
+  description: |
+    a Computer Science undergraduate. He goes by aquaroris on the net.
+
+- name: Zhi An 
+  description: |
+    a Computer Science undergraduate and also goes by Anzai. When he's not doing
+    school work, he loves reading technology news (Hacker News is his favourite)
+    and trying out new Linux distributions. <em>More about him at</em> <a
+    href="http://ngzhian.wordpress.com/">ngzhian.wordpress.com</a>.
+
+- name: Joey
+  description: |
+      a Computer Science undergraduate.
+
+- name: Stacey
+  description: |
+    a Computer Science undergraduate who loves trekking, philosophy, and tea.
+    <em>More about him at </em><a
+    href="http://staceytay.com">staceytay.com</a><em>.</em>

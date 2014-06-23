@@ -31,32 +31,18 @@ Our long term goal is to build a healthy community of passionate hackers in NUS.
 <h3>Management</h3>
 NUS Hackers is managed by a coreteam of student-volunteers. If you'd like to request a workshop, get us to publicize your code, or ask us a question, we recommend that you <a href="/contact/">send us an email</a>.
 <h3>Current Coreteam</h3>
-<strong><strong>Vishnu[President]</strong></strong> is a CS student who's interested in too many things at once. You can learn absolutely nothing more about him at his website <a href="http://vishnuprem.com">vishnuprem.com</a>, but you should follow him on <a href="http://twitter.com/burnflare">twitter</a>; He's contactable at vishnu@nushackers.org
 
-<strong>Benedict </strong>is a Computer Science undergraduate with interests in Software Engineering. You can reach him at benedict@nushackers.org
+{% for person in site.data.coreteam_members %}
+<p>
+    <strong>
+        {{ person.name }}
+        {% if forloop.first %}
+            [President]
+        {% endif %}
+    </strong> is {{ person.description }}
+</p>
+{% endfor %}
 
-<strong>Michael</strong> is a Computer Science undergraduate. <em>More about him at</em> <a href="http://ymichael.com">ymichael.com</a>.
 
-<strong>Eli James/Cedric</strong> is a Computer Science undergraduate, and is responsible for <a href="http://novelr.com">Novelr</a> and Pandamian. He loves ebook formats, Python, and cats. (Well, and tea. Lots of tea.) <em>More about him at</em> <a href="http://elijames.org">elijames.org</a>.
-
-<strong>Tay Ray Chuan</strong> is a software enthusiast and student, with interests as disparate as history and philosophy. In between ploughing through his tutorials, he hacks randomly, mainly in Python and JavaScript. In addition to <a href="http://github.com/rctay">working on open-source</a>, he hopes to give back to the community through his involvement in NUS Hackers.
-
-<strong> Omer Iqbal </strong> is a Computer Engineering undergraduate who loves drinking language Koolaid. These days his passions include clojure hacking, Westerosi politics and cheap coffee.
-
-<strong>Jerome </strong>is a Computer Science undergraduate. <em>More about him at</em> <a href="http://www.ayulin.net" target="_blank">ayulin.net</a>.
-
-<strong>Pallav</strong> is a Computer Science undergraduate and AI enthusiast. <em>More about him at</em> <a title="Pallav's homepage" href="http://pshinghal.com">pshinghal.com</a>.
-
-<strong>Camillus</strong> is a Computer Science undergraduate interested in information security. <em>More about him at</em> <a href="http://www.qxcg.net/">qxcg.net</a>.
-
-<strong>Yujian</strong> is a Computer Science undergraduate who likes reading, mathematics, computer science, technology and Spongebob. He also likes to try out new stuff when he's free. <em>More about him at</em> <a href="http://yjyao.com">yjyao.com</a>.
-
-<strong>Johannes </strong>is a Computer Science undergraduate. He goes by aquaroris on the net.
-
-<strong>Zhi An </strong> is a Computer Science undergraduate and also goes by Anzai. When he's not doing school work, he loves reading technology news (Hacker News is his favourite) and trying out new Linux distributions. <em>More about him at</em> <a href="http://ngzhian.wordpress.com/">ngzhian.wordpress.com</a>.
-
-<strong>Joey</strong> is a Computer Science undergraduate.
-
-<strong>Stacey</strong> is a Computer Science undergraduate who loves trekking, philosophy, and tea. <em>More about him at </em><a href="http://staceytay.com">staceytay.com</a><em>.</em>
 <h3>Alumni</h3>
 We keep a list of former NUS Hackers coreteam members <a href="/alumni/">over at our alumni page →</a>
