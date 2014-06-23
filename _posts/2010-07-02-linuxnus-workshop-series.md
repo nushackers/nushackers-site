@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS Workshop series"
 date: 2010-07-02 00:04
 author: angad
 comments: true
 categories: [Uncategorized]
+
 ---
 <span style="font-size: small;"><span style="font-weight: bold;">linuxNUS is planning for the next semester!</span></span>
 

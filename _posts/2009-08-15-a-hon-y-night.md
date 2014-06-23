@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "A HoN-y Night"
 date: 2009-08-15 21:51
 author: Luther Goh Lu Feng
 comments: true
-categories: [client, Events, games, Headline, heroes of newerth, hon, native, night, wii]
+categories: [Events, Headline]
+
 ---
 <img src="http://linuxNUS.org/wp-content/uploads/2009/08/hon_logo.png" alt="hon_logo" title="hon_logo" width="336" height="300" class="aligncenter size-full wp-image-767" />
 

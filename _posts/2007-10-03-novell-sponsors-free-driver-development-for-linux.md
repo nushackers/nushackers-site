@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Novell sponsors free driver development for Linux"
 date: 2007-10-03 02:30
 author: Ruiwen
 comments: true
 categories: [News]
+
 ---
 <a href="http://blog.wired.com/monkeybites/2007/10/linux-driver-pr.html"><img src="http://inlinethumb63.webshots.com/21630/2157087220101890940S425x425Q85.jpg" title="WIRED - Linux Driver Project " alt="WIRED - Linux Driver Project " align="right" height="260" hspace="3" width="340" /></a>
 

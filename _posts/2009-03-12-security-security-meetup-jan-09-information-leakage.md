@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Security Security meetup Jan 09: Information Leakage"
 date: 2009-03-12 23:52
 author: Luther Goh Lu Feng
 comments: true
-categories: [External, security]
+categories: [External]
+
 ---
 The speaker for this meetup was Onn Chee who presented on information leakage of web servers.
 

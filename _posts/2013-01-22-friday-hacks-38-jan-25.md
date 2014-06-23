@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #38, Jan 25"
 date: 2013-01-22 16:50
 author: ejames
 comments: true
 categories: [Friday Hacks]
+
 ---
 This week, we have Michael Cheng, convener of the Singapore PHP user group talking about rapid prototyping in PHP, and Omer Iqbal, an NUS Student who will be talking about Clojure.
 <blockquote><strong>Date/Time:</strong> Friday, January 25 at 6:30pm

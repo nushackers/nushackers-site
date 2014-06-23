@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Happy New Year!!!"
 date: 2007-01-13 15:56
 author: jmarki
 comments: true
 categories: [Events, News]
+
 ---
 It's the second week of the new NUS semester, so HAPPY NEW YEAR!!! The coreteam has planned several events this semester, most of which are still in a planning stage. Just to pique your interest, here's a sneak preview:
 <ul>

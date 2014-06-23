@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #2"
 date: 2011-09-08 17:02
 author: ejames
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 <strong>Update! Venue is now changed to Seminar Room 9, on the second floor of the Education Resource Centre, UTown
 </strong>

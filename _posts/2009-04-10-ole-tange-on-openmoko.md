@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Ole Tange on OpenMoko"
 date: 2009-04-10 09:00
 author: Ruiwen
 comments: true
-categories: [Events, Featured, freerunner, mobile, openmoko, Photos]
+categories: [Events, Featured, Photos]
+
 ---
 Imagine a mobile computing device with which you could do whatever you wanted. Imagine that virtually every aspect of the phone was customisable to your every whim. Change the wallpapers. Install whichever applications you wanted, no jailbreaking  needed. Heck, go ahead and change the operating system if you want to.
 

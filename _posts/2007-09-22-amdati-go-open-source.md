@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "AMD/ATI go open source"
 date: 2007-09-22 23:15
 author: Ruiwen
 comments: true
 categories: [News]
+
 ---
 <blockquote><em>Last week, AMD released register specifications for the RV630 and M56 parts into open source, thus allowing the OSS community to develop 2D (and theoretically 3D) drivers, given time. Current documentation for the project is available over at X.Org.</em></blockquote>
 

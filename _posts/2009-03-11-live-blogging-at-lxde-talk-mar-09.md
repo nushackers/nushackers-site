@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Live blogging at LXDE Talk Mar 09"
 date: 2009-03-11 18:56
 author: Luther Goh Lu Feng
 comments: true
-categories: [Chatter, Events, Featured, lxde]
+categories: [Chatter, Events, Featured]
+
 ---
 <div align="center"><a href="http://linuxNUS.org/wp-content/uploads/2009/03/lxde_talk.jpg"><img src="http://linuxNUS.org/wp-content/uploads/2009/03/lxde_talk.jpg" alt="lxde_talk" title="lxde_talk" width="240" height="160" class="aligncenter size-full wp-image-315" /></a></div>
 

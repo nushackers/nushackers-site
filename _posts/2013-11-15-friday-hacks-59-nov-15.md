@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #59, Nov 15"
 date: 2013-11-15 11:35
-author: fazli
+author: admin
 comments: true
 categories: [Uncategorized]
+
 ---
 <h2>Project Show & Tell</h2>
 

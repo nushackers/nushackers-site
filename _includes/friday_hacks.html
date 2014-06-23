@@ -6,6 +6,7 @@
 {% capture date %}
     {{ date | date: "%s" | plus: 604800 | date: "%b %d, %Y %I:%M %p +0800"}}
 {% endcapture %}
+<div>
 {% if hack.nohack %}
     <em>{{ hack.nohack }}, no Friday Hacks</em>
 {% elsif hack.speaker == null %}
@@ -17,6 +18,7 @@
         <div><small><i>{{ hack.venue }}</i></small></div>
     {% endif %}
 {% endif %}
+</div>
 </li>
 {% endfor %}
 </ul>

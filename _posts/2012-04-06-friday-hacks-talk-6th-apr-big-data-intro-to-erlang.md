@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks Talk 6th Apr -Big Data & Intro to Erlang"
 date: 2012-04-06 17:28
 author: ejames
 comments: true
 categories: [Uncategorized]
+
 ---
 Greetings, fellow hackers.
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #3"
 date: 2011-09-15 20:34
 author: ejames
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 This week's Friday Hacks will be held at the Global Learning Room at the Education Resource Centre in UTown. Details are as follows:
 

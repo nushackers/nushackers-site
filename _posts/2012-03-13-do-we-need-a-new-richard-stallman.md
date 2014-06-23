@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Do We Need A New Richard Stallman?"
 date: 2012-03-13 02:51
 author: ejames
 comments: true
 categories: [Essay]
+
 ---
 <p>A heretical thought struck me recently, while at a dialog session with Free Software founder Richard Stallman. Could it be that the Free Software movement is — today — irrelevant? This notion is repulsive: we owe so much to rms’s multi-decade crusade for Software Freedom and universal digital liberties. </p>
 

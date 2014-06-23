@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "SLMG meetup Jul 09"
 date: 2009-07-05 11:12
 author: Luther Goh Lu Feng
 comments: true
 categories: [Events, External, Featured]
+
 ---
 <strong>Software Freedom Day Planning session</strong>
 

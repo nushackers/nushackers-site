@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks Talk 9th Mar - FREE Nokia Lumia 710 Giveaway + 2 Talks"
 date: 2012-03-05 20:03
 author: admin
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 <strong>"A Technical Introduction to the Windows Phone Platform"</strong> by Mani Krishnamurthy, Nokia EDX Technical Manager
 

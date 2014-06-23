@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Singapore Suse Linux User Group Sep 09 Meetup"
 date: 2009-08-30 19:52
 author: Luther Goh Lu Feng
 comments: true
-categories: [Events, External, OpenSUSE, SUSE, susestudio]
+categories: [Events, External]
+
 ---
 Location:
 <del datetime="2009-09-02T05:40:59+00:00">New Horizons

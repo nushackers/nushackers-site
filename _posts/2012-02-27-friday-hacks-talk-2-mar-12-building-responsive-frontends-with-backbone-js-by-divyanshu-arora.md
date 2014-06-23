@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks Talk 2nd Mar - Building responsive frontends with Backbone.js"
 date: 2012-02-27 21:44
 author: admin
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 <a href="http://nushackers.org/wp-content/uploads/2012/02/417599_304279572963816_164904410234667_838981_1516059813_n.jpeg"><img class="aligncenter size-full wp-image-2268" title="417599_304279572963816_164904410234667_838981_1516059813_n" src="http://nushackers.org/wp-content/uploads/2012/02/417599_304279572963816_164904410234667_838981_1516059813_n.jpeg" alt="" width="600" /></a>
 <div>We're back from the Semester Break with 2 talks this Friday Hacks :)</div>

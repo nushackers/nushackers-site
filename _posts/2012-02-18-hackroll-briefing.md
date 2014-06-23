@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Hack&Roll Briefing"
 date: 2012-02-18 22:28
 author: ejames
 comments: true
 categories: [Events]
+
 ---
 If you're a team at Hack&amp;Roll, or if you're planning on just dropping by, here's a <a href="http://nushackers.org/wp-content/uploads/2012/01/HackRollBriefing.pdf">participant briefing document</a> that we've prepared so you know what to expect at the event.
 

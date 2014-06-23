@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS presents: LXDE's Mario Behling!"
 date: 2009-03-04 01:05
 author: iced
 comments: true
 categories: [Events, Headline, Meetings]
+
 ---
 <div align="center">&nbsp;
 [caption id="attachment_167" align="aligncenter" width="212" caption="Click for larger image"]<a href="http://linuxNUS.org/wp-content/uploads/2009/03/lxde_poster.jpg" target="_blank"><img src="http://linuxNUS.org/wp-content/uploads/2009/03/lxde_poster-212x300.jpg" alt="Click for larger image" title="lxde_poster" width="212" height="300" class="size-medium wp-image-167" /></a>[/caption]

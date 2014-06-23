@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Pizza Party on 26 Oct 2006"
 date: 2006-10-31 00:06
 author: rey
 comments: true
 categories: [Chatter, Photos]
+
 ---
 <table width="100%" cellspacing="4" cellpadding="4" border="1" style="text-align: left">
 <tr>

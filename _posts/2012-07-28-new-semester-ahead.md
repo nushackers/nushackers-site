@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "New Semester ahead :)"
 date: 2012-07-28 13:46
 author: admin
 comments: true
-categories: [new event, Uncategorized, welcome tea]
+categories: [Uncategorized]
+
 ---
 After an awesome holiday that saw brilliant hacks by many of our members, including <a href="http://modivle.yrmichael.com/welcome" title="modivle" target="_blank">MODIVLE</a>, <a href="http://nusmods.com/" title="nusmods" target="_blank">NUSMods</a>, and <a href="https://play.google.com/store/apps/details?id=nus.ais.mobile.android.shuttlebus&hl=en" title="nus next bus" target="_blank">NUS Next Bus</a>, we are now looking to restart our activities in the coming academic year.
 

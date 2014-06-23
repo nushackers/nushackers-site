@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #53, Oct 4"
 date: 2013-10-02 20:33
-author: fazli
+author: admin
 comments: true
 categories: [Uncategorized]
+
 ---
 This week we have Cedric Chin and Divyanshu Arora.
 <blockquote><strong>Date/Time:</strong> Friday, October 4 at 6:30pm

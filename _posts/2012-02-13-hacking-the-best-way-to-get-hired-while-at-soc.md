@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Hacking: The Best Way To Get Hired, While At SoC"
 date: 2012-02-13 06:16
 author: ejames
 comments: true
 categories: [Essay]
+
 ---
 <a href="http://nushackers.org/wp-content/uploads/2011/12/MelvinZhangFH.jpg"><img src="http://nushackers.org/wp-content/uploads/2011/12/MelvinZhangFH-1024x575.jpg" alt="Melvin Zhang at NUS Hackers weekly meeting, speaking about Solving Computer Science Problems" title="MelvinZhangFH" width="640" height="359" class="alignleft size-large wp-image-2111" /></a>
 <br/>

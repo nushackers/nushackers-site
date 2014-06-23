@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "GNOME.Asia Summit 2009"
 date: 2009-10-28 01:37
 author: Luther Goh Lu Feng
 comments: true
-categories: [asia, Events, External, Featured, gnome, lxde, vietnam]
+categories: [Events, External, Featured]
+
 ---
 <p align="center"><a href="http://linuxNUS.org/wp-content/uploads/2009/10/gnome.asia-logo-2009.02.1.png"><img src="http://linuxNUS.org/wp-content/uploads/2009/10/gnome.asia-logo-2009.02.1-300x211.png" alt="gnome.asia-logo-2009.02.1" title="gnome.asia-logo-2009.02.1" width="300" height="211" class="aligncenter size-medium wp-image-940" /></a></p>
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Get Yourself A UNIX Today!"
 date: 2012-03-30 21:56
 author: ejames
 comments: true
 categories: [Friday Hacks, Slides]
+
 ---
 In conjunction with our self-styled 'Linux week', Professor Brown gave a cool talk on the Unix philosophy at Friday Hacks earlier tonight (slides available <a href="http://nushackers.org/wp-content/uploads/2012/03/UnixPhilosophy.pdf">here</a>). We at NUS Hackers would like to take this opportunity to encourage everyone to install a *nix flavour, for experience, fun, and indoctrination in programming kung-fu.
 

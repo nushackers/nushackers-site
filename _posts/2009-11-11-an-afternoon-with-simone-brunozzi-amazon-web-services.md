@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "An Afternoon with Simone Brunozzi, Amazon Web Services"
 date: 2009-11-11 23:32
 author: angad
 comments: true
 categories: [Events, Featured, Headline]
+
 ---
 <div><span style="color: #330099; font-size: medium;"><strong><span style="text-decoration: underline;">
 <span style="color: #000000;">An Afternoon with Simone Brunozzi</span></span></strong></span><span style="color: #000000; font-size: small;"><strong><em>

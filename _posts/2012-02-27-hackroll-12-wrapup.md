@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Hack&Roll '12 Wrapup"
 date: 2012-02-27 20:25
 author: admin
 comments: true
 categories: [Events]
+
 ---
 <a href="http://nushackers.org/wp-content/uploads/2012/02/e27-Hack-Roll-Winner.jpeg"><img src="http://nushackers.org/wp-content/uploads/2012/02/e27-Hack-Roll-Winner.jpeg" alt="" title="e27-Hack-Roll-Winner" width="960" height="720" class="aligncenter size-full wp-image-2264" /></a>
 

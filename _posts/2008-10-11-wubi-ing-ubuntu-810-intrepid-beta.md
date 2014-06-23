@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Wubi-ing Ubuntu 8.10 Intrepid Beta"
 date: 2008-10-11 00:29
 author: Luther Goh Lu Feng
 comments: true
-categories: [Guest blogger, lu feng, ubuntu, wubi]
+categories: [Guest blogger]
+
 ---
 One benefit I enjoy working at <a href="http://www.tylerprojects.com/">Tyler Projects</a> was the freedom in choosing the operating system I want. My PC is quite a powerful machine, with 2 GB ram and dual cores. It ran Vista quite seamlessly. I decided to install <a href="http://www.ubuntu.com/">Ubuntu Linux</a> I could have easily setup a dual boot but I decided to take this opportunity to try out the <a href="http://wubi-installer.org/">Wubi</a> installer for the first time. For those not in the know, Wubi allows you to install and uninstall Ubuntu as any other Windows application, in a simple way that is hardly rocket science.
 

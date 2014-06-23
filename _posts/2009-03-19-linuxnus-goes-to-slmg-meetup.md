@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS goes to SLMG meetup"
 date: 2009-03-19 22:42
 author: Luther Goh Lu Feng
 comments: true
-categories: [constitution, External, FOSA-SG, Meetings, SLMG]
+categories: [External, Meetings]
+
 ---
 So a small contingent from linuxNUS and NTUOSS <a href="http://linuxnus.org/2009/03/17/singapore-linux-march-meetup-singapore-lubuntu-team/">headed down to the SLMG meetup</a>.  The meeting was soon called to order, and David and Darrel spearheaded the discussion about the draft of the constitution.
 

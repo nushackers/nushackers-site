@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "What Fun, an Install Fest!"
 date: 2009-02-10 00:18
 author: iced
 comments: true
-categories: [Events, Featured, fun, Install Fest, Photos, ubuntu, unplugged]
+categories: [Events, Featured]
+
 ---
 <img src="http://farm4.static.flickr.com/3505/3260062912_baf52f4ed7.jpg?v=0" alt="Installing...." />
 

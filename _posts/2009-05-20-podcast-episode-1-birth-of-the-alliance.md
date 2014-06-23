@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "[Podcast] Episode 1: Birth of the Alliance"
 date: 2009-05-20 10:30
 author: Ruiwen
 comments: true
-categories: [alliance, Featured, FOSA-SG, FOSS, Headline, open source, Podcast, Podcast, software freedom day]
+categories: [Featured, Headline, Podcast]
+
 ---
 Whew! Has this been a long time coming, or what?
 

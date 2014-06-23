@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #37, Jan 18"
 date: 2013-01-16 23:35
 author: omer
 comments: true
 categories: [Uncategorized]
+
 ---
 <p>Welcome back! Please note that we're shifting Friday Hacks to <b>University Town's ERC, SR2 </b>this semester. Also, we will start at <b>6:30pm, with pizza served first! :)</b></div><br>
 <div></p>

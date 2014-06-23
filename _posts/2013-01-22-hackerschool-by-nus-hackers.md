@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "hackerschool by NUS Hackers"
 date: 2013-01-22 19:33
 author: pallav
 comments: true
 categories: [Uncategorized]
+
 ---
 Following the success of last semester's workshops, we're happy to announce the return of <a title="hackerschool" href="http://school.nushackers.org"><b>hackerschool</b></a> this semester. The goal is the same: to teach tech skills in an easy manner, that will get people past the initial hurdle and give them the much-needed "push" into the world of hacking. This time round, we'll be running four workshops:
 <div></div>

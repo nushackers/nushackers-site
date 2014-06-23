@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Our room's gettin' popula'!!"
 date: 2006-09-26 11:24
 author: jmarki
 comments: true
 categories: [Chatter]
+
 ---
 Hmm, it seems that we have more and more people popping over to the society room (SOC1-03-19). There are days when I even lose my favourite seat! =p
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Photos: Linux Tweaks Workshop"
 date: 2006-09-25 12:14
 author: Luther Goh Lu Feng
 comments: true
 categories: [Photos]
+
 ---
 <div align="center">
 <table width="100%" cellspacing="4" cellpadding="4" border="1" style="text-align: left">

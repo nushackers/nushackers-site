@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "CodeAndroid Meetup 4 and GTUG-SG Meetup 1"
 date: 2009-08-28 02:47
 author: Luther Goh Lu Feng
 comments: true
-categories: [app engine, codeandroid, Events, External, Featured, google, gtug, gwt]
+categories: [Events, External, Featured]
+
 ---
 <span style="font-family: 'Times New Roman'; font-size: 16px; line-height: normal;"> </span>
 <div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: #ffffff; font: normal normal normal 13px/19px Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; background-position: initial initial; padding: 0.6em; margin: 0px;">

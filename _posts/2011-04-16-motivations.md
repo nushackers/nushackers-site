@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Motivations"
 date: 2011-04-16 22:28
 author: ejames
 comments: true
 categories: [Essay]
+
 ---
 Over the past couple months or so we've had a number of non-programmers contacting us, looking for hackers to hire for their startup/project/idea/next-Facebook-to-be.
 

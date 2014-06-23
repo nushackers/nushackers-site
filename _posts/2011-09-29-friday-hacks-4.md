@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #4"
 date: 2011-09-29 23:15
 author: ejames
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 I'm really sorry for the late shoutout on this - tomorrow's Friday Hacks would be held at Seminar Rooms 1 and 2 at the Tembusu Learning Lobe. (We were late with this because there was some difficulty securing the rooms).
 

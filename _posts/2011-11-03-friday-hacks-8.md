@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #8"
 date: 2011-11-03 12:40
 author: ejames
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 Hi guys,
 

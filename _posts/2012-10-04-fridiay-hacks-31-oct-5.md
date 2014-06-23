@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Fridiay Hacks #31, Oct 5"
 date: 2012-10-04 12:07
 author: ejames
 comments: true
 categories: [Friday Hacks]
+
 ---
 This week we have Andy Marks from ThoughtWorks on Continuous Delivery, and Calvin Cheng, from the robotics startup CtrlWorks on building a telepresence robot.
 

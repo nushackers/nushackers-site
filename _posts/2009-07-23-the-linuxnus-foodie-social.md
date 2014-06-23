@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "The linuxNUS Foodie Social"
 date: 2009-07-23 00:47
 author: Luther Goh Lu Feng
 comments: true
-categories: [drinks, food, Headline, holland v, Meetings, mykii]
+categories: [Headline, Meetings]
+
 ---
 Feeling overwhelmed with dry technical presentations during meetups? Feel that you are the only surviving techie/geek/hacker?
 

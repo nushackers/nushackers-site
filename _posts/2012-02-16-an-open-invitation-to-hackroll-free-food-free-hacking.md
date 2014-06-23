@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Not Participating? You're Still Invited To Hack&Roll 2012 (Free Food, Free Hacking!)"
 date: 2012-02-16 11:43
 author: ejames
 comments: true
 categories: [Events]
+
 ---
 <img style="margin-left:-430px; border: 1px solid #ccc;" src="http://nushackers.org/wp-content/themes/nushackers_theme/images/hrbanner.gif" alt="Hack & Roll Banner" />
 

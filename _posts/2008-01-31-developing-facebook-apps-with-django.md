@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Developing Facebook Apps with Django"
 date: 2008-01-31 12:35
 author: Ruiwen
 comments: true
 categories: [Events, Slides]
+
 ---
 And here's the aftermath!
 

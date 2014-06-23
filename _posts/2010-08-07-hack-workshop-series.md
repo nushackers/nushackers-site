@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Hack Workshop Series"
 date: 2010-08-07 02:23
 author: angad
 comments: true
 categories: [Blogroll, Events, Featured, Headline, News]
+
 ---
 We had mentioned about a workshop series from linuxNUS in a recent blog post and now here we are with something concrete that you can look forward to!
 <br />

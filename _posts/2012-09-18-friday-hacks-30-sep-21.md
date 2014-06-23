@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #30, Sep 21"
 date: 2012-09-18 18:04
 author: ejames
 comments: true
 categories: [Friday Hacks]
+
 ---
 This week we have Andy Croll, CTO at <a href="http://impulseflyer.com">impulseflyer.com</a> and the organiser of RedDotRubyConf, and Kwok Pan, a product designer who dabbles in programming.
 

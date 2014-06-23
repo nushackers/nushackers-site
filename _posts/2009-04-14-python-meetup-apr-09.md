@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Python meetup Apr 09"
 date: 2009-04-14 21:06
 author: Luther Goh Lu Feng
 comments: true
-categories: [chicago, django, Events, External, ipython, meetup, pycon, python]
+categories: [Events, External]
+
 ---
 Exam stress mounting? Come chill out at the 3rd Python Meetup.
 

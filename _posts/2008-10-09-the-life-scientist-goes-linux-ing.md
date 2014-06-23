@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "The Life Scientist goes Linux-ing"
 date: 2008-10-09 15:05
 author: Luther Goh Lu Feng
 comments: true
-categories: [Guest blogger, life science, lufeng]
+categories: [Guest blogger]
+
 ---
 Hello there,
 

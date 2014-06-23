@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Hackfest! Hacking education"
 date: 2010-10-14 09:23
 author: angad
 comments: true
 categories: [Events, Featured, Headline]
+
 ---
 linuxNUS is back with a much awaited Hackfest(!!!) as part of its Hack Workshop Series. A Hackfest is an event where programmers come together to build something - anything they want! - for profit, experience and fun.
 

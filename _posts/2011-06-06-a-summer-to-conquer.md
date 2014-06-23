@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "A summer to conquer"
 date: 2011-06-06 04:53
 author: angad
 comments: true
 categories: [Featured, Headline]
+
 ---
 The NUSHackers Coreteam is working hard over the vacations to take over the world with every line of code. Each one of us is involved in some development or the other and we have some interesting stuff to talk about.
 

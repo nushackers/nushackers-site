@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Linux and babies"
 date: 2008-10-12 15:19
 author: Luther Goh Lu Feng
 comments: true
-categories: [baby, Guest blogger, linux, man, shirt]
+categories: [Guest blogger]
+
 ---
 <div align="center">
 <em><a href='http://linuxNUS.org/wp-content/uploads/2008/10/baby.jpg'><img src="http://linuxNUS.org/wp-content/uploads/2008/10/baby.jpg" alt="" title="baby" width="500" height="406" class="aligncenter size-full wp-image-107" /></a>

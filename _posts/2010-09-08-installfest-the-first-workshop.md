@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Installfest! The first Workshop!"
 date: 2010-09-08 15:05
 author: angad
 comments: true
 categories: [Events, Featured, Headline, News, Slides]
+
 ---
 We had the first workshop for the Hack Workshop Series on 3rd September Friday @ SR11 in SoC. The workshop was attended by around 35 people and we had almost everybody who had registered for the workshop!
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #50, Aug 30"
 date: 2013-08-27 22:19
-author: fazli
+author: admin
 comments: true
 categories: [Friday Hacks]
+
 ---
 This week we have a talk by Fazli Sapuan followed by a series of ad-hoc lightning talks by members of the community.
 <p style="padding-left: 30px;"><strong>Date/Time:</strong> Friday, Aug 30 at 6:30pm

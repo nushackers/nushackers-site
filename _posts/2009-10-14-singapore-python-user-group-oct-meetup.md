@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Singapore Python User Group Oct Meetup"
 date: 2009-10-14 02:03
 author: Luther Goh Lu Feng
 comments: true
-categories: [Events, External, games, meetup, pyglet, python, sprint]
+categories: [Events, External]
+
 ---
 Date: 15th October 2009 (Thursday)
 Time: 7 pm to 9+ pm

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS HackFest October 2009"
 date: 2009-10-13 14:25
 author: dqminh
 comments: true
-categories: [Events, hackfest, Headline, red hat]
+categories: [Events, Headline]
+
 ---
 Hi guys,
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks This Week Moved to LT19"
 date: 2012-11-07 20:47
 author: ejames
 comments: true
 categories: [Friday Hacks]
+
 ---
 Due to incredible demand, this week's Friday Hacks (9th November) with Quora recruiting and Winston Teo has been moved to LT19, next to the Business Canteen. Here's a map to the new location: <a href="http://bit.ly/nus-lt19" target="_blank">http://bit.ly/nus-lt19</a>
 

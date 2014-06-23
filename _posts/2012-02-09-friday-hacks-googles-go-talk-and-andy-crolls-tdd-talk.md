@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks: Google's Go Talk and Andy Croll's TDD Talk"
 date: 2012-02-09 23:43
 author: ejames
 comments: true
 categories: [Meetings]
+
 ---
 <a href="http://nushackers.org/wp-content/uploads/2012/02/image00.jpeg"><img src="http://nushackers.org/wp-content/uploads/2012/02/image00.jpeg" alt="A picture of the Go Gopher, mascot of the Go Programming Language, with a rabbit." title="Go Gopher" width="640" height="430" class="aligncenter size-full wp-image-2102" /></a>
 

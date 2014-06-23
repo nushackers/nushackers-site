@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Poster poster posts post-post post!"
 date: 2009-03-10 09:04
 author: Ruiwen
 comments: true
 categories: [Uncategorized]
+
 ---
 (Sorry about the title.) With the linuxNUS LXDE talk coming up, the linuxNUS Team has gone on a poster posting spree. Do keep a look out for our pretty LXDE poster around NUS! And if you haven't heard about the talk yet, <a title="Open up to Open Source: LXDE" href="http://linuxnus.org/2009/03/04/open-up-to-lxde/" target="_blank" title="Open up to Open Source: LXDE">check out the details</a> . If you catch this in time and want to come down, do <a href="http://linuxnus.org/registration/lxde">register</a> !
 

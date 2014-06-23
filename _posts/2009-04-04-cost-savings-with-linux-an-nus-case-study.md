@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Cost savings with Linux: An NUS case study"
 date: 2009-04-04 21:00
 author: Ruiwen
 comments: true
-categories: [cost savings, News, nus, oed, suse linux enterprise server, toc, vmware server]
+categories: [News]
+
 ---
 Would you like to save SGD 100,000 in software licensing costs, reduce operational IT costs by about SGD 60,000 and cut your IT administration headcount by three?
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Non Sequitur"
 date: 2009-02-28 02:16
 author: iced
 comments: true
-categories: [non sequitur, not relevant, OpenSUSE, ubuntu, Ubuntu-SG, Uncategorized]
+categories: [Uncategorized]
+
 ---
 <div align="center"><a href="http://linuxNUS.org/wp-content/uploads/2009/02/opensuse-logo.png"><img src="http://linuxNUS.org/wp-content/uploads/2009/02/opensuse-logo-300x193.png" alt="opensuse-logo" title="opensuse-logo" width="300" height="193" class="aligncenter size-medium wp-image-197" /></a></div>
 

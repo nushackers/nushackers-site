@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Codeplex Talk Apr 09"
 date: 2009-04-06 00:30
 author: Luther Goh Lu Feng
 comments: true
-categories: [codeplex, Events, Featured, microsoft]
+categories: [Events, Featured]
+
 ---
 <a href="http://linuxNUS.org/wp-content/uploads/2009/04/codeplex-logo_3.jpg"><img src="http://linuxNUS.org/wp-content/uploads/2009/04/codeplex-logo_3.jpg" alt="codeplex-logo_3" title="codeplex-logo_3" width="235" height="92" class="aligncenter size-full wp-image-464" /></a>
 

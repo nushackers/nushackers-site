@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #58, Nov 8"
 date: 2013-11-07 13:25
-author: fazli
+author: admin
 comments: true
 categories: [Uncategorized]
+
 ---
 This week we have Lee Chuk Munn. 
 <blockquote><strong>Date/Time:</strong> Friday, November 8 at 6:30pm

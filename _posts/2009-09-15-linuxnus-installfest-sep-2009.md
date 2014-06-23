@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS Installfest Sep 2009"
 date: 2009-09-15 03:25
 author: Luther Goh Lu Feng
 comments: true
-categories: [Events, Featured, fun, Headline, install, installfest, ubuntu]
+categories: [Events, Featured, Headline]
+
 ---
 <p align="center"><img src="http://farm4.static.flickr.com/3505/3260062912_baf52f4ed7.jpg?v=0" alt="Installing...." /></p>
 

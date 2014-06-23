@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Projects Recently Shared On The Mailing List"
 date: 2012-01-07 17:08
 author: ejames
 comments: true
 categories: [Featured]
+
 ---
 We've got two cool projects recently posted to the NUS Hackers <a href="https://groups.google.com/forum/#!forum/nushackers">mailing list</a> to show you today.
 

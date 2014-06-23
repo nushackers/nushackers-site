@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "[Podcast] Episode 0 recorded; release pending."
 date: 2009-03-27 23:41
 author: dwu
 comments: true
-categories: [Featured, Headline, Podcast, Podcast]
+categories: [Featured, Headline, Podcast]
+
 ---
 After some difficulty finding a recording venue and some hours of figuring out a reasonable setup, five linuxNUSers (icedwater, ruiwen, dqminh, aaronstevensonle, dwu) finally got around to recording the raw premier episode of the linuxNUS podcast. Discussed on the record were:
 - why TCC Circular Road rocks (and Geek Terminal does not)

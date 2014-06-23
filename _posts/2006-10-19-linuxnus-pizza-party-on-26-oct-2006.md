@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS Pizza Party on 26 Oct 2006"
 date: 2006-10-19 15:43
 author: rey
 comments: true
 categories: [Events, Featured, Meetings]
+
 ---
 Dear linuxNUS friends,
 

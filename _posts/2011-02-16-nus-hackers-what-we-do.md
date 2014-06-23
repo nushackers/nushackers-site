@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "NUS Hackers: What We Do"
 date: 2011-02-16 21:06
 author: ejames
 comments: true
 categories: [Essay]
+
 ---
 <em>This was adapted from a short introduction I did at the beginning of <a href="http://nushackers.org/2011/02/learning-ruby-the-fun-way/">CodeCom 2011</a>. Intended purpose: to introduce people to NUS Hackers, seeing as we had recently undergone a name change. I thought I'd put it up here, as well, just so we're clear.</em>
 

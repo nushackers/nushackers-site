@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #4 Recap"
 date: 2011-10-05 14:49
 author: ejames
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 Last week's Friday Hacks saw a visit from Ong Guan Sin from NUS ComCen, in addition to the usual hackathon. He had a proposal for us:
 

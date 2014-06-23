@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Registration closed for March 27th Ubuntu Workshop"
 date: 2009-03-25 00:31
 author: iced
 comments: true
-categories: [Events, Featured, Headline, ubuntu, Ubuntu-SG, workshop]
+categories: [Events, Featured, Headline]
+
 ---
 What's on March 27th, you say? Team Ubuntu Singapore, or TUSG, is going to hold a workshop / demo session in COM1, showing how it's possible to use open source software to get your work done, and live your life the way you want it! For more details, <a href = "http://ubuntu.sg">check out their site</a>.
 

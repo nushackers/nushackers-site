@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks Talk 30th Mar - Philosophy of Unix"
 date: 2012-03-26 16:51
 author: admin
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 <span style="font-family: arial,helvetica,sans-serif;"><a href="http://nushackers.org/wp-content/uploads/2012/03/unix_plate.jpg"><img class="alignnone size-full wp-image-2481" title="unix_plate" src="http://nushackers.org/wp-content/uploads/2012/03/unix_plate.jpg" alt="" width="397" height="201" /></a>
 </span>

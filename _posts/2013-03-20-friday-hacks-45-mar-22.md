@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #45, Mar 22"
 date: 2013-03-20 21:26
 author: benedict
 comments: true
 categories: [Uncategorized]
+
 ---
 This week we have Dr Michael Brown and Melvin Zhang. These talks are suited for everyone! So come and listen to them!
 <blockquote><strong>Date/Time:</strong> Friday, March 22 at 6:30pm

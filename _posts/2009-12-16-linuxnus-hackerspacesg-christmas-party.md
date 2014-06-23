@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS @ HackerspaceSG Christmas party"
 date: 2009-12-16 13:23
 author: dqminh
 comments: true
 categories: [Uncategorized]
+
 ---
 From <a href="http://http://www.facebook.com/event.php?eid=219542641712&amp;ref=ts">HackerspaceSG Christmas party Facebook page</a>
 <blockquote><em>We are 1 month old, and we're celebrating it by throwing ourselves a Christmas Party! This event is similar to our open house party!</em>

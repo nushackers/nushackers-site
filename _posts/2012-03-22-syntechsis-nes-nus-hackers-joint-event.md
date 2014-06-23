@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "synTECHsis - NES, NUS Hackers Joint Event"
 date: 2012-03-22 20:07
 author: ejames
 comments: true
 categories: [Events]
+
 ---
 Hi everyone!
 

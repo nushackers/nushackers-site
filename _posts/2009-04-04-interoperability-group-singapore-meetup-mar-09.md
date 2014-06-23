@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Interoperability Group Singapore Meetup Mar 09"
 date: 2009-04-04 13:46
 author: Luther Goh Lu Feng
 comments: true
-categories: [Events, External, Featured, interoperability, Photos]
+categories: [Events, External, Featured, Photos]
+
 ---
 Have you heard of Interoperability Group Singapore?
 

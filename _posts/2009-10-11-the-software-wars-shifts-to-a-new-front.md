@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "The software wars shifts to a new front"
 date: 2009-10-11 16:46
 author: Luther Goh Lu Feng
 comments: true
-categories: [bing, Chatter, cola, hum, humour, microsoft, soda, ubuntu]
+categories: [Chatter]
+
 ---
 <p align="center"><img src="http://www.free-soft.org/softwarewar.gif" width="500px" alt="Software wars" /><br /><em>These are the current fronts in which the software wars are being fought.</em></p>
 

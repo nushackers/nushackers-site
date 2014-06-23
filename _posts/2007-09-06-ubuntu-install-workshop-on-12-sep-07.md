@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Ubuntu Install Workshop on 12 Sep 07"
 date: 2007-09-06 22:05
 author: rey
 comments: true
 categories: [Events, News]
+
 ---
 Always wanted to install Linux on your PC/laptop but don't know how to? Want to find out how to dual-boot Linux and Windows? Or even triple boot (with MacOS)? Fancy having some cool visual effects on your desktop?
 

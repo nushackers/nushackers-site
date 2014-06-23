@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "HoN-y Night Report and Photos"
 date: 2009-08-27 12:58
 author: Luther Goh Lu Feng
 comments: true
-categories: [Events, Featured, games, Headline, heroes of newerth, hon, Photos]
+categories: [Events, Featured, Headline, Photos]
+
 ---
 HoN was certainly fun. We even had icedwater joining us all the way from Germany. We had some real intense matches and a good late night supper at Holland Village. And one thing for sure is, gaming is certainly a good way for team bonding :)
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #47, Apr 12"
 date: 2013-04-12 12:31
 author: benedict
 comments: true
 categories: [Uncategorized]
+
 ---
 This week we have Gaurav Chandrashekar.
 

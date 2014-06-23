@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Developing Facebook Apps in Django"
 date: 2008-01-18 19:56
 author: Ruiwen
 comments: true
 categories: [Events]
+
 ---
 Announcing linuxNUS' first meetup of 2008!
 

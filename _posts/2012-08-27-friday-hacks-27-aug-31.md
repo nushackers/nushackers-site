@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #27, Aug 31"
 date: 2012-08-27 00:34
 author: ejames
 comments: true
 categories: [Friday Hacks]
+
 ---
 This week we have Angad Singh, here to talk about the research he did while at Stanford for NOC, and Michael Caronna, a professional photographer who built an automated motion-tracking camera stand.
 

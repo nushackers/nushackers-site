@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Movies, Documentaries and Videos"
 date: 2011-03-08 22:42
 author: angad
 comments: true
 categories: [Featured, Misc]
+
 ---
 There are some pretty good videos on hacking, startups and open-source culture. Here is a list of them that I have been collecting since long. You will definitely enjoy them.
 

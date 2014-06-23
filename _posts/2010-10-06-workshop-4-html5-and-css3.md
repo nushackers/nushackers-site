@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Workshop #4 HTML5 and CSS3"
 date: 2010-10-06 21:03
 author: angad
 comments: true
 categories: [Blogroll, Events, Featured, Headline, Slides]
+
 ---
 Div and Cedric did an awesome job for the workshop on HTML5 and CSS3.
 

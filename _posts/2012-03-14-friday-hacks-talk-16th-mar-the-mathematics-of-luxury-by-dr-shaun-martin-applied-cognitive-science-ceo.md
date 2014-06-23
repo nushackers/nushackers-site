@@ -1,13 +1,13 @@
 ---
 layout: post
-
 title: "Friday Hacks Talk 16th Mar – The Mathematics of Luxury"
 date: 2012-03-14 04:46
 author: admin
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
-<span><strong>Talk #1 - "</strong><strong>The Mathematics of Luxury" (by Dr Shaun Martin, </strong></span><strong>Applied Cognitive Research CEO)</strong>
+<span><strong>Talk #1 - "</strong><strong>The Mathematics of Luxury" (by Dr Shaun Martin, </strong></span><strong>Applied Cognitive Science CEO)</strong>
 
 &nbsp;
 <div>
@@ -18,7 +18,7 @@ categories: [Events, Friday Hacks]
 </div>
 </div>
 </div>
-<div>This week, we've got the CEO of Applied Cognitive Research here with an interesting topic.
+<div>This week, we've got the CEO of Applied Cognitive Science here with an interesting topic.
 <div></div>
 </div>
 </div>
@@ -45,10 +45,10 @@ categories: [Events, Friday Hacks]
 </span>
 <div>
 <div>
-<div>Dr Shaun Martin is CEO and Chief Scientist of Applied Cognitive Research: a strategy and innovation research firm he co-founded in 2000. Prior to founding Applied Cognitive Research, Shaun worked in academia: holding positions at Massachusetts Institute of Technology and the Institute for Advanced Study, Princeton. Shaun holds Master's and Bachelor's degrees from University of Warwick, and a Doctorate in Mathematics from University of Oxford. He has delivered invited lectures on his research at Stanford, Berkeley, Geneva, ETH Zurich, Oxford, MIT, NYU, Columbia, and Cambridge.
+<div>Dr Shaun Martin is CEO and Chief Scientist of Applied Cognitive Science: a strategy and innovation research firm he co-founded in 2000. Prior to founding Applied Cognitive Science, Shaun worked in academia: holding positions at Massachusetts Institute of Technology and the Institute for Advanced Study, Princeton. Shaun holds Master's and Bachelor's degrees from University of Warwick, and a Doctorate in Mathematics from University of Oxford. He has delivered invited lectures on his research at Stanford, Berkeley, Geneva, ETH Zurich, Oxford, MIT, NYU, Columbia, and Cambridge.
 <div></div>
 </div>
-Applied Cognitive Research was founded to apply new discoveries in the cognitive and behavioural sciences to questions of strategy, innovation, and public policy. It achieves this by combining these discoveries with proprietary research in complex systems mathematics and computational modeling.
+Applied Cognitive Science was founded to apply new discoveries in the cognitive and behavioural sciences to questions of strategy, innovation, and public policy. It achieves this by combining these discoveries with proprietary research in complex systems mathematics and computational modeling.
 
 </div>
 </div>

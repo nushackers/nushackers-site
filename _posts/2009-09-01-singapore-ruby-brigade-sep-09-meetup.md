@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Singapore Ruby Brigade Sep 09 Meetup"
 date: 2009-09-01 11:23
 author: Luther Goh Lu Feng
 comments: true
-categories: [Events, External, meetup, ruby]
+categories: [Events, External]
+
 ---
 <strong>SINGAPORE RUBY BRIGADE SEPTEMBER 2009 MEETUP</strong>
 

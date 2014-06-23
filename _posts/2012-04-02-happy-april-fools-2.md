@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Happy April Fool's!"
 date: 2012-04-02 15:18
 author: ejames
 comments: true
 categories: [Chatter]
+
 ---
 If you'd visited our site yesterday, you would have seen a command line interface, and a link to a premier Computer Science quiz competition called HackyWin! Here's the email we sent out to the mailing list:
 

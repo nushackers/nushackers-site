@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks Talk 23rd Mar – Agile Dev + GSoC Information Session"
 date: 2012-03-21 17:38
 author: admin
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 <div>
 <div><span style="font-family: arial, helvetica, sans-serif;"><span><strong>Talk #1 - "</strong></span><strong>Agile Software Development Practices</strong><span><strong>" (</strong></span><strong>by Benjamin Scherrey, Proteus Tech)</strong></span></div>

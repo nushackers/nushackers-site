@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "EU think tank recommends unbundling Windows from PCs"
 date: 2007-09-25 01:45
 author: Ruiwen
 comments: true
 categories: [News]
+
 ---
 Here's a step forward in the European Union.
 

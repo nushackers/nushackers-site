@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Android Singapore Meetup Mar 09"
 date: 2009-04-04 16:31
 author: Luther Goh Lu Feng
 comments: true
-categories: [android, External, meetup, phonegap]
+categories: [External]
+
 ---
 While most of us will be happy to laze at home on a bright Saturday morning, a group of Android lovers gathered in NUS for the inaugural Android SIngapore Meetup.
 

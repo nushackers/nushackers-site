@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "[Upcoming] What now, linuxNUS?"
 date: 2009-09-17 11:30
 author: Ruiwen
 comments: true
 categories: [Events, Featured, Headline, Photos]
+
 ---
 Thanks again everyone for showing such support for our Welcome Tea! You guys turned out in such great numbers this year that we were caught completely off guard! We know it was a tight squeeze, but you guys were such great sports to help shift the furniture around to make way, you rock! =)
 

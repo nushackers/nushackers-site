@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #2 Recap"
 date: 2011-09-10 11:23
 author: ejames
 comments: true
 categories: [Events, Friday Hacks]
+
 ---
 Yesterday's Friday Hacks was huge. We had a turnout that stuffed Seminar Room 9, and when we had both the hacking and the speaking going on, people had barely any tables to sit at.
 
@@ -85,5 +85,5 @@ The rest of the Friday Hacks went smoothly, though with several bugs:
 
 Lastly, while it was good that we could get people passionate about programming together in the same room, what wasn't so cool was the fact that we barely knew the names of the other people, and what each person was working on. For instance, I sat down late in the event only to find myself next to a first year student who was writing a Lisp interpreter. For fun. That's the kind of cool thing we should all share about.
 
-So maybe the next Friday Hacks would have us distribute nametags, and do a short show-and-tell at the start or end of the session. And I realize we should also collect names &mdash; in a Google form, or something &mdash; before the event to see how large a room we would have to book. What do you guys think?
+So maybe the next Friday Hacks would have us distribute name
 

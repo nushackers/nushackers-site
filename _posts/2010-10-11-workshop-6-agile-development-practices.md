@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Workshop #6 Agile Development Practices"
 date: 2010-10-11 13:16
 author: angad
 comments: true
 categories: [Events, Featured, Headline, News]
+
 ---
 <div id=":13k">
 <div><span style="font-family: arial, sans-serif; border-collapse: collapse;"><br/>

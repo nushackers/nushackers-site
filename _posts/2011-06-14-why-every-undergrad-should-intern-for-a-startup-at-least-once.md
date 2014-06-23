@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Why every undergrad should intern for a startup at least once."
 date: 2011-06-14 23:03
 author: admin
 comments: true
-categories: [chalkboard, Essay, geeksphere, ian mcfarland, jeff jonas, laurence, startup, startup roots]
+categories: [Essay]
+
 ---
 My first post here =D
 

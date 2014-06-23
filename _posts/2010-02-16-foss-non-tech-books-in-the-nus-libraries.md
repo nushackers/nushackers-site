@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "FOSS Non-tech Books in the NUS libraries"
 date: 2010-02-16 18:28
 author: angad
 comments: true
 categories: [Blogroll, Chatter, Featured, Headline, News]
+
 ---
 <img class="alignleft size-full wp-image-992" title="FOSS Books" src="http://linuxNUS.org/wp-content/uploads/2010/02/thumbDSC086971.JPG" alt="FOSS Books" width="300" height="225" />
 

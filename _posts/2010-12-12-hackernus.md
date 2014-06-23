@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Hackers@NUS"
 date: 2010-12-12 15:01
 author: angad
 comments: true
 categories: [Events, Featured, Headline, News]
+
 ---
 Thanks to all those who attended the Hack Workshop Series. We did 8 workshops this semester and the response from the audience was really good. We (also) got to learn a lot after doing all these workshops.
 

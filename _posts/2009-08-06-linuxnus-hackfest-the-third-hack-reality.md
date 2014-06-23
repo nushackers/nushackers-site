@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS Hackfest the Third: Hack Reality"
 date: 2009-08-06 10:00
 author: Ruiwen
 comments: true
-categories: [augmented reality, Events, Featured, hackfest]
+categories: [Events, Featured]
+
 ---
 It's been a long time coming, but it's time once again for yet another linuxNUS Hackfest!
 

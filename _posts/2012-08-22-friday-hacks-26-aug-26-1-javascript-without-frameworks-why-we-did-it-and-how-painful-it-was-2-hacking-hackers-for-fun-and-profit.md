@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #26, Aug 24"
 date: 2012-08-22 10:02
 author: ejames
 comments: true
 categories: [Friday Hacks]
+
 ---
 This week we have Shaw Chian, co-founder of Flocations, and Ruiwen Chua from Hackerspace.sg with us.
 

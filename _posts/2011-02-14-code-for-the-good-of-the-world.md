@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Code for the Good of The World"
 date: 2011-02-14 11:29
 author: ejames
 comments: true
-categories: [doing the right thing, hacking, News, passion, purpose, vwo]
+categories: [News]
+
 ---
 It was a late Thursday night when we got the email from Laurence:
 <blockquote>We are encouraging people to hack things together for the fun of it, for passion. This by itself is good enough to kick start some of the students' journey to doing fun stuff, but I was thinking, what if there was a higher purpose behind it.

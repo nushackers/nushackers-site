@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Singapore Open Source News on ZDNet"
 date: 2009-08-14 18:20
 author: Luther Goh Lu Feng
 comments: true
-categories: [asia, News, open source, red hat, singapore, trends, Uncategorized, zdnet]
+categories: [Uncategorized]
+
 ---
 <a href="http://www.zdnetasia.com/news/software/0,39044164,62056390,00.htm">A piece about Open Source trends in Singapore</a>, which is <a href="http://www.zdnetasia.com/news/software/0,39044164,62056314,00.htm">part of a roundup on Open Source in Asia</a>.
 

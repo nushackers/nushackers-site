@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Building random shit for fun, (and making a girl happy while at it)"
 date: 2012-05-12 01:17
 author: admin
 comments: true
 categories: [Featured]
+
 ---
 Long overdued, and only my third post here.
 

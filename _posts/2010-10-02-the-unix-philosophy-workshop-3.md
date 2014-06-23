@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "The UNIX Philosophy Workshop (#3)"
 date: 2010-10-02 16:23
 author: angad
 comments: true
 categories: [Events, Featured, Headline, News]
+
 ---
 The Unix Philosophy workshop was held on 17th of October in LT19. <a href="http://www.comp.nus.edu.sg/~brown/">Prof Michael Brown</a> did a great job in demonstrating the power of Unix and the philosophy behind the 40 year old operating system.
 

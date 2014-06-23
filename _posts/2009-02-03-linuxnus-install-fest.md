@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "LinuxNUS Install Fest!"
 date: 2009-02-03 18:40
 author: iced
 comments: true
-categories: [Events, Install Fest]
+categories: [Events]
+
 ---
 Hi guys!
 

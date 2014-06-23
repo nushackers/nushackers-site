@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS goes to Geylang"
 date: 2008-11-08 23:29
 author: Luther Goh Lu Feng
 comments: true
-categories: [Featured, geylang, Meetings, Photos]
+categories: [Featured, Meetings, Photos]
+
 ---
 Well, we didn't go there for vice. Actually it was an outing to the office of one of our alumni, Ahmad, who currently works in a startup. He had some problems with Samba on Centos, so we decided that it was a good excuse for a quick get together.
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "[Podcast] Episode 0: Closed on Sundays"
 date: 2009-04-02 02:00
 author: Ruiwen
 comments: true
-categories: [episode 0, Featured, Headline, News, Podcast, Podcast]
+categories: [Featured, Headline, News, Podcast]
+
 ---
 Aaaandd.. here we go!
 

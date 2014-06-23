@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Intro to Nokia Qt C++ Framework"
 date: 2010-06-16 22:08
 author: Viet Le
 comments: true
-categories: [cpp, intro, qt, tutorial, Uncategorized]
+categories: [Uncategorized]
+
 ---
 ![Qt Logo](http://linuxNUS.org/wp-content/uploads/2010/06/qt_image_thumb.png "Qt Logo")
 

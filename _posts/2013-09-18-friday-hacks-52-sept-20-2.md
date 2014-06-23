@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #52, Sept 20"
 date: 2013-09-18 12:42
 author: jerome
 comments: true
 categories: [Friday Hacks]
+
 ---
 This week we have a talk by Microsoft. Do note that we'll be in Seminar Room 1, COM1 (NUS School of Computing) instead of at University Town for this session!
 <p style="padding-left: 30px;"><strong>Date/Time: </strong>Friday, Sept 20 at 6:30pm

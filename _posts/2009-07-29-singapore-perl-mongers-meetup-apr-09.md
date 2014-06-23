@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Singapore Perl Mongers Meetup Apr 09"
 date: 2009-07-29 01:19
 author: Luther Goh Lu Feng
 comments: true
-categories: [Events, External, meetup, perl]
+categories: [Events, External]
+
 ---
 Hey everybody,
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "[Poll] Trouble FLOSSing in NUS?"
 date: 2009-09-02 13:12
 author: Ruiwen
 comments: true
-categories: [Chatter, floss, nus, poll]
+categories: [Chatter]
+
 ---
 All right, I'll cut right to the chase with this one, and won't pull any punches. Let me be the first to say, <em>It can be a pain trying to use only Free and open source software.</em>
 

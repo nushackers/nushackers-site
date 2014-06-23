@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "IVLE now welcomes Firefox"
 date: 2007-05-23 18:50
 author: Luther Goh Lu Feng
 comments: true
 categories: [Events, News]
+
 ---
 <p align="center"><img id="image54" src="http://linuxNUS.org/wp-content/uploads/2007/05/ff_box1.png" alt="ff_box1.png" />
 

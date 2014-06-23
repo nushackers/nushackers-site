@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "In memoriam, Aaron Swartz"
 date: 2013-01-14 03:07
 author: ejames
 comments: true
 categories: [Essay]
+
 ---
 <em>(This post is written by Eli, a former President of NUS Hackers.)</em>
 

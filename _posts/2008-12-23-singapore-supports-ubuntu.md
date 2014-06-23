@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Singapore supports Ubuntu!"
 date: 2008-12-23 21:00
 author: Luther Goh Lu Feng
 comments: true
-categories: [humour, Uncategorized]
+categories: [Uncategorized]
+
 ---
 <div>&nbsp;</div>
 <div align="center"><a href='http://linuxNUS.org/wp-content/uploads/2008/11/ubuntulogo.png'><img src="http://linuxNUS.org/wp-content/uploads/2008/11/ubuntulogo.png" alt="" title="ubuntulogo" width="202" height="55" class="aligncenter size-full wp-image-112" /></a></div>

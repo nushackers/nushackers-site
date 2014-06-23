@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Ideas >> Execution Hackfest - Review"
 date: 2010-05-11 02:10
 author: angad
 comments: true
 categories: [Blogroll, Events, Featured, Headline, Meetings]
+
 ---
 We had a great Hackfest this Sunday and it turns out that such events are much needed in Singapore to develop a healthy environment for converting ideas into execution. The Hackfest was not a total success in terms of the expected audience but we had a few great souls around that hacked and developed to glory. The event was attended by around 15 people and with many who dropped in occasionally. The good thing about the event was that there was a really casual feel about the place and people were working merrily with usual in-between breaks and drinks. It was a perfect place and time to code, think and develop.
 

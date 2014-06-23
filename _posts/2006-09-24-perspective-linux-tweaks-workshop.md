@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Perspective: Linux Tweaks  Workshop"
 date: 2006-09-24 00:07
 author: Luther Goh Lu Feng
 comments: true
 categories: [Events]
+
 ---
 I had to rush back to SOC1 after my training for the Workshop. I arrived at #03-17 in the nick of time. Phew. I popped Knoppix 5.0.1, which Junhao insisted I used, into the CDROM drive of and rebooted the computer.
 

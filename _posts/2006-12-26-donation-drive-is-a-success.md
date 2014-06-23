@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Donation drive is a success!"
 date: 2006-12-26 00:33
 author: jmarki
 comments: true
 categories: [Events, News]
+
 ---
 Wee!! Despite the lack of heavy publicity and the very short notice, we still managed to collect $100. Many thanks to:
 

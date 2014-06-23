@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Workshop #5 PHP and CodeIgniter"
 date: 2010-10-10 10:55
 author: angad
 comments: true
 categories: [Events, Featured, Headline, News, Slides]
+
 ---
 The fifth workshop in the Hack Workshop Series was the introduction to web programming language PHP and its light-weight framework - CodeIgniter.
 

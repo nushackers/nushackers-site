@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Red Hat CEO comes to Singapore"
 date: 2009-07-27 19:56
 author: Luther Goh Lu Feng
 comments: true
-categories: [ceo, Events, External, Featured, jim whitehurst, open source, red hat]
+categories: [Events, External, Featured]
+
 ---
 <a href="http://linuxNUS.org/wp-content/uploads/2009/07/redhat.jpg"><img src="http://linuxNUS.org/wp-content/uploads/2009/07/redhat.jpg" alt="redhat" title="redhat" width="272" height="285" class="aligncenter size-full wp-image-668" /></a>
 
@@ -13,14 +13,12 @@ Red Hat CEO, Jim Whitehurst, will be in Singapore this Friday, 31st July 2009, a
 
 The 1st talk will take place at SIM in the morning..
 
-
 title: "   Our Mothers Asked Us To Share"
 Date:   31 July 2009 (Friday)
 Time:   10:00am to 11:00am
 Venue: SIM HQ (LT 1.10), 461 Clementi Road
 
 The 2nd talk will take place in evening:
-
 
 title: "New Business. New Model. New Era. The Open Source Way!"
 Date: 31 July 2009 (Fri)

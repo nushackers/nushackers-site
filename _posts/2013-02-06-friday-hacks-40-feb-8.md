@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Friday Hacks #40, Feb 8"
 date: 2013-02-06 00:42
 author: benedict
 comments: true
 categories: [Uncategorized]
+
 ---
 This week we have Michael Rawlinson, who will share with us the job prospects in the UK. Those interested in the Interactive Entertainment Industry should definitely come for the talk!
 <blockquote><strong>Date/Time:</strong> Friday, February 8 at 6:30pm

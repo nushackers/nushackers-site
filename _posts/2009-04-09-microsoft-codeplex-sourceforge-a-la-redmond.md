@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Microsoft CodePlex Talk: SourceForge à la Redmond"
 date: 2009-04-09 00:56
 author: iced
 comments: true
-categories: [codeplex, Events, Featured, microsoft]
+categories: [Events, Featured]
+
 ---
 For those of you still not in the know, Microsoft has moved towards an open source model with their launch of the <a href = "http://www.codeplex.com/">CodePlex</a>. Our friend Neng Giin pointed out that Microsoft views community development as a mutually beneficial effort, and is, in its own way, supporting the growth of a community of developers.
 

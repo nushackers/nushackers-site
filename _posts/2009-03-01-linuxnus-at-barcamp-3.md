@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "linuxNUS at Barcamp 3"
 date: 2009-03-01 21:18
 author: Luther Goh Lu Feng
 comments: true
-categories: [barcamp, Events, Featured, lxde, Photos]
+categories: [Events, Featured, Photos]
+
 ---
 <div align="center"><a href="http://linuxNUS.org/wp-content/uploads/2009/03/img_9638_1.jpg"><img src="http://linuxNUS.org/wp-content/uploads/2009/03/img_9638_1.jpg" alt="img_9638_1" title="img_9638_1" width="500" height="333" class="aligncenter size-full wp-image-182" /></a></div>
 

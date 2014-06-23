@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Gearing Up For 2012 (Plans, and a New Site!)"
 date: 2012-01-01 02:07
 author: admin
 comments: true
 categories: [News]
+
 ---
 <em>(This was also sent as an email to the NUS Hackers mailing list.)
 </em>

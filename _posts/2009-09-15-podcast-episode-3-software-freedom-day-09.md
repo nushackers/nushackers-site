@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "[Podcast] Episode 3: Software Freedom Day 09"
 date: 2009-09-15 11:03
 author: Ruiwen
 comments: true
 categories: [Featured, Headline, Podcast]
+
 ---
 <img src="http://linuxNUS.org/wp-content/uploads/2009/09/sfdLogo-300x176.png" alt="Software Freedom Day" title="SFD" width="300" height="176" class="size-medium wp-image-876" />
 

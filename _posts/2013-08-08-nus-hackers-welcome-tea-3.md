@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "NUS Hackers Welcome Tea"
 date: 2013-08-08 19:10
-author: fazli
+author: admin
 comments: true
 categories: [Events]
+
 ---
 <em>(In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways.)</em>
 

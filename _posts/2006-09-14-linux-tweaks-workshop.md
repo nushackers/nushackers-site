@@ -1,11 +1,11 @@
 ---
 layout: post
-
 title: "Linux Tweaks Workshop"
 date: 2006-09-14 16:12
 author: Luther Goh Lu Feng
 comments: true
 categories: [News]
+
 ---
 ---------------
 Linux box: Up and running.
