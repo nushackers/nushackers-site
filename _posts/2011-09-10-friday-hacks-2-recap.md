@@ -24,7 +24,7 @@ Later on in the session, we had Junhao, a linuxNUS alumni, come down to brief so
 <a href="http://www.flickr.com/photos/dienasty/6131480181/" title="IMG_1271 by shadowsun7, on Flickr"><img src="http://farm7.static.flickr.com/6077/6131480181_44bf0e493a.jpg" width="500" height="375" alt="IMG_1271"></a>
 
 <h3>Information about the PCB Talk</h3>
-The slides are available for download <a href="http://nushackers.org/downloads/pcb.pdf">here</a>, and James says that the following two items are available for purchase from him:
+The slides are available for download <a href="/downloads/pcb.pdf">here</a>, and James says that the following two items are available for purchase from him:
 
 <ul>
 	<li>A general purpose microcontroller / NXT expansion (customizable to desired use like the Arduino)</li>

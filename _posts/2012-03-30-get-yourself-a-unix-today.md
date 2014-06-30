@@ -7,7 +7,7 @@ comments: true
 categories: [Friday Hacks, Slides]
 
 ---
-In conjunction with our self-styled 'Linux week', Professor Brown gave a cool talk on the Unix philosophy at Friday Hacks earlier tonight (slides available <a href="http://nushackers.org/wp-content/uploads/2012/03/UnixPhilosophy.pdf">here</a>). We at NUS Hackers would like to take this opportunity to encourage everyone to install a *nix flavour, for experience, fun, and indoctrination in programming kung-fu.
+In conjunction with our self-styled 'Linux week', Professor Brown gave a cool talk on the Unix philosophy at Friday Hacks earlier tonight (slides available <a href="/res//2012/03/UnixPhilosophy.pdf">here</a>). We at NUS Hackers would like to take this opportunity to encourage everyone to install a *nix flavour, for experience, fun, and indoctrination in programming kung-fu.
 
 If you were around tonight, you'd have heard Professor Brown say two things:
 <ol>

@@ -36,7 +36,7 @@ Here's what we're going to do about it.
 We have found that attendance increases when there's a talk announced early in the week. With that in mind:
 <ul>
 	<li>Friday Hacks will be in one venue for the whole of next semester. I will try to lock down Seminar Room 2 ERC @ Utown, but if that's not possible, I will announce it here and on the blog.</li>
-	<li>Talks will be announced on the site in advance. I have redesigned the nushackers.org front page to display a list of speakers and topics for all the weeks in the semester, as well as open slots that students, professors, and outside speakers might want to pick to speak. I have also created a <a href="http://nushackers.org//fridayhacks">general information page for speakers</a> - including a map and parking locations.</li>
+	<li>Talks will be announced on the site in advance. I have redesigned the nushackers.org front page to display a list of speakers and topics for all the weeks in the semester, as well as open slots that students, professors, and outside speakers might want to pick to speak. I have also created a <a href="//fridayhacks">general information page for speakers</a> - including a map and parking locations.</li>
 	<li>I want to provide free dinners to everyone, for every Friday Hacks. Coreteam members have good working relationships with several large companies, and I am will find sponsorships to make this happen. (Free pizza makes sense, by the way - we want to build community amongst hackers. Plus speakers from various companies can join right in).</li>
 </ul>
 <h3>Hacking</h3>

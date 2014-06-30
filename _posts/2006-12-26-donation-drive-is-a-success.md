@@ -22,4 +22,4 @@ In total we donated 60kg of rice,  2 big tins of Ovaltine, and 5 big boxes of ce
 
 Thank you everyone!
 
-Update: We bought 60kg of rice for SG$64.75, 3kg of Ovaltine for SG$18.10, 400g of Kelloggs H/Flakes for SG$4.75, 340g of Oreo cereals for SG$4.40, 368g of Cocoa Crunch for SG$4.20, 368g of Fruity Pebbles for SG$4.20. Total cost is SG$100.40. You can see the <a href="http://linuxnus.org/wp-content/uploads/2006/12/lf_receipt.JPG">receipt</a> if you want
+Update: We bought 60kg of rice for SG$64.75, 3kg of Ovaltine for SG$18.10, 400g of Kelloggs H/Flakes for SG$4.75, 340g of Oreo cereals for SG$4.40, 368g of Cocoa Crunch for SG$4.20, 368g of Fruity Pebbles for SG$4.20. Total cost is SG$100.40. You can see the <a href="/res/2006/12/lf_receipt.JPG">receipt</a> if you want

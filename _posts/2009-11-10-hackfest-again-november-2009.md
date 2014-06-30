@@ -7,7 +7,7 @@ comments: true
 categories: [Events, Headline]
 
 ---
-<img class="alignnone size-full wp-image-761" title="hackfest" src="http://linuxNUS.org/wp-content/uploads/2009/08/hackfest.jpg" alt="hackfest" width="425" height="318" />
+<img class="alignnone size-full wp-image-761" title="hackfest" src="/res/2009/08/hackfest.jpg" alt="hackfest" width="425" height="318" />
 
 We are back with our Hackfest and this time our venue is Redhat Office!
 

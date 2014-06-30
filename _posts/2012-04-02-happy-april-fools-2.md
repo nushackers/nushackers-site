@@ -15,7 +15,7 @@ If you'd visited our site yesterday, you would have seen a command line interfac
 
 They are guaranteed fun brainteasers, so give them a try. You might be able to solve them and win an iPad 3!
 
-<a href="http://nushackers.org/hackywin">http://nushackers.org/hackywin</a></blockquote>
+<a href="/hackywin">http://nushackers.org/hackywin</a></blockquote>
 
 We gave three programming questions to people, all of which required solutions that worked under a minute and dealt with <em>all</em> cases to be correct. Here are the questions:
 
@@ -28,7 +28,7 @@ We gave three programming questions to people, all of which required solutions t
 If you think about it for a bit, you will realize that the connecting segments do not intersect each other except at the endpoints and thus form a tree.
 </blockquote>
 
-This was, of course, and April Fool's joke. When you clicked submit, you were redirected to this <a href="http://nushackers.org/hackywin/results.html">page</a>, which explained the answers to the 3 problems (2 of which were unsolvable given the constraints).
+This was, of course, and April Fool's joke. When you clicked submit, you were redirected to this <a href="/hackywin/results.html">page</a>, which explained the answers to the 3 problems (2 of which were unsolvable given the constraints).
 
 <blockquote><strong>Solution for Problem 2:</strong> Also known as the Bin Packing problem, this problem is combinatorially NP-hard. That said, optimal solutions to very large instances can be produced with sophisticated algorithms, and non-optimal ones also exist, such as the <strong>first fit algorithm</strong>. Because this question demands an optimal solution <em>for all cases</em>, no solution you provide will be correct given a 1 minute constrain and an arbitrary number of items, each of any size. (Well, if you had access to a supercomputer it might, but that's a tad too much ...) Read more at <a href="https://en.wikipedia.org/wiki/Bin_packing_problem">Wikipedia</a>!
 

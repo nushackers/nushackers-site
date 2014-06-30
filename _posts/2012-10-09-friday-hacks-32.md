@@ -45,6 +45,6 @@ Rahul prefers to spend his time filling his storage devices with code, some usef
  
 Please sign up at <a href="http://bit.ly/friday-hacks">http://bit.ly/friday-hacks</a>
  
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="http://nushackers.org/fridayhacks/">http://nushackers.org/fridayhacks/</a>
-For more info on NUS Hackers, See: <a href="http://nushackers.org/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="http://nushackers.org/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">http://nushackers.org/fridayhacks/</a>
+For more info on NUS Hackers, See: <a href="/about">http://nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>

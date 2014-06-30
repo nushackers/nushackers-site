@@ -7,7 +7,7 @@ comments: true
 categories: [Chatter, Events, Featured]
 
 ---
-<div align="center"><a href="http://linuxNUS.org/wp-content/uploads/2009/03/lxde_talk.jpg"><img src="http://linuxNUS.org/wp-content/uploads/2009/03/lxde_talk.jpg" alt="lxde_talk" title="lxde_talk" width="240" height="160" class="aligncenter size-full wp-image-315" /></a></div>
+<div align="center"><a href="/res/2009/03/lxde_talk.jpg"><img src="/res/2009/03/lxde_talk.jpg" alt="lxde_talk" title="lxde_talk" width="240" height="160" class="aligncenter size-full wp-image-315" /></a></div>
 
 After talking about the business opportunities with LXDE, Mario is now talking about the community at LXDE.
 

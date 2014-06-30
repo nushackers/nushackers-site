@@ -45,6 +45,6 @@ categories: [Friday Hacks]
 <div>I am a graduate student from NTU working on my thesis on word sense disambiguation. I deal with mostly the "knowledge" side of NLP rather than the "speech" side, so I do know a little from the courses I've taken on speech technology ( voice recognition, synthesizers, speech corpora, and processing) but I know just enough to talk about it generally. What I do is mostly on letting the computer understand grammar and meaning of human language, sometimes it involves applying some machine-learning techniques and statistics but most times, it is to think of novel ways to impart knowledge to computers.</div>
 <div>Please sign up at <a href="http://bit.ly/friday-hacks" target="_blank">http://bit.ly/friday-hacks</a></div>
 <div></div>
-<div>For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="http://nushackers.org/fridayhacks/" target="_blank">http://nushackers.org/<wbr>fridayhacks/</wbr></a>
-For more info on NUS Hackers, See: <a href="http://nushackers.org/about" target="_blank">http://nushackers.org/<wbr>about</wbr></a>
-For more Friday Hacks talks: <a href="http://nushackers.org/" target="_blank">http://nushackers.org/</a></div>
+<div>For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/" target="_blank">http://nushackers.org/<wbr>fridayhacks/</wbr></a>
+For more info on NUS Hackers, See: <a href="/about" target="_blank">http://nushackers.org/<wbr>about</wbr></a>
+For more Friday Hacks talks: <a href="/" target="_blank">http://nushackers.org/</a></div>

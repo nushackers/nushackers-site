@@ -34,6 +34,6 @@ This syllabus teaches you: Git, Django, Python, the MVC design pattern, basic HT
 
 <strong>3) </strong>Solve the first 40 problems of <a href="http://projecteuler.net/">Project Euler</a>, in a language of your choice. (Various solutions exist online, feel free to determine the rules of your own challenge).
 <h3>Celebrating Hacking</h3>
-Our purpose with Hack&amp;Roll is to celebrate and promote hacking in Singapore. History <a href="http://nushackers.org/why/">suggests</a> that most good things in the field of computing happen with the support of a hacker community — i.e., a community of people who tinker with stuff. (See: Unix, GNU, Firefox, Apple Computers, Google). Our goal is to create this community in NUS (and eventually, Singapore) — in the hopes that this works out to everyone's benefit.
+Our purpose with Hack&amp;Roll is to celebrate and promote hacking in Singapore. History <a href="/why/">suggests</a> that most good things in the field of computing happen with the support of a hacker community — i.e., a community of people who tinker with stuff. (See: Unix, GNU, Firefox, Apple Computers, Google). Our goal is to create this community in NUS (and eventually, Singapore) — in the hopes that this works out to everyone's benefit.
 
 We'd love for you to come drop by — whether you're new to programming, or you're experienced and want a shot at the prizes. For more information, and to register, visit <a href="http://hacknroll.nushackers.org/">hacknroll.nushackers.org</a>.

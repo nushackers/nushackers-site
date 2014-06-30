@@ -7,11 +7,11 @@ comments: true
 categories: [Events]
 
 ---
-<img style="margin-left:-430px; border: 1px solid #ccc;" src="http://nushackers.org/wp-content/themes/nushackers_theme/images/hrbanner.gif" alt="Hack & Roll Banner" />
+<img style="margin-left:-430px; border: 1px solid #ccc;" src="/imageshrbanner.gif" alt="Hack & Roll Banner" />
 
 Hi everyone!
 
-You've probably realized by now that we've got a <a href="http://nushackers.org/hack-and-roll/">24 hour hackathon</a> going on at COM1 Basement, on the 19th to 20th February (that's this Sunday to Monday).
+You've probably realized by now that we've got a <a href="/hack-and-roll/">24 hour hackathon</a> going on at COM1 Basement, on the 19th to 20th February (that's this Sunday to Monday).
 
 We know that some of you can't join for a number of reasons - either you're too busy, or you're not sure you can build an app in 24 hours, or you have other things you need to do.
 
@@ -28,7 +28,7 @@ And if you'd like, do come down to meet the judges and watch the conclusion of t
 
 We hope to see you there!
 
-<a href="http://nushackers.org/wp-content/uploads/2012/02/hacknrollposterthird.jpg"><img src="http://nushackers.org/wp-content/uploads/2012/02/hacknrollposterthird-724x1024.jpg" alt="" title="hacknrollposterthird" width="640" height="905" class="alignleft size-large wp-image-2215" /></a>
+<a href="/res//2012/02/hacknrollposterthird.jpg"><img src="/res//2012/02/hacknrollposterthird-724x1024.jpg" alt="" title="hacknrollposterthird" width="640" height="905" class="alignleft size-large wp-image-2215" /></a>
 <br/>
 
 (If you'd like to participate, you <em>will</em> have to pay the $10 registration fee to get a chance to compete for prizes.[1] We have raised enough money for food now, thanks to the kindness of our supporting organizations: <strong>IDA</strong> and <strong>NOC Odyssey Fund</strong>; so we'll be using the money from registrations to fund future Friday Hacks, for the benefit of the NUS developer community).

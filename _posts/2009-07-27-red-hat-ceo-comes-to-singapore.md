@@ -7,7 +7,7 @@ comments: true
 categories: [Events, External, Featured]
 
 ---
-<a href="http://linuxNUS.org/wp-content/uploads/2009/07/redhat.jpg"><img src="http://linuxNUS.org/wp-content/uploads/2009/07/redhat.jpg" alt="redhat" title="redhat" width="272" height="285" class="aligncenter size-full wp-image-668" /></a>
+<a href="/res/2009/07/redhat.jpg"><img src="/res/2009/07/redhat.jpg" alt="redhat" title="redhat" width="272" height="285" class="aligncenter size-full wp-image-668" /></a>
 
 Red Hat CEO, Jim Whitehurst, will be in Singapore this Friday, 31st July 2009, and share his experience and insights on Open Source in 2 sessions..
 

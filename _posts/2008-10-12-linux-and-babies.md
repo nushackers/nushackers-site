@@ -8,7 +8,7 @@ categories: [Guest blogger]
 
 ---
 <div align="center">
-<em><a href='http://linuxNUS.org/wp-content/uploads/2008/10/baby.jpg'><img src="http://linuxNUS.org/wp-content/uploads/2008/10/baby.jpg" alt="" title="baby" width="500" height="406" class="aligncenter size-full wp-image-107" /></a>
+<em><a href='/res/2008/10/baby.jpg'><img src="/res/2008/10/baby.jpg" alt="" title="baby" width="500" height="406" class="aligncenter size-full wp-image-107" /></a>
 
 Awwwwwwwwww.....Cute toddler spotted! <a href="http://www.thinkgeek.com/tshirts/kids/5ace/action/21059cb/">Source: ThinkGeek</a></em></div>
 

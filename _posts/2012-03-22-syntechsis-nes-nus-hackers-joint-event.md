@@ -25,7 +25,7 @@ We have four speakers:
 Register here:
 <a href="https://docs.google.com/spreadsheet/viewform?formkey=dFBzRFktekxMN2FYZjVLWEk2QUYwTWc6MA">https://docs.google.com/spreadsheet/viewform?formkey=dFBzRFktekxMN2FYZjVLWEk2QUYwTWc6MA</a>
 
-<img src="http://nushackers.org/wp-content/uploads/2012/03/EDM-Poster.jpg" alt="" title="EDM Poster" width="724" height="1024" class="aligncenter size-full wp-image-2475" />
+<img src="/res//2012/03/EDM-Poster.jpg" alt="" title="EDM Poster" width="724" height="1024" class="aligncenter size-full wp-image-2475" />
 
 It's always good to come meet these people and make contacts, in case you decide to do a startup in the future. ;-)
 

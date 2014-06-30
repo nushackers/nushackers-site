@@ -38,9 +38,9 @@ categories: [Uncategorized]
 <div>
 <div dir="ltr">
 <div>
-<div>For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="http://nushackers.org/fridayhacks/" target="_blank">http://nushackers.org/<wbr />fridayhacks/</a></div>
-<div>For more info on NUS Hackers, See: <a href="http://nushackers.org/about" target="_blank">http://nushackers.org/<wbr />about</a></div>
-<div>For more Friday Hacks talks: <a href="http://nushackers.org/" target="_blank">http:<wbr />//nushackers.org/</a></div>
+<div>For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/" target="_blank">http://nushackers.org/<wbr />fridayhacks/</a></div>
+<div>For more info on NUS Hackers, See: <a href="/about" target="_blank">http://nushackers.org/<wbr />about</a></div>
+<div>For more Friday Hacks talks: <a href="/" target="_blank">http:<wbr />//nushackers.org/</a></div>
 &nbsp;
 
 </div>

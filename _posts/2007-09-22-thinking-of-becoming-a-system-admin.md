@@ -7,6 +7,6 @@ comments: true
 categories: [Featured]
 
 ---
-<a href='http://linuxNUS.org/wp-content/uploads/2007/09/sysmin.jpg' title='Sys Admin'><img src='http://linuxNUS.org/wp-content/uploads/2007/09/sysmin.jpg' alt='Sys Admin' /></a>
+<a href='/res/2007/09/sysmin.jpg' title='Sys Admin'><img src='/res/2007/09/sysmin.jpg' alt='Sys Admin' /></a>
 
 You sure?

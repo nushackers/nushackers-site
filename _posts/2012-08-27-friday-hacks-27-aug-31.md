@@ -36,6 +36,6 @@ Remember to sign up at: <a href="http://bit.ly/friday-hacks" target="_blank">ht
 <strong>Time:</strong> 6pm - 9pm
 <strong>Free pizza and mingling @ 6pm, talks start at 7pm. You are welcome to stay and mingle (or hack!) after the talks.</strong>Please sign up at <a href="http://bit.ly/friday-hacks" target="_blank">http://bit.ly/friday-hacks</a>
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="http://nushackers.org/fridayhacks/" target="_blank">http://nushackers.org/<wbr>fridayhacks/</wbr></a>
-For more info on NUS Hackers? See: <a href="http://nushackers.org/about" target="_blank">http://nushackers.org/<wbr>about</wbr></a>
-For more Friday Hacks talks: <a href="http://nushackers.org/" target="_blank">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/" target="_blank">http://nushackers.org/<wbr>fridayhacks/</wbr></a>
+For more info on NUS Hackers? See: <a href="/about" target="_blank">http://nushackers.org/<wbr>about</wbr></a>
+For more Friday Hacks talks: <a href="/" target="_blank">http://nushackers.org/</a>

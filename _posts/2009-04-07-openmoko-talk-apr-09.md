@@ -7,7 +7,7 @@ comments: true
 categories: [Events, Featured]
 
 ---
-<a href="http://linuxNUS.org/wp-content/uploads/2009/04/openmoko.jpg"><img src="http://linuxNUS.org/wp-content/uploads/2009/04/openmoko-212x300.jpg" alt="openmoko" title="openmoko" width="212" height="300" class="aligncenter size-medium wp-image-470" /></a>
+<a href="/res/2009/04/openmoko.jpg"><img src="/res/2009/04/openmoko-212x300.jpg" alt="openmoko" title="openmoko" width="212" height="300" class="aligncenter size-medium wp-image-470" /></a>
 
 <strong>April 8:
 OpenMoko

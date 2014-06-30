@@ -7,7 +7,7 @@ comments: true
 categories: [Events, Featured]
 
 ---
-<a href="http://linuxNUS.org/wp-content/uploads/2009/04/codeplex-logo_3.jpg"><img src="http://linuxNUS.org/wp-content/uploads/2009/04/codeplex-logo_3.jpg" alt="codeplex-logo_3" title="codeplex-logo_3" width="235" height="92" class="aligncenter size-full wp-image-464" /></a>
+<a href="/res/2009/04/codeplex-logo_3.jpg"><img src="/res/2009/04/codeplex-logo_3.jpg" alt="codeplex-logo_3" title="codeplex-logo_3" width="235" height="92" class="aligncenter size-full wp-image-464" /></a>
 
 <strong>April 6:
 Microsoft Codeplex

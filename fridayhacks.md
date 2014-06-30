@@ -26,7 +26,7 @@ Dinner is always served (usually Canadian pizza). Food is served at 6:30pm, talk
 <img src="http://farm7.static.flickr.com/6060/6213498348_421755d52b.jpg" alt="Friday Hacks #4" width="500" height="375" /><img src="http://farm7.static.flickr.com/6188/6131470651_613b675a79.jpg" alt="IMG_1263" width="500" height="375" />
 <h2>Speaker FAQ</h2>
 <strong>When and where do Friday Hacks happen?</strong>
-Friday Hacks happen every Friday at 6:30pm in Seminar Room 2, level 2 of the Education Resource Centre, University Town, National University of Singapore. Here's a <a href="http://nushackers.org/wp-content/uploads/2011/12/fridayhacksmap.gif">map</a>.
+Friday Hacks happen every Friday at 6:30pm in Seminar Room 2, level 2 of the Education Resource Centre, University Town, National University of Singapore. Here's a <a href="/res//2011/12/fridayhacksmap.gif">map</a>.
 
 <iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=education+resource+centre&amp;aq=&amp;sll=1.305672,103.772687&amp;sspn=0.002912,0.004823&amp;ie=UTF8&amp;hq=education+resource+centre&amp;hnear=&amp;t=m&amp;cid=13777841204977805871&amp;ll=1.315583,103.776083&amp;spn=0.034323,0.04283&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=education+resource+centre&amp;aq=&amp;sll=1.305672,103.772687&amp;sspn=0.002912,0.004823&amp;ie=UTF8&amp;hq=education+resource+centre&amp;hnear=&amp;t=m&amp;cid=13777841204977805871&amp;ll=1.315583,103.776083&amp;spn=0.034323,0.04283&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 

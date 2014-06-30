@@ -7,9 +7,9 @@ comments: true
 categories: [Meetings]
 
 ---
-<a href="http://nushackers.org/wp-content/uploads/2012/02/image00.jpeg"><img src="http://nushackers.org/wp-content/uploads/2012/02/image00.jpeg" alt="A picture of the Go Gopher, mascot of the Go Programming Language, with a rabbit." title="Go Gopher" width="640" height="430" class="aligncenter size-full wp-image-2102" /></a>
+<a href="/res//2012/02/image00.jpeg"><img src="/res//2012/02/image00.jpeg" alt="A picture of the Go Gopher, mascot of the Go Programming Language, with a rabbit." title="Go Gopher" width="640" height="430" class="aligncenter size-full wp-image-2102" /></a>
 
-For tomorrow's <a href="http://nushackers.org/fridayhacks/">Friday Hacks</a> (10th February 2012) we will have Kailash Sethuraman from Google coming to speak about the Go Programming Language, and Andy Croll of ImpulseFlyer coming to speak about Test Driven Development. These talks will both be held at the Ngee Ann Kongsi Auditorium. 
+For tomorrow's <a href="/fridayhacks/">Friday Hacks</a> (10th February 2012) we will have Kailash Sethuraman from Google coming to speak about the Go Programming Language, and Andy Croll of ImpulseFlyer coming to speak about Test Driven Development. These talks will both be held at the Ngee Ann Kongsi Auditorium. 
 
 (The Ngee Ann Kongsi Auditorium is the large red-stone auditorium above NUS University Town's Starbucks &mdash; which is, in turn, impossible to miss if you're around the area).
 

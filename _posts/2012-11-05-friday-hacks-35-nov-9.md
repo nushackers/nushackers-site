@@ -7,7 +7,7 @@ comments: true
 categories: [Friday Hacks]
 
 ---
-<img class="alignleft  wp-image-2782" style="margin: 5px;" title="main-qimg-f61a4d3c922757b1f5f354f28f4c3558" src="http://nushackers.org/wp-content/uploads/2012/11/main-qimg-f61a4d3c922757b1f5f354f28f4c3558.png" alt="" width="168" height="168" />
+<img class="alignleft  wp-image-2782" style="margin: 5px;" title="main-qimg-f61a4d3c922757b1f5f354f28f4c3558" src="/res//2012/11/main-qimg-f61a4d3c922757b1f5f354f28f4c3558.png" alt="" width="168" height="168" />
 
 This week we have Quora, a Silicon Valley startup, coming to NUS for recruitment purposes, and Winston Teo from {new context} on Software Engineering as a career choice.
 
@@ -36,6 +36,6 @@ Winston is an Alumni of NUS School of Computing, class of 2006. He started his c
 
 Please sign up at <a href="http://bit.ly/quora-tech-talk">http://bit.ly/quora-tech-talk</a> Seats are limited!
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="http://nushackers.org/fridayhacks/">http://nushackers.org/fridayhacks/</a>
-For more info on NUS Hackers, See: <a href="http://nushackers.org/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="http://nushackers.org/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">http://nushackers.org/fridayhacks/</a>
+For more info on NUS Hackers, See: <a href="/about">http://nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>

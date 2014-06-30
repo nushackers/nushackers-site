@@ -7,7 +7,7 @@ comments: true
 categories: [Essay]
 
 ---
-<em>This was adapted from a short introduction I did at the beginning of <a href="http://nushackers.org/2011/02/learning-ruby-the-fun-way/">CodeCom 2011</a>. Intended purpose: to introduce people to NUS Hackers, seeing as we had recently undergone a name change. I thought I'd put it up here, as well, just so we're clear.</em>
+<em>This was adapted from a short introduction I did at the beginning of <a href="/2011/02/learning-ruby-the-fun-way/">CodeCom 2011</a>. Intended purpose: to introduce people to NUS Hackers, seeing as we had recently undergone a name change. I thought I'd put it up here, as well, just so we're clear.</em>
 
 Just two days ago, the School of Computing sent all of us in NUS an email:
 <blockquote><strong>Title:</strong> The Hacker's New Target: Your Internet Application
@@ -17,7 +17,7 @@ Oh, were we displeased by that! There was some talk on the mailing list of atten
 
 Anyway, I'm here to tell you a bit about what we do, and maybe a little bit of what hacking is, so you don't go home and tell your friends: 'oh, I just went to CodeCom 2011; it was organized by this bunch of evil hackers.'
 
-<a href="http://nushackers.org/wp-content/uploads/2011/02/5438767458_54be3241d8_b.jpeg"><img class="aligncenter size-full wp-image-1497" title="5438767458_54be3241d8_b" src="http://nushackers.org/wp-content/uploads/2011/02/5438767458_54be3241d8_b.jpeg" alt="" width="1024" height="768" /></a>
+<a href="/res//2011/02/5438767458_54be3241d8_b.jpeg"><img class="aligncenter size-full wp-image-1497" title="5438767458_54be3241d8_b" src="/res//2011/02/5438767458_54be3241d8_b.jpeg" alt="" width="1024" height="768" /></a>
 <h3>What We Do</h3>
 What we do at NUS Hackers is simple: we work to spread the hacker culture. And of course nobody - not even the hackers - take this culture too seriously, but it's important for a couple of reasons.
 
@@ -25,7 +25,7 @@ What we do at NUS Hackers is simple: we work to spread the hacker culture. And o
 
 The simplest explanation for hacking is: 'playful cleverness.' Like you're writing this big chunk of code, and I take a look at it and reduce it to 3 lines. It's clever because I've reduced it, but it's playful because I had the audacity to question the way you thought about your code -  and take a step back to think about it.
 
-(Okay I realize that's a terrible analogy. A better explanation of what hacking is can be found <a href="http://nushackers.org/hackerdefined">here</a>)
+(Okay I realize that's a terrible analogy. A better explanation of what hacking is can be found <a href="/hackerdefined">here</a>)
 <h3>Hypothesis #1</h3>
 There are two hypotheses that drives what we do at NUS Hackers. Two main values, if you will. The first is this:
 <blockquote><strong>Every great innovation in the history of computing has happened because of a hacker, or a hacker community.</strong></blockquote>
@@ -33,27 +33,27 @@ There is an exception  (as Div has pointed out to me): I'm talking about practic
 
 Alright - if you don't believe me - very quickly:
 
-<a href="http://nushackers.org/wp-content/uploads/2011/02/linus.gif"><img class="aligncenter size-full wp-image-1514" title="linus" src="http://nushackers.org/wp-content/uploads/2011/02/linus.gif" alt="" width="312" height="314" /></a>
+<a href="/res//2011/02/linus.gif"><img class="aligncenter size-full wp-image-1514" title="linus" src="/res//2011/02/linus.gif" alt="" width="312" height="314" /></a>
 
 Linux. Linux was created by this 21 year old kid, Linus Torvalds, because he was bored and he wanted to read news in a terminal in his bedroom.
 
-<a href="http://nushackers.org/wp-content/uploads/2011/02/steve-jobs-steve-wozniak-blue-box.jpg"><img class="aligncenter size-full wp-image-1513" title="steve-jobs-steve-wozniak-blue-box" src="http://nushackers.org/wp-content/uploads/2011/02/steve-jobs-steve-wozniak-blue-box.jpg" alt="" width="344" height="285" /></a>
+<a href="/res//2011/02/steve-jobs-steve-wozniak-blue-box.jpg"><img class="aligncenter size-full wp-image-1513" title="steve-jobs-steve-wozniak-blue-box" src="/res//2011/02/steve-jobs-steve-wozniak-blue-box.jpg" alt="" width="344" height="285" /></a>
 
 Steve Jobs and Steve Wozniak were members of the Homebrew Computer Club, and they started out selling hacker blue boxes.
 
-<a href="http://nushackers.org/wp-content/uploads/2011/02/20080121-young-bill-gates.jpg"><img class="aligncenter size-full wp-image-1515" title="20080121-young-bill-gates" src="http://nushackers.org/wp-content/uploads/2011/02/20080121-young-bill-gates.jpg" alt="" width="490" height="337" /></a>
+<a href="/res//2011/02/20080121-young-bill-gates.jpg"><img class="aligncenter size-full wp-image-1515" title="20080121-young-bill-gates" src="/res//2011/02/20080121-young-bill-gates.jpg" alt="" width="490" height="337" /></a>
 
 Bill Gates had been programming since high school, with a bunch of friends who were all mad about it. He would climb out of his bedroom window at 3am in the morning and sneak to the University of Washington to use the faculty computers.
 
-<a href="http://nushackers.org/wp-content/uploads/2011/01/nerdpol-ken-den.jpg"><img class="size-large wp-image-1296" title="Ken Thompson and Dennis Ritchie" src="http://nushackers.org/wp-content/uploads/2011/01/nerdpol-ken-den-1024x819.jpg" alt="Ken Thompson and Dennis Ritchie at the PDP-11 in 1972" height="511" /></a>
+<a href="/res//2011/01/nerdpol-ken-den.jpg"><img class="size-large wp-image-1296" title="Ken Thompson and Dennis Ritchie" src="/res//2011/01/nerdpol-ken-den-1024x819.jpg" alt="Ken Thompson and Dennis Ritchie at the PDP-11 in 1972" height="511" /></a>
 
 Ken Thompson and Dennis Ritchie - that's them at the PDP-10 there. Ken Thompson was sick to death of working on the Multics operating system, so he decided to write this portable OS called Unix instead. And as a result we got the Unix design of operating systems, and we got GNU, and we got the C programming language.
 
-<a href="http://nushackers.org/wp-content/uploads/2011/02/tim_berners-lee_cern_1993.jpg"><img class="aligncenter size-full wp-image-1516" title="tim_berners-lee_cern_1993" src="http://nushackers.org/wp-content/uploads/2011/02/tim_berners-lee_cern_1993.jpg" alt="" width="800" height="513" /></a>
+<a href="/res//2011/02/tim_berners-lee_cern_1993.jpg"><img class="aligncenter size-full wp-image-1516" title="tim_berners-lee_cern_1993" src="/res//2011/02/tim_berners-lee_cern_1993.jpg" alt="" width="800" height="513" /></a>
 
 CERN was the lab where the world wide web was built. And while the Internet wasn't a hacker-initiated project, it was built by hackers, and the Internet as we know it today was the result of this hacker who got bored and wondered what would happen if he sent an electronic message through the early network. And so we got email.
 
-<a href="http://nushackers.org/wp-content/uploads/2011/02/mark_zuckerberg_facebook-540x315.jpg"><img class="aligncenter size-full wp-image-1517" title="mark_zuckerberg_facebook-540x315" src="http://nushackers.org/wp-content/uploads/2011/02/mark_zuckerberg_facebook-540x315.jpg" alt="" width="540" height="315" /></a>
+<a href="/res//2011/02/mark_zuckerberg_facebook-540x315.jpg"><img class="aligncenter size-full wp-image-1517" title="mark_zuckerberg_facebook-540x315" src="/res//2011/02/mark_zuckerberg_facebook-540x315.jpg" alt="" width="540" height="315" /></a>
 
 Mark Zuckerberg was a hacker. Before Facebook he wrote this MP3 player to select music based on what you liked, and he gave it away for free, online. Why? Because he was bored.
 

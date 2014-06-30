@@ -23,7 +23,7 @@ We said yes.
 
 We haven't fully worked out the details of this project, but we <em>are</em> already thinking about the organizational structure needed to make this work. Whatever we write - it would be open source, and it'd likely also be reusable for many of the organizations who are in need of some web software.
 
-But the best thing about this is that it makes <em>perfect sense</em>. It's in line with <a href="http://nushackers.org/why">why we're doing all these things</a> at NUS Hackers, and whatever good comes of it will outlive the current coreteam. Plus:
+But the best thing about this is that it makes <em>perfect sense</em>. It's in line with <a href="/why">why we're doing all these things</a> at NUS Hackers, and whatever good comes of it will outlive the current coreteam. Plus:
 <ul>
 	<li><strong>You benefit.</strong> Anyone can join up - submit code, or report issues. And managing an open-source project is sure to be an eye-opening experience (one that's just as valid in the real world as the traditional software development cycle taught in the sterile conditions of school). Plus it's fun, plus everyone involved has<a href="http://www.aaronboodman.com/2010/10/wherein-i-help-you-get-good-job.html"> working code that helps when you're looking for a job</a>.</li>
 	<li><strong>We benefit.</strong> We're interested in spreading the hacker culture. What better way to do that than to build things together?</li>

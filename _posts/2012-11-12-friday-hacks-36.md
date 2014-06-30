@@ -10,7 +10,7 @@ categories: [Uncategorized]
 This Friday, Palantir will be coming to NUS to give a recruiting talk. Food will be served after the talk, and a <strong>Nexus 7 giveaway </strong>will be held for one lucky registrant at the end of the event.
 
 To sign up for this talk, and to apply for job opportunities at Palantir, please register at this link: <a href="http://bit.ly/palantir-sg-2012" target="_blank">http://bit.ly/palantir-<wbr>sg-2012</wbr></a>
-<p style="text-align: center;"><a href="http://nushackers.org/wp-content/uploads/2012/11/palantir-2012-NUS.png"><img class="size-large wp-image-2804 aligncenter" title="palantir-2012-NUS" src="http://nushackers.org/wp-content/uploads/2012/11/palantir-2012-NUS-791x1024.png" alt="" width="640" height="828" /></a></p>
+<p style="text-align: center;"><a href="/res//2012/11/palantir-2012-NUS.png"><img class="size-large wp-image-2804 aligncenter" title="palantir-2012-NUS" src="/res//2012/11/palantir-2012-NUS-791x1024.png" alt="" width="640" height="828" /></a></p>
 
 <div>
 <div><strong>Date/Time:</strong> Friday, November 16 at 7.00pm</div>
@@ -33,4 +33,4 @@ Please sign up for this talk at: <a href="http://bit.ly/palantir-sg-2012" targe
 
 =============
 
-This event is run as part of NUS Hackers's Friday Hacks series. To learn more about us, visit <a href="http://nushackers.org/" target="_blank">http://nushackers.org/</a>
+This event is run as part of NUS Hackers's Friday Hacks series. To learn more about us, visit <a href="/" target="_blank">http://nushackers.org/</a>
