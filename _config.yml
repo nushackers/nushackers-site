@@ -2,6 +2,8 @@ name: NUS Hackers
 description: >
   Linux, Open Source Software, and the Hacker Culture
 markdown: redcarpet
+redcarpet:
+  extensions: [autolink]
 highlighter: pygments
 permalink: /:year/:month/:title
 paginate: 10
