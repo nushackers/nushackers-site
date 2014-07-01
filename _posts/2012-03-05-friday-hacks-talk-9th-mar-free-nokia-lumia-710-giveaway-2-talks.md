@@ -11,7 +11,7 @@ categories: [Events, Friday Hacks]
 
 <strong></strong><strong>"Sync, Sink, Sync"</strong> by Mohit Singh Kanwal, NUS Student
 <div>
-<div><img src="/res//2012/03/2012-03-02_211700.png" alt="Inline image 1" /></div>
+<div><img src="/res/2012/03/2012-03-02_211700.png" alt="Inline image 1" /></div>
 </div>
 <div>This week we have a Nokia Lumia 710 giveaway, courtesy of Nokia Singapore :D
 It will be given out via lucky draw during the talk itself.</div>

@@ -7,7 +7,7 @@ comments: true
 categories: [Meetings]
 
 ---
-<a href="/res//2012/02/image00.jpeg"><img src="/res//2012/02/image00.jpeg" alt="A picture of the Go Gopher, mascot of the Go Programming Language, with a rabbit." title="Go Gopher" width="640" height="430" class="aligncenter size-full wp-image-2102" /></a>
+<a href="/res/2012/02/image00.jpeg"><img src="/res/2012/02/image00.jpeg" alt="A picture of the Go Gopher, mascot of the Go Programming Language, with a rabbit." title="Go Gopher" width="640" height="430" class="aligncenter size-full wp-image-2102" /></a>
 
 For tomorrow's <a href="/fridayhacks/">Friday Hacks</a> (10th February 2012) we will have Kailash Sethuraman from Google coming to speak about the Go Programming Language, and Andy Croll of ImpulseFlyer coming to speak about Test Driven Development. These talks will both be held at the Ngee Ann Kongsi Auditorium. 
 

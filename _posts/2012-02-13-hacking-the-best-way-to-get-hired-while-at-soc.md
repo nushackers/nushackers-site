@@ -7,7 +7,7 @@ comments: true
 categories: [Essay]
 
 ---
-<a href="/res//2011/12/MelvinZhangFH.jpg"><img src="/res//2011/12/MelvinZhangFH-1024x575.jpg" alt="Melvin Zhang at NUS Hackers weekly meeting, speaking about Solving Computer Science Problems" title="MelvinZhangFH" width="640" height="359" class="alignleft size-large wp-image-2111" /></a>
+<a href="/res/2011/12/MelvinZhangFH.jpg"><img src="/res/2011/12/MelvinZhangFH-1024x575.jpg" alt="Melvin Zhang at NUS Hackers weekly meeting, speaking about Solving Computer Science Problems" title="MelvinZhangFH" width="640" height="359" class="alignleft size-large wp-image-2111" /></a>
 <br/>
 If you're a School of Computing student, you've probably been told that the best way to get good at programming is to 'just keep practicing'.
 

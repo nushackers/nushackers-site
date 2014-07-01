@@ -14,7 +14,7 @@ categories: [Events, Friday Hacks]
 <div>
 <div>
 <div>
-<div><a href="/res//2012/03/Lamborghini_Murcielago_Roadster.jpg"><img class="alignnone" title="Lamborghini" src="/res//2012/03/Lamborghini_Murcielago_Roadster.jpg" alt="" width="539" height="300" /></a></div>
+<div><a href="/res/2012/03/Lamborghini_Murcielago_Roadster.jpg"><img class="alignnone" title="Lamborghini" src="/res/2012/03/Lamborghini_Murcielago_Roadster.jpg" alt="" width="539" height="300" /></a></div>
 </div>
 </div>
 </div>
@@ -73,7 +73,7 @@ Applied Cognitive Science was founded to apply new discoveries in the cognitive 
 <div>
 <div>
 <div>
-<div><a href="/res//2012/03/Thinkie-XSmall.jpg"><img class="alignnone" title="thinkie" src="/res//2012/03/Thinkie-XSmall.jpg" alt="" width="400" height="300" /></a></div>
+<div><a href="/res/2012/03/Thinkie-XSmall.jpg"><img class="alignnone" title="thinkie" src="/res/2012/03/Thinkie-XSmall.jpg" alt="" width="400" height="300" /></a></div>
 </div>
 </div>
 </div>

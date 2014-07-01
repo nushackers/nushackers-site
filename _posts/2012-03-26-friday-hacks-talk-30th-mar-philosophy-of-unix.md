@@ -7,7 +7,7 @@ comments: true
 categories: [Events, Friday Hacks]
 
 ---
-<span style="font-family: arial,helvetica,sans-serif;"><a href="/res//2012/03/unix_plate.jpg"><img class="alignnone size-full wp-image-2481" title="unix_plate" src="/res//2012/03/unix_plate.jpg" alt="" width="397" height="201" /></a>
+<span style="font-family: arial,helvetica,sans-serif;"><a href="/res/2012/03/unix_plate.jpg"><img class="alignnone size-full wp-image-2481" title="unix_plate" src="/res/2012/03/unix_plate.jpg" alt="" width="397" height="201" /></a>
 </span>
 <div></div>
 <div>

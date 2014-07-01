@@ -34,6 +34,6 @@ This friday, we have a talk by the awesome Beng Eu about he built NUSMods. See y
 
 Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
 
-<a href="/res//2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img alt="" src="/res//2013/10/ETP-logo-full-color-vertical-to-be-used-300x247.jpg" width="180" height="148" /></a><a href="/res//2013/10/ida.png"><img alt="" src="/res//2013/10/ida-300x280.png" width="146" height="136" /></a>
+<a href="/res/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img alt="" src="/res/2013/10/ETP-logo-full-color-vertical-to-be-used-300x247.jpg" width="180" height="148" /></a><a href="/res/2013/10/ida.png"><img alt="" src="/res/2013/10/ida-300x280.png" width="146" height="136" /></a>
 
 If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg

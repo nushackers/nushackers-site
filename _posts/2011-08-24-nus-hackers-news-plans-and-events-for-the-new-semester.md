@@ -53,7 +53,7 @@ Every Friday from here on to the Reading Week we will have regular meetings call
 	<li><strong>2-4 workshops in the same vein as the Hack Workshop Series last year</strong>. Potential speakers and topics include open source contributing, Agile Software Development (possibly by Pivotal Labs), and UNIX know-how. Status: still in the planning stages; one or two workshops confirmed.</li>
 </ul>
 <h3>Other Activities</h3>
-We are <strong>building a cluster</strong> this semester, for fun (and, well, to learn). This project will be under the direction of coreteam member Shan. We currently have a number of donated computers from a High School, transported with help from Hackerspace.sg, lying around in our clubroom, and awaiting eager volunteers.<img class="alignleft size-full wp-image-1683" style="margin-left: -20em; padding: 5px;" title="RAM Chips" src="/res//2011/08/01cc52f78a711301b817c1385234c570.jpg" alt="" width="816" height="612" />
+We are <strong>building a cluster</strong> this semester, for fun (and, well, to learn). This project will be under the direction of coreteam member Shan. We currently have a number of donated computers from a High School, transported with help from Hackerspace.sg, lying around in our clubroom, and awaiting eager volunteers.<img class="alignleft size-full wp-image-1683" style="margin-left: -20em; padding: 5px;" title="RAM Chips" src="/res/2011/08/01cc52f78a711301b817c1385234c570.jpg" alt="" width="816" height="612" />
 
 <p><strong>Geekcamp 2011</strong> - this year's Geekcamp 2011 would be held tentatively on the 1st of October, at Microsoft. NUS Hackers will be attending, and we intend to help source student speakers from NUS, as well as running publicity to the campus crowd.</p>
 
