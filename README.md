@@ -58,6 +58,6 @@ $ python gen_fh.py
 
 It will ask for you name (as the author), and generates the md file in `_posts`. Now go ahead and add in more details to the post.
 
-## Final word
+## Final words
 
 If you dislike any part of this website, just clone it and push your change! Make sure you update `READEME.md`, though, or the octopus will be really pissed off.
