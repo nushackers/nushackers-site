@@ -5,7 +5,7 @@ This is the source code of the nushackers blog site http://nushackers.org.
 
 ## Requirement
 
-This website is built with jekyll, so if you want to make changes to the templates or structures of the site, please read about <a href="http://jekyllrb.com">jekyll</a> first. But if you are just modifying the data or updating/adding a post, you can simply follow the guide below.
+This website is built with jekyll, so if you want to make changes to the templates or structures of the site, please first read about <a href="http://jekyllrb.com">jekyll</a>. But if you are just going to modify the data or update/add a post, you can simply follow the guide below.
 
 ## Getting started
 
@@ -27,7 +27,7 @@ jekyll will now generate the site and watch the directory and update the site wh
 
 ## Updating data
 
-First, because jekyll is written in the hipster language ruby, it also uses <a href="http://en.wikipedia.org/wiki/YAML">yaml</a> as the markup for data. It's really simple (and non-mainstream), so just read about it first.
+First, since jekyll is written in the hipster language ruby, it also uses <a href="http://en.wikipedia.org/wiki/YAML">yaml</a> as the markup for data. It's really simple (and non-mainstream), so just read about it first.
 
 With some knowledge of yaml, you can take a look at the `_data` folder - it contains the data for displaying the Friday hacks in the index page, coreteam memebers in the `/about` page and coreteam alumni in the `/alumni` page. More details below:
 
@@ -45,7 +45,7 @@ It also contains a field `start_date` which should be the date-time of the first
 
 ## Updating posts
 
-About write posts: http://jekyllrb.com/docs/posts/
+About writing posts: http://jekyllrb.com/docs/posts/
 
 If you are write those generic posts about Friday hacks, please use the script  `_script/gen_fh.py` - yep, it's in Python yay! So install Python first.
 
