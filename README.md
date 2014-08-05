@@ -1,7 +1,7 @@
 nushackers-site
 ====================
 
-This is the source code of the nushackers blog site http://nushackers.org.
+Sup! This is the source code of the nushackers blog site http://nushackers.org.
 
 ## Requirement
 
