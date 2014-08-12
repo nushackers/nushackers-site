@@ -16,8 +16,7 @@
                 <div>
                 {% if topic.speakers %}
                     {% for speaker in topic.speakers %}
-                        <strong>{{ speaker.speaker }}</strong>
-                            {% if speaker.from %}<span>({{ speaker.from }})</span>{% endif %}{% unless forloop.last %}, {% endunless %}
+                        <strong>{{ speaker.speaker }}</strong>{% if speaker.from %}<span> ({{ speaker.from }})</span>{% endif %}{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 {% else %}
                     <strong>{{ topic.speaker }}</strong>
