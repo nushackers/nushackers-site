@@ -7,7 +7,9 @@
         {{ date | date: "%s" | plus: 604800 | date: "%b %d, %Y %I:%M %p +0800"}}
     {% endcapture %}
     {% if hack.nohack %}
-        <em>{{ hack.nohack }}, no Friday Hacks</em>
+        <div>
+            <em>{{ hack.nohack }}, no Friday Hacks</em>
+        </div>
     {% elsif hack.topics %}
         {% for topic in hack.topics %}
             <div>
