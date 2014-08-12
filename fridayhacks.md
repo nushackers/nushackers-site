@@ -15,20 +15,18 @@ notes: |
     <li>Title of your talk.</li>
     <li>Date you want to speak.</li></ul>
 
-    <p>Remember to check <a href="/fh">this semester's schedule</a> and pick an available slot.</p>     
+    <p>Remember to check <a href="/fh">this semester's schedule</a> and pick an available slot.</p>
 ---
 <big>Our weekly Friday meetings are called Friday Hacks. They include one or two technical talks, followed by a hacking session. The idea is simple: get people to come share their hacks, research, or technical knowledge with the programmer community in NUS.</big>
 
-We invite up to 2 people to speak at each meeting. Talks are usually 20-30 minutes long.
+We have up to 2 talks at each session, talks are usually 30-45 minutes long. Dinner is always served (usually pizza). Food is served at 6:30pm, talks start at 7pm.
 
-Dinner is always served (usually Canadian pizza). Food is served at 6:30pm, talks start at 7pm.
-
-<img src="http://farm7.static.flickr.com/6060/6213498348_421755d52b.jpg" alt="Friday Hacks #4" width="500" height="375" /><img src="http://farm7.static.flickr.com/6188/6131470651_613b675a79.jpg" alt="IMG_1263" width="500" height="375" />
+<img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1625758_670117986379971_865975277_n.jpg?oh=c636d2e3a3d39ffd6cc217c0d521203e&oe=5464290A&__gda__=1417724041_115aa4eed447920dd1dd832316af287c" alt="Friday Hacks #68" width="500" height="300" />
 <h2>Speaker FAQ</h2>
-<strong>When and where do Friday Hacks happen?</strong>
-Friday Hacks happen every Friday at 6:30pm in Seminar Room 2, level 2 of the Education Resource Centre, University Town, National University of Singapore. Here's a <a href="/res/2011/12/fridayhacksmap.gif">map</a>.
+<strong>When and where do Friday Hacks happen?</strong><br>
+Friday Hacks happen every Friday at 6:30pm in Seminar Room 4, level 2 of Town Plaza, University Town, National University of Singapore.
 
-<iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=education+resource+centre&amp;aq=&amp;sll=1.305672,103.772687&amp;sspn=0.002912,0.004823&amp;ie=UTF8&amp;hq=education+resource+centre&amp;hnear=&amp;t=m&amp;cid=13777841204977805871&amp;ll=1.315583,103.776083&amp;spn=0.034323,0.04283&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=education+resource+centre&amp;aq=&amp;sll=1.305672,103.772687&amp;sspn=0.002912,0.004823&amp;ie=UTF8&amp;hq=education+resource+centre&amp;hnear=&amp;t=m&amp;cid=13777841204977805871&amp;ll=1.315583,103.776083&amp;spn=0.034323,0.04283&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.391669932642!2d103.77345183769684!3d1.3050782076378924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1af5ddd373f5%3A0x2b75d563936352f2!2sCREATE+Tower%2C+Create+Way%2C+Singapore!5e0!3m2!1sen!2sus!4v1407857937047" width="500" height="300" frameborder="0" style="border:0"></iframe><br /><small><a href="https://goo.gl/maps/PYzUn" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 <strong>How do I get there from outside campus/Where can I park?</strong>
 The closest MRT station is at Clementi. Take either the 96 from the bus interchange (which is at Clementi mall) towards Singapore Polytechnic, and get off 3 bus stops later. (You may also take bus 183 from the MRT station, but bus frequency for 183 is low). As for parking: you may park at a small parking lot at UTown opposite New Town Secondary School, along Dover road.
