@@ -25,7 +25,7 @@ with open('../_data/friday_hacks.yml', 'r') as fin:
         print "Dude semester's over"
         quit()
 
-    if not next_hack.get('speaker'):
+    if not next_hack.get('topics'):
         print "Dude no hackz"
         quit()
 
@@ -58,6 +58,11 @@ author: {author}
 
 {{% include friday_hack_header.html %}}
 
+'''.format(num=num,
+           now=datetime.today(),
+           month=next_date.strftime("%B"),
+           day=next_date.day,
+           author=name) + '\n'.join(['''
 ### {talk_name}
 
 #### Talk Description:
@@ -68,19 +73,14 @@ author: {author}
 
 --- describe ----
 
-'''.format(num=num,
-           now=datetime.today(),
-           month=next_date.strftime("%B"),
-           day=next_date.day,
-           talk_name=next_hack['title'],
-           author=name)
+'''.format(talk_name=topic['title']) for topic in next_hack['topics']])
 
     filename = '../_posts/{now}-friday-hacks-{num}-{month}-{day}.md'.format(
-            now=next_date.strftime("%Y-%m-%d"),
-            num=num,
-            month=next_date.strftime('%b'),
-            day=next_date.day,
-        )
+        now=next_date.strftime("%Y-%m-%d"),
+        num=num,
+        month=next_date.strftime('%b'),
+        day=next_date.day,
+    )
 
     with open(filename, 'a') as fout:
         fout.write(content)
