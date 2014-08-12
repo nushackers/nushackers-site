@@ -1,8 +1,11 @@
-<ul class="clear-list">
+<ul class="clear-list fh-list">
 {% assign date = site.data.friday_hacks.start_date %}
 {% for hack in site.data.friday_hacks.hacks %}
 <li>
     <time>{{ date | date: "%b %-d" }}</time>
+    {% if hack.venue %}
+        <div><small><i>{{ hack.venue }}</i></small></div>
+    {% endif %}
     {% capture date %}
         {{ date | date: "%s" | plus: 604800 | date: "%b %d, %Y %I:%M %p +0800"}}
     {% endcapture %}
@@ -13,7 +16,7 @@
     {% elsif hack.topics %}
         {% for topic in hack.topics %}
             <div>
-                <div>
+                <div class="no-margin">
                 {% if topic.speakers %}
                     {% for speaker in topic.speakers %}
                         <strong>{{ speaker.speaker }}</strong>{% if speaker.from %}<span> ({{ speaker.from }})</span>{% endif %}{% unless forloop.last %}, {% endunless %}
@@ -30,9 +33,6 @@
         {% endfor %}
     {% else %}
         <div>Slot is open()</div>
-    {% endif %}
-    {% if hack.venue %}
-        <div><small><i>{{ hack.venue }}</i></small></div>
     {% endif %}
 </li>
 {% endfor %}

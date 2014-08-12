@@ -1,3 +1,5 @@
+---
+---
 /*
 Theme Name: NUS Hackers Theme
 Theme URI: http://wordpress.org/extend/themes/toolbox/
@@ -106,7 +108,6 @@ ul.clear-list {
   color: #999;
   display: block;
   font-weight: bold;
-  margin-bottom: 15px;
   border-bottom: 1px dashed #CCC;
   padding-bottom: 5px;
 }
@@ -114,6 +115,10 @@ ul.clear-list {
 #right div {
   margin-bottom: 10px;
   line-height: 140%;
+
+  &.no-margin {
+    margin-bottom: 0;
+  }
 }
 
 #right div span {
