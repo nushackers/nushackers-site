@@ -1,75 +1,54 @@
 start_date: 2014-08-15 18:00:00 +0800
 hacks:
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
+  - venue: "Practice Room 1, Stephen Riady Centre (Level 3), UTown, NUS"
     topics:
       - speaker: Vishnu Prem
-        from: Twitter
-        title: "Climbing the corporate ladder - how I become the VP of twitter"
-      - speaker: Michael Yong
-        title: "Climbing the corporate ladder - how I become the VP of Google"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - topics:
-  - nohack: Good Friday
+        from: NUS Hackers
+        title: Introduction to NUS Hackers
+      - speakers:
+          - speaker: Eu Beng Hee
+            from: NUS Alumni
+          - speaker: Tay Yang Shun
+            from: NUS Student
+        title: "How to Level Up as a Developer: the Open Source Way"
   - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
     topics:
       - speakers:
-          - speaker: Cedric Ching
-            from: Apple
-          - speaker: Steve Jobs
-            from: IBM
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
+          - speaker: Jacob Soo
+          - speaker: Glenn Ng
+          - speaker: Ong Zhiyuan
+        from:
+        title: "Cheating at Games for Fun & Profit"
+      - speakers:
+          - speaker: Jacob Soo
+          - speaker: Glenn Ng
+          - speaker: Ong Zhiyuan
+        from:
+        title: "Poor Man's Android Malware Analysis"
+
   - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
     topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
-  - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Cedric Ching
-        from: NUS Student
-        title: "Product Analytics: Building Something People Want"
+      - speaker: Shan (NUS Alumni)
+        title: TBC
+  # - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
+  - topics:
+      - speaker: "Gérard Dupont (Airbus Defence & Space)"
+        title: TBC
+      - speaker: Kunal Kunseh (BNP Paribas)
+        title: TBC
+  - topics:
+      - speaker: Shamraz Anver (NUS Alumni)
+        title: TBC
+      - speaker: Shawn Tan (NUS Alumni)
+        title: TBC
+  - topics:
+  - nohack: Recess Week
+  - topics:
+    - speaker: "TBC (Palo Alto Networks)"
+      title: TBC
+  - topics:
+  - topics:
+  - topics:
+  - topics:
+  - topics:
+  - topics:
