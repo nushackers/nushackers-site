@@ -2,23 +2,36 @@
 {% assign date = site.data.friday_hacks.start_date %}
 {% for hack in site.data.friday_hacks.hacks %}
 <li>
-<time>{{ date | date: "%b %-d" }}</time>
-{% capture date %}
-    {{ date | date: "%s" | plus: 604800 | date: "%b %d, %Y %I:%M %p +0800"}}
-{% endcapture %}
-<div>
-{% if hack.nohack %}
-    <em>{{ hack.nohack }}, no Friday Hacks</em>
-{% elsif hack.speaker == null %}
-    <div>Slot is open()</div>
-{% else %}
-    <div><strong>{{ hack.speaker }}</strong> <span>({{ hack.from }})</span></div>
-    <div>{{ hack.title }}</div>
+    <time>{{ date | date: "%b %-d" }}</time>
+    {% capture date %}
+        {{ date | date: "%s" | plus: 604800 | date: "%b %d, %Y %I:%M %p +0800"}}
+    {% endcapture %}
+    {% if hack.nohack %}
+        <em>{{ hack.nohack }}, no Friday Hacks</em>
+    {% elsif hack.topics %}
+        {% for topic in hack.topics %}
+            <div>
+                <div>
+                {% if topic.speakers %}
+                    {% for speaker in topic.speakers %}
+                        <strong>{{ speaker.speaker }}</strong>{% if topic.from %}<span>({{ speaker.from }})</span>{% endif %}{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                {% else %}
+                    <strong>{{ topic.speaker }}</strong>
+                        {% if topic.from %}
+                            <span>({{ topic.from }})</span>
+                        {% endif %}
+                {% endif %}
+                </div>
+                <div>{{ topic.title }}</div>
+            </div>
+        {% endfor %}
+    {% else %}
+        <div>Slot is open()</div>
+    {% endif %}
     {% if hack.venue %}
         <div><small><i>{{ hack.venue }}</i></small></div>
     {% endif %}
-{% endif %}
-</div>
 </li>
 {% endfor %}
 </ul>
