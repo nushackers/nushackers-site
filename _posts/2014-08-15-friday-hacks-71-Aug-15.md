@@ -7,6 +7,9 @@ author: Joey
 
 For our first Friday Hack of AY2014/2015, we will have our Welcome Tea followed by an introduction to open source development by NUSMods creators, Beng and Yang Shun. See you there!
 
+{% capture venue %}
+    {{ 'Practice Room 1, Stephen Riady Centre (Level 3), UTown, NUS' }}
+{% endcapture %}
 {% include friday_hack_header.html %}
 
 

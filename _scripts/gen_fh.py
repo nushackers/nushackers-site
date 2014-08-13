@@ -56,13 +56,17 @@ author: {author}
 
 --- say something as introduction ---
 
+{{% capture venue %}}
+    {{{{ '{venue}' }}}}
+{{% endcapture %}}
 {{% include friday_hack_header.html %}}
 
 '''.format(num=num,
            now=datetime.today(),
            month=next_date.strftime("%B"),
            day=next_date.day,
-           author=name) + '\n'.join(['''
+           author=name,
+           venue=next_hack['venue']) + '\n'.join(['''
 ### {talk_name}
 
 #### Talk Description:
