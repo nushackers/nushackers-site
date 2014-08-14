@@ -8,45 +8,50 @@ hacks:
       - speakers:
           - speaker: Eu Beng Hee
             from: NUS Alumni
-          - speaker: Tay Yang Shun
+          - speaker: <br>Tay Yang Shun
             from: NUS Student
-        title: "How to Level Up as a Developer: the Open Source Way"
+        title: "How to Level Up as a Developer @ NUS"
   - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
     topics:
       - speakers:
           - speaker: Jacob Soo
           - speaker: Glenn Ng
-          - speaker: Ong Zhiyuan
-        from:
-        title: "Cheating at Games for Fun & Profit"
+          - speaker: "Ong Zhiyuan<br>"
+            from: "Research and Analysis Team, Singapore Infocomm Technology Security Authority, MHA"
+        title: "Playing CTF for Fun & Profit"
       - speakers:
           - speaker: Jacob Soo
           - speaker: Glenn Ng
-          - speaker: Ong Zhiyuan
-        from:
+          - speaker: "Ong Zhiyuan<br>"
+            from: "Research and Analysis Team, Singapore Infocomm Technology Security Authority, MHA"
         title: "Poor Man's Android Malware Analysis"
-
   - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
     topics:
-      - speaker: Shan (NUS Alumni)
+      - speaker: Shan
+        from: NUS Alumni
         title: TBC
   # - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
   - topics:
-      - speaker: "Gérard Dupont (Airbus Defence & Space)"
+      - speaker: "Gérard Dupont"
+        from: "Airbus Defence & Space"
         title: TBC
-      - speaker: Kunal Kunseh (BNP Paribas)
+      - speaker: Kunal Kunseh
+        from: BNP Paribas
         title: TBC
   - topics:
-      - speaker: Shamraz Anver (NUS Alumni)
+      - speaker: Shamraz Anver
+        from: NUS Alumni
         title: TBC
-      - speaker: Shawn Tan (NUS Alumni)
+      - speaker: Shawn Tan
+        from: NUS Alumni
         title: TBC
   - topics:
   - nohack: Recess Week
   - topics:
-    - speaker: "TBC (Palo Alto Networks)"
-      title: TBC
   - topics:
+    - speaker: Vicky Khan
+      from: Palo Alto Networks
+      title: TBC
   - topics:
   - topics:
   - topics:
