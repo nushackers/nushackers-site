@@ -28,8 +28,12 @@ Vishnu Prem is the current President of NUS Hackers, and has been heavily involv
 
 #### Talk Description:
 
-Learn more about open source development and find out how and why you should contribute!
+Level up faster as a developer with this one weird trick! (Or two or more..)
 
 #### Speakers' Profile
 
 Eu Beng Hee (more commonly just known as Beng) and Tay Yang Shun are the developers behind [NUSMods](http://nusmods.com/).
+
+Beng just graduated with a B.Comp. (Hons.) in Computer Science from NUS School of Computing and will be joining Google in August. He actually started university life with a double degree in Business and Computing in NTU, but transferred to NUS to concentrate solely on Computing. Beng founded NUSMods in 2012. More about him at [benghee.eu](http://benghee.eu).
+
+Yang Shun started university life as a mech engineer. He got turned off by mech engin mods and jumped ship after year 2 sem 1. Turning point of his life was when he took CS3217 in year 2 sem 2. After which, he went on NOC SV for a year, starting out as iOS developer then turned front end web developer. Took CS3216 in year 4 sem 1 and served as Head Tutor for CS1010S. He joined NUSMods in 2014.
