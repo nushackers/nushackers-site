@@ -16,18 +16,18 @@ hacks:
       - speakers:
           - speaker: Jacob Soo
           - speaker: Glenn Ng
-          - speaker: "Ong Zhiyuan<br>"
+          - speaker: "Damian Ong<br>"
             from: "Research and Analysis Team, Singapore Infocomm Technology Security Authority, MHA"
         title: "Playing CTF for Fun & Profit"
       - speakers:
           - speaker: Jacob Soo
           - speaker: Glenn Ng
-          - speaker: "Ong Zhiyuan<br>"
+          - speaker: "Damian Ong<br>"
             from: "Research and Analysis Team, Singapore Infocomm Technology Security Authority, MHA"
         title: "Poor Man's Android Malware Analysis"
   - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
     topics:
-      - speaker: Shan
+      - speaker: Shanmugam MPl
         from: NUS Alumni
         title: TBC
   # - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
