@@ -30,6 +30,8 @@ Vishnu Prem is the current President of NUS Hackers, and has been heavily involv
 
 Level up faster as a developer with this one weird trick! (Or two or more..)
 
+We’ll be sharing pointers and strategies on growing as a developer from our own experiences, and observations of others. These experiences come from working on open source projects, taking the killer modules in NUS, hackathons, etc.
+
 #### Speakers' Profile
 
 Eu Beng Hee (more commonly just known as Beng) and Tay Yang Shun are the developers behind [NUSMods](http://nusmods.com/).
