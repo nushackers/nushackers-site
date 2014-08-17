@@ -5,7 +5,7 @@ permalink: /code/
 notes: |
   <h3>In Support of Git</h3>
 
-  <p>We use Github to store and share our code. Github, in turn, is powered by Linus Torvald's Git - a <em>distributed</em> version control system. If you don't know how to use Git, and you're interested in learning it, we recommend that you read <a href="http://progit.org/book/">Pro Git</a> chapters 1-5, or <a href="/contact">request a workshop</a>.</p>
+  <p>We use Github to store and share our code. Github, in turn, is powered by Linus Torvald's Git - a <em>distributed</em> version control system. If you don't know how to use Git, and you're interested in learning it, there is an excellent tutorial from Github: <a href="https://try.github.io">https://try.github.io</a>. We also organize a git workshop every semester, together with other workshops on web development: <a href="http://school.nushackers.org">http://school.nushackers.org</a>.</p>
 ---
 We manage an <a href="https://github.com/nushackers/">nushackers git repository on github.com</a>. It contains things like <a href="https://github.com/nushackers/nushackers-site">source code of this web site</a> and <a href="https://github.com/nushackers/hackerschool">source code of our hackerschool website</a>. Free feel to clone/fork any of those or, even better, send us pull requests!
 
