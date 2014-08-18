@@ -4,26 +4,24 @@ title: Join Coreteam
 permalink: /join_coreteam/
 ---
 
-NUS Hackers is run group of student-volunteers, the coreteam. Our long term goal is to build a healthy community of passionate hackers in NUS. We think that this benefits everyone: professors can source for good programmers; startups and tech companies are able to recruit from a central pool; students get to meet and learn from like-minded peers (and get opportunities, i.e. from professors and tech companies). 
+NUS Hackers is run by a group of student volunteers - the coreteam. Our long term goal is to build a healthy community of passionate hackers in NUS. We think that this benefits everyone: start-ups, tech companies, and professors have a central pool from which to find good programmers, and students have an easy way to meet/learn from like-minded peers. 
 
 ## What we do
 
-We run several events regularly:
+Here's a brief overview of everything we run:
 
 - Friday Hacks
-- Hacker School
+- hackerschool
 - Hack&Roll
-- look after/maintain Download@NUS (an upcoming webapp and mirror for various open source projects)
+- Download@NUS https://download.nus.edu.sg
 - NUS Hackerspace
 
-## How we are structured
-We call ourselves “coreteam” instead of “committee” because we have a flat structure. We have one extremely charismatic president, that’s all. The rest of us are team members, whose roles and responsibilities are assigned flexibly and on-demand.
+## How we're structured
+Coreteam is organised as a flat structure under a single president (instead of in a traditional committee/sub-committee hierarchy). Our roles and responsibilities are assigned flexibly, and as needed.
 
-## What we’re looking for
-* Understanding of our vision: our work, however significant we think, is mostly thankless - it will be difficult for you to carry on if you don’t believe in what we do
-* Reasonable level of commitment
+## What we look for
+* An understanding of our vision: a lot of what we do is thankless, and it may be easy to burn out unless you're really into the cause
+* A reasonable level of commitment: some things we do require quite a bit of time. That being said, we don't need you to be available all day everyday - we're pretty flexible with this.
 
 ## Want to join us?
-You can <a href="/contact/">email us</a>, or approach any one of us any time. We will then set up an informal interview with you - usually a chat with two members of coreteam over lunch to allow us to find out more about you. Things like why you want to join, what you have in mind and so on. So we recommend you take part in some of our events and check out our website before approaching us. It is of course also a chance for you to find out more about us, so feel free to ask any questions as well!
-
-And no, we don’t hold elections (except at the very rare incident when we can’t pick a president ;P).
+Just <a href="/contact/">email</a> or approach any one of us - we'll set up an interview to find out more about what you're interested in doing. This is usually an informal chat over lunch, so don't worry too much about it; it does help to take part in our events and check out the rest of this site beforehand, though. Feel free to ask any questions, too
