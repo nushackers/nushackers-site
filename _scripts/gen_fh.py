@@ -21,6 +21,7 @@ with open('../_data/friday_hacks.yml', 'r') as fin:
             next_hack = hack
             next_date = cur
             break
+        cur += timedelta(days=7)
     if not next_hack:
         print "Dude semester's over"
         quit()
@@ -33,7 +34,7 @@ with open('../_data/friday_hacks.yml', 'r') as fin:
 
     # so future-proof it's sick
     fhre = re.compile(
-        r'^20[0-9][0-9]-[01][0-9]-[0-3][0-9]-friday-hacks-([1-9][0-9]*)-[a-z]*-[0-9]+\.md$')
+        r'^20[0-9][0-9]-[01][0-9]-[0-3][0-9]-friday-hacks-([1-9][0-9]*)-[a-zA-z]*-[0-9]+\.md$')
 
     num = 0
     # so.. tempted... to... use lazy evaluation
