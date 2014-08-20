@@ -8,7 +8,7 @@ author: Joey
 This week's Friday Hacks is security themed! The Research and Analysis Team from the Singapore Infocomm Technology Security Authority will be here to give us two hands-on talks. See you there!
 
 {% capture venue %}
-    {{ 'SoC, NUS (Exact venue TBC)' }}
+    {{   'Video Conferencing Room, #02-13, COM1, 13 Computing Drive, NUS' }}
 {% endcapture %}
 {% include friday_hack_header.html %}
 
