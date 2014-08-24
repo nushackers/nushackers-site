@@ -1,6 +1,6 @@
 ---
 layout: friday_hack
-title: "Friday Hacks #74, August 29"
+title: "Friday Hacks #73, August 29"
 date: 2014-08-24 20:23:41.553253
 author: Joey
 ---
