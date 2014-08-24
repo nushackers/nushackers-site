@@ -7,7 +7,7 @@ hacks:
         title: Introduction to NUS Hackers
       - speakers:
           - speaker: Eu Beng Hee
-            from: NUS Alumni
+            from: NUS Alumnus
           - speaker: <br>Tay Yang Shun
             from: NUS Student
         title: "How to Level Up as a Developer @ NUS"
@@ -28,8 +28,8 @@ hacks:
   - venue: "Video Conferencing Room, #02-13, COM1, 13 Computing Drive, NUS"
     topics:
       - speaker: Shanmugam MPl
-        from: NUS Alumni
-        title: TBC
+        from: NUS Hackers Alumnus
+        title: Optimizing Underwater Modems and Other Hardware Fun!
   # - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
   - topics:
       - speaker: "Gérard Dupont"
@@ -40,10 +40,10 @@ hacks:
         title: TBC
   - topics:
       - speaker: Shamraz Anver
-        from: NUS Alumni
+        from: NUS Alumnus
         title: TBC
       - speaker: Shawn Tan
-        from: NUS Alumni
+        from: NUS Hackers Alumnus
         title: TBC
   - topics:
   - nohack: Recess Week
