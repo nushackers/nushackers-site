@@ -21,4 +21,4 @@ Shan will talk about the evaluation of various single board computers, analyze p
 
 #### Speaker Profile
 
-Shan, the hardware geek, is currently working at Subnero. He loves to tinker with his arduino and tear open anything that guzzles electricity and/or held by nuts&bolts. Shan is also a staunch advocate of open source software.
+Shan, the self-confessed hardware geek, is currently working at Subnero. He loves to tinker with his arduino and tear open anything that guzzles electricity and/or held by nuts&bolts. Shan is also a staunch advocate of open source software.
