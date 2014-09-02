@@ -30,11 +30,11 @@ hacks:
       - speaker: Shanmugam MPl
         from: Subnero
         title: Optimizing Underwater Modems and Other Hardware Fun!
-  # - venue: "Hackerspace, #02-09, AS6, 13 Computing Drive, NUS"
-  - topics:
+  - venue: "SR4, Town Plaza (Level 2), University Town, NUS"
+    topics:
       - speaker: "Gérard Dupont"
         from: "Airbus Defence & Space"
-        title: TBC
+        title: WebLab Platform for Semantic Media Mining
   - topics:
       - speaker: Shamraz Anver
         from: NUS Alumnus
