@@ -43,15 +43,31 @@ hacks:
       - speaker: Shawn Tan
         from: NUS Speech Recognition Group
         title: Machine Learning with scikit-learn
-  - topics:
+  - venue: "SR4, Town Plaza (Level 2), University Town, NUS"
+    topics:
+    - speaker:
+      title: TBC
   - nohack: Recess Week
   - topics:
+    - speaker:
+      title: TBC
   - topics:
     - speaker: Vicky Khan
       from: Palo Alto Networks
       title: TBC
   - topics:
+    - speaker:
+      title: TBC
   - topics:
+    - speaker: Chinmay
+      title: Build Your Own Noise Synthesizer
   - topics:
+    - speaker: TBC
+      from: Viki
+      title: TBC
   - topics:
+    - speaker:
+      title: TBC
   - topics:
+    - speaker:
+      title: TBC
