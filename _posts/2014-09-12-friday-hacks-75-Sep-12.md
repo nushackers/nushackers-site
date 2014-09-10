@@ -19,7 +19,7 @@ Learn about machine learning this week! Shamraz will share about using ML in geo
 
 Intelligence is increasingly associated with computers, but historically computers derived their power from blind obedience and speed.  What is this artificial intelligence and ‘big data’ that we hear so much about? How do machine learning techniques like neural networks and decision trees work?
 
-In the second part, I discuss the use of machine learning in geography and how they differ from the alternative: process-based conceptual models. I focus on my own research on a river in the mountains of northern thailand. I show how I use machine learning to fill gaps in river flow data using environmental data such as spatial rainfall and how wet the soil is.
+In the second part, Shamraz discusses the use of machine learning in geography and how they differ from the alternative: process-based conceptual models. He focuses on his research on a river in the mountains of northern thailand. Shamraz will show how he uses machine learning to fill gaps in river flow data using environmental data such as spatial rainfall and how wet the soil is.
 
 #### Speaker Profile
 
