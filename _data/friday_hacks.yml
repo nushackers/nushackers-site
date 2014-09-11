@@ -45,7 +45,8 @@ hacks:
         title: Machine Learning with scikit-learn
   - venue: "SR4, Town Plaza (Level 2), University Town, NUS"
     topics:
-    - speaker:
+    - speaker: Michael Yong
+      from: NUS Student
       title: TBC
   - nohack: Recess Week
   - topics:
@@ -54,6 +55,9 @@ hacks:
   - topics:
     - speaker: Vicky Khan
       from: Palo Alto Networks
+      title: TBC
+    - speaker: Jeremias Wong
+      from: NUS Student
       title: TBC
   - topics:
     - speaker:
@@ -66,7 +70,8 @@ hacks:
       from: Viki
       title: TBC
   - topics:
-    - speaker:
+    - speaker: TBC
+      from: NUS Bumblebee Autonomous Underwater Vehicle
       title: TBC
   - topics:
     - speaker:
