@@ -45,13 +45,16 @@ hacks:
         title: Machine Learning with scikit-learn
   - venue: "SR4, Town Plaza (Level 2), University Town, NUS"
     topics:
-    - speaker: Michael Yong
-      from: NUS Student
-      title: TBC
+    - speaker:
+      title: Code Golf
   - nohack: Recess Week
   - topics:
-    - speaker:
-      title: TBC
+    - speaker: Michael Yong
+      from: NUS Student
+      title: Internships 101
+    - speaker: Yao Yujian
+      from: NUS Student
+      title: The Dropbox Experience
   - topics:
     - speaker: Vicky Khan
       from: Palo Alto Networks
