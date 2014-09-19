@@ -63,7 +63,8 @@ hacks:
       from: NUS Student
       title: TBC
   - topics:
-    - speaker:
+    - speaker: TBC
+      from: Palantir
       title: TBC
   - topics:
     - speaker: Chinmay
