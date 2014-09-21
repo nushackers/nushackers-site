@@ -49,12 +49,9 @@ hacks:
       title: Code Golf
   - nohack: Recess Week
   - topics:
-    - speaker: Michael Yong
-      from: NUS Student
-      title: Internships 101
-    - speaker: Yao Yujian
-      from: NUS Student
-      title: The Dropbox Experience
+    - speaker: TBC
+      from: NUS Bumblebee Autonomous Underwater Vehicle
+      title: TBC
   - topics:
     - speaker: Vicky Khan
       from: Palo Alto Networks
@@ -67,16 +64,19 @@ hacks:
       from: Palantir
       title: TBC
   - topics:
-    - speaker: Chinmay
-      title: Build Your Own Noise Synthesizer
+    - speaker: Michael Yong
+      from: NUS Student
+      title: Internships 101
+    - speaker: Yao Yujian
+      from: NUS Student
+      title: The Dropbox Internship Experience
   - topics:
     - speaker: TBC
       from: Viki
       title: TBC
   - topics:
-    - speaker: TBC
-      from: NUS Bumblebee Autonomous Underwater Vehicle
-      title: TBC
+    - speaker: Chinmay
+      title: Build Your Own Noise Synthesizer
   - topics:
     - speaker:
       title: TBC
