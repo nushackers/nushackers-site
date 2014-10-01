@@ -48,10 +48,11 @@ hacks:
     - speaker:
       title: Code Golf
   - nohack: Recess Week
-  - topics:
-    - speaker: TBC
+  - venue: "SR3, Town Plaza (Level 2), University Town, NUS"
+    topics:
+    - speaker: Alex John
       from: NUS Bumblebee Autonomous Underwater Vehicle
-      title: TBC
+      title: Building Autonomous Underwater Vehicles
   - topics:
     - speaker: Vicky Khan
       from: Palo Alto Networks
