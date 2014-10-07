@@ -61,7 +61,8 @@ hacks:
     - speaker: Jeremias Wong
       from: NUS Student
       title: Inappropriate Applications of NFC
-  - topics:
+  - venue: "LT50, Stephen Riady Centre (Level 1), University Town, NUS"
+    topics:
     - speaker: Kevin Lee
       from: Palantir Technologies
       title: PUSH - Solve hard problems. Ship great product. See your impact.
