@@ -1,4 +1,4 @@
-﻿- name: Vishnu
+- name: Vishnu
   description: |
     a CS student who's interested in too many things at once. You can learn
     absolutely nothing more about him at his website <a
@@ -63,8 +63,3 @@
 - name: Jeremias
   description: |
     a Computer Engineering undergraduate who loves electronics, music and philosophy.
-
-- name: Chu-Ming
-  description: |
-    an Electrical Engineering undergraduate with an interest in Computer Science.
-    <em>More about him at</em> <a href="changchuming.github.io">changchuming.github.io</a>.
