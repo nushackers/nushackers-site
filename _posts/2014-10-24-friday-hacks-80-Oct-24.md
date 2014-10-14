@@ -16,8 +16,6 @@ Get all your questions about internships answered at next week's Friday Hacks! T
 
 #### Talk Description:
 
-You've probably read about tech internships and all their various perks. Heck, you've probably even seen a movie about it. Now's the time to _live_ it. This talk will address all the questions you've ever had about internships and help you on your way to getting one.
-
 #### Speaker Profile
 Michael is a Year 4 Computer Science student from NUS, who previously did internships at Google and Quora.
 
