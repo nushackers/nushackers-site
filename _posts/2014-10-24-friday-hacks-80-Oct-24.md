@@ -24,7 +24,7 @@ Michael is a Year 4 Computer Science student from NUS, who previously did intern
 ### The Dropbox Internship Experience
 
 #### Talk Description:
-Most of you just know Dropbox as a file-sharing tool. Dropbox is actually one of the most interesting companies to join now - tech giants such as Microsoft, Apple, Google and Amazon compete with Dropbox! Find out Dropbox's measures to secure its competitivity, and what may lie in store for you as a would-be software engineer or researcher! Yujian will share about Dropbox's direction, and his experience as Dropbox intern.
+Most of you just know Dropbox as a file-sharing tool. Dropbox is actually one of the most interesting companies to join now - tech giants such as Microsoft, Apple, Google and Amazon compete with Dropbox! Find out Dropbox's measures to secure its competitiveness, and what may lie in store for you as a would-be software engineer or researcher! Yujian will share about Dropbox's direction, and his experience as Dropbox intern.
 
 #### Speaker Profile
 Yujian is a Year 3 Computer Science student from NUS, who interned at Dropbox.
