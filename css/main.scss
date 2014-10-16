@@ -41,6 +41,7 @@ ul.clear-list {
   list-style: none;
   padding: 0;
   margin: 0;
+  line-height: 140%;
 }
 
 
@@ -267,6 +268,7 @@ ul.clear-list {
 -------------------------------------------------------------- */
 article {
     margin-bottom: 30px;
+    line-height: 140%;
 }
 article li {
   margin-top: 1em;
@@ -348,14 +350,17 @@ h1 { margin: 3px 0px -5px; font-size: 23px;}
 a.subtle {text-decoration: none !important;}
 a.subtle:hover {color: #f8941d;}
 
-.front-h1 {
-  font-size: 30px;
+.front-header {
   border-bottom: 3px solid #000;
   margin-bottom: 20px;
   padding-bottom: 10px;
 }
 
-.front-h1 span {
+.front-h1 {
+  font-size: 30px;
+}
+
+.front-header .sub-header {
   color: #777;
   display: block;
   font-family: Helvetica, Arial sans-serif;
@@ -363,12 +368,17 @@ a.subtle:hover {color: #f8941d;}
   font-size: 15px;
   font-weight: normal;
   margin: 7px 0 0 0;
+
+  a {
+    color: #666;
+    text-decoration:underline;
+
+    &:hover {text-decoration:none;}
+  }
 }
 
 .front-h1 .artheader {margin-bottom: 25empx;}
 
-.front-h1 span a { color: #666; text-decoration:underline;}
-.front-h1 span a:hover {text-decoration:none;}
 #feature .entry-title a {
     font-size: 140%;
     line-height: 140%;

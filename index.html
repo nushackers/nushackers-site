@@ -5,16 +5,17 @@ isMainPage: true
 ---
 
 <div id="posts">
-<h1 class="front-h1">Articles<span>
-<ul class="clear-list">
-    <li>
-        <a href='http://school.nushackers.org'>hackerschool</a>: workshops for hackers &rarr;
-    </li>
-    <li>
-        <a href='http://code.nushackers.org'>Code@NUS</a>: Code repository for NUS students &rarr;
-    </li>
-</ul>
-</span></h1>
+<header class="front-header">
+    <h1 class="front-h1">Articles</h1>
+    <ul class="clear-list sub-header">
+        <li>
+            <a href='http://school.nushackers.org'>hackerschool</a>: workshops for hackers &rarr;
+        </li>
+        <li>
+            <a href='http://code.nushackers.org'>Code@NUS</a>: Code repository for NUS students &rarr;
+        </li>
+    </ul>
+</header>
 {% for post in site.posts limit: 5 %}
     <article>
         <header class="entry-header">
@@ -39,8 +40,14 @@ isMainPage: true
 </div><!--posts-->
 
 <div id="right">
-<h1 class="front-h1">Friday Hacks<span><a href="/sponsor">Supported</a> by NEC and IDA. <br/>Every Friday @ <a href="/fridayhacks">7pm SR4 Town Plaza, UTown</a></span></h1>
-    {% include friday_hacks.html %}
+<header class="front-header">
+    <h1 class="front-h1">Friday Hacks</h1>
+    <ul class="clear-list sub-header">
+        <li><a href="/sponsor">Supported</a> by NEC and IDA. </li>
+        <li>Every Friday @ <a href="/fridayhacks">7pm SR4 Town Plaza, UTown</a></li>
+    </ul>
+</header>
+{% include friday_hacks.html %}
 </div>
 
 <div id="leftbar">
