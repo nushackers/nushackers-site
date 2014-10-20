@@ -24,7 +24,7 @@ We have up to 2 talks at each session, talks are usually 30-45 minutes long. Din
 <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1625758_670117986379971_865975277_n.jpg?oh=c636d2e3a3d39ffd6cc217c0d521203e&oe=5464290A&__gda__=1417724041_115aa4eed447920dd1dd832316af287c" alt="Friday Hacks #68" width="500" height="300" />
 <h2>Speaker FAQ</h2>
 <strong>When and where do Friday Hacks happen?</strong><br>
-Friday Hacks happen every Friday at 6:30pm in Seminar Room 4, level 2 of Town Plaza, University Town, National University of Singapore.
+Friday Hacks happen every Friday at 6:30pm in Seminar Room 3, level 2 of Town Plaza, University Town, National University of Singapore.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.391669932642!2d103.77345183769684!3d1.3050782076378924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1af5ddd373f5%3A0x2b75d563936352f2!2sCREATE+Tower%2C+Create+Way%2C+Singapore!5e0!3m2!1sen!2sus!4v1407857937047" width="500" height="300" frameborder="0" style="border:0"></iframe><br /><small><a href="https://goo.gl/maps/PYzUn" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
