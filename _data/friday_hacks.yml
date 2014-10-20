@@ -66,14 +66,16 @@ hacks:
     - speaker: Kevin Lee
       from: Palantir Technologies
       title: PUSH - Solve hard problems. Ship great product. See your impact.
-  - topics:
+  - venue: "SR3, Town Plaza (Level 2), University Town, NUS"
+    topics:
     - speaker: Michael Yong
       from: NUS Student
       title: Internships 101
     - speaker: Yao Yujian
       from: NUS Student
       title: The Dropbox Internship Experience
-  - topics:
+  - venue: "SR3, Town Plaza (Level 2), University Town, NUS"
+    topics:
     - speaker: Mark
       from: Viki
       title: In Murphy('s Law) We Trust
