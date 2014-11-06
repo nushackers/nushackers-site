@@ -12,7 +12,7 @@ There's more to hacking than software – get started with electronics at this F
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-### Introduction to Electronics
+### Start Your Electronics Journey
 
 #### Talk Description
 Every so often, a device comes along that changes the way we live our daily lives and things are never the same again. With today's digital technology, such devices may come more frequently than in the past - personal gadgets you cannot live without. What’s inside? What makes it tick? How do you find out? In this sharing, Mark will provide an introduction to hardware hacking and why it matters, going through some quick tips on getting cosy with hardware to find out what makes it tick.
@@ -20,7 +20,7 @@ Every so often, a device comes along that changes the way we live our daily live
 #### Speaker Profile
 Mark is the founder of Bazinga! A technology development and prototyping company that builds gadgets from ideas. An engineer since birth, because if you can dream it, think it - you can build it.t
 
-### Make Your Own Noise Synthesizer!
+### Build Your Own Noise Synthesizer!
 
 #### 'Talk' Description
 How better to get started with electronics than to... actually get started! Chinmay and friends will guide all of you through creating your own noise synthesizers. This workshop is simple and targeted at absolute beginners, so don't worry about having never done hardware hacking before. Kits are provided* free-of-charge.
