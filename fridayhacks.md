@@ -21,7 +21,8 @@ notes: |
 
 We have up to 2 talks at each session, talks are usually 30-45 minutes long. Dinner is always served (usually pizza). Food is served at 6:30pm, talks start at 7pm.
 
-<img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1625758_670117986379971_865975277_n.jpg?oh=c636d2e3a3d39ffd6cc217c0d521203e&oe=5464290A&__gda__=1417724041_115aa4eed447920dd1dd832316af287c" alt="Friday Hacks #68" width="500" height="300" />
+<img src="http://i.imgur.com/sEBVHCx.jpg" alt="Friday Hacks #71" width="525" height="350" />
+
 <h2>Speaker FAQ</h2>
 <strong>When and where do Friday Hacks happen?</strong><br>
 Friday Hacks happen every Friday at 6:30pm in Seminar Room 3, level 2 of Town Plaza, University Town, National University of Singapore.
