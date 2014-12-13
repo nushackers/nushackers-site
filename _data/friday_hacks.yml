@@ -1,92 +1,16 @@
-start_date: 2014-08-15 18:00:00 +0800
+start_date: 2015-01-16 18:00:00 +0800
 hacks:
-  - venue: "Practice Room 1, Stephen Riady Centre (Level 3), UTown, NUS"
-    topics:
-      - speaker: Vishnu Prem
-        from: NUS Hackers
-        title: Introduction to NUS Hackers
-      - speakers:
-          - speaker: Eu Beng Hee
-            from: NUS Alumnus
-          - speaker: <br>Tay Yang Shun
-            from: NUS Student
-        title: "How to Level Up as a Developer @ NUS"
-  - venue: "Video Conferencing Room, #02-13, COM1, 13 Computing Drive, NUS"
-    topics:
-      - speakers:
-          - speaker: Jacob Soo
-          - speaker: Glenn Ng
-          - speaker: "Damian Ong<br>"
-            from: "Research and Analysis Team, Singapore Infocomm Technology Security Authority, MHA"
-        title: "Playing CTF for Fun & Profit"
-      - speakers:
-          - speaker: Jacob Soo
-          - speaker: Glenn Ng
-          - speaker: "Damian Ong<br>"
-            from: "Research and Analysis Team, Singapore Infocomm Technology Security Authority, MHA"
-        title: "Poor Man's Android Malware Analysis"
-  - venue: "Video Conferencing Room, #02-13, COM1, 13 Computing Drive, NUS"
-    topics:
-      - speaker: Shanmugam MPl
-        from: Subnero
-        title: Optimizing Underwater Modems and Other Hardware Fun!
-  - venue: "SR4, Town Plaza (Level 2), University Town, NUS"
-    topics:
-      - speaker: "Gérard Dupont"
-        from: "Airbus Defence & Space"
-        title: WebLab Platform for Semantic Media Mining
-  - venue: "SR4, Town Plaza (Level 2), University Town, NUS"
-    topics:
-      - speaker: Shamraz Anver
-        from: NUS Tembusu College
-        title: Machine Learning and Environmental Modelling
-      - speaker: Shawn Tan
-        from: NUS Speech Recognition Group
-        title: Machine Learning with scikit-learn
-  - venue: "SR4, Town Plaza (Level 2), University Town, NUS"
-    topics:
-    - speaker:
-      title: Code Golf
+  - venue: "Venue TBC"
+  - venue: "Venue TBC"
+  - venue: "Venue TBC"
+  - venue: "Venue TBC"
+  - venue: "Venue TBC"
+  - nohack: Chinese New Year (Public Holiday)
   - nohack: Recess Week
-  - venue: "SR3, Town Plaza (Level 2), University Town, NUS"
-    topics:
-    - speaker: Alex John
-      from: NUS Bumblebee Autonomous Underwater Vehicle
-      title: Building Autonomous Underwater Vehicles
-  - venue: "SR3, Town Plaza (Level 2), University Town, NUS"
-    topics:
-    - speaker: Vicky Khan
-      from: Palo Alto Networks
-      title: Tales of an InfoStealer
-    - speaker: Jeremias Wong
-      from: NUS Student
-      title: Inappropriate Applications of NFC
-  - venue: "LT50, Stephen Riady Centre (Level 1), University Town, NUS"
-    topics:
-    - speaker: Kevin Lee
-      from: Palantir Technologies
-      title: PUSH - Solve hard problems. Ship great product. See your impact.
-  - venue: "SR3, Town Plaza (Level 2), University Town, NUS"
-    topics:
-    - speaker: Michael Yong
-      from: NUS Student
-      title: Internships 101
-    - speaker: Yao Yujian
-      from: NUS Student
-      title: The Dropbox Internship Experience
-  - venue: "SR3, Town Plaza (Level 2), University Town, NUS"
-    topics:
-    - speaker: Mark
-      from: Viki
-      title: In Murphy('s Law) We Trust
-  - topics:
-    - speaker: Mark Wong
-      from: OMG Bazinga
-      title: TBC
-    - speaker: Chinmay
-      title: Build Your Own Noise Synthesizer
-  - topics:
-    - speaker: You
-      title: Lightning Talks
-    - speaker: ???
-      title: Mystery Event
+  - venue: "Venue TBC"
+  - venue: "Venue TBC"
+  - venue: "Venue TBC"
+  - venue: "Venue TBC"
+  - nohack: Good Friday (Public Holiday)
+  - venue: "Venue TBC"
+  - venue: "Venue TBC"
