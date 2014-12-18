@@ -5,6 +5,10 @@ hacks:
   - venue: "Venue TBC"
   - venue: "Venue TBC"
   - venue: "Venue TBC"
+    topics:
+      - speaker: Sayanee Basu
+      - from: webuild.sg / Build Podcast
+      - title: Getting Involved in the Developer Community
   - nohack: Chinese New Year (Public Holiday)
   - nohack: Recess Week
   - venue: "Venue TBC"
