@@ -1,6 +1,10 @@
 start_date: 2015-01-16 18:00:00 +0800
 hacks:
   - venue: "Venue TBC"
+    topics:
+      - speaker: Benjamin Tan Wei Hao
+      - from: Neo Innovation, Inc
+      - title: TBC
   - venue: "Venue TBC"
   - venue: "Venue TBC"
   - venue: "Venue TBC"
