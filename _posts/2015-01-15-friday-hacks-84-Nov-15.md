@@ -2,7 +2,7 @@
 layout: friday_hack
 title: "Friday Hacks #84, January 16"
 date: 2015-01-13 16:10:25
-author: Jingwen 
+author: Jingwen
 ---
 
 Welcome back! For the first Friday Hacks of the semester, we have Benjamin Tan,
@@ -13,6 +13,8 @@ language named Elixir, and what interesting things can be done with it.
     {{ 'LT15, AS6, National University of Singapore' }}
 {% endcapture %}
 {% include friday_hack_header.html %}
+
+Facebook Event link: https://www.facebook.com/events/858661884184469/
 
 #### Talk description from the speaker
 Lately, I've been consumed with learning and writing about Elixir, functional
@@ -31,7 +33,7 @@ speaker.
 
 He has spoken at major conferences such as RubyConf in San Diego, GeekCamp SG
 and RedDotRubyConf Singapore. He's also an open source contributor working with
-projects like Rails, Elixir, Spree and the Phoenix Framework. 
+projects like Rails, Elixir, Spree and the Phoenix Framework.
 
 Recently, he has been working on The Little Elixir Guidebook
 (http://www.exotpbook.com), which will be published in the near future. Some of
