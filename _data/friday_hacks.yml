@@ -6,6 +6,10 @@ hacks:
       - from: Neo Innovation, Inc
       - title: Getting a sip of Elixir
   - venue: LT15 @ AS6
+    topics:
+      - speaker: Sundaravalli Shriram
+      - from: PayPal Inc.
+      - title: Functional Programming Basics in Scala
   - venue: "Venue TBC"
   - venue: "Venue TBC"
   - venue: "Venue TBC"
