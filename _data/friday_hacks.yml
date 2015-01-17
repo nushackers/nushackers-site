@@ -11,6 +11,10 @@ hacks:
       - from: PayPal Inc.
       - title: Functional Programming Basics in Scala
   - venue: "Venue TBC"
+    topics:
+      - speaker: Cedric Chin
+      - from: Floating Cube Studios
+      - title: The Absolute Minimum Every Software Developer Needs To Know About Database Indexes
   - venue: "Venue TBC"
   - venue: "Venue TBC"
     topics:
