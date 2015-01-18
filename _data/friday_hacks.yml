@@ -29,11 +29,11 @@ hacks:
       - title: TBC
   - nohack: eLearning Week
   - venue: "Venue TBC"
-  - venue: "Venue TBC"
     topics:
       - speaker: Winston Teo
       - from: Jolly Good Code
       - title: TBC
+  - venue: "Venue TBC"
   - nohack: Good Friday (Public Holiday)
   - venue: "Venue TBC"
   - venue: "Venue TBC"
