@@ -13,7 +13,7 @@ introduction to functional programming in Scala. See you there!
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBA
+Facebook Event link: https://www.facebook.com/events/778300145578508
 
 #### Talk description
 
