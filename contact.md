@@ -9,8 +9,7 @@ notes: |
 
 If you want to get in touch with us, feel free to send us a message via our email `coreteam [at] nushackers [fullstop] org`
 
-This is ideal for things like: you’d like to request a workshop, you’d like us
-to maintain some code, you’d like to do a guest post on our site, you have
+This is ideal for things like: you’d like to request a workshop, you’d like to do a guest post on our site, you have
 further questions about our membership and organization. For general discussion,
 or to interact with community members, we recommend you go to our [Discussion page](/discussion/).
 
