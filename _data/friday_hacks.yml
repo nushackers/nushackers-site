@@ -3,36 +3,39 @@ hacks:
   - venue: LT15 @ AS6
     topics:
       - speaker: Benjamin Tan Wei Hao
-      - from: Neo Innovation, Inc
-      - title: Getting a sip of Elixir
+        from: Neo Innovation, Inc
+        title: Getting a sip of Elixir
   - venue: LT15 @ AS6
     topics:
       - speaker: Sundaravalli Shriram
-      - from: PayPal Inc.
-      - title: Functional Programming Basics in Scala
-  - venue: "Venue TBC"
+        from: PayPal Inc.
+        title: Functional Programming Basics in Scala
+  - venue: "LT 15"
     topics:
       - speaker: Cedric Chin
-      - from: Floating Cube Studios
-      - title: The Absolute Minimum Every Software Developer Needs To Know About Database Indexes
+        from: Floating Cube Studios
+        title: The Absolute Minimum Every Software Developer Needs To Know About Database Indexes
+      - speaker: Cedric Honnet
+        from: twiz.io
+        title: TWI, a Bluetooth Low Energy Wireless Motion Sensor (Hardware project talk)
   - venue: "Venue TBC"
   - venue: "Venue TBC"
     topics:
       - speaker: Sayanee Basu
-      - from: webuild.sg / Build Podcast
-      - title: Getting Involved in the Developer Community
+        from: webuild.sg / Build Podcast
+        title: Getting Involved in the Developer Community
   - nohack: Chinese New Year (Public Holiday)
   - nohack: Recess Week
   - venue: "Venue TBC"
     topics:
       - speaker: Li Hongyi
-      - title: TBC
+        title: TBC
   - nohack: eLearning Week
   - venue: "Venue TBC"
     topics:
       - speaker: Winston Teo
-      - from: Jolly Good Code
-      - title: TBC
+        from: Jolly Good Code
+        title: TBC
   - venue: "Venue TBC"
   - nohack: Good Friday (Public Holiday)
   - venue: "Venue TBC"
