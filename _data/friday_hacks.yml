@@ -17,7 +17,7 @@ hacks:
         title: The Absolute Minimum Every Software Developer Needs To Know About Database Indexes
       - speaker: Cedric Honnet
         from: twiz.io
-        title: TWI, a Bluetooth Low Energy Wireless Motion Sensor (Hardware project talk)
+        title: TWI, a Bluetooth Low Energy Wireless Motion Sensor
   - venue: "Venue TBC"
     topics:
       - speaker: Jacob Soo
