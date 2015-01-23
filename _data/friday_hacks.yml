@@ -10,7 +10,7 @@ hacks:
       - speaker: Sundaravalli Shriram
         from: PayPal Inc.
         title: Functional Programming Basics in Scala
-  - venue: "LT 15"
+  - venue: "(Tentative) NUS Hackerspace, AS6-02-09"
     topics:
       - speaker: Cedric Chin
         from: Floating Cube Studios
@@ -19,6 +19,10 @@ hacks:
         from: twiz.io
         title: TWI, a Bluetooth Low Energy Wireless Motion Sensor (Hardware project talk)
   - venue: "Venue TBC"
+    topics:
+      - speaker: Jacob Soo
+        from: Singapore Infocomm Technology Security Authority
+        title: TBC
   - venue: "Venue TBC"
     topics:
       - speaker: Sayanee Basu
