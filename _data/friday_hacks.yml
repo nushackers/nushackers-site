@@ -41,6 +41,10 @@ hacks:
         from: Jolly Good Code
         title: TBC
   - venue: "Venue TBC"
+    topics:
+      - speaker: Shawn Tan
+        from: NUS
+        title: TBC
   - nohack: Good Friday (Public Holiday)
   - venue: "Venue TBC"
   - venue: "Venue TBC"
