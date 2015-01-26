@@ -14,7 +14,7 @@ are the chances? See you there!
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBA
+Facebook Event link: https://www.facebook.com/events/1630037577224179/ 
 
 ### The Absolute Minimum Every Software Developer Needs To Know About Database Indexes by Cedric Chin
 
