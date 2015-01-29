@@ -44,7 +44,11 @@ hacks:
   - nohack: Good Friday (Public Holiday)
   - venue: "Venue TBC"
     topics:
-      - speaker: Jacob Soo
-        from: Singapore Infocomm Technology Security Authority
+      - speaker: Jacob Soo, Damian Ong, Glenn Ng
+        from: Ministry of Home Affairs
         title: Web Developers’ Nightmare
   - venue: "Venue TBC"
+    topics:
+      - speaker: TBC
+        from: MyRepublic
+        title: TBC
