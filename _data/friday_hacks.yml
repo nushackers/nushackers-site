@@ -19,6 +19,10 @@ hacks:
         from: twiz.io
         title: TWI, a Bluetooth Low Energy Wireless Motion Sensor
   - venue: "Venue TBC"
+    topics:
+      - speaker: Shawn Tan
+        from: NUS
+        title: TBC
   - venue: "Venue TBC"
     topics:
       - speaker: Sayanee Basu
@@ -37,10 +41,6 @@ hacks:
         from: Jolly Good Code
         title: TBC
   - venue: "Venue TBC"
-    topics:
-      - speaker: Shawn Tan
-        from: NUS
-        title: TBC
   - nohack: Good Friday (Public Holiday)
   - venue: "Venue TBC"
     topics:
