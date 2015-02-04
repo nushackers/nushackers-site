@@ -12,7 +12,7 @@ This week's topic will be on an introduction to deep learning and neural network
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBA
+Facebook Event link: https://www.facebook.com/events/660494384072897
 
 ### Deep Learning
 
