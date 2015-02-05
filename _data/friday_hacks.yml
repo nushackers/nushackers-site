@@ -41,6 +41,10 @@ hacks:
         from: Jolly Good Code
         title: TBC
   - venue: "Venue TBC"
+    topics:
+      - speaker: TBC
+        from: Zalora
+        title: TBC
   - nohack: Good Friday (Public Holiday)
   - venue: "Venue TBC"
     topics:
