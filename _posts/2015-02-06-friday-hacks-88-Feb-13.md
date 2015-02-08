@@ -13,7 +13,7 @@ start? Come down to Friday Hacks this week to learn about it!
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBA
+Facebook Event link: https://www.facebook.com/events/411879552308839
 
 ### 20 Ways to Get Involved with the Developer Community
 
