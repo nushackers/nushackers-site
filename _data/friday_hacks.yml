@@ -30,7 +30,7 @@ hacks:
         title: Getting Involved in the Developer Community
   - nohack: Chinese New Year (Public Holiday)
   - nohack: Recess Week
-  - venue: "Venue TBC"
+  - venue: "SR3, Town Plaza, UTown"
     topics:
       - speaker: Li Hongyi
         from: IDA
@@ -39,7 +39,7 @@ hacks:
         from: Dropbox
         title: "Unruly Creatures: The Web Platform at Dropbox"
   - nohack: eLearning Week
-  - venue: "Venue TBC"
+  - venue: "SR3, Town Plaza, UTown"
     topics:
       - speaker: Winston Teo
         from: Jolly Good Code
@@ -47,7 +47,7 @@ hacks:
       - speaker: Duy Nguyen Truong
         from: NUS
         title: Apache Thrift at Facebook
-  - venue: "Venue TBC"
+  - venue: "SR3, Town Plaza, UTown"
     topics:
       - speaker: TBC
         from: Zalora
