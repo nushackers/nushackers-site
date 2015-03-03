@@ -6,7 +6,7 @@ author: Jingwen
 ---
 
 We're happy to have Haoyi, an engineer from Dropbox, speaking this week about the web
-infrastructure at Dropbox. See 
+infrastructure at Dropbox. See you there!
 
 {% capture venue %}
     {{ 'SR3, Town Plaza, UTown' }}
