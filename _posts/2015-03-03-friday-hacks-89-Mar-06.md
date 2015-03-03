@@ -13,7 +13,7 @@ infrastructure at Dropbox. See you there!
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBC
+Facebook Event link: https://www.facebook.com/events/1411988652437251
 
 ### Unruly Creatures: The Web Platform at Dropbox
 
