@@ -32,9 +32,6 @@ hacks:
   - nohack: Recess Week
   - venue: "SR3, Town Plaza, UTown"
     topics:
-      - speaker: Li Hongyi
-        from: IDA
-        title: TBC
       - speaker: Li Haoyi
         from: Dropbox
         title: "Unruly Creatures: The Web Platform at Dropbox"
