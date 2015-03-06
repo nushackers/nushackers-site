@@ -32,6 +32,9 @@ hacks:
   - nohack: Recess Week
   - venue: "SR3, Town Plaza, UTown"
     topics:
+      - speaker: Li Hongyi
+        from: IDA 
+        title: "Optimizing Bus Routes with Data Analytics"
       - speaker: Li Haoyi
         from: Dropbox
         title: "Unruly Creatures: The Web Platform at Dropbox"
