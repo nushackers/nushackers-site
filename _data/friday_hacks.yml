@@ -49,9 +49,9 @@ hacks:
         title: Apache Thrift at Facebook
   - venue: "SR3, Town Plaza, UTown"
     topics:
-      - speaker: TBC
-        from: Zalora
-        title: TBC
+      - speaker: Chris Forno 
+        from: ZALORA Group 
+        title: 'Purely Functional Deployments with Nix: Hacking on "Web Scale" Applications'
       - speaker: Omer Iqbal
         from: Garena Singapore
         title: Functional Reactive Programming in iOS
