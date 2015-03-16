@@ -33,7 +33,7 @@ hacks:
   - venue: "SR3, Town Plaza, UTown"
     topics:
       - speaker: Li Hongyi
-        from: IDA 
+        from: IDA
         title: "Optimizing Bus Routes with Data Analytics"
       - speaker: Li Haoyi
         from: Dropbox
@@ -43,14 +43,14 @@ hacks:
     topics:
       - speaker: Winston Teo
         from: Jolly Good Code
-        title: TBC
+        title: Building Developer Communities
       - speaker: Duy Nguyen Truong
         from: NUS
         title: Apache Thrift at Facebook
   - venue: "SR3, Town Plaza, UTown"
     topics:
-      - speaker: Chris Forno 
-        from: ZALORA Group 
+      - speaker: Chris Forno
+        from: ZALORA Group
         title: 'Purely Functional Deployments with Nix: Hacking on "Web Scale" Applications'
       - speaker: Omer Iqbal
         from: Garena Singapore
