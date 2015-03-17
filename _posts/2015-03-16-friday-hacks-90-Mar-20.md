@@ -19,7 +19,7 @@ p.s. There will be a Facebook swag giveaway!
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBC
+Facebook Event link: https://www.facebook.com/events/352761291599919/
 
 ### Building Developer Communities
  
