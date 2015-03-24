@@ -15,7 +15,7 @@ OSX.
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBC
+Facebook Event link: https://www.facebook.com/events/1436223633336896/
 
 ### Purely Functional Deployments with Nix: Hacking on "Web Scale" Applications
  
