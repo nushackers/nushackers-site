@@ -13,7 +13,7 @@ Jacob, Glenn and Damian -- speaking about Web Security this week. See you!
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBC
+Facebook Event link: https://www.facebook.com/events/356672161209020/
 
 ### Web Developers' Nightmare
  
