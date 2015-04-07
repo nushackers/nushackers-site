@@ -27,7 +27,7 @@ Topics covered ranges from design mistakes to implementation mistakes. Common se
 
 Jacob Soo - Head of Research and Analysis Team
 
-Jacob’s responsibilities include analyzing malware and carrying out security research. He is also known for his work on Android Reversing, reporting security bugs to companies and playing CTF with some famous teams during his free time. Here, he served as head of software security and was in charge of the malware analysis framework and is responsible for both monitoring the regional malware situation and in-depth analysis of cyber incidents.
+Jacob's responsibilities include analyzing malware and carrying out security research. He is also known for his work on Android Reversing. Here, he served as head of software security and was in charge of the malware analysis framework and is responsible for both monitoring the regional malware situation and in-depth analysis of cyber incidents.
 
 Damian Ong - Senior Security Researcher, Research and Analysis Team
 
