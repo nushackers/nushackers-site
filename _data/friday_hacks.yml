@@ -63,9 +63,9 @@ hacks:
         title: Web Developers’ Nightmare
   - venue: "Venue TBC"
     topics:
-      - speaker: TBC
+      - speaker: Matthieu Feulvarch
         from: MyRepublic
-        title: TBC
+        title: Teleport, an Intelligent Routing Service
       - speaker: Melvin Zhang
         from: Cosmiqo International
-        title: Why the Y combinator and not U?
+        title: Functional Programming from First Principles
