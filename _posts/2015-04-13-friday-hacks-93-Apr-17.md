@@ -12,7 +12,7 @@ For the final Friday Hacks of the semester, we'll be having Melvin Zhang, lead a
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBC
+Facebook Event link: https://www.facebook.com/events/1569158963362746/ 
 
 ### Teleport, an Intelligent Routing Service
 
