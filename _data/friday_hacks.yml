@@ -5,6 +5,10 @@ hacks:
       - speaker: NUS Hackers
       - title: Welcome Tea 
   - venue: Venue TBC
+    topics:
+      - speaker: Ong Jiin Joo
+        from: Garuda Robotics
+        title: TBC
   - venue: Venue TBC
   - venue: Venue TBC
   - venue: Venue TBC
