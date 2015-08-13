@@ -2,8 +2,8 @@
   description: |
     a CS student who's interested in too many things at once. You can learn
     absolutely nothing more about him at his website <a
-    href="http://vishnuprem.com">vishnuprem.com</a>, but you should follow him
-    on <a href="http://twitter.com/burnflare">twitter</a>; He's contactable at
+    href="http://vishnuprem.com">vishnuprem.com</a>, but you can follow him
+    on <a href="http://twitter.com/burnflare">twitter</a>. He's contactable at
     vishnu@nushackers.org
 
 - name: Benedict 
@@ -11,26 +11,11 @@
     a Computer Science undergraduate with interests in Software Engineering. You
     can reach him at benedict@nushackers.org
 
-- name: Michael
-  description: |
-    a Computer Science undergraduate. <em>More about him at</em> <a
-    href="http://ymichael.com">ymichael.com</a>.
-
-- name: Jerome
-  description: |
-    a Computer Science undergraduate. <em>More about him at</em> <a
-    href="http://www.ayulin.net" target="_blank">ayulin.net</a>.
-
 - name: Pallav
   description: |
-    a Computer Science undergraduate and AI enthusiast. <em>More about him
-    at</em> <a title="Pallav's homepage"
-    href="http://pshinghal.com">pshinghal.com</a>.
-
-- name: Camillus
-  description: |
-    a Computer Science undergraduate interested in information security.
-    <em>More about him at</em> <a href="http://www.qxcg.net/">qxcg.net</a>.
+    a Computer Science undergraduate and AI/algorithms enthusiast. <em>More
+    about him at</em> <a title="Pallav's homepage"
+    href="https://pshinghal.com">pshinghal.com</a>.
 
 - name: Yujian
   description: |
@@ -52,7 +37,7 @@
 
 - name: Joey
   description: |
-      a Computer Science undergraduate.
+    a Computer Science undergraduate.
 
 - name: Stacey
   description: |
@@ -73,5 +58,3 @@
   description: |
     a Computer Science undergraduate. Loves drum & bass and spends a little too much time on reddit.
     <em>His personal site is at</em> <a href="http://jin.crypt.sg">jin.crypt.sg</a>.
-
-
