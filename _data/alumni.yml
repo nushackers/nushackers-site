@@ -18,6 +18,7 @@
     a Computer Engineering undergraduate who loves drinking language Koolaid.
     These days his passions include clojure hacking, Westerosi politics and
     cheap coffee.
+
 - name: Divyanshu Arora
   description: |
     a Computer Science undergraduate at NUS. His time is mostly split among web
@@ -66,3 +67,18 @@
     Singaporean geek scene, and is one of the organisers of <a
     href="http://geekcamp.sg">Geekcamp</a>. <em>More about him at</em> <a
     href="http://www.geeksphere.net">geeksphere.net</a>.
+
+- name: Michael
+  description: |
+    a Computer Science undergraduate. <em>More about him at</em> <a
+    href="http://ymichael.com">ymichael.com</a>.
+
+- name: Jerome
+  description: |
+    a Computer Science undergraduate. <em>More about him at</em> <a
+    href="http://www.ayulin.net" target="_blank">ayulin.net</a>.
+
+- name: Camillus
+  description: |
+    a Computer Science undergraduate interested in information security.
+    <em>More about him at</em> <a href="http://www.qxcg.net/">qxcg.net</a>.
