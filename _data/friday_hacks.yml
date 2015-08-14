@@ -13,6 +13,9 @@ hacks:
         title: TBC
   - venue: Venue TBC
   - venue: Venue TBC
+    topics:
+      - speaker: Yeo Kheng Meng
+        title: TBC
   - venue: Venue TBC
   - nohack: "Recess week"
   - venue: Venue TBC
