@@ -1,17 +1,21 @@
 start_date: 2015-08-21 18:00:00 +0800
 hacks:
-  - venue: School of Computing, Seminar Room 1 
+  - venue: School of Computing, Seminar Room 1
     topics:
       - speaker: NUS Hackers
-        title: Welcome Tea 
+        title: Welcome Tea
       - speaker: Melvin, Yang Shun, Erin, Yichen
         title: The Creation of NUSWhispers
-  - venue: Venue TBC
+  - venue: School of Computing, Seminar Room 2
     topics:
       - speaker: Ong Jiin Joo
         from: Garuda Robotics
-        title: Commercial Drone Applications and Technologies 
+        title: Commercial Drone Applications and Technologies
   - venue: Venue TBC
+    topics:
+      - speaker: Jeremias Wong
+        from: NUS Hackers
+        title: TBC
   - venue: Venue TBC
     topics:
       - speaker: Yeo Kheng Meng
