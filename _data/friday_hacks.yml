@@ -13,14 +13,25 @@ hacks:
         title: Commercial Drone Applications and Technologies
   - venue: Venue TBC
     topics:
+      - speaker: TBC
+        from: Jewel Paymentech
+        title: TBC
       - speaker: Jeremias Wong
         from: NUS Hackers
-        title: TBC
+        title: TBC (Lightning Talk)
   - venue: Venue TBC
     topics:
       - speaker: Yeo Kheng Meng
-        title: TBC
+        title: "NUS SoC Print on iOS & Introduction to Bluetooth Low Energy (BLE)"
+        from: NUS
   - venue: Venue TBC
+    topics: 
+      - speaker: Ryan Dao
+        from: PayPal
+        title: TBC
+      - speaker: TBC
+        from: GrabTaxi
+        title: TBC
   - nohack: "Recess week"
   - venue: Venue TBC
   - venue: Venue TBC
