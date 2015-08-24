@@ -10,7 +10,7 @@ author: Jingwen
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBC
+Facebook Event link: https://www.facebook.com/events/1618580021755297/
 
 ### Talk description
 
