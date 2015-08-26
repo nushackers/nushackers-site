@@ -19,7 +19,11 @@ layout: default
             <div class="entry-meta-single">
                 <span class="sep">Posted on </span><time class="entry-date" datetime="{{ page.date }}" pubdate>{{ page.date | date_to_string }}</time>
                 {% if page.author %}
+                    {% if page.author_link %}
+                    <span class="sep"> by </span> <a href="{{ page.author_link }}"><span class="author vcard">{{ page.author }}</span></a>
+                    {% else %}
                     <span class="sep"> by </span> <span class="author vcard">{{ page.author }}</span>    
+                    {% endif %}
                 {% endif %}
             </div>
             {% endif %}
