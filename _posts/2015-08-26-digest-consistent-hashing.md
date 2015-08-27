@@ -56,7 +56,8 @@ _I'm obviously glossing over a lot of the intricate details here but hopefully y
 
 ## Closing thoughts
 
-You'll find the technique of Consistent Hashing pretty prevalent in DHTs and on particular instance of this you might be familiar with is Facebook's [Cassandra][].
+You'll find the technique of Consistent Hashing pretty prevalent in DHTs and on
+    particular instance of this you might be familiar with is Apache's [Cassandra][].
 
 There are also some caveats to this, as you can imagine.
 
