@@ -14,6 +14,9 @@ hacks:
   - venue: Venue TBC
     topics:
       - speaker: TBC
+        from: GrabTaxi
+        title: TBC
+      - speaker: TBC
         from: Jewel Paymentech
         title: TBC
       - speaker: Jeremias Wong
@@ -28,9 +31,6 @@ hacks:
     topics: 
       - speaker: Ryan Dao
         from: PayPal
-        title: TBC
-      - speaker: TBC
-        from: GrabTaxi
         title: TBC
   - nohack: "Recess week"
   - venue: Venue TBC
