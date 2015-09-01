@@ -22,11 +22,7 @@ hacks:
       - speaker: Jeremias Wong
         from: NUS Hackers
         title: TBC (Lightning Talk)
-  - venue: Venue TBC
-    topics:
-      - speaker: Yeo Kheng Meng
-        title: "NUS SoC Print on Android/iOS & Introduction to Bluetooth Low Energy (BLE)"
-        from: NUS
+  - nohack: "Polling Day (Public Holiday)"
   - venue: Venue TBC
     topics: 
       - speaker: Ryan Dao
@@ -34,6 +30,10 @@ hacks:
         title: TBC
   - nohack: "Recess week"
   - venue: Venue TBC
+    topics:
+      - speaker: Yeo Kheng Meng
+        title: "NUS SoC Print on Android/iOS & Introduction to Bluetooth Low Energy (BLE)"
+        from: NUS
   - venue: Venue TBC
   - venue: Venue TBC
   - venue: Venue TBC
