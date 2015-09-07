@@ -8,15 +8,15 @@ hacks:
         title: The Creation of NUSWhispers
   - venue: School of Computing, Seminar Room 2
     topics:
-      - speaker: Ong Jiin Joo
+      - speaker: Ong Jiin Joo, CTO
         from: Garuda Robotics
         title: Commercial Drone Applications and Technologies
   - venue: Venue TBC
     topics:
-      - speaker: TBC
+      - speaker: Arul, VP Engineering
         from: GrabTaxi
-        title: TBC
-      - speaker: TBC
+        title: Go@Grab
+      - speaker: Sean, CEO
         from: Jewel Paymentech
         title: "Stored Value Payment Card Security + How Banks Perform Mystery Shopping on Merchants"
       - speaker: Jeremias Wong
