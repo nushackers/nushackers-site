@@ -14,7 +14,7 @@ Below is a list of events that we organize on a regular basis, along with recomm
 
 <strong>Friday Hacks</strong>
 
-Friday Hacks are weekly meetings where we get 1-2 people to do technical talks, followed by a hacking session. For four weeks at the beginning of each semester, we have only 1 speaker followed a themed hackathon. The idea is to have people come share their hacks, research and knowledge at such meetings. We serve dinner at every Friday Hacks (usually Canadian pizza) to encourage hanging out, and require funds for doing so. We request a minimum of <strong>$200</strong> per meeting to cover the costs of food.
+Friday Hacks are weekly meetings where we get 1-2 people to do technical talks, followed by a hacking session. For four weeks at the beginning of each semester, we have only 1 speaker followed a themed hackathon. The idea is to have people come share their hacks, research and knowledge at such meetings. We serve dinner at every Friday Hacks (usually Canadian pizza) to encourage hanging out, and require funds for doing so. We request a minimum of <strong>$350</strong> per meeting to cover the costs of food.
 
 <strong>Workshops</strong>
 
@@ -22,7 +22,7 @@ In the first semester of every academic year, we hold a Hack Workshop Series. Ho
 
 <strong>Hardware</strong>
 
-We have a small team of hardware hackers in NUS Hackers, and they frequently have to pay out of their own pockets for Arduinos, chips, and shields. Any and all contributions are welcomed for this effort (a typical hardware project costs around $200).
+We have a small team of hardware hackers in NUS Hackers, and they frequently have to pay out of their own pockets for Arduinos, chips, and shields. Any and all contributions are welcomed for this effort (a typical hardware project costs around 200).
 <h3>Get in touch</h3>
 If any of these sound like events you’d like to sponsor, please <a href="/contact/">let us know</a>. We’ll keep you posted about upcoming events, and you are welcome to send a representative or two to check them out and meet students (though if you do, please note that we keep our students pretty occupied at these events.)
 
