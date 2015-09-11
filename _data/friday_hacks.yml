@@ -11,7 +11,7 @@ hacks:
       - speaker: Ong Jiin Joo, CTO
         from: Garuda Robotics
         title: Commercial Drone Applications and Technologies
-  - venue: Venue TBC
+  - venue: SR3, University Town
     topics:
       - speaker: Arul, VP Engineering
         from: GrabTaxi
@@ -19,15 +19,15 @@ hacks:
       - speaker: Sean, CEO
         from: Jewel Paymentech
         title: "Stored Value Payment Card Security + How Banks Perform Mystery Shopping on Merchants"
-      - speaker: Jeremias Wong
-        from: NUS Hackers
-        title: TBC (Lightning Talk)
   - nohack: "Polling Day (Public Holiday)"
-  - venue: Venue TBC
+  - venue: SR3, University Town
     topics: 
       - speaker: Ryan Dao
         from: PayPal
         title: TBC
+      - speaker: Jeremias Wong
+        from: NUS Hackers
+        title: TBC (Lightning Talk)
   - nohack: "Recess week"
   - venue: Venue TBC
     topics:
@@ -35,6 +35,10 @@ hacks:
         title: "NUS SoC Print on Android/iOS & Introduction to Bluetooth Low Energy (BLE)"
         from: NUS
   - venue: Venue TBC
+    topics:
+      - speaker: Omer Iqbal
+        from: Garena
+        title: "Monadic Parsers"
   - venue: Venue TBC
   - venue: Venue TBC
   - venue: Venue TBC
