@@ -18,7 +18,7 @@ Facebook Event link: TBC
 
 Details:
 
-## Scalability principals to bring your web application to the next level
+## Scalability principles to bring your web application to the next level
 
 Creating web applications have become the norm nowadays with the abundance of frameworks and libraries you can use. However, most web developers are still not aware of what to do when their applications reach a certain scale and start to perform poorly. This talk will introduce some bread-and-butter techniques that PayPal and other companies employ to successfully serve a global customer base. The techniques range from small changes that you can start doing immediately to re-designing everything from scratch. 
 
