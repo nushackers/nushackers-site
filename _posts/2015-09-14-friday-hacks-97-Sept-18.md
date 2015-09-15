@@ -14,7 +14,7 @@ Jeremias Wong, a NUS Hackers coreteam member, will be speaking about his experie
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBC
+Facebook Event link: https://www.facebook.com/events/919696661422905/
 
 Details:
 
