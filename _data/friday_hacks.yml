@@ -24,10 +24,10 @@ hacks:
     topics: 
       - speaker: Ryan Dao
         from: PayPal
-        title: TBC
+        title: Scalability principles to bring your web application to the next level
       - speaker: Jeremias Wong
         from: NUS Hackers
-        title: TBC (Lightning Talk)
+        title: "Chaos Communication Camp & European Hacker Culture"
   - nohack: "Recess week"
   - venue: Venue TBC
     topics:
