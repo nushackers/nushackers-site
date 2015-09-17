@@ -14,14 +14,14 @@ Jeremias Wong, a NUS Hackers coreteam member, will be speaking about his experie
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: https://www.facebook.com/events/919696661422905/
+Facebook Event link: [https://www.facebook.com/events/919696661422905/](https://www.facebook.com/events/919696661422905/)
 
-Details:
+# Scalability principles to bring your web application to the next level
 
-## Scalability principles to bring your web application to the next level
+Creating web applications have become the norm nowadays with the abundance of frameworks and libraries you can use. However, most web developers are still not aware of what to do when their applications reach a certain scale and start to perform poorly. This talk will introduce some bread-and-butter techniques that PayPal and other companies employ to successfully serve a global customer base. The techniques range from small changes that you can start doing immediately to re-designing everything from scratch.
 
-Creating web applications have become the norm nowadays with the abundance of frameworks and libraries you can use. However, most web developers are still not aware of what to do when their applications reach a certain scale and start to perform poorly. This talk will introduce some bread-and-butter techniques that PayPal and other companies employ to successfully serve a global customer base. The techniques range from small changes that you can start doing immediately to re-designing everything from scratch. 
+Ryan is a software engineer at PayPal. He graduated from NUS Computer Science in 2014 and has been working on consumer-facing web applications at PayPal ever since. He loves optimizing applications and complaining about how slow everything is.
 
-Speaker profile:
+# Chaos Communication Camp & European Hacker Culture
 
-Ryan is a software engineer at PayPal. He graduated from NUS Computer Science in 2014 and has been working on consumer-facing web applications at PayPal ever since. He loves optimizing applications and complaining about how slow everything is. 
+Jeremias is a computer engineering student from NUS. He participated in a student exchange at ETH Zurich in Spring 2015 and spent his free time visiting hackerspaces around Europe. He will be sharing his experiences and interpretation of the European hacker culture, particularly in the Chaos Communication Camp 2015 and some of the regional hackerspaces.
