@@ -11,7 +11,7 @@ hacks:
       - speaker: Ong Jiin Joo, CTO
         from: Garuda Robotics
         title: Commercial Drone Applications and Technologies
-  - venue: SR3, University Town
+  - venue: SR3, Town Plaza, University Town
     topics:
       - speaker: Arul, VP Engineering
         from: GrabTaxi
@@ -20,7 +20,7 @@ hacks:
         from: Jewel Paymentech
         title: "Stored Value Payment Card Security + How Banks Perform Mystery Shopping on Merchants"
   - nohack: "Polling Day (Public Holiday)"
-  - venue: SR3, University Town
+  - venue: SR3, Town Plaza, University Town
     topics: 
       - speaker: Ryan Dao
         from: PayPal
@@ -29,17 +29,20 @@ hacks:
         from: NUS Hackers
         title: "Chaos Communication Camp & European Hacker Culture"
   - nohack: "Recess week"
-  - venue: Venue TBC
+  - venue: SR3, Town Plaza, University Town
     topics:
       - speaker: Yeo Kheng Meng
         title: "NUS SoC Print on Android/iOS & Introduction to Bluetooth Low Energy (BLE)"
         from: NUS
-  - venue: Venue TBC
+  - venue: SR3, Town Plaza, University Town 
     topics:
       - speaker: Omer Iqbal
         from: Garena
         title: "Monadic Parsers"
-  - venue: Venue TBC
+      - speaker: Richard Goulter
+        from: NUS 
+        title: "Writing Programming Language Applications: C Worksheet Instrumentor"
+  - venue: SR3, Town Plaza, University Town 
   - venue: Venue TBC
   - venue: Venue TBC
   - venue: Venue TBC
