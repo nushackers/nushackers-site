@@ -12,7 +12,7 @@ We're very happy to have two recent graduates of NUS School of Computing to spea
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: TBC
+Facebook Event link: https://www.facebook.com/events/525850107570346/
 
 # Monadic Parsers
 
