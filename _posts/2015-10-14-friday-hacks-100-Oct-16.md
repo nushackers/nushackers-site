@@ -1,7 +1,7 @@
 ---
 layout: friday_hack
 title: "Friday Hacks #100, Oct 16"
-date: 2015-10-14 17:48:00
+date: 2015-10-14 17:59:00
 author: Jeremias
 ---
 
@@ -10,11 +10,11 @@ NUS Hackers is celebrating our 100th Friday Hacks!
 {% capture venue %}
     {{ 'Seminar Room 3, Town Plaza, University Town' }}
 {% endcapture %}
-{% include friday_hack_header.html %}
+{% include friday_hack_header_fh_100.html %}
 
 Facebook Event link: https://www.facebook.com/events/834978463288543/
 
-To mark this occasion, we have a very special talk from Sayanee about engaging with the tech community beyond school. We'll also be holding Lightning talks (5mins each) with speakers from NUS, NTU, SUTD and all over Singpaore!
+To mark this occasion, we have a very special talk from Sayanee about engaging with the tech community beyond school. We'll also be holding Lightning talks (5mins each) with speakers from NUS, NTU, SUTD and all over Singapore!
 
 If you're interested to give a lightning talk, contact vishnu@nushackers.org.
 
