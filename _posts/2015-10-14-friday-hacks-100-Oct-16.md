@@ -12,7 +12,7 @@ NUS Hackers is celebrating our 100th Friday Hacks!
 {% endcapture %}
 {% include friday_hack_header_fh_100.html %}
 
-Facebook Event link: https://www.facebook.com/events/834978463288543/
+Facebook Event link: [https://www.facebook.com/events/834978463288543/](https://www.facebook.com/events/834978463288543/)
 
 To mark this occasion, we have a very special talk from Sayanee about engaging with the tech community beyond school. We'll also be holding Lightning talks (5mins each) with speakers from NUS, NTU, SUTD and all over Singapore!
 
