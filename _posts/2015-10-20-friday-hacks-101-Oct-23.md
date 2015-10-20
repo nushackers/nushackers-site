@@ -5,7 +5,7 @@ date: 2015-10-20 13:32:00
 author: Chu-Ming
 ---
 
-NUS Hackers is celebrating our 100th Friday Hacks!
+Coming up in our 101th Friday Hacks, we have He Wei from Hopetechnik sharing on engineering solutions in his line of work as well as Dr. Swapan giving a talk about security issues and phishing.
 
 {% capture venue %}
     {{ 'Seminar Room 3, Town Plaza, University Town' }}
@@ -13,8 +13,6 @@ NUS Hackers is celebrating our 100th Friday Hacks!
 {% include friday_hack_header_fh_100.html %}
 
 Facebook Event link: [https://www.facebook.com/events/1484617121843664/](https://www.facebook.com/events/1484617121843664/)
-
-Coming up in our 101th Friday Hacks, we have He Wei from Hopetechnik sharing on engineering solutions in his line of work as well as Dr. Swapan giving a talk about security issues and phishing.
 
 # Engineering Solutions with Hopetechnik
 He Wei will be talking about a mix of the work conducted in Hopetechnik and how engineers coax systems to behave. It will be a sharing session on typical challenges faced in engineering solutions for clients in his line of work and what he think works addressing these issues.
