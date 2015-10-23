@@ -10,7 +10,6 @@ Coming up in our 101th Friday Hacks, we have He Wei from Hopetechnik sharing on 
 {% capture venue %}
     {{ 'Seminar Room 3, Town Plaza, University Town' }}
 {% endcapture %}
-{% include friday_hack_header_fh_100.html %}
 
 Facebook Event link: [https://www.facebook.com/events/1484617121843664/](https://www.facebook.com/events/1484617121843664/)
 
