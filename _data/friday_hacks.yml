@@ -58,6 +58,11 @@ hacks:
       - speaker: Dr. Swapan
         from: Security 
         title: "Phishing attacks and countermeasures"
+  - venue: SR3, Town Plaza, University Town 
+    topics:
+      - speaker: Vishnu, Jingwen, Yujian
+        from: NUS Hackers
+        title: "Project Intern"
   - venue: Venue TBC
   - venue: Venue TBC
   - venue: Venue TBC
