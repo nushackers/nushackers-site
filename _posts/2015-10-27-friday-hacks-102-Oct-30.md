@@ -12,7 +12,7 @@ This week, our very own coreteam members will be sharing on their internship exp
 {% endcapture %}
 {% include friday_hack_header.html %}
 
-Facebook Event link: [https://www.facebook.com/events/1691455717756645/](https://www.facebook.com/events/1484617121843664/)
+Facebook Event link: [https://www.facebook.com/events/1691455717756645/](https://www.facebook.com/events/1691455717756645/)
 
 Speaker Profiles
 Vishnu [President] is a CS student who's interested in too many things at once. You can learn absolutely nothing more about him at his website vishnuprem.com, but you can follow him on twitter. He's contactable at vishnu@nushackers.org. He has previously interned at Apple and Twitter.
