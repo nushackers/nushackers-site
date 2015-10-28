@@ -49,7 +49,20 @@ hacks:
         title: "Engaging with the tech community beyond school"
       - speaker: Various Speakers
         from: The Tech Community
-        title: Lightning Talks
+        title: "Lightning Talks"
+  - venue: SR3, Town Plaza, University Town 
+    topics:
+      - speaker: He Wei
+        from: Hopetechnik
+        title: "Engineering solutions with Hopetechnik"
+      - speaker: Dr. Swapan
+        from: Security 
+        title: "Phishing attacks and countermeasures"
+  - venue: SR3, Town Plaza, University Town 
+    topics:
+      - speaker: Vishnu, Jingwen, Yujian
+        from: NUS Hackers
+        title: "Project Intern"
   - venue: Venue TBC
   - venue: Venue TBC
   - venue: Venue TBC
