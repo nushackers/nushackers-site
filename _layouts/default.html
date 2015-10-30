@@ -69,6 +69,7 @@
           </div>
       </footer><!-- #colophon -->
   </div><!-- #page -->
+  {% if page.support_math %}
   <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
   </script>
   <script type="text/x-mathjax-config">
@@ -76,5 +77,6 @@
       tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
     });
   </script>
+  {% endif %}
 </body>
 </html>

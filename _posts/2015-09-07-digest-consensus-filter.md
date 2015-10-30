@@ -6,6 +6,7 @@ author: yujian
 author_link: http://yjyao.com
 comments: true
 categories: [Digest]
+support_math: true
 ---
 
 ## The Problem
