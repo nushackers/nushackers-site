@@ -1,4 +1,4 @@
-﻿- name: Vishnu
+- name: Vishnu
   description: |
     a CS student who's interested in too many things at once. You can learn
     absolutely nothing more about him at his website <a
@@ -63,3 +63,9 @@
     a Computer Engineering undergraduate and tech enthusiast. Loves to explore the realms of software engineering and music.
     <em>More information about him here: </em> <a href="http://harishv7.github.io">harishv7.github.io</a>.
     
+
+- name: Varun
+  description: |
+    a Year 2 CS undergraduate interested in Programming Languages and Algorithms.
+    He frequents hackathons and keeps busy with his startup.
+    He's a varsity Ultimate Frisbee player and cycles around Singapore on weekends.
