@@ -5,7 +5,7 @@ date: 2015-11-03 19:19:00
 author: Chu-Ming
 ---
 
-Learn about the science of the mind and bring all your questions from engineering to machine learning to the director of engineering at Coursera.
+This week, we're focusing on education. Learn about the science of the mind and bring all your questions from engineering to machine learning to the director of engineering at Coursera.
 
 {% capture venue %}
     {{ 'Seminar Room 3, Town Plaza, University Town' }}
