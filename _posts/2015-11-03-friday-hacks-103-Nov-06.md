@@ -1,7 +1,7 @@
 ---
 layout: friday_hack
 title: "Friday Hacks #103, Nov 06"
-date: 2015-11-06 19:19:00
+date: 2015-11-03 19:19:00
 author: Chu-Ming
 ---
 
