@@ -63,7 +63,12 @@ hacks:
       - speaker: Vishnu, Jingwen, Yujian
         from: NUS Hackers
         title: "Project Intern"
-  - venue: Venue TBC
-  - venue: Venue TBC
-  - venue: Venue TBC
+  - venue: SR3, Town Plaza, University Town 
+    topics:
+      - speaker: Shaun Martin
+        from: Applied Cognitive Science
+        title: "Science of the mind"
+      - speaker: Jiquan Ngiam
+        from: Coursera
+        title: "Q&A with director of engineering at Coursera"
   - venue: Venue TBC
