@@ -28,4 +28,4 @@ You'll be allowed to use your favourite programming language. Further challenge 
 
 ### Semester Afterparty
 
-#### Come celebrate the end of this semester with us! There will be free food and beer after the code golf. On us :)
+Come celebrate the end of this semester with us! There will be free food and beer after the code golf. On us :)
