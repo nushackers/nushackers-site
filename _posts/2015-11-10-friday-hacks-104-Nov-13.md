@@ -1,6 +1,6 @@
 ---
 layout: friday_hack
-title: "Friday Hacks #104, November 10"
+title: "Friday Hacks #104, November 13"
 date: 2015-11-10 16:56:01.004599
 author: Jingwen 
 ---
