@@ -69,3 +69,9 @@
     a Year 2 CS undergraduate interested in Programming Languages and Algorithms.
     He frequents hackathons and keeps busy with his startup.
     He's a varsity Ultimate Frisbee player and cycles around Singapore on weekends.
+
+- name: Jiayee
+  description: |
+      def is_learning_CS(name):
+          return True
+      print is_learning_CS("Jiayee")
