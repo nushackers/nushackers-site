@@ -1,0 +1,74 @@
+start_date: 2015-08-21 18:00:00 +0800
+hacks:
+  - venue: School of Computing, Seminar Room 1
+    topics:
+      - speaker: NUS Hackers
+        title: Welcome Tea
+      - speaker: Melvin, Yang Shun, Erin, Yichen
+        title: The Creation of NUSWhispers
+  - venue: School of Computing, Seminar Room 2
+    topics:
+      - speaker: Ong Jiin Joo, CTO
+        from: Garuda Robotics
+        title: Commercial Drone Applications and Technologies
+  - venue: SR3, Town Plaza, University Town
+    topics:
+      - speaker: Arul, VP Engineering
+        from: GrabTaxi
+        title: Go@Grab
+      - speaker: Sean, CEO
+        from: Jewel Paymentech
+        title: "Stored Value Payment Card Security + How Banks Perform Mystery Shopping on Merchants"
+  - nohack: "Polling Day (Public Holiday)"
+  - venue: SR3, Town Plaza, University Town
+    topics: 
+      - speaker: Ryan Dao
+        from: PayPal
+        title: Scalability principles to bring your web application to the next level
+      - speaker: Jeremias Wong
+        from: NUS Hackers
+        title: "Chaos Communication Camp & European Hacker Culture"
+  - nohack: "Recess week"
+  - venue: SR3, Town Plaza, University Town
+    topics:
+      - speaker: Yeo Kheng Meng
+        title: "NUS SoC Print on Android/iOS & Introduction to Bluetooth Low Energy (BLE)"
+        from: NUS
+  - venue: SR3, Town Plaza, University Town 
+    topics:
+      - speaker: Omer Iqbal
+        from: Garena
+        title: "Monadic Parsers"
+      - speaker: Richard Goulter
+        from: NUS 
+        title: "Writing Programming Language Applications: C Worksheet Instrumentor"
+  - venue: SR3, Town Plaza, University Town 
+    topics:
+      - speaker: Sayanee
+        from: WeBuild.sg
+        title: "Engaging with the tech community beyond school"
+      - speaker: Various Speakers
+        from: The Tech Community
+        title: "Lightning Talks"
+  - venue: SR3, Town Plaza, University Town 
+    topics:
+      - speaker: He Wei
+        from: Hopetechnik
+        title: "Engineering solutions with Hopetechnik"
+      - speaker: Dr. Swapan
+        from: Security 
+        title: "Phishing attacks and countermeasures"
+  - venue: SR3, Town Plaza, University Town 
+    topics:
+      - speaker: Vishnu, Jingwen, Yujian
+        from: NUS Hackers
+        title: "Project Intern"
+  - venue: SR3, Town Plaza, University Town 
+    topics:
+      - speaker: Shaun Martin
+        from: Applied Cognitive Science
+        title: "Science of the mind"
+      - speaker: Jiquan Ngiam
+        from: Coursera
+        title: "Q&A with director of engineering at Coursera"
+  - venue: Venue TBC
