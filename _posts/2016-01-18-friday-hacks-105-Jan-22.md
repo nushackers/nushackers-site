@@ -5,10 +5,12 @@ date: 2016-01-18 16:56:01
 author: Jingwen
 ---
 
-Welcome back to a brand new semester!
+Welcome back to a brand new semester! For our first Friday Hacks of the semester, we're having Fazli, a School of Computing student, talking about his homemade Roomba hack with Kinect and RPi. 
+
+Facebook event: https://www.facebook.com/events/1027250797369796/ 
 
 {% capture venue %}
-    {{ 'SR3, Town Plaza (Level 2), University Town, NUS' }}
+    {{ 'Video Conferencing Room (COM1-02-13), School of Computing, National University of Singapore' }}
 {% endcapture %}
 {% include friday_hack_header.html %}
 
