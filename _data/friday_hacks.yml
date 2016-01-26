@@ -5,7 +5,10 @@ hacks:
       - speaker: Fazli Sapuan
         from: National University of Singapore
         title: That Roomba Raspberry Pi Kinect Hack
-  - venue: TBC
+  - venue: VCRm, School of Computing
+    topics:
+      - speaker: Lim Chee Aun, 
+        title: "Building side projects: the timeline, triggers and stages that every builder has to experience."
   - venue: TBC
   - venue: TBC
   - venue: TBC
