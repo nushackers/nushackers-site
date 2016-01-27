@@ -1,7 +1,7 @@
 ---
 layout: friday_hack
 title: "Friday Hacks #106, January 29th"
-date: 2016-01-27 16:56:01
+date: 2016-01-27 00:00:01
 author: Varun
 ---
 
