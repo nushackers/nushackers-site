@@ -9,9 +9,7 @@ hacks:
     topics:
       - speaker: Lim Chee Aun, 
         title: "Building side projects: the timeline, triggers and stages that every builder has to experience."
-  - venue: No Friday Hack
-    topics:
-      - title: Chinese New Year
+  - nohack: Chinese New Year
   - venue: TBC
   - venue: TBC
   - nohack: Recess Week
