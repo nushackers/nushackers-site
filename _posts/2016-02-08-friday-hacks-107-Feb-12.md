@@ -11,7 +11,7 @@ Facebook Event link:
 [https://www.facebook.com/events/535705849936703/](https://www.facebook.com/events/535705849936703/)
 
 {% capture venue %}
-    {{ 'TBC' }}
+    {{ 'Video Conferencing Room, School of Computing, NUS' }}
 {% endcapture %}
 {% include friday_hack_header.html %}
 
