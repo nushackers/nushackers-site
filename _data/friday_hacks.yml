@@ -17,6 +17,10 @@ hacks:
   - nohack: Recess Week
   - nohack: Recess Week
   - venue: TBC
+    topics:
+        - speaker: Cheng Wei
+          from: Garena Labs
+          title: "File Store Engine in Go --- how to reduce GC overhead"
   - venue: TBC
   - venue: TBC
   - venue: TBC
