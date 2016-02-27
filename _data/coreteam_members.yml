@@ -6,7 +6,7 @@
     on <a href="http://twitter.com/burnflare">twitter</a>. He's contactable at
     vishnu@nushackers.org
 
-- name: Benedict
+- name: Benedict 
   description: |
     a Computer Science undergraduate with interests in Software Engineering. You
     can reach him at benedict@nushackers.org
@@ -57,12 +57,12 @@
 - name: Jingwen
   description: |
                                                                 a Computer Science undergraduate. He’s interested in software engineering, programming languages, scalability, vim and techno. <em>He is on <a href="http://twitter.com/jin_">Twitter</a> and his personal site is at <a href="http://jin.crypt.sg">jin.crypt.sg</a></em>.
-
+    
 - name: Harish V
   description: |
     a Computer Engineering undergraduate and tech enthusiast. Loves to explore the realms of software engineering and music.
     <em>More information about him here: </em> <a href="http://harishv7.github.io">harishv7.github.io</a>.
-
+    
 
 - name: Varun
   description: |
@@ -75,8 +75,3 @@
     a Year 1 Computer Science undergraduate trying to build a webpage
     (then website) which she can call her own.
     <em>Current attempts here: </em><a href="https://GlacieRaiN.blogspot.sg/">GlacieRaiN</a><em>.</em>
-
-- name: David
-  description: |
-    a Year Computer Science undergraduate who loves learning and learning how to
-    learn. You can reach him at david@nushackers.org
