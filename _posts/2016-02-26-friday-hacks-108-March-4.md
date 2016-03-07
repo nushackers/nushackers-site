@@ -13,7 +13,7 @@ Facebook Event link:
 [https://www.facebook.com/events/1664420683812357/](https://www.facebook.com/events/1664420683812357/)
 
 {% capture venue %}
-    {{ 'SR3, Town Plaza (Level 2), University Town, NUS' }}
+    {{ 'TBC' }}
 {% endcapture %}
 {% include friday_hack_header.html %}
 
