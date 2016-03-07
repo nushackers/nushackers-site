@@ -13,7 +13,7 @@ For our fifth Friday Hacks of the semester, we're having Jia Hao, an undergrad f
 {% include friday_hack_header.html %}
 
 
-Facebook Event link: [https://www.facebook.com/events/1580946028862373/](https://www.facebook.com/events/1580946028862373/)
+Facebook Event link: [https://www.facebook.com/events/1665215933745308/](https://www.facebook.com/events/1665215933745308/)
 
 ### Nativefier - Wrap any web page into an executable without even thinking
 
