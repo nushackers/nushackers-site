@@ -13,7 +13,7 @@ Facebook Event link:
 [https://www.facebook.com/events/1664420683812357/](https://www.facebook.com/events/1664420683812357/)
 
 {% capture venue %}
-    {{ 'TBC' }}
+    {{ 'Seminar Room 3, Town Plaza, University Town' }}
 {% endcapture %}
 {% include friday_hack_header.html %}
 
