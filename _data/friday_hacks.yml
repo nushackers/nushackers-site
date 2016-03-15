@@ -26,7 +26,11 @@ hacks:
         - speaker: Jia Hao
           title: "Nativefier - Wrap any web page into an executable without even thinking"
           from: SUTD
-  - venue: TBC
+  - venue: Seminar Room 3, Town Plaza, University Town
+    topics:
+        - speaker: Jordan Dea-Mattson
+          title: "Building robust, scalable, and secure mobile applications in hostile environments."
+          from: Wobe
   - venue: TBC
   - venue: TBC
   - venue: TBC
