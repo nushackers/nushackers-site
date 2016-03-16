@@ -31,7 +31,21 @@ hacks:
         - speaker: Jordan Dea-Mattson
           title: "Building robust, scalable, and secure mobile applications in hostile environments."
           from: Wobe
+  - nohack: Good Friday
   - venue: TBC
+    topics:
+      - speaker: TBC :)
   - venue: TBC
+    topics:
+      - speaker: Omer Iqbal
+        title: TBC
+        from: Garena Labs
   - venue: TBC
-  - venue: TBC
+    topics:
+      - speaker: Melvin Zhang
+        title: TBC
+        from: Cosmiqo
+      - speaker: Juan Miguel Jimeno 
+        title: TBC
+        from:
+
