@@ -34,16 +34,19 @@ hacks:
   - nohack: Good Friday
   - venue: TBC
     topics:
-      - speaker: TBC :)
+      - speaker: TBC ;)
   - venue: TBC
     topics:
       - speaker: Omer Iqbal
-        title: TBC
-        from: Garena Labs
+        title: "Implementing a toy compiler with LLVM"
+        from: Garena
+      - speaker: Jason Yeo
+        title: "Slaying the Dragon: Implementing a language in Ruby"
+        from: SourceClear
   - venue: TBC
     topics:
       - speaker: Melvin Zhang
-        title: TBC
+        title: "Alan Turing's \"On Computable Numbers, with an Application to the Entscheidungsproblem\": Sparking the seeds to programming and Computer Science"
         from: Cosmiqo
       - speaker: Juan Miguel Jimeno 
         title: TBC
