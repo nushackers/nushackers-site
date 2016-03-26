@@ -32,9 +32,12 @@ hacks:
           title: "Building robust, scalable, and secure mobile applications in hostile environments."
           from: Wobe
   - nohack: Good Friday
-  - venue: TBC
+  - venue: Seminar Room 3, Town Plaza, University Town
     topics:
-      - speaker: TBC ;)
+      - speaker: Quan Yang
+        title: "The ABCs of XSS."
+        from: NUS
+      - speaker: TBC :)
   - venue: TBC
     topics:
       - speaker: Omer Iqbal
