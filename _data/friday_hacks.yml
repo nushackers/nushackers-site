@@ -7,7 +7,8 @@ hacks:
         title: That Roomba Raspberry Pi Kinect Hack
   - venue: VCRm, School of Computing
     topics:
-      - speaker: Lim Chee Aun, 
+      - speaker: Lim Chee Aun,
+        from: Tech in Asia 
         title: "Building side projects: the timeline, triggers and stages that every builder has to experience."
   - nohack: Chinese New Year
   - venue: VCRm, School of Computing
