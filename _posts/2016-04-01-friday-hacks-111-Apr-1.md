@@ -25,7 +25,15 @@ There are many different types of XSS, and although the common ones are known to
 
 Quan Yang is a year 3 Computer Science undergraduate at NUS, and is a co-founder of NUS Greyhats, the special interest group for Information Security in NUS.
 
-### Talk 2: TBC :)
+### Talk 2: Just Hacker things with Jayson
+
+#### Talk Description:
+
+Instead of a usual talk where Jayson stands up and talks at you, this will be an open discussion. He will share several stories of his travels & exploits but mostly will be there to answer questions about hacking, blue team, red team and DEF CON Groups! So come with questions and expect a few answers and a lot of great hugs! 😉
+
+#### Speaker Profile
+
+Jayson E. Street is an Author of Dissecting the Hack: The F0rb1dd3n Network from Syngress. Also Creator of dissectingthehack.com He has also spoken at DEFCON, DerbyCon, UCON and at several other ’CONs and colleges on a variety of information security subjects. His life story can be found on Google under “Jayson E. Street”. He is a highly carbonated speaker who has partaken of pizza from Beijing to Brazil. He does not expect anybody to still be reading this far, but if they are please note he was chosen as one of Time’s persons of the year for 2006
 
 ### Talk 3: Q&A with Jeff Moss
 

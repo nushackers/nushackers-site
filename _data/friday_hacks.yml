@@ -35,9 +35,14 @@ hacks:
   - venue: Seminar Room 3, Town Plaza, University Town
     topics:
       - speaker: Quan Yang
-        title: "The ABCs of XSS."
-        from: NUS
-      - speaker: TBC :)
+        title: The ABCs of XSS
+        from: NUS GreyHats
+      - speaker: Jayson E. Street
+        title: Just Hacker Things with Jayson
+        from: National Financial Institution, Stratagem 1 Solutions, Pwnie Express
+      - speaker: Jeff Moss
+        title: Q&A with Jeff Moss
+        from: BlackHat, DEFCON (founder)
   - venue: TBC
     topics:
       - speaker: Omer Iqbal
