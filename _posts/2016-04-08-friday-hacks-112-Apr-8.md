@@ -38,5 +38,5 @@ Learning to write a programming language is considered a rite of passage for som
 
 #### Speaker Profile
 
-Jason Yeo flips bits and blows stacks at [SourceClear](www.srcclr.com). Some of his interests include participating in pointless discussions about type systems, writing interpreters for languages that has no real world application, bashing languages that has real world applications and embedding easter eggs in talk descriptions.
+Jason Yeo flips bits and blows stacks at [SourceClear](http://www.srcclr.com). Some of his interests include participating in pointless discussions about type systems, writing interpreters for languages that has no real world application, bashing languages that has real world applications and embedding easter eggs in talk descriptions.
 
