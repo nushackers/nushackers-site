@@ -55,7 +55,7 @@ hacks:
   - venue: Seminar Room 3, Town Plaza, University Town
     topics:
       - speaker: Melvin Zhang
-        title: "Alan Turing's \"On Computable Numbers, with an Application to the Entscheidungsproblem\": Sparking the seeds to programming and Computer Science"
+        title: "Building a Turing Machine emulator to explore Turing's great ideas."
         from: Cosmiqo
       - speaker: Juan Miguel Jimeno 
         title: TBC
