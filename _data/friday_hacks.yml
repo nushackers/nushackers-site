@@ -1,13 +1,31 @@
 start_date: 2016-08-19 18:00:00 +0800
 hacks:
-  - venue: School of Computing, Seminar Room 1
+  - venue: TBC
     topics:
       - speaker: NUS Hackers
         title: Welcome Tea
   - venue: TBC
+    topics:
+      - speaker: Li Hongyi
+        from: IDA
+        title: TBC
+      - speaker: Li Haoyi
+        from: Dropbox
+        title: TBC  
   - venue: TBC
+    topics:
+      - speaker: NUS Hackers
+        title: Project Intern
   - venue: TBC
+    topics:
+      - speaker: Melvin Zhang
+        from: Cosmiqo
+        title: Game Playing AI
   - venue: TBC
+    topics:
+      - speaker: Yos Riady
+        from: PayPal
+        title: Entity Component Systems in Elixir
   - nohack: Recess Week
   - venue: TBC
   - venue: TBC
