@@ -15,7 +15,7 @@ module Jekyll
         end
       end
       
-      site.posts.each do |post|
+      site.posts.docs.each do |post|
         d = post.date
         years[d.year] << post
         months[d.year][d.month] << post 

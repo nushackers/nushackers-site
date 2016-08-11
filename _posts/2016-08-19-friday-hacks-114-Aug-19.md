@@ -8,7 +8,7 @@ author: Advay Pal
 <em>In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways.</em>
 
 {% capture venue %}
-    {{ 'TBC' }}
+    {{ 'School of Computing, Seminar Room 1' }}
 {% endcapture %}
 {% include friday_hack_header.html %}
 
