@@ -4,14 +4,14 @@ hacks:
     topics:
       - speaker: NUS Hackers
         title: Welcome Tea
-  - venue: TBC
+  - venue: School of Computing, Seminar Room 1
     topics:
-      - speaker: Li Hongyi
-        from: IDA
-        title: TBC
       - speaker: Li Haoyi
         from: Dropbox
-        title: TBC  
+        title: Diving Into Other People's Code
+      - speaker: Li Hongyi
+        from: IDA
+        title: TBA  
   - venue: TBC
     topics:
       - speaker: NUS Hackers
