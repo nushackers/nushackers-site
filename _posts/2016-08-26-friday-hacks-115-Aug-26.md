@@ -35,11 +35,13 @@ Haoyi is an engineer on the Web Infra and Developer Tools team who joined Dropbo
 
 
 
-### TBA
+### Deploying Data.gov.sg
 
 #### Talk Description:
 
-TBA
+Data.gov.sg helps the public understand and use Singapore's open government data. We pull data from agencies across the government use it and publish charts, articles, and developer APIs. 
+
+This talk will cover the development of Data.gov.sg's production infrastructure. How we went from a single server to our current deployment environment involving Docker, Git hooks, multiple AWS services and more.
 
 #### Speaker Profile
 
