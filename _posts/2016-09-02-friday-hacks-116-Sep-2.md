@@ -7,6 +7,8 @@ author: Advay Pal
 
 This week, our very own coreteam members will be sharing their internship experiences locally and overseas!
 
+Facebook Event [here](https://www.facebook.com/events/635393133292290/).
+
 {% capture venue %}
     {{ 'The Hangar by NUS Enterprise' }}
 {% endcapture %}
