@@ -16,11 +16,14 @@ hacks:
     topics:
       - speaker: NUS Hackers
         title: Project Intern
-  - venue: TBC
+  - venue: SR3, Town Plaza, University Town
     topics:
       - speaker: Melvin Zhang
         from: Cosmiqo
-        title: Game Playing AI
+        title: Programs that Play better than Us
+      - speaker: Zhi An Ng
+        from: NUS Hackers
+        title: Accessibility and ChromeLens 
   - venue: TBC
     topics:
       - speaker: Yos Riady
