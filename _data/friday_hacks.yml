@@ -24,11 +24,14 @@ hacks:
       - speaker: Zhi An Ng
         from: NUS Hackers
         title: Accessibility and ChromeLens 
-  - venue: TBC
+  - venue: The Hangar by NUS Enterprise
     topics:
       - speaker: Yos Riady
         from: PayPal
         title: Entity Component Systems in Elixir
+      - speaker: Yong Wen Chua
+        from: IDA
+        title: TBC  
   - nohack: Recess Week
   - venue: TBC
   - venue: TBC
