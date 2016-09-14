@@ -35,13 +35,15 @@ Q&A
 
 
 
-### TBC
+### Deploying with Docker
 
 #### Talk Description:
 
-TBC
+Docker is now a stable and widely used container technology used to deploy applications on the internet. In this talk, we will take a quick look at some of the Linux Kernel technology that powers Docker, and some of the issues with Docker like how needlessly complicated it is to deploy a simple Ruby on Rails Application with a Let's Encrypt TLS certificate.
+
 
 #### Speaker Profile
 
-TBC
+Yong Wen is a software developer and kopi aficionado working at Government Digital Services of GovTech. He likes to meddle in DevOps related work once in a while, and is an avid gamer.
+
 
