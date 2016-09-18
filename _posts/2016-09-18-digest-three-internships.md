@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My experience interning at 3 companies"
+title: "Digest: My experience interning at 3 companies"
 date: 2016-09-18 21:41
 author: Ng Zhi An
 categories: [Digest]
