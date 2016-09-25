@@ -10,7 +10,7 @@ The [scHnRk](https://github.com/nushackers/scHnRk) and [Neander](https://github.
 
 Designed and Assembled in Singapore, these boards represent leaps of faith into the unknown world of electronics fabrication.
 
-If you're starting out electronics design, this article is for you!
+Here are some tips to help you start your first electronics design.
 
 ### Prerequisites
 
@@ -24,9 +24,17 @@ You can access these tools at [Ida Labs @ NLB/NDC](https://www.ida.gov.sg/Progra
 
 Try to find some money as electronics don't really come cheap :D
 
+Estimated duration for subprocesses are given.
+
 ### Design
 
 The best designs often start with a meaningful problem, and the passion to follow it through to its solution.
+
+You may refer to my previous [presentation](https://www.slideshare.net/secret/bI3ZAwWhcOQF06) and [video](https://www.youtube.com/watch?v=46oMSAkM_lI) on the scHnRk's design process.
+
+Time: [Couple of weeks - Months]
+- scHnRk : 2 months
+- Neander : 2 months
 
 #### Breadboarding
 
@@ -50,15 +58,23 @@ You may want to check your PCBs for these issues with an online tool such as [we
 
 The best way to get your hands on some scrummy electronics is [Element14](http://sg.element14.com) and [Taobao](https://taobao.com). If you're unsure about Chinese, get some Chinese guy to help you!
 
+A Bill Of Materials helps to keep track of your project materials and costs. Here's a [sample](https://docs.google.com/spreadsheets/d/1qAbk1U9EDFSMrGZ68tAHjeOSaGbgNGMX1J6-07fJV7c/edit?usp=sharing).
+
 #### Microcontroller programming
 
 Some microcontrollers have propietary interfaces that allows you to program the microcontrollers "in circuit". These interfaces are usually called [iscp]s or [jtag] you may want to check out how they work.
 
-When you program them in the assembled PCBs, you may consider investing in a set of [test pins](https://img.alicdn.com/imgextra/i3/179947408/TB2x2wgsFXXXXX_XXXXXXXXXXXX_!!179947408.jpg)/[clips](https://cdn.instructables.com/F28/HXRJ/IBYX1OC4/F28HXRJIBYX1OC4.MEDIUM.jpg).
+Some chips have its own USB transceiver so you can program it directly from computer.
+
+You may consider investing in a set of [test pins](https://img.alicdn.com/imgextra/i3/179947408/TB2x2wgsFXXXXX_XXXXXXXXXXXX_!!179947408.jpg)/[clips](https://cdn.instructables.com/F28/HXRJ/IBYX1OC4/F28HXRJIBYX1OC4.MEDIUM.jpg).
 
 ### Prototyping
 
 This process really depends on the scope of your product and reach.
+
+Time: [Month(s)]
+- scHnRk : 1 month
+- Neander : 2 months
 
 #### How many prototyping phases?
 
@@ -86,7 +102,21 @@ You can get away with soldering low component count boards (up to 5 boards). For
 
 For assemblies of more than 5 boards, I'd recommend getting PCB Assembly services like [seeedstudio's](https://www.seeedstudio.com/fusion_pcb.html) for peace of mind! Test your designs first as they may be hard to interpret at the assembler's side -> you may get parts in the wrong orientation or placement!
 
+The typical process goes like this
+
+- Solder Paste Application
+- Pick and Place
+- Reflow Soldering
+- Programming
+- Soldering (Thru Hole Components)
+- Reprogramming <if needed>
+- Packaging
+
+Time: [Couple of weeks - Month]
+- scHnRk : 2 weeks
+- Neander : 3 weeks
+
 ### Other resources
 
-There are many writeups of people in similar positions and I think you can benefit from [one](http://irq5.io) or [two](https://makerforce.io/author/sudharshan/) or maybe [three](https://www.bunniestudios.com).
+There are many writeups of people in similar positions. Particularly from [Darell](http://irq5.io) or [Sudharshan](https://makerforce.io/author/sudharshan/) and [Bunnie](https://www.bunniestudios.com).
 
