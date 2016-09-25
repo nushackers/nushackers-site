@@ -56,7 +56,7 @@ You may want to check your PCBs for these issues with an online tool such as [we
 
 #### Sourcing Materials
 
-The best way to get your hands on some scrummy electronics is [Element14](http://sg.element14.com) and [Taobao](https://taobao.com). If you're unsure about Chinese, get some Chinese guy to help you!
+The best way to get your hands on some scrummy electronics is [Element14](http://sg.element14.com) and [Taobao](https://taobao.com). Google Translate is your best friend! [Aliexpress](https://www.aliexpress.com) too!
 
 A Bill Of Materials helps to keep track of your project materials and costs. Here's a [sample](https://docs.google.com/spreadsheets/d/1qAbk1U9EDFSMrGZ68tAHjeOSaGbgNGMX1J6-07fJV7c/edit?usp=sharing).
 
