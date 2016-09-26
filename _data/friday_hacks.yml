@@ -44,7 +44,7 @@ hacks:
       - speaker: Sean Xie
         from: Twitter
         title: Building scalable advertising platforms
-  - venue: TBC
+  - venue: The Hangar by NUS Enterprise
     topics: 
       - speaker: Chuk Munn Lee
         from: NUS ISS
@@ -52,13 +52,12 @@ hacks:
       - speaker: Yos Riady
         from: PayPal
         title: GraphQL in an Age of REST 
-  - venue: TBC
+  - venue: SR3, Town Plaza, University Town
   - venue: TBC
     topics: 
       - speaker: Michael Yong
         from: Quora
         title: TBC    
-  - venue: TBC
   - venue: TBC
     topics: 
       - speaker: NUS Hackers
