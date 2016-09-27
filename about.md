@@ -13,17 +13,17 @@ notes: |
 
 ---
 
-In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways. NUS Hackers is a student-run organization committed to the spread of hacker culture &amp; free/open-source software. We provide a support system for hackers in NUS who are currently building things (be it for charity, business or pleasure). We also hold workshops, run hackfests, and maintain open source code for the NUS community.
+In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways. NUS Hackers is a student-run organization committed to the spread of hacker culture &amp; free/open-source software. We provide a support system for hackers in NUS who are currently building things (be it for charity, business or pleasure). We also hold workshops, run   technical meetups, organize hackathons, and maintain open source code for the NUS community.
 
 ###<a name="what-we-do"></a>What We Do
 
-We have weekly meetings every Friday called [Friday Hacks](/fridayhacks/). They include one or two technical talks, followed by a hacking session.
+We have weekly meetups every Friday called [Friday Hacks](/fridayhacks/). They include one or two technical talks, followed by a hacking session.
 
-Once a year, we run a series of technical workshops called [hackerschool](http://school.nushackers.org/). We also run the Hack&amp;Roll hackathon in the second semester of the academic year. Our coreteam members contribute to events like LadyPy and Software Freedom Day.
+Every semester, we run a series of technical workshops called [hackerschool](http://school.nushackers.org/). We also run the Hack&amp;Roll hackathon in the second semester of the academic year. Our coreteam members contribute to events like LadyPy and Software Freedom Day.
 
 We maintain and release open source code for the NUS community (see: our [code page](/code/)). Students and staff who have built NUS-specific projects and can no longer maintain them may come to us to host and maintain their code.
 
-We currently maintain [Download@NUS](http://download.nus.edu.sg/). We have a small team of people working with the NUS Computer Centre to host scientific data. We also have a small team of hardware hackers who meet at Friday Hacks.
+We currently maintain [Download@NUS](http://download.nus.edu.sg/) We have a team working with the NUS Computer Centre to host linux mirrors.
 
 ###<a name="philosophy"></a>Philosophy
 
@@ -32,7 +32,7 @@ We believe that hacking is necessary for good innovation. (In fact, the best com
 (Though, honestly, most of the time we hack because we think it's fun).
 
 ###<a name="goal"></a>Goal
-Our long term goal is to build a healthy community of passionate hackers in NUS. We think that this benefits everyone: professors benefit because they are able to source for good programmers; startups and tech companies benefit because they are able to recruit from a central pool; students benefit because they get to meet and learn from like-minded peers (and get opportunities, i.e.: from professors and tech companies). We think we are 2, 3 years away from this goal.
+Our long term goal is to build a healthy community of passionate hackers in NUS. We think that this benefits everyone: professors benefit because they are able to source for good programmers; startups and tech companies benefit because they are able to recruit from a central pool; students benefit because they get to meet and learn from like-minded peers (and get opportunities, i.e.: from professors and tech companies).
 
 ###<a name="management"></a>Management
 
