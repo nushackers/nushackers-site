@@ -120,3 +120,6 @@ Time: [Couple of weeks - Month]
 
 There are many writeups of people in similar positions. Particularly from [Darell](http://irq5.io) or [Sudharshan](https://makerforce.io/author/sudharshan/) and [Bunnie](https://www.bunniestudios.com).
 
+Conorpp has a great [article](https://conorpp.com/2016/09/23/designing-and-producing-2fa-tokens-to-sell-on-amazon/) on producing a [USB authentication token](https://github.com/conorpp/u2f-zero) for the masses.
+
+[Andrew Yong](http://ndoo.sg) had great experiences building an [energy monitor](https://github.com/ndoo/Energy-Monitor-FeatherWing) using seedstudio's PCBA. Enclosures can be found [here](https://www.tinkercad.com/users/k08lOzHl3DM-andr3wyong).
