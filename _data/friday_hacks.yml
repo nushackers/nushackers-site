@@ -38,7 +38,9 @@ hacks:
       - speaker: Benjamin Choi
         from: DSO
         title: "Autonomous Vehicles: Advances and Algorithms"
-      - speaker: TBC
+      - speaker: James Fu
+        from: nuTonomy
+        title: Autonomous Vehicles for Mobility on Demand
   - venue: SR3, Town Plaza, University Town
     topics:
       - speaker: Sean Xie

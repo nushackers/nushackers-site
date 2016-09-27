@@ -1,0 +1,38 @@
+---
+layout: friday_hack
+title: "Friday Hacks #119, September 30"
+date: 2016-09-26 21:02:22.984945
+author: Advay Pal
+---
+
+This week, we have Benjamin from DSO and James from nuTonomy, both talking about Autonomous Vehicles. See you there!
+
+Facebook event [here](https://www.facebook.com/events/800240806745171/).
+
+{% capture venue %}
+    {{ 'SR3, Town Plaza, University Town' }}
+{% endcapture %}
+{% include friday_hack_header.html %}
+
+
+### Autonomous Vehicles: Advances and Algorithms
+
+#### Talk Description:
+
+Autonomous vehicles (also known as self-driving cars) have begun taxi service trials in one-north and Pittsburgh, and are set to dramatically change the way we commute. How did AVs come about and what are the algorithms and advances in technology that have enabled autonomy? This talk introduces the history of AVs, the AI and robotics challenges involved, and some techniques that we use to tackle difficult problems in autonomy (especially in localisation and perception).
+
+#### Speaker Profile
+
+Ben develops and implements algorithms for autonomy in unmanned ground vehicles at DSO National Laboratories. He studied Computer Science at CMU and there first became acquainted with the joys and frustrations of working with robots. Although his work is now robotics-focused, he remains interested in parallel algorithms, compilers, machine learning, and software engineering that can serve society. He also enjoys teaching and mentoring (especially if it has anything to do with programming).
+
+
+
+### Autonomous Vehicles for Mobility on Demand
+
+#### Talk Description:
+
+TBC
+
+#### Speaker Profile
+
+TBC
