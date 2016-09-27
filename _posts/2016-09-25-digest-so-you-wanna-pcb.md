@@ -118,7 +118,7 @@ Time: [Couple of weeks - Month]
 
 ### Other resources
 
-There are many writeups of people in similar positions. Particularly from [Darell](http://irq5.io) or [Sudharshan](https://makerforce.io/author/sudharshan/) and [Bunnie](https://www.bunniestudios.com).
+There are many writeups of people in similar positions. Particularly from [Darell](http://irq5.io), [Sudharshan](https://makerforce.io/author/sudharshan/), [Bunnie](https://www.bunniestudios.com) and [vonger](http://vonger.cn).
 
 Conorpp has a great [article](https://conorpp.com/2016/09/23/designing-and-producing-2fa-tokens-to-sell-on-amazon/) on producing a [USB authentication token](https://github.com/conorpp/u2f-zero) for the masses.
 
