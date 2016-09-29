@@ -1,10 +1,9 @@
-- name: Vishnu
+- name: Varun
   description: |
-    a CS student who's interested in too many things at once. You can learn
-    absolutely nothing more about him at his website <a
-    href="http://vishnuprem.com">vishnuprem.com</a>, but you can follow him
-    on <a href="http://twitter.com/burnflare">twitter</a>. He's contactable at
-    vishnu@nushackers.org
+    a CS undergrad interested in Programming Languages and Algorithms.
+    He frequents hackathons and keeps busy with his startup.
+    He's a varsity Ultimate Frisbee player and cycles around Singapore on weekends.
+    He's reachable at <a href="mailto:varun@nushackers.org">varun@nushackers.org</a>
 
 - name: Yujian
   description: |
@@ -34,6 +33,14 @@
     <em>More about him at </em><a
     href="http://staceytay.com">staceytay.com</a><em>.</em>
 
+- name: Vishnu
+  description: |
+    a CS student who's interested in too many things at once. You can learn
+    absolutely nothing more about him at his website <a
+    href="http://vishnuprem.com">vishnuprem.com</a>, but you can follow him
+    on <a href="http://twitter.com/burnflare">twitter</a>. He's contactable at
+    vishnu@nushackers.org
+
 - name: Jeremias
   description: |
     a Computer Engineering undergraduate who loves electronics, music and philosophy.
@@ -52,13 +59,6 @@
     a Computer Engineering undergraduate and tech enthusiast. Loves to explore the realms of software engineering and music.
     <em>More information about him here: </em> <a href="http://harishv7.github.io">harishv7.github.io</a>.
 
-
-- name: Varun
-  description: |
-    a Year 2 CS undergraduate interested in Programming Languages and Algorithms.
-    He frequents hackathons and keeps busy with his startup.
-    He's a varsity Ultimate Frisbee player and cycles around Singapore on weekends.
-
 - name: Jiayee
   description: |
     a Computer Science undergraduate trying to build a webpage
@@ -72,7 +72,7 @@
 
 - name: Advay
   description: |
-    a Computer Science undergraduate and newbie to the world of tech who likes reading, 
-    football, interesting conversations, and cheesecakes. Feel free to contact him at 
-    <a href="mailto:advay@nushackers.org"> advay@nushackers.org </a> if you have tickets to an 
+    a Computer Science undergraduate and newbie to the world of tech who likes reading,
+    football, interesting conversations, and cheesecakes. Feel free to contact him at
+    <a href="mailto:advay@nushackers.org"> advay@nushackers.org </a> if you have tickets to an
     Arsenal game or a Hans Zimmer concert, or if you just want to chat.

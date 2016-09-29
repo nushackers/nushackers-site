@@ -16,13 +16,18 @@ Below is a list of events that we organize on a regular basis, along with recomm
 
 Friday Hacks are weekly meetings where we get 1-2 people to do technical talks, followed by a hacking session. For four weeks at the beginning of each semester, we have only 1 speaker followed a themed hackathon. The idea is to have people come share their hacks, research and knowledge at such meetings. We serve dinner at every Friday Hacks (usually Canadian pizza) to encourage hanging out, and require funds for doing so. We request a minimum of <strong>$350</strong> per meeting to cover the costs of food.
 
-<strong>Workshops</strong>
+<strong>Hackerschool</strong>
 
-In the first semester of every academic year, we hold a Hack Workshop Series. How many workshops we can run is contingent on how much funds we raise. In 2010 we had funding from IDA and ran a series of 12 workshops, covering a spectrum of interesting technologies and software engineering methodologies. Again, the primary expenses during workshops are food: we request a minimum of <strong>$300</strong> per workshop for food and miscellaneous expenses (such as posters, flyers, and so on).
+Every semester, we hold a series of technical workshops called Hackerschool series. How many workshops we can run is contingent on how much funds we raise. We usually aim to hold 6 workshops covering web and mobile development, unix and hardware hacking. Again, the primary expenses during workshops are food: we request a minimum of <strong>$300</strong> per workshop for food and miscellaneous expenses (such as posters, flyers, and so on). We also request a minimum of <strong>$500</strong> for our hardware workshop to cover the equipment costs.
 
 <strong>Hardware</strong>
 
-We have a small team of hardware hackers in NUS Hackers, and they frequently have to pay out of their own pockets for Arduinos, chips, and shields. Any and all contributions are welcomed for this effort (a typical hardware project costs around 200).
+We have a small team of hardware hackers in NUS Hackers, and they frequently have to pay out of their own pockets for Arduinos, chips, and shields. Any and all contributions are welcomed for this effort (a typical hardware project costs around <strong>$200</strong>).
+
+<strong>Hackerspace</strong>
+
+We also maintain the NUS Hackerspace. We aim to provide hardware and software capabilities to students for them to use in their projects. Any software, hardware and monetary sponsorship for equipping NUS Hackerspace with more technology is more than welcome.
+
 <h3>Get in touch</h3>
 If any of these sound like events you’d like to sponsor, please <a href="/contact/">let us know</a>. We’ll keep you posted about upcoming events, and you are welcome to send a representative or two to check them out and meet students (though if you do, please note that we keep our students pretty occupied at these events.)
 
