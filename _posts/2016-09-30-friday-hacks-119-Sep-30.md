@@ -31,8 +31,8 @@ Ben develops and implements algorithms for autonomy in unmanned ground vehicles 
 
 #### Talk Description:
 
-TBC
+As the population of any city increases, so will the demand of basic infrastructure like transportation. In more affluent cities like Singapore, manpower shortage is major hindrance to maintaining the efficiency of the transportation system. We will explore how autonomous vehicles will address this, what some of the technical challenges are, and how autonomous vehicles will usher in the next generation of mobility.
 
 #### Speaker Profile
 
-TBC
+James Fu is the Director of Singapore Operations at nuTonomy. He currently oversees the technological development at the Singapore office, which involves the technology and software required for autonomous vehicle driving and intelligent fleet management with the eventual goal of an autonomous mobility service. He was previously a Research Scientist at the Singapore-MIT Alliance for Research and Technology, where he led the Autonomous Vehicles Group under the Future Urban Mobility IRG. At SMART, he was involved and oversaw Singapore's first public trial of autonomous vehicles in Oct 2014, which involved two autonomous golf buggies at the Chinese and Japanese Gardens. He received his Ph.D and B.Eng degrees from the Department of Mechanical Engineering at the National University of Singapore in 2005 and 2013 respectively. His main research interests include multi-agent task allocation, fleet management, and swarm behaviour. 
