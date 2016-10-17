@@ -55,12 +55,15 @@ hacks:
         from: PayPal
         title: GraphQL in an Age of REST 
   - venue: SR3, Town Plaza, University Town
-  - venue: TBC
     topics: 
-      - speaker: Michael Yong
-        from: Quora
-        title: TBC    
-  - venue: TBC
+      - speaker: Li Kai and Tay Yang Shun
+        from: NUSMods
+        title: NUSMods v3.0 and Modify.sg - Building the next-gen timetable
+      - speaker: Jethro Kuan Sheng Yuan
+        from: NUS
+        title: Diving into Open Source 
+  - venue: SR3, Town Plaza, University Town  
+  - venue: SR3, Town Plaza, University Town
     topics: 
       - speaker: NUS Hackers
         title: Code Golf 
