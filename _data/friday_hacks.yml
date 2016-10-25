@@ -62,7 +62,11 @@ hacks:
       - speaker: Jethro Kuan Sheng Yuan
         from: NUS
         title: Diving into Open Source 
-  - venue: SR3, Town Plaza, University Town  
+  - venue: SR3, Town Plaza, University Town
+    topics:
+      - speaker: Jordan Dea-Mattson and Shekhar Raju
+        from: TradeGecko
+        title: Why Go For Go!  
   - venue: SR3, Town Plaza, University Town
     topics: 
       - speaker: NUS Hackers
