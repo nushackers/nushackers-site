@@ -82,13 +82,13 @@
     an EE undergrad who likes to exercise his imagination and toy with
     unconventional ideas. He's into puzzling, tinkering, making and programming.
     Engage Ramu at <a href="mailto:ramu@nushackers.org">ramu@nushackers.org</a>.
-    
+
 - name: Deshun
   description: |
     a Computer Science undergraduate. He likes chocolate.
 
 - name: Herbert
   description: |
-    A Computer Science student who takes more pure math modules than CS.
-    His first real programming experience is in CS1101S; since then, he
-    has tried many things which can be found in github.com/donjar.
+    a Computer Science student who takes more pure math modules than CS.
+    His first real programming experience was in CS1101S. Since then, he
+    has tried many things which can be found at <a href="github.com/donjar">github.com/donjar</a>.
