@@ -12,9 +12,12 @@
     he's free. <em>More about him at</em> <a
     href="http://yjyao.com">yjyao.com</a>.
 
-- name: Johannes
+- name: Johannes Choo
   description: |
-    a Computer Science undergraduate. He goes by aquaroris on the net.
+    a Computer Science undergraduate. His secondary interests include classical
+    languages and philosophy. You can find his code at
+    <a href="http://github.com/jhanschoo">github.com/jhanschoo</a> and his blog at
+    <a href="http://jhanschoo.github.io">jhanschoo.github.io</a>.
 
 - name: Zhi An
   description: |
@@ -91,4 +94,5 @@
   description: |
     a Computer Science student who takes more pure math modules than CS.
     His first real programming experience was in CS1101S. Since then, he
-    has tried many things which can be found at <a href="github.com/donjar">github.com/donjar</a>.
+    has tried many things which can be found at
+    <a href="http://github.com/donjar">github.com/donjar</a>.
