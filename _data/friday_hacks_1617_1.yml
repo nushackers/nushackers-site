@@ -1,0 +1,73 @@
+start_date: 2016-08-19 18:00:00 +0800
+hacks:
+  - venue: School of Computing, Seminar Room 1
+    topics:
+      - speaker: NUS Hackers
+        title: Welcome Tea
+  - venue: School of Computing, Seminar Room 1
+    topics:
+      - speaker: Li Haoyi
+        from: Dropbox
+        title: Diving Into Other People's Code
+      - speaker: Li Hongyi
+        from: IDA
+        title: Deploying Data.gov.sg  
+  - venue: The Hangar by NUS Enterprise
+    topics:
+      - speaker: NUS Hackers
+        title: Project Intern
+  - venue: SR3, Town Plaza, University Town
+    topics:
+      - speaker: Melvin Zhang
+        from: Cosmiqo
+        title: Programs that Play better than Us
+      - speaker: Zhi An Ng
+        from: NUS Hackers
+        title: Accessibility and ChromeLens 
+  - venue: The Hangar by NUS Enterprise
+    topics:
+      - speaker: Yos Riady
+        from: PayPal
+        title: Entity Component Systems in Elixir
+      - speaker: Yong Wen Chua
+        from: IDA
+        title: Deploying with Docker   
+  - nohack: Recess Week
+  - venue: SR3, Town Plaza, University Town
+    topics:
+      - speaker: Benjamin Choi
+        from: DSO
+        title: "Autonomous Vehicles: Advances and Algorithms"
+      - speaker: James Fu
+        from: nuTonomy
+        title: Autonomous Vehicles for Mobility on Demand
+  - venue: SR3, Town Plaza, University Town
+    topics:
+      - speaker: Sean Xie
+        from: Twitter
+        title: Building scalable advertising platforms
+  - venue: The Hangar by NUS Enterprise
+    topics: 
+      - speaker: Chuk Munn Lee
+        from: NUS ISS
+        title: JS Promises
+      - speaker: Yos Riady
+        from: PayPal
+        title: GraphQL in an Age of REST 
+  - venue: SR3, Town Plaza, University Town
+    topics: 
+      - speaker: Li Kai and Tay Yang Shun
+        from: NUSMods
+        title: NUSMods v3.0 and Modify.sg - Building the next-gen timetable
+      - speaker: Jethro Kuan Sheng Yuan
+        from: NUS
+        title: Diving into Open Source 
+  - venue: SR3, Town Plaza, University Town
+    topics:
+      - speaker: Jordan Dea-Mattson and Shekhar Raju
+        from: TradeGecko
+        title: Why Go For Go!  
+  - venue: SR3, Town Plaza, University Town
+    topics: 
+      - speaker: NUS Hackers
+        title: Code Golf 
