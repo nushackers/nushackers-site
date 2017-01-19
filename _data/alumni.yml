@@ -82,7 +82,7 @@
   description: |
     a Computer Science undergraduate interested in information security.
     <em>More about him at</em> <a href="http://www.qxcg.net/">qxcg.net</a>.
-    
+
 - name: Benedict
   description: |
     a Computer Science undergraduate with interests in Software Engineering. You
@@ -93,3 +93,10 @@
     a Computer Science undergraduate and AI/algorithms enthusiast. <em>More
     about him at</em> <a title="Pallav's homepage"
     href="https://pshinghal.com">pshinghal.com</a>.
+
+- name: Yujian
+  description: |
+    a Computer Science undergraduate who likes reading, mathematics, computer
+    science, technology and Spongebob. He also likes to try out new stuff when
+    he's free. <em>More about him at</em> <a
+    href="http://yjyao.com">yjyao.com</a>.
