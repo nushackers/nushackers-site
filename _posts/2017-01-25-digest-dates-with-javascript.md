@@ -9,7 +9,7 @@ categories: [Digest]
 This post is about the various ways you can create a `Date` in JavaScript,
 both documented and undocumented, how it works under the hood, and the (maybe surprising) results you get.
 
-I first came across this while working on [NUSMods](v3.nusmods.com) and [Flow](https://flowtype.org) warned that passing an array of values to `Date` is not valid.
+I first came across this while working on [NUSMods](http://v3.nusmods.com) and [Flow](https://flowtype.org) warned that passing an array of values to `Date` is not valid.
 However if you actually try it, say in `node` interpreter or in your browser's console, it works:
 
 ```
