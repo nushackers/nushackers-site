@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digest: Dates with JavaScript"
-date: 2017-01-22 22:00
+date: 2017-01-25 08:42
 author: Ng Zhi An
 categories: [Digest]
 ---
