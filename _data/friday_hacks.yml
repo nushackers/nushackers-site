@@ -10,6 +10,13 @@ hacks:
         title: Smart Enterprise Software Empowered by Machine Learning
   - nohack: CNY Eve
   - venue: TBC
+    topics:
+      - speaker: Jethro Kuan
+        from: NUS Hackers
+        title: 'Realtime Collaboration: A Brief History'
+      - speaker: Wang Leng
+        from: NUS School of Computing
+        title: Cross Site Scripting
   - venue: TBC
   - venue: TBC
   - nohack: Recess Week
