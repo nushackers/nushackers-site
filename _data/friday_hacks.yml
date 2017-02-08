@@ -17,7 +17,14 @@ hacks:
       - speaker: Wang Leng
         from: NUS School of Computing
         title: Cross Site Scripting
-  - venue: TBC
+  - venue: SR3, Town Plaza, University Town, NUS
+    topics:
+      - speaker: Ding Feng
+        from: NUS CS
+        title: 'Hardware Hacks: The Whys and Hows'
+      - speaker: Raghav Sood
+        from: IBM Blockchain Innovation Center
+        title: 'Wi-Fi Hacks: Hacking the Air Around Us'
   - venue: TBC
   - nohack: Recess Week
   - venue: TBC
