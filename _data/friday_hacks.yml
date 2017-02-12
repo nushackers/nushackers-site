@@ -25,7 +25,11 @@ hacks:
       - speaker: Raghav Sood
         from: IBM Blockchain Innovation Center
         title: 'Wi-Fi Hacks: Hacking the Air Around Us'
-  - venue: TBC
+  - venue: SR3, Town Plaza, University Town, NUS
+    topics:
+      - speaker: Emil Tan
+        from: Edgis
+        title: My Love-Hate Relationship with Honeypot
   - nohack: Recess Week
   - venue: TBC
   - venue: TBC
