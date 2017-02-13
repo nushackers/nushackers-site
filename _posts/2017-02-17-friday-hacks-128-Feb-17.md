@@ -5,7 +5,7 @@ date: 2017-02-12 00:55:21.741000
 author: Ramu
 ---
 
-We are excited to have Emil speaking at this week's FH before we break for recess week. Check out more details below. See you there!
+We are excited to have Emil and Sunny speaking at this week's FH before we break for recess week. Check out more details below. See you there!
 
 Date/Time: Friday, February 17 at 6:30pm
 Venue: SR3, Town Plaza, University Town, NUS
