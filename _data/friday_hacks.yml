@@ -30,6 +30,9 @@ hacks:
       - speaker: Emil Tan
         from: Edgis
         title: My Love-Hate Relationship with Honeypot
+      - speaker: Sunny Neo
+        from: BT Security
+        title: Web Security for Developers
   - nohack: Recess Week
   - venue: TBC
   - venue: TBC
