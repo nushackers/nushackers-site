@@ -7,26 +7,24 @@ categories: [Digest]
 ---
 
 ## Introduction
-Nowadays, authentication systems are present in nearly all websites (with at
-least a username and password system in place). In this article, we will create
-a simple authentication system in the popular web application framework Ruby on
-Rails. This article is mainly aimed at those who are just getting started with
-your first web application (but with some knowledge of Rails).
+Nowadays, nearly all websites have an authentication system in place, using
+usernames and passwords. In this article, we will create a simple authentication
+in Ruby on Rails, a popular web application framework. This article is mainly
+aimed at those who are just getting started with their first web application
+(but have some knowledge of Rails).
 
-When I first learned Rails (and web development in general), I wanted to create
-a website for my organization. Since the website needs an authentication system,
-I searched for gems that help me. One of the most popular gems is
-[devise](https://github.com/plataformatec/devise); however, if you check the
-README, you'll find out that if you are just getting started with Rails, it is
-recommended [not to use Devise](https://github.com/plataformatec/devise#starting-with-rails)!
+When I first learned Rails and web development in general, I wanted to create
+a website for my organization. One requirement for the website was to have an
+authentication system, so I searched for Ruby gems that could help with this.
+One of the most popular gems is [devise](https://github.com/plataformatec/devise).
+However, this gem is not recommended for beginners to Rails
+[as mentioned in the README](https://github.com/plataformatec/devise#starting-with-rails)!
 
-Based on my experiences, this article will walk through steps on creating a
-sufficiently secure authentication system in Ruby on Rails 5.0.1 on Ruby 2.4.0.
+Based on my experiences, this article will walk through the steps needed to
+create a sufficiently secure authentication system in Ruby on Rails 5.0.1 on
+Ruby 2.4.0.
 
 ## What to store in database?
-We will only set up a simple system with only usernames and passwords. Does that
-mean we store usernames and passwords directly in the database?
-
 It is totally not advisable to store plain passwords in the database. For one,
 developers can see the password you store, which is already a security breach.
 An even more important reason, though, is to limit the damage when your database
@@ -53,9 +51,9 @@ For our purposes, we will be using [BCrypt](https://en.wikipedia.org/wiki/Bcrypt
 that is conviniently bundled already in Ruby on Rails.
 
 There is another problem though - if we only store the password hash, an
-attacker can compute as many hashes as the attacker can, and store it in some
-table. When the database is compromised, the attacker can just use this table
-to lookup inputs that hash to these passwords! This attack is called
+attacker can compute as many hashes as they can, and store it in some table.
+When the database is compromised, the attacker can just use this table to
+lookup inputs that hash to these passwords! This attack is called
 [rainbow tables](https://en.wikipedia.org/wiki/Rainbow_table).
 
 Hence, we need to "upgrade" our hashing system by including
@@ -135,7 +133,7 @@ exist. Username is also ensured to be unique. Now you might realize that the
 username is already guaranteed in the database to be not null and unique; why
 bother doing it again in the model? Actually, it is enough to have it in either
 the model or the database (assuming the database only interacts with this app).
-I'm just used to including it in both.
+I'm just going to including it in both.
 - The `before_validation` block makes sure that the password is encrypted
 before creating.
 - The `authenticate` method provides a method in the user to check if the given
@@ -173,5 +171,5 @@ So this means our user system is working. Yay!
 For a simple authentication system that is only working in the model, this is
 sufficient. However, if you are going to create a full application with view
 and controller, you also need to add the login and logout functions, which
-needs more than this. There are many tutorials online - we might even add one
+need more than this. There are many tutorials online - we might even add one
 in the future!
