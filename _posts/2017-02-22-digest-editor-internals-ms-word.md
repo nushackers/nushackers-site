@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Digest: Editor Internals - MS Word"
-date: 2017-02-22 13:53
+date: 2017-02-22 14:00
 author: Jethro Kuan
-categories: [Digest]
+published: true
+categories: [digest]
 ---
 
 Recently, I delivered
@@ -91,7 +92,7 @@ sequence.
       piece   * prev;
     
       size_t   start;
-      size_t   end;
+      size_t   length;
       size_t   buffer;
     };
 
@@ -116,7 +117,7 @@ head and tail nodes. A span is then created, which represents the
 entirety of the file buffer contents. This span is appended to the
 linked list.
 
-![img](images/piecetable/start.png)
+![img](/images/piecetable/start.png)
 
 ## Removing text
 
@@ -132,7 +133,7 @@ represent, respectively:
 In general, the delete operation increases the number of spans in the
 piece table by 1.
 
-![img](images/piecetable/remove.png)
+![img](/images/piecetable/remove.png)
 
 ## Insert text
 
@@ -147,17 +148,17 @@ the add buffer. Next, the span is split into 3:
 3.  The third span represents the items of the old span after the
     insert ("")
 
-![img](images/piecetable/insert.png)
+![img](/images/piecetable/insert.png)
 
 ## Advantages
 
 Notice that the original file is read-only; this is friendly for
 caching. Also, everything is append-only, lending itself to cheap
-undos by simply saving the previous state.
+undos by smartly storing previous descriptors.
 
 In addition, text editors like MS Word require the storage of
 formatting information. This is trivial, since appended text in the
-add-buffer never changes it memory address, and can be safely refered
+add-buffer never changes its memory address, and can be safely refered
 to with pointers.
 
 The size of the piece table is a function of the number of insert and
@@ -166,10 +167,11 @@ ideal for editing large files.
 
 ## Disadvantages
 
-The idea behind the piece table I described in this article is
-simple. Implementation, however, can get unwieldy. The versatility of
-piece tables lend themselves to the availability of a whole host of
-optimizations, which tend to end up as a huge ball of mud.
+The idea behind the piece table I described in this article is simple.
+Implementation, however, can get unwieldy, and is certainly lengthier
+than other data structures. The versatility of piece tables lend
+themselves to the availability of a whole host of optimizations, which
+tend to end up as a huge ball of mud.
 
 Modern text editors seldom implement piece tables underneath. Piece
 tables were invented some 30 years ago, in an era of limited memory
