@@ -34,7 +34,11 @@ hacks:
         from: BT Security
         title: Web Security for Developers
   - nohack: Recess Week
-  - venue: TBC
+  - venue: The Hangar by NUS Enterprise
+    topics:
+      - speaker: Kee Wee Teng
+        from: FSTD, MINDEF
+        title: An Introduction to DIY Laser Cutters
   - venue: TBC
   - venue: TBC
   - venue: TBC
