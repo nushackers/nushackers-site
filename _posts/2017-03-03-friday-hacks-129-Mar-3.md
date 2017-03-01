@@ -1,7 +1,7 @@
 ---
 layout: friday_hack
 title: "Friday Hacks #129, March 3"
-date: 2017-28-02 17:42:59.487000
+date: 2017-02-28 17:42:59
 categories: ["Friday Hacks"]
 author: Ramu
 ---
