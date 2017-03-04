@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digest: Editor Internals - MS Word"
-date: 2017-02-22 14:00
+date: 2017-03-04 09:44
 author: Jethro Kuan
 published: true
 categories: [digest]
