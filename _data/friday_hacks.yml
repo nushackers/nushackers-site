@@ -39,7 +39,11 @@ hacks:
       - speaker: Kee Wee Teng
         from: FSTD, MINDEF
         title: An Introduction to DIY Laser Cutters
-  - venue: TBC
+  - venue: The Hangar by NUS Enterprise
+    topics:
+      - speaker: Virgil Griffith
+        from: Legalese
+        title: Bitcoin, Darkweb, Ethereum and LegalTech
   - venue: TBC
   - venue: TBC
   - venue: TBC
