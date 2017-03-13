@@ -48,7 +48,15 @@ hacks:
         from: Legalese
         title: Bitcoin, Darkweb, Ethereum and LegalTech
   - venue: TBC
+    topics:
+      - speaker: John L. Gustafson
+        from: NUS
+        title: Weapons of Math Destruction
   - venue: TBC
-  - venue: TBC
+    topics:
+      - speaker: Abhilash Murthy
+        from: Bus Uncle
+        title: TBC
+  - venue: TBC 
   - venue: TBC
   - nohack: Good Friday
