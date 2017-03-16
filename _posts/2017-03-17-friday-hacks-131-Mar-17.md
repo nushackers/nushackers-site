@@ -8,7 +8,7 @@ author: Jethro Kuan
 Hi folks! This week we are privileged to have one of the leading experts in high performance computing (he has his own law!), give a talk on the intricacies of math in computing. For more information, refer to the talk description.
 
 {% capture venue %}
-    {{ 'TBC' }}
+    {{ SR3, Town Plaza, University Town, NUS }}
 {% endcapture %}
 {% include friday_hack_header.html %}
 
