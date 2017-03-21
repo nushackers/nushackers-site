@@ -52,11 +52,14 @@ hacks:
       - speaker: John L. Gustafson
         from: NUS
         title: Weapons of Math Destruction
-  - venue: TBC
+  - venue: SR5, Town Plaza, University Town, NUS
     topics:
       - speaker: Abhilash Murthy
         from: Bus Uncle
-        title: TBC
+        title: How to Build a Bot People Will Love
+      - speaker: Coreteam
+        from: NUS Hackers
+        title: Panel Discussion - Summer Plans
   - venue: TBC 
   - venue: TBC
   - nohack: Good Friday
