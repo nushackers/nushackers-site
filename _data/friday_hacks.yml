@@ -60,6 +60,13 @@ hacks:
       - speaker: Coreteam
         from: NUS Hackers
         title: Panel Discussion - Summer Plans
-  - venue: TBC 
+  - venue: i-Cube Building Auditorium, NUS
+    topics:
+      - speaker: Jeff Moss
+        from: DEFCON & BlackHat
+        title: A Sharing on Cyber Security
+      - speaker: Halvar Flake
+        from: Google
+        title: Another Sharing on Cyber Security
   - venue: TBC
   - nohack: Good Friday
