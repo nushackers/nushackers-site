@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digest: A parallelized ray tracer in the browser"
-date: 2017-01-05 10:49
+date: 2017-03-30 13:27
 author: Stacey Tay
 published: true
 categories: [Digest]
@@ -49,8 +49,7 @@ picture. This way, we don't waste resources computing rays that will
 never be part of the image.
 
 ![](https://cloud.githubusercontent.com/assets/3874336/14632868/7197cd34-064d-11e6-9e04-d91639bdf646.png)
-<p class="caption">An illustration from Wikipedia on how raytracing
-works.</p>
+_An illustration from Wikipedia on how raytracing works_
 
 Ray tracing, especially when compared to other techniques for
 generating images, allows for realistic rendering of images since we
@@ -107,8 +106,8 @@ let kernel = gpu.createKernel (function () {
 let canvas = kernel.getCanvas ()
 document.body.appendChild (canvas)
 ```
-<p class="caption"> A simple GPU.js kernel that creates a 800 x 600
-blue canvas using the GPU and inserts it into a web page's body.</p>
+_A simple GPU.js kernel that creates a 800 x 600 blue canvas using
+the GPU and inserts it into a web page's body._
 
 However, there are some caveats. GPU.js is still in its early stages
 of development and so only supports a limited subset of JavaScript. It
@@ -145,8 +144,8 @@ wasn't fast enough to see the animations run smoothly. This has been
 an unexpected and unexpectedly fun assignment.
 
 [![](https://cloud.githubusercontent.com/assets/3874336/14634556/0b0d6102-0655-11e6-97eb-18a9fe1c7bdb.png)](http://staceytay.com/raytracer/)
-<p class="caption">A screenshot of my ray tracer, at
-<a href="http://staceytay.com/raytracer/">http://staceytay.com/raytracer/</a>.</p>
+_A screenshot of my ray tracer, at
+<a href="http://staceytay.com/raytracer/">http://staceytay.com/raytracer/</a>._
 
 ## References
 
