@@ -68,5 +68,12 @@ hacks:
       - speaker: Halvar Flake
         from: Google
         title: Another Sharing on Cyber Security
-  - venue: TBC
+  - venue: SR5, Town Plaza, University Town, NUS
+    topics:
+      - speaker: Peter Hoeg
+        from: Speartail
+        title: '(Programming your OS && ignoring state) == bliss'
+      - speaker: Vishnu Prem
+        from: Coreteam
+        title: 'Row Hammer: Flipping Bits in Memory Without Accessing Them'
   - nohack: Good Friday
