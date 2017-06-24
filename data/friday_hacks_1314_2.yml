@@ -1,0 +1,71 @@
+start_date: 2015-01-16 18:00:00 +0800
+hacks:
+  - venue: LT15 @ AS6
+    topics:
+      - speaker: Benjamin Tan Wei Hao
+        from: Neo Innovation, Inc
+        title: Getting a sip of Elixir
+  - venue: LT15 @ AS6
+    topics:
+      - speaker: Sundaravalli Shriram
+        from: PayPal Inc.
+        title: Functional Programming Basics in Scala
+  - venue: "NUS Hackerspace, AS6-02-09"
+    topics:
+      - speaker: Cedric Chin
+        from: Floating Cube Studios
+        title: The Absolute Minimum Every Software Developer Needs To Know About Database Indexes
+      - speaker: Cedric Honnet
+        from: twiz.io
+        title: TWI, a Bluetooth Low Energy Wireless Motion Sensor
+  - venue: "SR3, Town Plaza, UTown"
+    topics:
+      - speaker: Shawn Tan
+        from: NUS
+        title: Deep Learning
+  - venue: "SR3, Town Plaza, UTown"
+    topics:
+      - speaker: Sayanee Basu
+        from: webuild.sg / Build Podcast
+        title: Getting Involved in the Developer Community
+  - nohack: Chinese New Year (Public Holiday)
+  - nohack: Recess Week
+  - venue: "SR3, Town Plaza, UTown"
+    topics:
+      - speaker: Li Hongyi
+        from: IDA
+        title: "Optimizing Bus Routes with Data Analytics"
+      - speaker: Li Haoyi
+        from: Dropbox
+        title: "Unruly Creatures: The Web Platform at Dropbox"
+  - nohack: eLearning Week
+  - venue: "SR3, Town Plaza, UTown"
+    topics:
+      - speaker: Winston Teo
+        from: Jolly Good Code
+        title: Building Developer Communities
+      - speaker: Duy Nguyen Truong
+        from: NUS
+        title: Apache Thrift at Facebook
+  - venue: "SR3, Town Plaza, UTown"
+    topics:
+      - speaker: Chris Forno
+        from: ZALORA Group
+        title: 'Purely Functional Deployments with Nix: Hacking on "Web Scale" Applications'
+      - speaker: Omer Iqbal
+        from: Garena Singapore
+        title: Functional Reactive Programming in iOS
+  - nohack: Good Friday (Public Holiday)
+  - venue: "Venue TBC"
+    topics:
+      - speaker: Jacob Soo, Damian Ong, Glenn Ng
+        from: Ministry of Home Affairs
+        title: Web Developers’ Nightmare
+  - venue: "Venue TBC"
+    topics:
+      - speaker: Matthieu Feulvarch
+        from: MyRepublic
+        title: Teleport, an Intelligent Routing Service
+      - speaker: Melvin Zhang
+        from: Cosmiqo International
+        title: Functional Programming from First Principles

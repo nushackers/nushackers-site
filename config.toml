@@ -1,0 +1,25 @@
+baseURL = "https://nushackers.com/"
+languageCode = "en-us"
+title = "NUSHackers"
+copyright = "NUS Hackers"
+
+[[menu.main]]
+  name = "About"
+  identifier = "About"
+  url = "/about"
+[[menu.main]]
+  name = "Discussion"
+  identifier = "Discussion"
+  url = "/discussion"
+[[menu.main]]
+  name = "Events"
+  identifier = "Events"
+  url = "/events"
+[[menu.main]]
+  name = "Code"
+  identifier = "Code"
+  url = "/code"
+[[menu.main]]
+  name = "Contact"
+  identifier = "Contact"
+  url = "/contact"

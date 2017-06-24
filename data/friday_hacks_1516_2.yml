@@ -1,0 +1,63 @@
+start_date: 2016-01-22 18:00:00 +0800
+hacks:
+  - venue: VCRm, School of Computing
+    topics:
+      - speaker: Fazli Sapuan
+        from: National University of Singapore
+        title: That Roomba Raspberry Pi Kinect Hack
+  - venue: VCRm, School of Computing
+    topics:
+      - speaker: Lim Chee Aun,
+        from: Tech in Asia 
+        title: "Building side projects: the timeline, triggers and stages that every builder has to experience."
+  - nohack: Chinese New Year
+  - venue: VCRm, School of Computing
+    topics:
+        - speaker: Eeshan Kulkarni and Shuvan Prashant
+          title: "Secure, high-speed Wi-Fi using light-bulbs"
+  - nohack: Recess Week
+  - nohack: Recess Week
+  - venue: Seminar Room 3, Town Plaza, University Town
+    topics:
+        - speaker: Cheng Wei
+          from: Garena Labs
+          title: "File Store Engine in Go --- how to reduce GC overhead"
+  - venue: VCRm, School of Computing
+    topics:
+        - speaker: Jia Hao
+          title: "Nativefier - Wrap any web page into an executable without even thinking"
+          from: SUTD
+  - venue: Seminar Room 3, Town Plaza, University Town
+    topics:
+        - speaker: Jordan Dea-Mattson
+          title: "Building robust, scalable, and secure mobile applications in hostile environments."
+          from: Wobe
+  - nohack: Good Friday
+  - venue: Seminar Room 3, Town Plaza, University Town
+    topics:
+      - speaker: Quan Yang
+        title: The ABCs of XSS
+        from: NUS GreyHats
+      - speaker: Jayson E. Street
+        title: Just Hacker Things with Jayson
+        from: National Financial Institution, Stratagem 1 Solutions, Pwnie Express
+      - speaker: Jeff Moss
+        title: Q&A with Jeff Moss
+        from: BlackHat, DEFCON (founder)
+  - venue: TBC
+    topics:
+      - speaker: Omer Iqbal
+        title: "Implementing a toy compiler with LLVM"
+        from: Garena
+      - speaker: Jason Yeo
+        title: "Slaying the Dragon: Implementing a language in Ruby"
+        from: SourceClear
+  - venue: Seminar Room 3, Town Plaza, University Town
+    topics:
+      - speaker: Melvin Zhang
+        title: "Building a Turing Machine emulator to explore Turing's great ideas."
+        from: Cosmiqo
+      - speaker: Juan Miguel Jimeno 
+        title: TBC
+        from:
+

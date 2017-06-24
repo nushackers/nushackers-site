@@ -1,0 +1,11 @@
+.footer {
+  padding: 0.5rem 0;
+  margin: 1rem 0;
+  border-top: $dashed-border;
+
+  .footer-right {
+    @include media-breakpoint-up(sm) {
+      text-align: right;
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "nushackers-site-hugo",
+    "version": "1.0.0",
+    "description": "Sup! This is the source code of the nushackers blog site http://nushackers.org.",
+    "main": "scripts/gulpfile.js",
+    "scripts": {
+        "start": "gulp",
+        "build": "gulp --production"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "autoprefixer": "^7.1.1",
+        "bootstrap": "4.0.0-alpha.6",
+        "gulp": "^3.9.1",
+        "gulp-plumber": "^1.1.0",
+        "gulp-postcss": "^7.0.0",
+        "gulp-prettiest": "^1.0.0",
+        "gulp-sass": "^3.1.0",
+        "gulp-util": "^3.0.8",
+        "postcss-flexbugs-fixes": "^3.0.0",
+        "postcss-scss": "^1.0.2",
+        "postcss-sorting": "^3.0.0",
+        "prettier": "^1.4.4"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "ie >= 11"
+    ]
+}
