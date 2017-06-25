@@ -1,7 +1,9 @@
 $font-family-serif: Quattrocento, Georgia, "Times New Roman", Times, serif;
 
 $hackers-orange: #CC4100;
-$link-orange: #F8941D;
+$highlight-orange: #F8941D;
+$link-color: $hackers-orange;
+$link-hover-color: $hackers-orange;
 
 $dashed-border: 1px dashed #ccc;
 
@@ -9,12 +11,6 @@ $dashed-border: 1px dashed #ccc;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-serif;
-}
-
-a {
-  text-decoration: none;
-  color: $hackers-orange;
-  background: none repeat scroll 0 0 transparent;
 }
 
 .clear-list {

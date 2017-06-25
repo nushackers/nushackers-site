@@ -12,6 +12,8 @@
         "autoprefixer": "^7.1.1",
         "bootstrap": "4.0.0-alpha.6",
         "gulp": "^3.9.1",
+        "gulp-changed-in-place": "^2.2.0",
+        "gulp-notify": "^3.0.0",
         "gulp-plumber": "^1.1.0",
         "gulp-postcss": "^7.0.0",
         "gulp-prettiest": "^1.0.0",

@@ -1,7 +1,9 @@
 const spawn = require('child_process').spawn;
 const gulp = require('gulp');
 const gutil = require('gulp-util');
+const changedInPlace = require('gulp-changed-in-place');
 const sass = require('gulp-sass');
+const notify = require('gulp-notify');
 const plumber = require('gulp-plumber');
 const postcss = require('gulp-postcss');
 const sorting = require('postcss-sorting');
@@ -22,7 +24,7 @@ const sortPlugin = sorting({
     'dollar-variables',
     'declarations',
     'rules',
-    'at-rules'
+    'at-rules',
   ],
   'properties-order': [
     'content',
@@ -141,36 +143,43 @@ const sortPlugin = sorting({
     'transition-duration',
     'transition-timing-function',
     'transition-delay',
-    'animation'
-  ]
+    'animation',
+  ],
 });
 
-const errorPlugin = () => plumber(function(error) {
-  if (IS_DEVELOPMENT) {
-    gutil.log(error.message);
-    this.emit('end');
-  } else {
-    throw error;
-  }
-});
+const errorPlugin = () =>
+  plumber(function(error) {
+    if (IS_DEVELOPMENT) {
+      notify.onError({
+        title: 'Error on scss',
+        message: error.messageFormatted,
+        sound: false,
+      })(error);
+      this.emit('end');
+    } else {
+      throw error;
+    }
+  });
 
-// Lints and fixes scss, then compiles to css and autoprefixes it
+// Lints and fixes scss
 gulp.task('scss:fix', () => {
   if (IS_PRODUCTION) {
     return;
   }
   return gulp
     .src(SCSS_GLOB)
+    .pipe(changedInPlace())
     .pipe(errorPlugin())
     .pipe(postcss([sortPlugin], { syntax: require('postcss-scss') }))
     .pipe(
       prettier({
-        parser: 'postcss'
+        parser: 'postcss',
       })
     )
     .pipe(gulp.dest(SCSS_PATH));
 });
 
+// Compiles to css and autoprefixes it
 gulp.task('scss:compile', ['scss:fix'], () => {
   return gulp
     .src(SCSS_ENTRY)
@@ -178,7 +187,7 @@ gulp.task('scss:compile', ['scss:fix'], () => {
     .pipe(
       sass({
         includePaths: ['node_modules/'],
-        outputStyle: IS_PRODUCTION ? 'compressed' : 'nested'
+        outputStyle: IS_PRODUCTION ? 'compressed' : 'nested',
       })
     )
     .pipe(postcss([flexbugs, autoprefixer()]))
@@ -189,12 +198,12 @@ gulp.task('scss:compile', ['scss:fix'], () => {
 gulp.task('styles', () => {
   // Watch style folder for changes
   if (IS_DEVELOPMENT) {
-    gulp.watch(SCSS_GLOB, ['scss:compile']);
+    gulp.watch(SCSS_GLOB, { awaitWriteFinish: true }, ['scss:compile']);
   }
 });
 
 // Runs Hugo
-gulp.task('hugo', ['scss:compile'], cb => {
+gulp.task('hugo', ['scss:compile'], () => {
   const flags = [];
   if (IS_DEVELOPMENT) {
     flags.push('server'); // watch and serve
@@ -215,13 +224,18 @@ gulp.task('hugo', ['scss:compile'], cb => {
 
   child.stderr.setEncoding('utf8');
   child.stderr.on('data', data => {
+    const error = new gutil.PluginError({
+      plugin: 'Hugo',
+      message: data,
+    });
     if (IS_DEVELOPMENT) {
-      gutil.log(gutil.colors.red(data));
+      notify.onError({
+        title: 'Error on hugo',
+        message: error.messageFormatted,
+        sound: false,
+      })(error);
     } else {
-      throw new gutil.PluginError({
-        plugin: 'Hugo',
-        message: data
-      });
+      throw error;
     }
   });
 });

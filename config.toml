@@ -1,7 +1,10 @@
-baseURL = "https://nushackers.com/"
+baseURL = ""
 languageCode = "en-us"
 title = "NUSHackers"
 copyright = "NUS Hackers"
+disqusShortname = "nushackers"
+enableEmoji = true
+ignoreFiles = ["\\.scss$"]
 
 [[menu.main]]
   name = "About"
