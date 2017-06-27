@@ -1,6 +1,7 @@
 # nushackers-site
 
 Sup! This is the source code of the nushackers blog site http://nushackers.org.
+Development blog site at https://nushackers.netlify.com
 
 ## Requirement
 
@@ -23,9 +24,9 @@ Hugo will now generate the site and watch the directory and update the site when
 
 First, since hugo uses [yaml]("http://en.wikipedia.org/wiki/YAML") as the markup for data. It's really simple, so just read about it first.
 
-With some knowledge of yaml, you can take a look at the `data` folder - it contains the data for displaying the Friday hacks in the index page, coreteam members in the `/about` page and coreteam alumni in the `/alumni` page. More details below:
+With some knowledge of yaml, you can take a look at the `content` folder - it contains the data for displaying the Friday hacks in the index page, coreteam members in the `/about` page and coreteam alumni in the `/alumni` page. More details below:
 
-`friday_hacks.yml` is for the Friday hacks (duh!). It contains a list (under `hacks`) of objects each with four fields: `speaker`, `from`, `title` and `venue`. Leave the `speaker` field empty to mark it as 'slot is open', or fill it up if it's filled up. For special occasion such as holidays, delete all fields and put `nohack` as the sole field with the reason as the value, e.g.
+In data, `friday_hacks.yml` is for the Friday hacks (duh!). It contains a list (under `hacks`) of objects each with four fields: `speaker`, `from`, `title` and `venue`. Leave the `speaker` field empty to mark it as 'slot is open', or fill it up if it's filled up. For special occasion such as holidays, delete all fields and put `nohack` as the sole field with the reason as the value, e.g.
 
 ```yml
 - nohack: Good Friday
