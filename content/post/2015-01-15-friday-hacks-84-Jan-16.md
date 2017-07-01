@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #84, January 16"
-date: 2015-01-13 16:10:25
 author: Jingwen
+date: 2015-01-15T16:10:25Z
+title: 'Friday Hacks #84, January 16'
+url: /2015/01/15/friday-hacks-84-Jan-16/
 ---
 
 Welcome back! For the first Friday Hacks of the semester, we have Benjamin Tan,

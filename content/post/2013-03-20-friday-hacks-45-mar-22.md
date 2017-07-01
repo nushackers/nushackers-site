@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #45, Mar 22"
-date: 2013-03-20 21:26
 author: benedict
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-03-20T00:00:00Z
+title: 'Friday Hacks #45, Mar 22'
+url: /2013/03/20/friday-hacks-45-mar-22/
 ---
+
 This week we have Dr Michael Brown and Melvin Zhang. These talks are suited for everyone! So come and listen to them!
 <blockquote><strong>Date/Time:</strong> Friday, March 22 at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>

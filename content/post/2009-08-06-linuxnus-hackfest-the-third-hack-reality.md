@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "linuxNUS Hackfest the Third: Hack Reality"
-date: 2009-08-06 10:00
 author: Ruiwen
+categories:
+- Events
+- Featured
 comments: true
-categories: [Events, Featured]
-
+date: 2009-08-06T00:00:00Z
+title: 'linuxNUS Hackfest the Third: Hack Reality'
+url: /2009/08/06/linuxnus-hackfest-the-third-hack-reality/
 ---
+
 It's been a long time coming, but it's time once again for yet another linuxNUS Hackfest!
 
 What do we do at Hackfests you ask? Well it's all right there isn't it? We hack on stuff! And no, it's nothing your mother would be ashamed of, either.

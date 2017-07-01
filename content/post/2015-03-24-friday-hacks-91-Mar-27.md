@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #91, March 27"
-date: 2015-03-24 10:37:25
 author: Jingwen
+date: 2015-03-24T10:37:25Z
+title: 'Friday Hacks #91, March 27'
+url: /2015/03/24/friday-hacks-91-Mar-27/
 ---
 
 We'll have two talks this week: Chris (ZALORA) will be talking about how

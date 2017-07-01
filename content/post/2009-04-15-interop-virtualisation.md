@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "[Interoperability Group Singapore] The Virtualisation Shootout"
-date: 2009-04-15 10:30
 author: Ruiwen
+categories:
+- Events
+- External
 comments: true
-categories: [Events, External]
-
+date: 2009-04-15T00:00:00Z
+title: '[Interoperability Group Singapore] The Virtualisation Shootout'
+url: /2009/04/15/interop-virtualisation/
 ---
+
 <p style="text-align: justify;">Quick. Think back to the first few lessons your parents taught you as they packed you off to your very first day at school.  If you were like most kids, chances are, those lessons were &quot;<em>Play nice with others! Share your things!</em> &quot;</p>
 <p style="text-align: justify;">Now, fast forward a decade or two. It would seem that many an operating system designer has forgotten exactly those lessons. Don't take my word for it, ask any IT administrator who's had to put together setups involving more than one type of system. Each system has its own little quirks, and getting them to work seamlessly together might take a little more effort and patience than juggling running chainsaws. Walking backwards. On a plank over a piranha-infested tank.</p>
 

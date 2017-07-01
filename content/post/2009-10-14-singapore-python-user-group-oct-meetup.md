@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Singapore Python User Group Oct Meetup"
-date: 2009-10-14 02:03
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
 comments: true
-categories: [Events, External]
-
+date: 2009-10-14T00:00:00Z
+title: Singapore Python User Group Oct Meetup
+url: /2009/10/14/singapore-python-user-group-oct-meetup/
 ---
+
 Date: 15th October 2009 (Thursday)
 Time: 7 pm to 9+ pm
 Venue: Singapore Management University, SIS (School of Information System) Seminar Room 2.2

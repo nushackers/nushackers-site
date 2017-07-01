@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Android Singapore Meetup Mar 09"
-date: 2009-04-04 16:31
 author: Luther Goh Lu Feng
+categories:
+- External
 comments: true
-categories: [External]
-
+date: 2009-04-04T00:00:00Z
+title: Android Singapore Meetup Mar 09
+url: /2009/04/04/android-singapore-meetup-mar-09/
 ---
+
 While most of us will be happy to laze at home on a bright Saturday morning, a group of Android lovers gathered in NUS for the inaugural Android SIngapore Meetup.
 
 Daniel presented on <a href="http://phonegap.com/">phonegap</a> while Ziyong lead a bootcamp discussion. <a href="http://www.codeandroid.org/">Do keep an eye on Code Android</a> to stay abreast with the latest Android happenings.

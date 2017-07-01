@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Hack & Roll coming up!"
-date: 2012-02-02 15:16
 author: admin
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2012-02-02T00:00:00Z
+title: Hack & Roll coming up!
+url: /2012/02/02/hack-roll-coming-up/
 ---
+
 NUS Hackers is organising the "Hack n Roll' 24-Hour Hackathon, the first-ever student organized hackathon in NUS.
 
 If you want to have a fun, educational weekend at the Start of Recess Week, in which you get to build something cool and stand to win some prizes, then join us at the hackathon.

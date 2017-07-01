@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "linuxNUS Installfest Sep 2009"
-date: 2009-09-15 03:25
 author: Luther Goh Lu Feng
+categories:
+- Events
+- Featured
+- Headline
 comments: true
-categories: [Events, Featured, Headline]
-
+date: 2009-09-15T00:00:00Z
+title: linuxNUS Installfest Sep 2009
+url: /2009/09/15/linuxnus-installfest-sep-2009/
 ---
+
 <p align="center"><img src="http://farm4.static.flickr.com/3505/3260062912_baf52f4ed7.jpg?v=0" alt="Installing...." /></p>
 
 linuxNUS is hosting an Installfest at on 17 Sep 2009, Thursday, 745pm, at <a href="http://www.comp.nus.edu.sg/aboutsoc/location.shtml">COM1 SR2</a>.

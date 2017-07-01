@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "NUS-Specific Open Source Projects"
-date: 2011-04-17 16:19
 author: ejames
+categories:
+- Code
 comments: true
-categories: [Code]
-
+date: 2011-04-17T00:00:00Z
+title: NUS-Specific Open Source Projects
+url: /2011/04/17/nus-specific-open-source-projects-2/
 ---
+
 One of the things we do at NUS Hackers is to encourage contributions to student-initiated open source projects. Sometimes we post links to such projects on the mailing list; other times we quietly fork the repository, contributing our own patches. Here are a couple of projects that we think deserve more love:
 <blockquote><strong><a href="https://github.com/nushackers/printmonitor">SoC Print Monitor</a></strong> – is a program that monitors the print queue of all the NUS School of Computing network printers, and displays it on a <a href="http://www.comp.nus.edu.sg/~hirman/pm/">webpage</a>. It's one of the most insanely useful things I've found all year, and the people I've shown it to have grown used to having it around, as well.</blockquote>
 <strong>Improvements</strong>: the program currently runs on Hirman (the creator)'s Sunfire account; according to a <a href="https://twitter.com/#!/bakavic">friend of mine</a>, it's leaking memory and restarts every once in awhile. A fix is recommended; also, last I checked — my friend Victor was hacking away on a program to print a document using drag-and-drop (to a browser), also based on Hirman's code.

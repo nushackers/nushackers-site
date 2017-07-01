@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #106, January 29th"
-date: 2016-01-27 00:00:01
 author: Varun
+date: 2016-01-27T00:00:01Z
+title: 'Friday Hacks #106, January 29th'
+url: /2016/01/27/friday-hacks-106-Jan-29/
 ---
 
 For our second Friday Hacks of the semester, we're having Chee Aun, a web developer, talking about the side projects.

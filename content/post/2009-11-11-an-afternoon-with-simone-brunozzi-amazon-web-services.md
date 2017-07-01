@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "An Afternoon with Simone Brunozzi, Amazon Web Services"
-date: 2009-11-11 23:32
 author: angad
+categories:
+- Events
+- Featured
+- Headline
 comments: true
-categories: [Events, Featured, Headline]
-
+date: 2009-11-11T00:00:00Z
+title: An Afternoon with Simone Brunozzi, Amazon Web Services
+url: /2009/11/11/an-afternoon-with-simone-brunozzi-amazon-web-services/
 ---
+
 <div><span style="color: #330099; font-size: medium;"><strong><span style="text-decoration: underline;">
 <span style="color: #000000;">An Afternoon with Simone Brunozzi</span></span></strong></span><span style="color: #000000; font-size: small;"><strong><em>
 Evangelist, Amazon Web Services</em></strong></span><span style="color: #000000;">

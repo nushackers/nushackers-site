@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "An Unofficial CORS API"
-date: 2011-12-14 16:55
 author: ejames
+categories:
+- Code
 comments: true
-categories: [Code]
-
+date: 2011-12-14T00:00:00Z
+title: An Unofficial CORS API
+url: /2011/12/14/an-unofficial-cors-api/
 ---
+
 We've happy to announce the release of an unofficial CORS API, available at <a href="http://api.nushackers.org/">api.nushackers.org</a>. Full usage details are available at <a href="http://api.nushackers.org">the API site</a>, but in sum, all API access is over HTTP, and is accessed from the api.nushackers.org domain. All data is received as JSON.
 
 The project is open source and available on <a href="https://github.com/nushackers/cors-api">Github</a>. (The <a href="https://github.com/nushackers/cors-api/blob/master/readme.markdown">README</a> provides implementation details.) Ray Chuan will provide a requirements file in the near future. You'll need pymongo, MongoDB, Flask and Scrapy to run the project yourself,  but it's not a big project to read — just took 4 days to write — so do feel free to fork, comment, open bug reports, and send us Pull Requests.

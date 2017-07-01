@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Python Meetup Jul 09"
-date: 2009-07-03 02:04
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
+- Featured
 comments: true
-categories: [Events, External, Featured]
-
+date: 2009-07-03T00:00:00Z
+title: Python Meetup Jul 09
+url: /2009/07/03/python-meetup-jul-09/
 ---
+
 4th Singapore Python User Group Meeting
 
 SMU School of Information Systems NSR 2.1

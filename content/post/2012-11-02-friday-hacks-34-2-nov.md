@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #34, Nov 2"
-date: 2012-11-02 18:48
 author: ejames
+categories:
+- Friday Hacks
 comments: true
-categories: [Friday Hacks]
-
+date: 2012-11-02T00:00:00Z
+title: 'Friday Hacks #34, Nov 2'
+url: /2012/11/02/friday-hacks-34-2-nov/
 ---
+
 This week we have two NUS alumni speaking at Friday Hacks. The first talk will be held by Joshua Koo from Zopim, and three.js contributor. The second talk, held by Sivamani Varun, founder of Semantics3, will be speaking about distributed web crawlers.
 
 <blockquote>

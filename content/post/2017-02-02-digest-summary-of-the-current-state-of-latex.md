@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Digest: Summary of the Current State of LaTeX"
-date: 2017-02-02 13:53
 author: Johannes Choo
-categories: [Digest]
+categories:
+- Digest
+date: 2017-02-02T00:00:00Z
+title: 'Digest: Summary of the Current State of LaTeX'
+url: /2017/02/02/digest-summary-of-the-current-state-of-latex/
 ---
 
 This article will be structured in two parts. The first discusses

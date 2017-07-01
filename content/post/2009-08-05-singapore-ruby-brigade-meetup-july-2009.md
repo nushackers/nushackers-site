@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Singapore Ruby Brigade Meetup August 2009"
-date: 2009-08-05 01:49
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
+- Featured
 comments: true
-categories: [Events, External, Featured]
-
+date: 2009-08-05T00:00:00Z
+title: Singapore Ruby Brigade Meetup August 2009
+url: /2009/08/05/singapore-ruby-brigade-meetup-july-2009/
 ---
+
 From the <a href="http://groups.google.com/group/singapore-rb/t/51a49c83931d34ad">mailing list of Singapore Ruby Brigade</a>:
 
 -------------------------------------------------------------------------------

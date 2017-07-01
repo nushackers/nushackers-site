@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #95, August 28"
-date: 2015-08-13 10:37:25
 author: Jingwen
+date: 2015-08-22T10:37:25Z
+title: 'Friday Hacks #95, August 28'
+url: /2015/08/22/friday-hacks-95-Aug-28/
 ---
 
 {% capture venue %}

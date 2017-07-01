@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #92, April 10"
-date: 2015-04-07 10:37:25
 author: Jingwen
+date: 2015-04-07T10:37:25Z
+title: 'Friday Hacks #92, April 10'
+url: /2015/04/07/friday-hacks-92-Apr-10/
 ---
 
 We'll be having three security researchers from the Ministry of Home Affairs --

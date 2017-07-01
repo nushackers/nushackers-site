@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Linux Tweaks Workshop"
-date: 2006-09-14 16:12
 author: Luther Goh Lu Feng
+categories:
+- News
 comments: true
-categories: [News]
-
+date: 2006-09-14T00:00:00Z
+title: Linux Tweaks Workshop
+url: /2006/09/14/linux-tweaks-workshop/
 ---
+
 ---------------
 Linux box: Up and running.
 Ego: Pumped up.

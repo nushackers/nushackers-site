@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Singapore Perl Mongers Meetup Apr 09"
-date: 2009-07-29 01:19
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
 comments: true
-categories: [Events, External]
-
+date: 2009-07-29T00:00:00Z
+title: Singapore Perl Mongers Meetup Apr 09
+url: /2009/07/29/singapore-perl-mongers-meetup-apr-09/
 ---
+
 Hey everybody,
 
 The decisions have been made, the timetables have been drawn up; the first Singapore Perl Mongers meetup (codenamed "Adagio") will be this Saturday (August 1, 2009) at the Earshot Cafe [1] at The Arts House [2] (the Old Parliament Building; it's right behind Victoria Concert Hall near the Singapore river) from 4pm to 7pm in the afternoon/evening. The meetup will then break for drinks or boardgames or whatever.

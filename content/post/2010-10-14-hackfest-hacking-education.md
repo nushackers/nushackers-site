@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Hackfest! Hacking education"
-date: 2010-10-14 09:23
 author: angad
+categories:
+- Events
+- Featured
+- Headline
 comments: true
-categories: [Events, Featured, Headline]
-
+date: 2010-10-14T00:00:00Z
+title: Hackfest! Hacking education
+url: /2010/10/14/hackfest-hacking-education/
 ---
+
 linuxNUS is back with a much awaited Hackfest(!!!) as part of its Hack Workshop Series. A Hackfest is an event where programmers come together to build something - anything they want! - for profit, experience and fun.
 
 You are invited to join us at the best-suited place for a Hackfest - Singapore's very own <strong>Hackerspace. Hackers</strong>pace.SG is a geek's paradise for such events. You're likely to meet some of the best developers, hardware hackers and entrepreneurs in Singapore, because the Hackerspace is where they come to hang out after they're done with work for the day.

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #54, Oct 11"
-date: 2013-10-09 23:37
 author: admin
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-10-09T00:00:00Z
+title: 'Friday Hacks #54, Oct 11'
+url: /2013/10/09/friday-hacks-54-oct-11/
 ---
+
 This week we have Fazli Sapuan and Fazli Sapuan. Followed by talk(s) which are hopefully A.I. themed (maybe), and then a series of ad-hoc lightning talks by members of the community.
 <blockquote><strong>Date/Time:</strong> Friday, October 11 at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>

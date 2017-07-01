@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #82, November 7"
-date: 2014-10-31 18:05:44.564508
 author: Joey
+date: 2014-11-07T18:05:44Z
+title: 'Friday Hacks #82, November 7'
+url: /2014/11/07/friday-hacks-82-Nov-07/
 ---
 
 There's more to hacking than software – get started with electronics at this Friday Hacks! Everyone* walks away with their own noise synthesizers and one lucky attendee will win a Raspberry Pi!

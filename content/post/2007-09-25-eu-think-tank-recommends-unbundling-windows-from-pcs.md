@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "EU think tank recommends unbundling Windows from PCs"
-date: 2007-09-25 01:45
 author: Ruiwen
+categories:
+- News
 comments: true
-categories: [News]
-
+date: 2007-09-25T00:00:00Z
+title: EU think tank recommends unbundling Windows from PCs
+url: /2007/09/25/eu-think-tank-recommends-unbundling-windows-from-pcs/
 ---
+
 Here's a step forward in the European Union.
 
 In a <a href="http://www.globalisation.eu/briefings/competition-policy/unbundling-microsoft-windows-200709231241">recent submission</a> to the European Commission, an European thinktank claimed that computer operating systems were "not a natual monopoly", and that "Windows monopoly imposes an extra cost on virtually every EU business, as the price of operating systems would drop in a more competitive market".

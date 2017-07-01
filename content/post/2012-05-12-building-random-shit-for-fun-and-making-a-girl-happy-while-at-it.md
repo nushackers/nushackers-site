@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Building random shit for fun, (and making a girl happy while at it)"
-date: 2012-05-12 01:17
 author: admin
+categories:
+- Featured
 comments: true
-categories: [Featured]
-
+date: 2012-05-12T00:00:00Z
+title: Building random shit for fun, (and making a girl happy while at it)
+url: /2012/05/12/building-random-shit-for-fun-and-making-a-girl-happy-while-at-it/
 ---
+
 Long overdued, and only my third post here.
 
 So as some people know, I built <a href="http://instasyncer.com/" target="_blank">Instasyncer</a> a while ago, partially for fun, but mainly because I needed it. Long story short, <a href="http://instasyncer.com/" target="_blank">Instasyncer</a> is this awesome (Note: I'm extremely biased about this) site that lets you sync your Instagram photos to Dropbox in real time. Really. You upload onto Instagram, within minutes, it is in your Dropbox folder. You have to sign up for <a href="http://instasyncer.com/" target="_blank">Instasyncer</a> though (Yes, I had a guy who asked me why his photos weren't syncing when he didn't have an account). Does mainly one other thing, which explains the title, but that's for the later part of this post.

@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Friday Hacks #8"
-date: 2011-11-03 12:40
 author: ejames
+categories:
+- Events
+- Friday Hacks
 comments: true
-categories: [Events, Friday Hacks]
-
+date: 2011-11-03T00:00:00Z
+title: 'Friday Hacks #8'
+url: /2011/11/03/friday-hacks-8/
 ---
+
 Hi guys,
 
 This week's Friday Hacks is at UTown Seminar Room 2.

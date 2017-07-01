@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #43, Mar 8"
-date: 2013-03-08 00:08
 author: michael
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-03-08T00:00:00Z
+title: 'Friday Hacks #43, Mar 8'
+url: /2013/03/08/friday-hacks-43-mar-8/
 ---
+
 This week we have Nick Jachowski and Derrick Ko.
 
 Nick will be sharing with us his work on an open-source wireless sensor network which utilizes the Arduino platform.

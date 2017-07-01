@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "[Podcast] Episode 1: Birth of the Alliance"
-date: 2009-05-20 10:30
 author: Ruiwen
+categories:
+- Featured
+- Headline
+- Podcast
 comments: true
-categories: [Featured, Headline, Podcast]
-
+date: 2009-05-20T00:00:00Z
+title: '[Podcast] Episode 1: Birth of the Alliance'
+url: /2009/05/20/podcast-episode-1-birth-of-the-alliance/
 ---
+
 Whew! Has this been a long time coming, or what?
 
 It's taken a while, but linuxNUS is proud to bring to you yet another episode of the linuxNUS Podcast!

@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Food Donation to Sharity Gift Box on 20 Dec 06"
-date: 2006-12-18 00:09
 author: rey
+categories:
+- Events
+- News
 comments: true
-categories: [Events, News]
-
+date: 2006-12-18T00:00:00Z
+title: Food Donation to Sharity Gift Box on 20 Dec 06
+url: /2006/12/18/food-donation-to-sharity-gift-box-on-20-dec-06/
 ---
+
 Hi everyone
 
 Just read in today's papers that the Sharity Gift Box is still short of food item donations for needy households. We would like to organise a shopping outing to buy food items (such as rice, milo, etc) and drop them off at Ngee Ann City Sharity Gift Box on 20 Dec 06. That will be the last day for donations.

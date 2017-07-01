@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Building NUS CORS Instant"
-date: 2012-01-08 06:09
 author: ejames
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2012-01-08T00:00:00Z
+title: Building NUS CORS Instant
+url: /2012/01/08/building-nus-cors-instant/
 ---
+
 <em>Rollen Gomes is a recently graduated NUS student. Here, he talks about the nuscors.com, an instant search for CORS built on top of the Unofficial CORS API.</em>
 
 A couple weeks ago NUS Hackers released the unofficial NUS CORS API. I decided to leverage on the API to build something, just for the heck of it. Long story short I ended up building <a href="http://nuscors.com">nuscors.com</a>. The site is a faster way to search for a module in the NUS CORS database: you could call it an 'instant search'.

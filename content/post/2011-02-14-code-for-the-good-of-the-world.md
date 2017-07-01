@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Code for the Good of The World"
-date: 2011-02-14 11:29
 author: ejames
+categories:
+- News
 comments: true
-categories: [News]
-
+date: 2011-02-14T00:00:00Z
+title: Code for the Good of The World
+url: /2011/02/14/code-for-the-good-of-the-world/
 ---
+
 It was a late Thursday night when we got the email from Laurence:
 <blockquote>We are encouraging people to hack things together for the fun of it, for passion. This by itself is good enough to kick start some of the students' journey to doing fun stuff, but I was thinking, what if there was a higher purpose behind it.
 

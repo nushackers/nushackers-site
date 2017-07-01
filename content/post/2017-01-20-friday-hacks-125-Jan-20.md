@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #125, January 20"
-date: 2017-01-17 15:36:04.077000
 author: Ramu
+date: 2017-01-20T15:36:04Z
+title: 'Friday Hacks #125, January 20'
+url: /2017/01/20/friday-hacks-125-Jan-20/
 ---
 
 Friday Hacks is back for 2017! To kick off an exciting series this semester, we have two special guests delivering niche talks: Fazli Sapuan and Wang Chen. Fazli will be giving us an insight into the art of lock picking while Chen will be delving into machine learning. Read on to know more!

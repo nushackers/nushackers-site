@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Friday Hacks #1"
-date: 2011-08-28 17:31
 author: ejames
+categories:
+- Events
+- Friday Hacks
 comments: true
-categories: [Events, Friday Hacks]
-
+date: 2011-08-28T00:00:00Z
+title: 'Friday Hacks #1'
+url: /2011/08/28/friday-hacks-1/
 ---
+
 <a href="/res/2011/08/IMG_1214.jpg"><img src="/res/2011/08/IMG_1214.jpg" alt="" title="Friday Hacks" width="942" height="434" class="aligncenter size-full wp-image-1718" /></a>
 So we had our first Friday Hacks on the 26th of August, at the UTown Mac Common's largest meeting room. We had 2 people doing their CS2103 assignment, 2 people learning Android, 1 person reading up on the iOS SDK, one person doing "random shit" (e.g.: piping his webcam input to mplayer, and output as <del datetime="2011-08-30T03:03:17+00:00">ASCII</del> Unicode [thanks, Vikram], on Arch), one guy learning Haskell, and one guy working on his FYP - which was building an underwater modem (using sound to transmit signals, of all things).
 

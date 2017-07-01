@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Python meetup Apr 09"
-date: 2009-04-14 21:06
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
 comments: true
-categories: [Events, External]
-
+date: 2009-04-14T00:00:00Z
+title: Python meetup Apr 09
+url: /2009/04/14/python-meetup-apr-09/
 ---
+
 Exam stress mounting? Come chill out at the 3rd Python Meetup.
 
 Date: Thursday, April 16, 2009

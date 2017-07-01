@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Hackfest Again! November 2009"
-date: 2009-11-10 23:58
 author: angad
+categories:
+- Events
+- Headline
 comments: true
-categories: [Events, Headline]
-
+date: 2009-11-10T00:00:00Z
+title: Hackfest Again! November 2009
+url: /2009/11/10/hackfest-again-november-2009/
 ---
+
 <img class="alignnone size-full wp-image-761" title="hackfest" src="/res/2009/08/hackfest.jpg" alt="hackfest" width="425" height="318" />
 
 We are back with our Hackfest and this time our venue is Redhat Office!

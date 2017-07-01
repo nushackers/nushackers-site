@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "NUS Hackers Facebook Group!"
-date: 2014-02-10 15:22
 author: michael
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2014-02-10T00:00:00Z
+title: NUS Hackers Facebook Group!
+url: /2014/02/10/nus-hackers-facebook-group/
 ---
+
 We've just started a new NUS Hackers Facebook Group!
 
 <a href="https://www.facebook.com/groups/465345730232669/" target="_blank">https://www.facebook.com/groups/465345730232669/</a>

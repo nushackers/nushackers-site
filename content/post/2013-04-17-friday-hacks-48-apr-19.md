@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #48, Apr 19"
-date: 2013-04-17 23:52
 author: benedict
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-04-17T00:00:00Z
+title: 'Friday Hacks #48, Apr 19'
+url: /2013/04/17/friday-hacks-48-apr-19/
 ---
+
 This week we have Kelvin Yeung and Miha Ciglar.
 
 <blockquote><strong>Date/Time:</strong> Friday, April 19 at 6:30pm

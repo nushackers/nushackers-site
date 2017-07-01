@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "synTECHsis - NES, NUS Hackers Joint Event"
-date: 2012-03-22 20:07
 author: ejames
+categories:
+- Events
 comments: true
-categories: [Events]
-
+date: 2012-03-22T00:00:00Z
+title: synTECHsis - NES, NUS Hackers Joint Event
+url: /2012/03/22/syntechsis-nes-nus-hackers-joint-event/
 ---
+
 Hi everyone!
 
 We'll be having a joint event with NES (the NUS Entrepreneurship Society) this Saturday (24th March 2012), as an experiment to see how many hackers we can inspire to work in or start a startup.

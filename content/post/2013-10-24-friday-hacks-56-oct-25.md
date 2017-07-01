@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #56, Oct 25"
-date: 2013-10-24 21:01
 author: admin
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-10-24T00:00:00Z
+title: 'Friday Hacks #56, Oct 25'
+url: /2013/10/24/friday-hacks-56-oct-25/
 ---
+
 This week we have Nick Jachowski and Lin Zhihao. 
 <blockquote><strong>Date/Time:</strong> Friday, October 25 at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>

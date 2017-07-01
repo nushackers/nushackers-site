@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Hack&Roll '12 Wrapup"
-date: 2012-02-27 20:25
 author: admin
+categories:
+- Events
 comments: true
-categories: [Events]
-
+date: 2012-02-27T00:00:00Z
+title: Hack&Roll '12 Wrapup
+url: /2012/02/27/hackroll-12-wrapup/
 ---
+
 <a href="/res/2012/02/e27-Hack-Roll-Winner.jpeg"><img src="/res/2012/02/e27-Hack-Roll-Winner.jpeg" alt="" title="e27-Hack-Roll-Winner" width="960" height="720" class="aligncenter size-full wp-image-2264" /></a>
 
 <a href="/2012/02/hackroll-2012/" target="_blank">Hack&amp;Roll 2012</a>, which was organized by <a href="/about/" target="_blank">NUS Hackers</a> ended on Monday and it saw 47 student developers hacking out cool stuff in 24 hours, applying a vast range of technology stacks, from the standard LAMP stack, to node.js to Ruby on Rails. In addition, the event also saw several industry players coming in to support the event, including <a href="http://www.rim.com/" target="_blank">Research in Motion</a>, <a href="https://aws.amazon.com/" target="_blank">AWS</a>, <a href="http://www.ida.gov.sg/home/index.aspx" target="_blank">iDA</a>, and <a href="https://www.nokia.com/sg-en/" target="_blank">Nokia</a>.

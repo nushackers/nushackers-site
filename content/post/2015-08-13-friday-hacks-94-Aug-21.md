@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #94, August 21"
-date: 2015-08-13 10:37:25
 author: Jingwen
+date: 2015-08-13T10:37:25Z
+title: 'Friday Hacks #94, August 21'
+url: /2015/08/13/friday-hacks-94-Aug-21/
 ---
 
 Friday Hacks are back for this new academic year! 

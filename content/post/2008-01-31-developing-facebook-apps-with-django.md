@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Developing Facebook Apps with Django"
-date: 2008-01-31 12:35
 author: Ruiwen
+categories:
+- Events
+- Slides
 comments: true
-categories: [Events, Slides]
-
+date: 2008-01-31T00:00:00Z
+title: Developing Facebook Apps with Django
+url: /2008/01/31/developing-facebook-apps-with-django/
 ---
+
 And here's the aftermath!
 
 Thanks again to Harish for making time to come give us a talk.

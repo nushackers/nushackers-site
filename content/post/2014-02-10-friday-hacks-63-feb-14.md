@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #63, Feb 14"
-date: 2014-02-10 18:31
 author: vishnu
+categories:
+- Friday Hacks
 comments: true
-categories: [Friday Hacks]
-
+date: 2014-02-10T00:00:00Z
+title: 'Friday Hacks #63, Feb 14'
+url: /2014/02/10/friday-hacks-63-feb-14/
 ---
+
 This Valentine's evening, we have a exciting talk by Hongyi Li about his past work on Google Spanner &amp; Image Search. See you!
 <blockquote><strong>Date/Time:</strong> Friday, February 14th at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town; <strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M

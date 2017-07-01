@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #118, September 16"
-date: 2016-09-12 10:18:02.426338
 author: Advay Pal
+date: 2016-09-16T10:18:02Z
+title: 'Friday Hacks #118, September 16'
+url: /2016/09/16/friday-hacks-118-Sep-16/
 ---
 
 This week we have Yos from PayPal and Yong Wen from IDA talking about some of the things they work on. See you there!

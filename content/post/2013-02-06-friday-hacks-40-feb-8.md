@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #40, Feb 8"
-date: 2013-02-06 00:42
 author: benedict
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-02-06T00:00:00Z
+title: 'Friday Hacks #40, Feb 8'
+url: /2013/02/06/friday-hacks-40-feb-8/
 ---
+
 This week we have Michael Rawlinson, who will share with us the job prospects in the UK. Those interested in the Interactive Entertainment Industry should definitely come for the talk!
 <blockquote><strong>Date/Time:</strong> Friday, February 8 at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "Interoperability Group Singapore Meetup Mar 09"
-date: 2009-04-04 13:46
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
+- Featured
+- Photos
 comments: true
-categories: [Events, External, Featured, Photos]
-
+date: 2009-04-04T00:00:00Z
+title: Interoperability Group Singapore Meetup Mar 09
+url: /2009/04/04/interoperability-group-singapore-meetup-mar-09/
 ---
+
 Have you heard of Interoperability Group Singapore?
 
 Don't be surprise if you haven't. The inaugural meetup for this group has just taken place last week, and linuxNUS sent a small contingent to the event.

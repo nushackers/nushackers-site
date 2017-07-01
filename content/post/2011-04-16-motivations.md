@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Motivations"
-date: 2011-04-16 22:28
 author: ejames
+categories:
+- Essay
 comments: true
-categories: [Essay]
-
+date: 2011-04-16T00:00:00Z
+title: Motivations
+url: /2011/04/16/motivations/
 ---
+
 Over the past couple months or so we've had a number of non-programmers contacting us, looking for hackers to hire for their startup/project/idea/next-Facebook-to-be.
 
 The logic goes — and you can <em>almost </em>hear it in their emails — that a university hacker is a good, cheap resource. One particular ad asked us for a candidate with 'many scholarships, lots of research papers, and we'll pay you $1000!' — which might be a joke, but if true ignores the fact that such a candidate would be Google material, for close to $80,000 a year. I find most of these shoutouts rather sad. "Saw the email from x?" I'd sometimes ask Angad. "What do you think of it?" And in fact good ads are so rare that when we get one we rush to post it to our mailing list.

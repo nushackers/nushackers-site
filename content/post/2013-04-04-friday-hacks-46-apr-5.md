@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #46, Apr 5"
-date: 2013-04-04 10:06
 author: benedict
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-04-04T00:00:00Z
+title: 'Friday Hacks #46, Apr 5'
+url: /2013/04/04/friday-hacks-46-apr-5/
 ---
+
 This week we have Dr Yiqun Hu and Alvin Jiang from PayPal Singapore R&D Lab. Dr Hu will be sharing with us an interesting research done on sound. Following that, Alvin will be sharing with us more about the work done in the R&D Lab in Singapore. Be sure to come down on Friday!
 
 <blockquote><strong>Date/Time:</strong> Friday, April 5 at 6:30pm

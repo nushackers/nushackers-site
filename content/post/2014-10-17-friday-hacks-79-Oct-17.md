@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #79, October 17"
-date: 2014-10-08 16:29:44.564508
 author: Joey
+date: 2014-10-17T16:29:44Z
+title: 'Friday Hacks #79, October 17'
+url: /2014/10/17/friday-hacks-79-Oct-17/
 ---
 
 Meet Palantir at next week's Friday Hacks!

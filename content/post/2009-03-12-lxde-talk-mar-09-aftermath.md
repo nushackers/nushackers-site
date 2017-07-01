@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "LXDE Talk Mar 09: aftermath"
-date: 2009-03-12 23:00
 author: Luther Goh Lu Feng
+categories:
+- Events
+- Featured
+- Photos
 comments: true
-categories: [Events, Featured, Photos]
-
+date: 2009-03-12T00:00:00Z
+title: 'LXDE Talk Mar 09: aftermath'
+url: /2009/03/12/lxde-talk-mar-09-aftermath/
 ---
+
 Thank you to Mario for the wonderful presentation. And here are some pretty photos of us!
 
 <div align="center">

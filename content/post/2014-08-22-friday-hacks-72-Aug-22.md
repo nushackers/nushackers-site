@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #72, August 22"
-date: 2014-08-19 21:38:45.000898
 author: Joey
+date: 2014-08-22T21:38:45Z
+title: 'Friday Hacks #72, August 22'
+url: /2014/08/22/friday-hacks-72-Aug-22/
 ---
 
 This week's Friday Hacks is security themed! The Research and Analysis Team from the Singapore Infocomm Technology Security Authority will be here to give us two hands-on talks. See you there!

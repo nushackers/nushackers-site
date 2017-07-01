@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Social Gathering on Tuesday, 9 Oct!"
-date: 2007-10-08 07:31
 author: jmarki
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2007-10-08T00:00:00Z
+title: Social Gathering on Tuesday, 9 Oct!
+url: /2007/10/08/social-gathering-on-tuesday-9-oct/
 ---
+
 Wee~
 
 It's been a busy week with midterms and all, hope everybody's been doing well?

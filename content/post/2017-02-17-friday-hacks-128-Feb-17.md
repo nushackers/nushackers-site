@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #128, February 17"
-date: 2017-02-12 00:55:21.741000
 author: Ramu
+date: 2017-02-17T00:55:21Z
+title: 'Friday Hacks #128, February 17'
+url: /2017/02/17/friday-hacks-128-Feb-17/
 ---
 
 We are excited to have Emil and Sunny speaking at this week's FH before we break for recess week. Check out more details below. See you there!

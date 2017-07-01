@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "CodeAndroid Meetup 4 and GTUG-SG Meetup 1"
-date: 2009-08-28 02:47
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
+- Featured
 comments: true
-categories: [Events, External, Featured]
-
+date: 2009-08-28T00:00:00Z
+title: CodeAndroid Meetup 4 and GTUG-SG Meetup 1
+url: /2009/08/28/codeandroid-meetup-4-and-gtug-sg-meetup-1/
 ---
+
 <span style="font-family: 'Times New Roman'; font-size: 16px; line-height: normal;"> </span>
 <div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: #ffffff; font: normal normal normal 13px/19px Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; background-position: initial initial; padding: 0.6em; margin: 0px;">
 <p style="text-align: center;"><img class="aligncenter" src="http://www.codeandroid.org/wp-content/themes/arthemia/images/logo.png" alt="" width="300" height="90" /></p>

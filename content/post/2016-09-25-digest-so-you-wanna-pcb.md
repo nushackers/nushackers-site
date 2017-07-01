@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Digest: Do you wanna PCB?"
-date: 2016-09-25 12:00
 author: 50m3 b01k3
-categories: [Digest]
+categories:
+- Digest
+date: 2016-09-25T00:00:00Z
+title: 'Digest: Do you wanna PCB?'
+url: /2016/09/25/digest-so-you-wanna-pcb/
 ---
 
 The [scHnRk](https://github.com/nushackers/scHnRk) and [Neander](https://github.com/jellyjellyrobot/neander) was born in the first half of this year.

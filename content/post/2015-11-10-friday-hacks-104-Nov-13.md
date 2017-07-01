@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #104, November 13"
-date: 2015-11-10 16:56:01.004599
-author: Jingwen 
+author: Jingwen
+date: 2015-11-10T16:56:01Z
+title: 'Friday Hacks #104, November 13'
+url: /2015/11/10/friday-hacks-104-Nov-13/
 ---
 
 It's the last Friday Hacks of the semester, and we'll be doing something

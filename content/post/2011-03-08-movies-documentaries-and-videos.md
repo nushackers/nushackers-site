@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Movies, Documentaries and Videos"
-date: 2011-03-08 22:42
 author: angad
+categories:
+- Featured
+- Misc
 comments: true
-categories: [Featured, Misc]
-
+date: 2011-03-08T00:00:00Z
+title: Movies, Documentaries and Videos
+url: /2011/03/08/movies-documentaries-and-videos/
 ---
+
 There are some pretty good videos on hacking, startups and open-source culture. Here is a list of them that I have been collecting since long. You will definitely enjoy them.
 
 Go watch The Social Network first, if you havent and then come back to this list :P

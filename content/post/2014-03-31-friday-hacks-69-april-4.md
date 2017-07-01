@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #69, April 4"
-date: 2014-03-31 18:10
 author: vishnu
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2014-03-31T00:00:00Z
+title: 'Friday Hacks #69, April 4'
+url: /2014/03/31/friday-hacks-69-april-4/
 ---
+
 This friday, we have a talk by Melvin from Hoiio about optimal algorithms. See you there!
 <blockquote><strong>Date/Time</strong>: Friday, April 4th at 6:30pm
 <strong>Venue</strong>: SR2, Education Resource Centre, University Town

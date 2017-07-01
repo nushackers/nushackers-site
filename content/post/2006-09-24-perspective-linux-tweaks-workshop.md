@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Perspective: Linux Tweaks  Workshop"
-date: 2006-09-24 00:07
 author: Luther Goh Lu Feng
+categories:
+- Events
 comments: true
-categories: [Events]
-
+date: 2006-09-24T00:00:00Z
+title: 'Perspective: Linux Tweaks  Workshop'
+url: /2006/09/24/perspective-linux-tweaks-workshop/
 ---
+
 I had to rush back to SOC1 after my training for the Workshop. I arrived at #03-17 in the nick of time. Phew. I popped Knoppix 5.0.1, which Junhao insisted I used, into the CDROM drive of and rebooted the computer.
 
 "It's much better than Ubuntu," he said, giving his usual toothy grin.

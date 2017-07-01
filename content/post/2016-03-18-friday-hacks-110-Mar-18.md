@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #110, March 18"
-date: 2016-03-14 15:36:00
 author: Varun
+date: 2016-03-18T15:36:00Z
+title: 'Friday Hacks #110, March 18'
+url: /2016/03/18/friday-hacks-110-Mar-18/
 ---
 
 For our sixth Friday Hacks of the semester, we’re having Jordan Dea-Mattson speak about [Wobe's](https://wobe.io) system architecture and how it uniquely addresses the issues of building robust, scalable, and secure mobile applications in hostile environments.

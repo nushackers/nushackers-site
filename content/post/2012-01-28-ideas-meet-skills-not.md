@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Ideas, Meet Skills! Not."
-date: 2012-01-28 16:36
 author: ejames
+categories:
+- Essay
 comments: true
-categories: [Essay]
-
+date: 2012-01-28T00:00:00Z
+title: Ideas, Meet Skills! Not.
+url: /2012/01/28/ideas-meet-skills-not/
 ---
+
 There’s this idea that gets passed around a lot in the entrepreneurship clubs in NUS. The idea goes that technical people need ‘ideas people’, and that entrepreneurship clubs exist to matchmake the two.
 
 Take, for instance, the recent Ideas Meet Skills event by the Startup@Singapore team. The event is made in good faith, but the assumption is there in all its glory: ‘Have a great idea you want to realize or the gumption to excel in a start-up … but not both?’ the poster declares. ‘Register Now!’

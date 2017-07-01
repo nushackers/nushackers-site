@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #65, March 7"
-date: 2014-03-04 20:04
 author: michael
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2014-03-04T00:00:00Z
+title: 'Friday Hacks #65, March 7'
+url: /2014/03/04/friday-hacks-65-march-7/
 ---
+
 This friday, we’ll be having a Project Intern themed Friday Hacks!
 
 We’ll have two speakers this week!

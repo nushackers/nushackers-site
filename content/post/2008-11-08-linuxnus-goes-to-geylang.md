@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "linuxNUS goes to Geylang"
-date: 2008-11-08 23:29
 author: Luther Goh Lu Feng
+categories:
+- Featured
+- Meetings
+- Photos
 comments: true
-categories: [Featured, Meetings, Photos]
-
+date: 2008-11-08T00:00:00Z
+title: linuxNUS goes to Geylang
+url: /2008/11/08/linuxnus-goes-to-geylang/
 ---
+
 Well, we didn't go there for vice. Actually it was an outing to the office of one of our alumni, Ahmad, who currently works in a startup. He had some problems with Samba on Centos, so we decided that it was a good excuse for a quick get together.
 
 After arriving at his office, Ahmad elaborated that after Samba installation, internet access becomes limited. We couldn't figure the solution, and decided to start a fresh install.

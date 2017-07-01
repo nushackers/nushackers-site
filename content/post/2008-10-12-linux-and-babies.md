@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Linux and babies"
-date: 2008-10-12 15:19
 author: Luther Goh Lu Feng
+categories:
+- Guest blogger
 comments: true
-categories: [Guest blogger]
-
+date: 2008-10-12T00:00:00Z
+title: Linux and babies
+url: /2008/10/12/linux-and-babies/
 ---
+
 <div align="center">
 <em><a href='/res/2008/10/baby.jpg'><img src="/res/2008/10/baby.jpg" alt="" title="baby" width="500" height="406" class="aligncenter size-full wp-image-107" /></a>
 

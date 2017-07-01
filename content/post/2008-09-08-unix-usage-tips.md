@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "UNIX Usage Tips"
-date: 2008-09-08 17:14
 author: Ruiwen
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2008-09-08T00:00:00Z
+title: UNIX Usage Tips
+url: /2008/09/08/unix-usage-tips/
 ---
+
 The <a href="http://www.ibm.com/developerworks/">IBM developerWorks</a> articles are a great resource for anyone who's into the world of development. We saw some recently that dealt with tips and tricks for working on the command line. For us Linux users, while we may like our fancy desktops and graphical effects, courtesy of the <a href="http://www.compiz-fusion.org/">CompizFusion</a> project, the command line is always available when we need that raw power and flexibility.
 
 The first article, <a href="http://www.ibm.com/developerworks/aix/library/au-badunixhabits.html?S_TACT=105AGX20&amp;S_CMP=EDU">Learn 10 good UNIX usage habits</a> , we learn how to <a href="http://www.ibm.com/developerworks/aix/library/au-badunixhabits.html?S_TACT=105AGX20&amp;S_CMP=EDU#one">define an entire directory tree using a single-line command</a> , <a href="http://www.ibm.com/developerworks/aix/library/au-badunixhabits.html?S_TACT=105AGX20&amp;S_CMP=EDU#three">how to execute one command only if another one succeeds</a> , and <a href="http://www.ibm.com/developerworks/aix/library/au-badunixhabits.html?S_TACT=105AGX20&amp;S_CMP=EDU#nine">how to properly use <code>grep</code> </a> .

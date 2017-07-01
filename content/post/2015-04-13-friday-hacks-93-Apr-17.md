@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #93, April 17"
-date: 2015-04-14 10:37:25
 author: Jingwen
+date: 2015-04-13T10:37:25Z
+title: 'Friday Hacks #93, April 17'
+url: /2015/04/13/friday-hacks-93-Apr-17/
 ---
 
 For the final Friday Hacks of the semester, we'll be having Melvin Zhang, lead architect from Cosmiqo International, and Mathieu Feulvarch, senior product architect from MyRepublic. See you!

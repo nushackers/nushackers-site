@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Happy April Fool's!"
-date: 2012-04-02 15:18
 author: ejames
+categories:
+- Chatter
 comments: true
-categories: [Chatter]
-
+date: 2012-04-02T00:00:00Z
+title: Happy April Fool's!
+url: /2012/04/02/happy-april-fools-2/
 ---
+
 If you'd visited our site yesterday, you would have seen a command line interface, and a link to a premier Computer Science quiz competition called HackyWin! Here's the email we sent out to the mailing list:
 
 <blockquote>The NUS Hackers are proud to present a premier quiz competition that's targeted at computing students!

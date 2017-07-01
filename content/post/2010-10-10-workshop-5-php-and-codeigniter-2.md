@@ -1,12 +1,17 @@
 ---
-layout: post
-title: "Workshop #5 PHP and CodeIgniter"
-date: 2010-10-10 10:55
 author: angad
+categories:
+- Events
+- Featured
+- Headline
+- News
+- Slides
 comments: true
-categories: [Events, Featured, Headline, News, Slides]
-
+date: 2010-10-10T00:00:00Z
+title: 'Workshop #5 PHP and CodeIgniter'
+url: /2010/10/10/workshop-5-php-and-codeigniter-2/
 ---
+
 The fifth workshop in the Hack Workshop Series was the introduction to web programming language PHP and its light-weight framework - CodeIgniter.
 
 The slides for the workshop are available here : <a href="http://linuxnus.org/hack/files/PHP_CI.pdf">http://linuxnus.org/hack/files/PHP_CI.pdf</a>

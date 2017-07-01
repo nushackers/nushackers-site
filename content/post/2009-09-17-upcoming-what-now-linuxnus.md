@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "[Upcoming] What now, linuxNUS?"
-date: 2009-09-17 11:30
 author: Ruiwen
+categories:
+- Events
+- Featured
+- Headline
+- Photos
 comments: true
-categories: [Events, Featured, Headline, Photos]
-
+date: 2009-09-17T00:00:00Z
+title: '[Upcoming] What now, linuxNUS?'
+url: /2009/09/17/upcoming-what-now-linuxnus/
 ---
+
 Thanks again everyone for showing such support for our Welcome Tea! You guys turned out in such great numbers this year that we were caught completely off guard! We know it was a tight squeeze, but you guys were such great sports to help shift the furniture around to make way, you rock! =)
 
 [caption id="" align="aligncenter" width="500" caption="linuxNUS Welcome Teao 2009 - By Ruiwen"]<a title="linuxNUS Welcome Tea 2009 by ruiwen, on Flickr" href="http://www.flickr.com/photos/ruiwen/3911941451/"><img src="http://farm3.static.flickr.com/2641/3911941451_747e551558.jpg" alt="linuxNUS Welcome Tea 2009" width="500" height="334" /></a>[/caption]

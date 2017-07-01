@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #113, April 15"
-date: 2016-04-07 22:25:55
 author: Varun
+date: 2016-04-15T22:25:55Z
+title: 'Friday Hacks #113, April 15'
+url: /2016/04/15/friday-hacks-113-Apr-15/
 ---
 
 For our final Friday Hacks this semester, we’re inviting Melvin from [Cosmiqo](http://cosmiqo.com/) and Jimeno and Alvin from [iDA Labs](https://www.ida.gov.sg/Programmes-Partnership/Store/IDA-Labs) Engineers.

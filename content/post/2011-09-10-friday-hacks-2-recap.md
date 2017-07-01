@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Friday Hacks #2 Recap"
-date: 2011-09-10 11:23
 author: ejames
+categories:
+- Events
+- Friday Hacks
 comments: true
-categories: [Events, Friday Hacks]
-
+date: 2011-09-10T00:00:00Z
+title: 'Friday Hacks #2 Recap'
+url: /2011/09/10/friday-hacks-2-recap/
 ---
+
 Yesterday's Friday Hacks was huge. We had a turnout that stuffed Seminar Room 9, and when we had both the hacking and the speaking going on, people had barely any tables to sit at.
 
 <a href="http://www.flickr.com/photos/dienasty/6132015806/" title="IMG_1262 by shadowsun7, on Flickr"><img src="http://farm7.static.flickr.com/6062/6132015806_26dc0ffd07.jpg" width="500" height="375" alt="IMG_1262"></a>

@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Digest: Editor Internals - MS Word"
-date: 2017-03-04 09:44
 author: Jethro Kuan
+categories:
+- digest
+date: 2017-03-04T00:00:00Z
 published: true
-categories: [digest]
+title: 'Digest: Editor Internals - MS Word'
+url: /2017/03/04/digest-editor-internals-ms-word/
 ---
 
 Recently, I delivered

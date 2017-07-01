@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Why every undergrad should intern for a startup at least once."
-date: 2011-06-14 23:03
 author: admin
+categories:
+- Essay
 comments: true
-categories: [Essay]
-
+date: 2011-06-14T00:00:00Z
+title: Why every undergrad should intern for a startup at least once.
+url: /2011/06/14/why-every-undergrad-should-intern-for-a-startup-at-least-once/
 ---
+
 My first post here =D
 
 So, I wrote a post <a href="http://blog.geeksphere.net/2011/05/28/why-i-love-working-at-chalkboard/" target="_blank">here</a> on my blog, and yep, was asked to blog about it here as well.

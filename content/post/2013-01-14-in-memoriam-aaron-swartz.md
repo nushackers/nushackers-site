@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "In memoriam, Aaron Swartz"
-date: 2013-01-14 03:07
 author: ejames
+categories:
+- Essay
 comments: true
-categories: [Essay]
-
+date: 2013-01-14T00:00:00Z
+title: In memoriam, Aaron Swartz
+url: /2013/01/14/in-memoriam-aaron-swartz/
 ---
+
 <em>(This post is written by Eli, a former President of NUS Hackers.)</em>
 
 Aaron Swartz was my hero. He died two days ago, committing suicide at the age of 26, too early in a colourful and accomplished life, and now, too late.

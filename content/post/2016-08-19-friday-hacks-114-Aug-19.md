@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #114, August 19"
-date: 2016-08-09 17:17:49.221418
 author: Advay Pal
+date: 2016-08-19T17:17:49Z
+title: 'Friday Hacks #114, August 19'
+url: /2016/08/19/friday-hacks-114-Aug-19/
 ---
 
 <em>In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways.</em>

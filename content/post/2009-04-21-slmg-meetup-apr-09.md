@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "SLMG meetup Apr 09"
-date: 2009-04-21 15:12
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
 comments: true
-categories: [Events, External]
-
+date: 2009-04-21T00:00:00Z
+title: SLMG meetup Apr 09
+url: /2009/04/21/slmg-meetup-apr-09/
 ---
+
 Wed 22 Apr
 7pm
 

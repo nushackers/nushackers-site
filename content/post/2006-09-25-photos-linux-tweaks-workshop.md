@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Photos: Linux Tweaks Workshop"
-date: 2006-09-25 12:14
 author: Luther Goh Lu Feng
+categories:
+- Photos
 comments: true
-categories: [Photos]
-
+date: 2006-09-25T00:00:00Z
+title: 'Photos: Linux Tweaks Workshop'
+url: /2006/09/25/photos-linux-tweaks-workshop/
 ---
+
 <div align="center">
 <table width="100%" cellspacing="4" cellpadding="4" border="1" style="text-align: left">
 <tr>

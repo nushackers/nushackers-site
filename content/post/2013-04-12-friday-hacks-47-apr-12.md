@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #47, Apr 12"
-date: 2013-04-12 12:31
 author: benedict
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-04-12T00:00:00Z
+title: 'Friday Hacks #47, Apr 12'
+url: /2013/04/12/friday-hacks-47-apr-12/
 ---
+
 This week we have Gaurav Chandrashekar.
 
 <blockquote><strong>Date/Time:</strong> Friday, April 12 at 6:30pm
