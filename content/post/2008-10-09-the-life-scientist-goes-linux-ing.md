@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "The Life Scientist goes Linux-ing"
-date: 2008-10-09 15:05
 author: Luther Goh Lu Feng
+categories:
+- Guest blogger
 comments: true
-categories: [Guest blogger]
-
+date: 2008-10-09T00:00:00Z
+title: The Life Scientist goes Linux-ing
+url: /2008/10/09/the-life-scientist-goes-linux-ing/
 ---
+
 Hello there,
 
 This is Lu Feng signing in to kick off the guest blogger series on linuxNUS.org. Basically we will have one guest blogger contributing at least one article each week. So yours truly had started writing this since Wednesday but only had time to finish this today. I will hand over to the next guest blogger on Monday.

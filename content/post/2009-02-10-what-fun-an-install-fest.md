@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "What Fun, an Install Fest!"
-date: 2009-02-10 00:18
 author: iced
+categories:
+- Events
+- Featured
 comments: true
-categories: [Events, Featured]
-
+date: 2009-02-10T00:00:00Z
+title: What Fun, an Install Fest!
+url: /2009/02/10/what-fun-an-install-fest/
 ---
+
 <img src="http://farm4.static.flickr.com/3505/3260062912_baf52f4ed7.jpg?v=0" alt="Installing...." />
 
 You really should have been there. We had lots of fun! VMs were set up, guests shared stories, and we even had an 'unplugged' session... so to speak. It's OK if you didn't know what I'm talking about. ;)

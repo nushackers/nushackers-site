@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #41, Feb 15"
-date: 2013-02-14 13:49
 author: benedict
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-02-14T00:00:00Z
+title: 'Friday Hacks #41, Feb 15'
+url: /2013/02/14/friday-hacks-41-feb-15/
 ---
+
 This week we have Wong Yi, who will share with us on game programming. Anyone who is interested in this field, or is curious about game programming should definitely come for the talk!
 
 <blockquote><strong>Date/Time:</strong> Friday, February 15 at 6:30pm

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #64, Feb 21"
-date: 2014-02-19 00:15
 author: vishnu
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2014-02-19T00:00:00Z
+title: 'Friday Hacks #64, Feb 21'
+url: /2014/02/19/friday-hacks-64-feb-21/
 ---
+
 This Friday, we have a talk by Indra from SimplerCloud. See you!
 <blockquote><strong>Date/Time:</strong> Friday, February 21st at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town; <strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a><strong>

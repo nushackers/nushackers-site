@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "The Singapore Linux March Meetup + Singapore Lubuntu Team"
-date: 2009-03-17 21:24
 author: Luther Goh Lu Feng
+categories:
+- External
+- Meetings
 comments: true
-categories: [External, Meetings]
-
+date: 2009-03-17T00:00:00Z
+title: The Singapore Linux March Meetup + Singapore Lubuntu Team
+url: /2009/03/17/singapore-linux-march-meetup-singapore-lubuntu-team/
 ---
+
 <a href="http://www.meetup.com/sg-linux/calendar/9766755/">From SLMG</a>:
 
 <strong>The Singapore Linux March Meetup (Open Source Alliance - Software Freedom Day)</strong>

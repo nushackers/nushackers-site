@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #124, November 4"
-date: 2016-10-31 10:09:07.828137
 author: Advay Pal
+date: 2016-11-04T10:09:07Z
+title: 'Friday Hacks #124, November 4'
+url: /2016/11/04/friday-hacks-124-Nov-4/
 ---
 
 It’s the last Friday Hacks of the semester, and we’ll be doing something different this time. Instead of the usual talks, we’ll be having a programming challenge this week, with a twist - shortest solutions win!

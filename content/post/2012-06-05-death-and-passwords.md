@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Death and Passwords"
-date: 2012-06-05 14:46
 author: ejames
+categories:
+- Essay
 comments: true
-categories: [Essay]
-
+date: 2012-06-05T00:00:00Z
+title: Death and Passwords
+url: /2012/06/05/death-and-passwords/
 ---
+
 <p>I was discharged from the National University Hospital this morning, after rushing there in a Campus Security car at about 1.30am. I got stung by a bee and developed an&nbsp;anaphylactic reaction in about 15 minutes: couldn't breathe, rashes, slight shivering, all from a 2-second, extremely minor bee sting. It wasn't a life-or-death situation by any means (although I now know that having multiple bee stings <em>would&nbsp;</em>probably escalate into a life-or-death situation very quickly), but it got me thinking again about death and passwords.</p>
 <p>In the event of a death, what would happen to my digital property? My photos, blog posts, emails and source code will likely rust in the ether of cyberspace, visible but inaccessible to my friends and family.</p>
 <p>Worse, the organizations that depend on me would likely hit a set-back. The <a href="">NUS Hackers</a> domain and site, and the Pandamian code and site for instance, are locked under my GoDaddy, Webfaction and Linode accounts, respectively. My passing would mean no easy transfer of domains, risking the loss of these sites forever.</p>

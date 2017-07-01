@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "linuxNUS.org has been upgraded"
-date: 2007-08-14 22:55
 author: Luther Goh Lu Feng
+categories:
+- Chatter
+- News
 comments: true
-categories: [Chatter, News]
-
+date: 2007-08-14T00:00:00Z
+title: linuxNUS.org has been upgraded
+url: /2007/08/14/linuxnusorg-has-been-upgraded/
 ---
+
 Our website has a new look!
 
 Other than some cosmetic touch ups, there is now also a chat applet login located on the sidebar. Extremely useful for those who do not have an irc client, but still wish to drop into <a href="http://linuxnus.org/pjirc/applet.php" target="_blank">#linuxnus</a>.

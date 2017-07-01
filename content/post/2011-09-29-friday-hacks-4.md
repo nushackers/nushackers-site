@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Friday Hacks #4"
-date: 2011-09-29 23:15
 author: ejames
+categories:
+- Events
+- Friday Hacks
 comments: true
-categories: [Events, Friday Hacks]
-
+date: 2011-09-29T00:00:00Z
+title: 'Friday Hacks #4'
+url: /2011/09/29/friday-hacks-4/
 ---
+
 I'm really sorry for the late shoutout on this - tomorrow's Friday Hacks would be held at Seminar Rooms 1 and 2 at the Tembusu Learning Lobe. (We were late with this because there was some difficulty securing the rooms).
 
 The Tembusu Learning Lobe is the building next to Starbucks/the ERC, if you don't already know. Quick details:

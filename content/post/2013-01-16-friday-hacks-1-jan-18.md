@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #37, Jan 18"
-date: 2013-01-16 23:35
 author: omer
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-01-16T00:00:00Z
+title: 'Friday Hacks #37, Jan 18'
+url: /2013/01/16/friday-hacks-1-jan-18/
 ---
+
 <p>Welcome back! Please note that we're shifting Friday Hacks to <b>University Town's ERC, SR2 </b>this semester. Also, we will start at <b>6:30pm, with pizza served first! :)</b></div><br>
 <div></p>
 <p>This week we have Benjamin Tan, a software engineer and SoC Alumni talking about his experiences building and releasing a Ruby gem, and Cedric Chin, an NUS student, speaking on software testing as a way of avoiding bugs.</p>

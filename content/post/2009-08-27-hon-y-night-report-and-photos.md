@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "HoN-y Night Report and Photos"
-date: 2009-08-27 12:58
 author: Luther Goh Lu Feng
+categories:
+- Events
+- Featured
+- Headline
+- Photos
 comments: true
-categories: [Events, Featured, Headline, Photos]
-
+date: 2009-08-27T00:00:00Z
+title: HoN-y Night Report and Photos
+url: /2009/08/27/hon-y-night-report-and-photos/
 ---
+
 HoN was certainly fun. We even had icedwater joining us all the way from Germany. We had some real intense matches and a good late night supper at Holland Village. And one thing for sure is, gaming is certainly a good way for team bonding :)
 
 We already had one adhoc match over the weekend, arranged via IRC. So hang around in <a href="http://linuxnus.org/irc/">our IRC channel</a> if you are looking for HoN beginners :p We should be arranging another games night in the near future. So keep your eyes open for our next event.

@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #123, October 28"
-date: 2016-10-24 09:09:57.370378
 author: Advay Pal
+date: 2016-10-28T09:09:57Z
+title: 'Friday Hacks #123, October 28'
+url: /2016/10/28/friday-hacks-123-Oct-28/
 ---
 
 This week we have Jordan and Shekhar from TradeGecko talking about the benefits of using Go, and it's utility in a range of problem domains, including microservice based architectures. See you there!

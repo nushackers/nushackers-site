@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "linuxNUS goes to SLMG meetup"
-date: 2009-03-19 22:42
 author: Luther Goh Lu Feng
+categories:
+- External
+- Meetings
 comments: true
-categories: [External, Meetings]
-
+date: 2009-03-19T00:00:00Z
+title: linuxNUS goes to SLMG meetup
+url: /2009/03/19/linuxnus-goes-to-slmg-meetup/
 ---
+
 So a small contingent from linuxNUS and NTUOSS <a href="http://linuxnus.org/2009/03/17/singapore-linux-march-meetup-singapore-lubuntu-team/">headed down to the SLMG meetup</a>.  The meeting was soon called to order, and David and Darrel spearheaded the discussion about the draft of the constitution.
 
 Some of the more interesting points raised was the type of voting proxy allowed. As geeks would have it, a seemingly never ending argument about proxy in writing, proxy via web conferencing, etc ensued. Thankfully, common sense prevailed and the meeting agreed that " (t)he Executive Committee, at its sole discretion, shall determine the validity of a proxy representation."

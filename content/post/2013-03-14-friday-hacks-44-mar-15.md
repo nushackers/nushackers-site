@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #44, Mar 15"
-date: 2013-03-14 22:40
 author: michael
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-03-14T00:00:00Z
+title: 'Friday Hacks #44, Mar 15'
+url: /2013/03/14/friday-hacks-44-mar-15/
 ---
+
 This week, we will be adding a twist to our regular Friday Hacks.
 
 Instead of the regular talks by speakers, we'll just be having a hacking session. You are more than welcome to bring your own projects, homework, etc, down and join us!

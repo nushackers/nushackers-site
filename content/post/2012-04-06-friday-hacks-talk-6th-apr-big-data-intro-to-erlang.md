@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks Talk 6th Apr -Big Data & Intro to Erlang"
-date: 2012-04-06 17:28
 author: ejames
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2012-04-06T00:00:00Z
+title: Friday Hacks Talk 6th Apr -Big Data & Intro to Erlang
+url: /2012/04/06/friday-hacks-talk-6th-apr-big-data-intro-to-erlang/
 ---
+
 Greetings, fellow hackers.
 
 Coming Good Friday (6th April), we have two talks by Abishek and Andy. Despite it being a public holiday, our Friday Hacks will go on unimpeded and because it is Good Friday, we are giving away a free ergonomic keyboard (worth $80), that will ensure you aren't limited by your hands getting tired after long hours of coding :P (You need to register to be eligible to win the keyboard and of course you must also be present at the Friday Hacks to qualify for this).

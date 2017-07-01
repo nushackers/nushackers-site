@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "linuxNUS Turns 4!"
-date: 2009-10-07 00:00
 author: Ruiwen
+categories:
+- Chatter
+- Featured
+- Headline
 comments: true
-categories: [Chatter, Featured, Headline]
-
+date: 2009-10-07T00:00:00Z
+title: linuxNUS Turns 4!
+url: /2009/10/07/linuxnus-turns-4/
 ---
+
 Four years ago to this day, 7 Oct 2005, linuxNUS was officially born. That is to day, of course, that we were officially recognised as a <a href="http://www.nus.edu.sg/osa/activities/svcs/interestgrps.html">Student Special Interest Group</a>. Of course, that doesn't mean that we weren't around before that. linuxNUS first came into existence on 6 Jul 2005, as our <a href="http://tech.groups.yahoo.com/group/linuxnus/">Yahoo! Group</a>, which still serves as our primary mailing list till this day. Before 7 Oct though, we were a loosely organised, but nontheless motivate bunch, determined to bring the value and benefit of open source software to NUS.
 
 <a href="http://linuxnus.org/about-us/milestones/">We've come a long way</a> since then, of course. From a single humble mailing list, we then set up our main site, <a href="http://linuxnus.org">linuxNUS.org</a>, our wiki - <a href="http://opensource.nus.edu.sg">Opensource@NUS</a>, <a href="http://opensource.nus.edu.sg/forums">forums</a> and our IRC channel, #linuxnus on irc.freenode,net (which you can join by clicking "<a href="http://linuxnus.org/chat">Chat</a>" at the top of this page).  We've ridden the recent social wave as well, turning up on sites such as <a href="http://linuxnus.org/facebook">Facebook</a> and <a href="http://twitter.com/linuxNUS">Twitter</a>!

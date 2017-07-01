@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "GNOME.Asia Summit 2009"
-date: 2009-10-28 01:37
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
+- Featured
 comments: true
-categories: [Events, External, Featured]
-
+date: 2009-10-28T00:00:00Z
+title: GNOME.Asia Summit 2009
+url: /2009/10/28/gnome-asia-summit-2009/
 ---
+
 <p align="center"><a href="/res/2009/10/gnome.asia-logo-2009.02.1.png"><img src="/res/2009/10/gnome.asia-logo-2009.02.1-300x211.png" alt="gnome.asia-logo-2009.02.1" title="gnome.asia-logo-2009.02.1" width="300" height="211" class="aligncenter size-medium wp-image-940" /></a></p>
 
 The <a href="http://2009.gnome.asia/">GNOME.Asia Summit</a> is one of the top Free and Open Source Software (FOSS) events for developers, enterprises, officials and general users in Vietnam. The event brings together FOSS projects from Asia and around the world.

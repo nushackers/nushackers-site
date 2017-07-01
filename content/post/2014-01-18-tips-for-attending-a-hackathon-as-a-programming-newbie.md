@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Tips for Attending a Hackathon as a Programming Newbie"
-date: 2014-01-18 18:42
 author: ejames
+categories:
+- Essay
+- Hack&amp;Roll
 comments: true
-categories: [Essay, Hack&amp;Roll]
-
+date: 2014-01-18T00:00:00Z
+title: Tips for Attending a Hackathon as a Programming Newbie
+url: /2014/01/18/tips-for-attending-a-hackathon-as-a-programming-newbie/
 ---
+
 Our annual hackathon, Hack&amp;Roll, is coming up at the end of this week. If you're a freshman, or new to programming, you're probably wondering if you should join it. You barely know how to program, after all, much less build apps — why join a competition filled with people with way more experience than you?
 
 Well, here's a secret: there are typically two reasons developers join hackathons. The first reason — as you suspect — is to compete (and there <em>are</em> people out there who optimise to win hackathons). But the second reason developers attend hackathons is to use the event as an excuse to work on personal stuff. It may be true that you're not prepared to compete by building apps. But the second reason applies just as well to new programmers as it does to more experienced ones.

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "NUS Hackers Welcome Tea"
-date: 2012-08-14 12:20
 author: ejames
+categories:
+- Events
 comments: true
-categories: [Events]
-
+date: 2012-08-14T00:00:00Z
+title: NUS Hackers Welcome Tea
+url: /2012/08/14/nus-hackers-welcome-tea-2/
 ---
+
 (In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways.)
 
 NUS Hackers is a student-run organization committed to the spread of hacker culture &amp; free/open-source software. We provide a support system for hackers in NUS who are currently building things (be it for charity, business or pleasure). We also hold workshops, run hackfests, and maintain open source code for the NUS community!

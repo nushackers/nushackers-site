@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Digest: Text Generation with Markov Models"
-date: 2016-10-04 21:41
 author: Anonymous
-categories: [Digest]
+categories:
+- Digest
+date: 2016-10-04T00:00:00Z
+title: 'Digest: Text Generation with Markov Models'
+url: /2016/10/04/digest-text-generation-with-markov-models/
 ---
 
 Imagine if you could write a program to write you an essay, or produce a tweet, or even generate a research paper? Such an activity can be performed with reasonable quality by the use of something known as a [Markov Model][], with the help of an input text. In this post, I’ll be covering a little about what Markov Models are and how they can be used to generate potentially interesting text.

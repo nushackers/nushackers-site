@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "[Podcast] Episode 0: Closed on Sundays"
-date: 2009-04-02 02:00
 author: Ruiwen
+categories:
+- Featured
+- Headline
+- News
+- Podcast
 comments: true
-categories: [Featured, Headline, News, Podcast]
-
+date: 2009-04-02T00:00:00Z
+title: '[Podcast] Episode 0: Closed on Sundays'
+url: /2009/04/02/podcast-episode-0-closed-on-sundays/
 ---
+
 Aaaandd.. here we go!
 
 Presenting to you, fresh (somewhat) from the oven, <a href="http://opensource.nus.edu.sg/podcasts/linuxnus-episode00-closed_on_sundays.mp3">Episode 0 of the linuxNUS Podcast, <em>Closed on Sundays</em> </a> !

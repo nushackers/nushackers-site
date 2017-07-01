@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "Ideas >> Execution; Summer Hackfest"
-date: 2010-05-03 03:45
 author: angad
+categories:
+- Events
+- Featured
+- Headline
+- News
 comments: true
-categories: [Events, Featured, Headline, News]
-
+date: 2010-05-03T00:00:00Z
+title: Ideas >> Execution; Summer Hackfest
+url: /2010/05/03/ideas-execution-summer-hackfest/
 ---
+
 <strong>l</strong><strong>inuxNUS and HackerSpaceSG</strong> bring to you the Summer Hackfest  and this time we have bigger ideas in mind!
 
 <img src="http://www.comp.nus.edu.sg/~u0909118/9th_may.jpg" alt="Hackfest" />

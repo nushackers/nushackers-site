@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Ubuntu Workshop Mar 09"
-date: 2009-04-04 15:43
 author: Luther Goh Lu Feng
+categories:
+- Events
+- Featured
+- Photos
 comments: true
-categories: [Events, Featured, Photos]
-
+date: 2009-04-04T00:00:00Z
+title: Ubuntu Workshop Mar 09
+url: /2009/04/04/ubuntu-workshop-mar-09/
 ---
+
 This was a very successful event and we would like to take this chance to thank <a href="http://ubuntu.sg/">Team Ubuntu Singapore</a> as well as <a href="http://compclub.nus.edu.sg/">NUS Students' Computing Club</a> for the wonderful and professional collaboration.
 
 <a href="http://www.flickr.com/photos/ruiwen/sets/72157615973593539/">And here are the long awaited photos</a>.

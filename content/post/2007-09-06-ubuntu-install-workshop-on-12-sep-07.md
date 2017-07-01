@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Ubuntu Install Workshop on 12 Sep 07"
-date: 2007-09-06 22:05
 author: rey
+categories:
+- Events
+- News
 comments: true
-categories: [Events, News]
-
+date: 2007-09-06T00:00:00Z
+title: Ubuntu Install Workshop on 12 Sep 07
+url: /2007/09/06/ubuntu-install-workshop-on-12-sep-07/
 ---
+
 Always wanted to install Linux on your PC/laptop but don't know how to? Want to find out how to dual-boot Linux and Windows? Or even triple boot (with MacOS)? Fancy having some cool visual effects on your desktop?
 
 linuxNUS will be having a hands-on Ubuntu Install Workshop on 12 Sep 07 (Wed). Our technical experts will be on hand to answer your questions and assist you in the installation and configuration process on your laptop PCs. If you do not have a laptop and want to install Ubuntu on your home PC, you can use a lab PC to go through the installation process.

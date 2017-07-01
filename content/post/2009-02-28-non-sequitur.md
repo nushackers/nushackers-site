@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Non Sequitur"
-date: 2009-02-28 02:16
 author: iced
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2009-02-28T00:00:00Z
+title: Non Sequitur
+url: /2009/02/28/non-sequitur/
 ---
+
 <div align="center"><a href="/res/2009/02/opensuse-logo.png"><img src="/res/2009/02/opensuse-logo-300x193.png" alt="opensuse-logo" title="opensuse-logo" width="300" height="193" class="aligncenter size-medium wp-image-197" /></a></div>
 
 So ... I am somewhat relieved that I managed to install OpenSUSE 11.0 on my laptop, in a separate partition, just the way Linux should be run. It wasn't accepting any sort of Ubuntu CD before, though it did give me some excuse to tangle with Lilo... really long story that doesn't belong here, hence the title.

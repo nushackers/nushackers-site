@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #59, Nov 15"
-date: 2013-11-15 11:35
 author: admin
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-11-15T00:00:00Z
+title: 'Friday Hacks #59, Nov 15'
+url: /2013/11/15/friday-hacks-59-nov-15/
 ---
+
 <h2>Project Show & Tell</h2>
 
 It's the last Friday Hacks of the semester!

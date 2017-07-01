@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #127, February 10"
-date: 2017-02-09 00:26:25.147501
 author: Jethro Kuan
+date: 2017-02-10T00:26:25Z
+title: 'Friday Hacks #127, February 10'
+url: /2017/02/10/friday-hacks-127-Feb-10/
 ---
 
 Come join us this Friday for our weekly Friday Hacks! We will have Ding Feng sharing about hardware hacking. Read on to know more.

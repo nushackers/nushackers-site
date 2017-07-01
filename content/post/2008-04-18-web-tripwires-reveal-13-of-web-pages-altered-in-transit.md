@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "\"Web tripwires\" reveal 1.3% of web pages altered in transit"
-date: 2008-04-18 00:43
 author: Ruiwen
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2008-04-18T00:00:00Z
+title: '"Web tripwires" reveal 1.3% of web pages altered in transit'
+url: /2008/04/18/web-tripwires-reveal-13-of-web-pages-altered-in-transit/
 ---
+
 <blockquote>When you visit a web page, you might expect that the code and images from the page will make their journey through the tubes unmolested and unaltered, but according to security researchers, you would also be wrong 1.3 percent of the time.</blockquote>
 Quoting from a <a href="http://arstechnica.com/news.ars/post/20080416-research-1-3-percent-of-web-pages-altered-in-transit.html">recent article</a> on <a href="http://arstechnica.com">Ars.Technica</a>, researchers have found that up to 1.3% of web pages are altered in transit between the server and the requesting client. Not all the modifications are malicious though, the article notes. Some ISPs modify the page either by removing extra white space in the page, or further compressing images, thereby reducing bandwidth used and decreasing wait times. Alternatively, some service providers <a href="http://blog.dk.sg/2008/01/07/creative-advertisement-on-google-main-page/">take the opportunity</a> <a href="http://www.sgwebhostingtalk.com/showthread.php?t=12576">to serve ads</a> instead.
 

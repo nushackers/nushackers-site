@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Friday Hacks #4 Recap"
-date: 2011-10-05 14:49
 author: ejames
+categories:
+- Events
+- Friday Hacks
 comments: true
-categories: [Events, Friday Hacks]
-
+date: 2011-10-05T00:00:00Z
+title: 'Friday Hacks #4 Recap'
+url: /2011/10/05/friday-hacks-4-recap/
 ---
+
 Last week's Friday Hacks saw a visit from Ong Guan Sin from NUS ComCen, in addition to the usual hackathon. He had a proposal for us:
 
 <a href="http://www.flickr.com/photos/dienasty/6213498348/" title="Friday Hacks #4 by shadowsun7, on Flickr"><img src="http://farm7.static.flickr.com/6060/6213498348_421755d52b.jpg" width="500" height="375" alt="Friday Hacks #4"></a>

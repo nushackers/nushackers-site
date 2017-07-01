@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Android interest in linuxNUS"
-date: 2009-03-07 22:36
 author: Luther Goh Lu Feng
+categories:
+- Featured
+- News
+- Slides
 comments: true
-categories: [Featured, News, Slides]
-
+date: 2009-03-07T00:00:00Z
+title: Android interest in linuxNUS
+url: /2009/03/07/android-interest-in-linuxnus/
 ---
+
 Recently, there has been a burgeoning interest and excitment in both linuxNUS and Singapore with regards to Android.
 
 If you wish to to find out more about Android development, check out the slides by ziyong, which were presented during Barcamp 3 Singapore.

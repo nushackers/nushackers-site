@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #89, March 6"
-date: 2015-03-03 10:37:25
 author: Jingwen
+date: 2015-03-03T10:37:25Z
+title: 'Friday Hacks #89, March 6'
+url: /2015/03/03/friday-hacks-89-Mar-06/
 ---
 
 We're happy to have Haoyi, an engineer from Dropbox, speaking this week about the web

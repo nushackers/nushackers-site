@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Photos from Foodie Social and Hackfest"
-date: 2009-08-15 00:37
 author: Luther Goh Lu Feng
+categories:
+- Events
+- Featured
+- Photos
 comments: true
-categories: [Events, Featured, Photos]
-
+date: 2009-08-15T00:00:00Z
+title: Photos from Foodie Social and Hackfest
+url: /2009/08/15/photos-from-foodie-social-and-hackfest/
 ---
+
 Hi guys, I have finally uploaded the photos of the <a href="http://linuxnus.org/2009/07/23/the-linuxnus-foodie-social/">Foodie Social</a> and <a href="http://linuxnus.org/2009/08/06/linuxnus-hackfest-the-third-hack-reality/">Hackfest</a> from my Android phone. They are not fantastic due to my poor photography skills but they are definitely the tip of the iceberg of the fun we had!
 
 <div align="center"><p>

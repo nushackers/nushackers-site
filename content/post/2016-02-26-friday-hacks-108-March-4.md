@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #108, March 4th"
-date: 2016-02-26 00:00:01
 author: Varun
+date: 2016-02-26T00:00:01Z
+title: 'Friday Hacks #108, March 4th'
+url: /2016/02/26/friday-hacks-108-March-4/
 ---
 
 For our fourth Friday Hacks of the semester, we're having Cheng Wei, a senior

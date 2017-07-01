@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Hack&Roll '13: A Look Back"
-date: 2013-03-16 21:51
 author: jerome
+categories:
+- Events
+- Hack&amp;Roll
 comments: true
-categories: [Events, Hack&amp;Roll]
-
+date: 2013-03-16T00:00:00Z
+title: 'Hack&Roll ''13: A Look Back'
+url: /2013/03/16/hackroll-13-a-look-back/
 ---
+
 Hack&amp;Roll, the 24-hour hackathon we started last year, was held for the second time around on the 24<sup>th</sup> and 25<sup>th</sup> of February, in the NUS School of Computing COM1 Basement. This year saw an even larger turnout than last time, with 62 participants competing in 22 teams, as well as a number of non-participants who came down to enjoy the ambiance and work on their own.
 
 <a href="/res/2013/03/IMG_2283.jpg"><img class="alignnone size-large wp-image-3009" alt="IMG_2283" src="/res/2013/03/IMG_2283-1024x768.jpg" width="640" height="480" /></a>

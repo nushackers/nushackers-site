@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "NUS Hackers Welcome Tea"
-date: 2011-08-31 13:27
 author: ejames
+categories:
+- Events
 comments: true
-categories: [Events]
-
+date: 2011-08-31T00:00:00Z
+title: NUS Hackers Welcome Tea
+url: /2011/08/31/nus-hackers-welcome-tea/
 ---
+
 Just in case you've missed it (details of the Welcome Tea were included in the last two NUS Hackers posts) we have a Welcome Tea this very Friday (2nd of September). The details are as follows:
 
 <blockquote>Date: 2nd September 2011

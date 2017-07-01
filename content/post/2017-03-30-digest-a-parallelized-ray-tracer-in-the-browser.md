@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Digest: A parallelized ray tracer in the browser"
-date: 2017-03-30 13:27
 author: Stacey Tay
+categories:
+- Digest
+date: 2017-03-30T00:00:00Z
 published: true
-categories: [Digest]
+title: 'Digest: A parallelized ray tracer in the browser'
+url: /2017/03/30/digest-a-parallelized-ray-tracer-in-the-browser/
 ---
 
 *This post was originally published at [staceytay.com](http://staceytay.com/2016/04/20/a-parallelized-ray-tracer-in-the-browser.html).*

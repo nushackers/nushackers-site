@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "linuxNUS Workshop series"
-date: 2010-07-02 00:04
 author: angad
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2010-07-02T00:00:00Z
+title: linuxNUS Workshop series
+url: /2010/07/02/linuxnus-workshop-series/
 ---
+
 <span style="font-size: small;"><span style="font-weight: bold;">linuxNUS is planning for the next semester!</span></span>
 
 linuxNUS is an organisation to promote the use of Free and Open Source Software in NUS and Singapore. We have been organising Hackfests which promote working in teams with an intense focus on the execution of an idea. These Hackfests are aimed at encouraging the <span style="font-weight: bold;">JFDI - Just F**kin' Do It</span> attitude, while collaborating with the community.

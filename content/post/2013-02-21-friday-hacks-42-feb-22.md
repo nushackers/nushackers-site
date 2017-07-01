@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #42, Feb 22"
-date: 2013-02-21 22:50
 author: benedict
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-02-21T00:00:00Z
+title: 'Friday Hacks #42, Feb 22'
+url: /2013/02/21/friday-hacks-42-feb-22/
 ---
+
 This week we have Cristobal Viedma and Amarnath Ravikumar, who will share with us on building a web architecture that scales, and design patterns in Drupal respectively. Anyone who is interested should definitely come for the talk!
 
 <blockquote><strong>Date/Time:</strong> Friday, February 22 at 6:30pm

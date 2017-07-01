@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Guest Post #1 NUSMorge"
-date: 2013-03-18 23:20
 author: omer
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2013-03-18T00:00:00Z
+title: 'Guest Post #1 NUSMorge'
+url: /2013/03/18/guest-post-1-nusmorge/
 ---
+
 <em>In the spirit of hacking, we're starting a new series of posts exposing some of the projects made during the hack&amp;roll.</em> <a href="http://morge.nuscomputing.com/" target="_blank">NUSMorge</a><em> is a timetable merger, built on top of the Beng’s open source web app nusmods.com. It was built in 24 hours by team “Nange”, comprising of Yao Yujian, Wong Shen Nan, Joey Cheong and Ng Zhi An, who won “Best Freshman Effort” spot prize.</em>
 
 <em> Here are some reflections by their team members:</em>

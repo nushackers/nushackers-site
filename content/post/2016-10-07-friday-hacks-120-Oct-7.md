@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #120, October 7"
-date: 2016-10-03 14:53:50.435602
 author: Advay Pal
+date: 2016-10-07T14:53:50Z
+title: 'Friday Hacks #120, October 7'
+url: /2016/10/07/friday-hacks-120-Oct-7/
 ---
 
 This week have Sean from Twitter talking about building scalable advertising platforms. See you there!

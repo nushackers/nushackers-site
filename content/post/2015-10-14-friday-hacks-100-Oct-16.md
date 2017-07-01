@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #100, Oct 16"
-date: 2015-10-14 17:59:00
 author: Jeremias
+date: 2015-10-14T17:59:00Z
+title: 'Friday Hacks #100, Oct 16'
+url: /2015/10/14/friday-hacks-100-Oct-16/
 ---
 
 NUS Hackers is celebrating our 100th Friday Hacks!

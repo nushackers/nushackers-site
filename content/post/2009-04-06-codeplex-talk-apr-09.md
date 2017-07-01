@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Codeplex Talk Apr 09"
-date: 2009-04-06 00:30
 author: Luther Goh Lu Feng
+categories:
+- Events
+- Featured
 comments: true
-categories: [Events, Featured]
-
+date: 2009-04-06T00:00:00Z
+title: Codeplex Talk Apr 09
+url: /2009/04/06/codeplex-talk-apr-09/
 ---
+
 <a href="/res/2009/04/codeplex-logo_3.jpg"><img src="/res/2009/04/codeplex-logo_3.jpg" alt="codeplex-logo_3" title="codeplex-logo_3" width="235" height="92" class="aligncenter size-full wp-image-464" /></a>
 
 <strong>April 6:

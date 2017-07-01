@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #60, Jan 17"
-date: 2014-01-16 00:32
 author: vishnu
+categories:
+- Friday Hacks
 comments: true
-categories: [Friday Hacks]
-
+date: 2014-01-16T00:00:00Z
+title: 'Friday Hacks #60, Jan 17'
+url: /2014/01/16/friday-hacks-60-jan-17/
 ---
+
 For our first talk of the semester, we have a talk by Cedric Chin. Do note the change in venue this time round, it's going to be at the spanking new NUS Hackerspace! See you there
 <blockquote><strong>Date/Time:</strong> Friday, January 17th at 6:30pm
 <strong>Venue:</strong> Hackerspace, #02-09, AS6, 13 Computing Drive, NUS

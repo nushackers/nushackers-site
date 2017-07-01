@@ -1,12 +1,17 @@
 ---
-layout: post
-title: "Installfest! The first Workshop!"
-date: 2010-09-08 15:05
 author: angad
+categories:
+- Events
+- Featured
+- Headline
+- News
+- Slides
 comments: true
-categories: [Events, Featured, Headline, News, Slides]
-
+date: 2010-09-08T00:00:00Z
+title: Installfest! The first Workshop!
+url: /2010/09/08/installfest-the-first-workshop/
 ---
+
 We had the first workshop for the Hack Workshop Series on 3rd September Friday @ SR11 in SoC. The workshop was attended by around 35 people and we had almost everybody who had registered for the workshop!
 
 The workshop covered installing Linux (Ubuntu 10.04) in Virtual Box for most of the attendees and as a 2nd OS for those who requested. Unfortunately, the SoC network was damn slow and we had to pass thumb-drives around for the VirtualBox setup. But ultimately it worked out and within half an hour everybody was running an Ubuntu VM! The coreteam members were helping around with different kinds of installation issues and everything worked out smooth.

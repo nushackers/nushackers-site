@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #62, Feb 7"
-date: 2014-02-04 12:39
 author: vishnu
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2014-02-04T00:00:00Z
+title: 'Friday Hacks #62, Feb 7'
+url: /2014/02/04/friday-hacks-62-feb-7/
 ---
+
 This week, we have a talk by Alex Teo from D'Crypt. Do note the change in venue, it's back at UTown again! See you there
 <blockquote><strong>Date/Time:</strong> Friday, February 7th at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town; <strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>

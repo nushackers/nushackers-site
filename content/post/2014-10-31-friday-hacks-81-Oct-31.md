@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #81, October 31"
-date: 2014-10-27 11:58:30.390939
 author: Joey
+date: 2014-10-31T11:58:30Z
+title: 'Friday Hacks #81, October 31'
+url: /2014/10/31/friday-hacks-81-Oct-31/
 ---
 
 Ever written code only to realise later it doesn't work for some particular case? Find out about some common assumptions developers make and what to do instead!

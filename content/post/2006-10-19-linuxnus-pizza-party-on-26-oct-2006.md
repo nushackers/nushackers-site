@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "linuxNUS Pizza Party on 26 Oct 2006"
-date: 2006-10-19 15:43
 author: rey
+categories:
+- Events
+- Featured
+- Meetings
 comments: true
-categories: [Events, Featured, Meetings]
-
+date: 2006-10-19T00:00:00Z
+title: linuxNUS Pizza Party on 26 Oct 2006
+url: /2006/10/19/linuxnus-pizza-party-on-26-oct-2006/
 ---
+
 Dear linuxNUS friends,
 
 With all the CAs and assignments during these few weeks, I am sure many of us are really in need of a break. With this in mind, linuxNUS is organising a pizza party in our clubroom (at SoC 1 Level 3) on <span style="font-weight: bold">26 Oct 2006 at 6.15pm</span>. The idea is to have an evening of relaxation and casual chatter about our upcoming plans.

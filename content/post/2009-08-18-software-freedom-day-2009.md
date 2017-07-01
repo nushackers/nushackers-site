@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Software Freedom Day 2009"
-date: 2009-08-18 02:32
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
+- Featured
 comments: true
-categories: [Events, External, Featured]
-
+date: 2009-08-18T00:00:00Z
+title: Software Freedom Day 2009
+url: /2009/08/18/software-freedom-day-2009/
 ---
+
 From our <a href="http://tech.groups.yahoo.com/group/linuxNUS/message/4183">mailing list archive</a>:
 <blockquote>The Free and Open Source Alliance (<a href="FOSA.sg">FOSA.sg</a>) would like to invite you  to take part in Software Freedom Day Singapore 2009. We have a number of events lined up for you next month on September 18 and 19 at the Singapore Management University, Bras Basah and the National Library Building, Bugis, and we hope you'll be able to join in.
 

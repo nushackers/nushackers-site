@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "Hackers@NUS"
-date: 2010-12-12 15:01
 author: angad
+categories:
+- Events
+- Featured
+- Headline
+- News
 comments: true
-categories: [Events, Featured, Headline, News]
-
+date: 2010-12-12T00:00:00Z
+title: Hackers@NUS
+url: /2010/12/12/hackernus/
 ---
+
 Thanks to all those who attended the Hack Workshop Series. We did 8 workshops this semester and the response from the audience was really good. We (also) got to learn a lot after doing all these workshops.
 
 So what we think is that learning is important and is a never ending process. And we will be providing you with workshops in the future too to make sure learning never stops. And we are getting better at doing the workshops :P (If you cannot attend them, the material will always be present on the linuxNUS website)

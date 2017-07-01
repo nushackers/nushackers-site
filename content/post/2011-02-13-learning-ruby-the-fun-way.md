@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Learning Ruby The Fun Way"
-date: 2011-02-13 01:23
 author: ejames
+categories:
+- Events
 comments: true
-categories: [Events]
-
+date: 2011-02-13T00:00:00Z
+title: Learning Ruby The Fun Way
+url: /2011/02/13/learning-ruby-the-fun-way/
 ---
+
 CodeCom 2011 wrapped up today, and boy was it a ton of fun. Some comments after the event:
 <blockquote>the workshop was fun ^_^ i brought home more than just a USB today, haha
 if only assignment is like this :P -Tong Hui Khiem

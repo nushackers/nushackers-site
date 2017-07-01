@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Hackfest!! Crisis Camp @ HackerspaceSG"
-date: 2010-02-03 22:52
 author: angad
+categories:
+- Events
+- Featured
+- Headline
 comments: true
-categories: [Events, Featured, Headline]
-
+date: 2010-02-03T00:00:00Z
+title: Hackfest!! Crisis Camp @ HackerspaceSG
+url: /2010/02/03/hackfest-crisis-camp-hackerspacesg/
 ---
+
 Hackfest @ HackerspaceSG
 
 <em>Crisis Camp!</em>

@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Welcome Tea Sep 2009"
-date: 2009-09-07 01:46
 author: Luther Goh Lu Feng
+categories:
+- Events
+- Featured
+- Headline
 comments: true
-categories: [Events, Featured, Headline]
-
+date: 2009-09-07T00:00:00Z
+title: Welcome Tea Sep 2009
+url: /2009/09/07/welcome-tea-sep-2009/
 ---
+
 Hi everyone,
 
 I hope everyone has had an enjoyable summer break! To the freshmen, I bid you  a warm welcome to the NUS family on behalf of linuxNUS!

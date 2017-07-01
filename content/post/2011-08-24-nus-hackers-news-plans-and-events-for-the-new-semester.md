@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "NUS Hackers: News, Plans, and Events For The New Semester"
-date: 2011-08-24 23:14
 author: ejames
+categories:
+- News
 comments: true
-categories: [News]
-
+date: 2011-08-24T00:00:00Z
+title: 'NUS Hackers: News, Plans, and Events For The New Semester'
+url: /2011/08/24/nus-hackers-news-plans-and-events-for-the-new-semester/
 ---
+
 Hello and welcome to the 2011/2012 academic year! I come bearing news of NUS Hackers's plans for the new semester, along with details of a new membership structure.
 
 Anyway, let's get down to business:

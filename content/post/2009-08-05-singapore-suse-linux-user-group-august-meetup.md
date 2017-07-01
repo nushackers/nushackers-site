@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Singapore Suse Linux User Group August Meetup"
-date: 2009-08-05 01:39
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
+- Featured
 comments: true
-categories: [Events, External, Featured]
-
+date: 2009-08-05T00:00:00Z
+title: Singapore Suse Linux User Group August Meetup
+url: /2009/08/05/singapore-suse-linux-user-group-august-meetup/
 ---
+
 <strong>What</strong>
 Singapore Suse Linux User Group August Meetup
 

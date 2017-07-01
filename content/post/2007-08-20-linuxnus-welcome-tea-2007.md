@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "linuxNUS Welcome Tea 2007"
-date: 2007-08-20 16:43
 author: rey
+categories:
+- Events
+- News
 comments: true
-categories: [Events, News]
-
+date: 2007-08-20T00:00:00Z
+title: linuxNUS Welcome Tea 2007
+url: /2007/08/20/linuxnus-welcome-tea-2007/
 ---
+
 Hi everyone
 
 It's a new academic year again, and linuxNUS is organising a Welcome Tea for freshmen to find out more about who we are and what we do! This will take place on 22 Aug 2007 (Wed) at 1830hrs in COM 1 / 207.

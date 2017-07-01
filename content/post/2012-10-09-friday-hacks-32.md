@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #32, Oct 12"
-date: 2012-10-09 02:03
 author: ejames
+categories:
+- Friday Hacks
 comments: true
-categories: [Friday Hacks]
-
+date: 2012-10-09T00:00:00Z
+title: 'Friday Hacks #32, Oct 12'
+url: /2012/10/09/friday-hacks-32/
 ---
+
 This week we have Melvin Zhang from Hoiio on improving AI, and Shan and Rahul on Field-Programmable Gate Arrays.
 
 Please sign up at <a href="http://bit.ly/friday-hacks">http://bit.ly/friday-hacks</a>

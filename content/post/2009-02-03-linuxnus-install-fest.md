@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "LinuxNUS Install Fest!"
-date: 2009-02-03 18:40
 author: iced
+categories:
+- Events
 comments: true
-categories: [Events]
-
+date: 2009-02-03T00:00:00Z
+title: LinuxNUS Install Fest!
+url: /2009/02/03/linuxnus-install-fest/
 ---
+
 Hi guys!
 
 The details of the install fest are finally out! Come to

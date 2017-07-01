@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #50, Aug 30"
-date: 2013-08-27 22:19
 author: admin
+categories:
+- Friday Hacks
 comments: true
-categories: [Friday Hacks]
-
+date: 2013-08-27T00:00:00Z
+title: 'Friday Hacks #50, Aug 30'
+url: /2013/08/27/friday-hacks-50-aug-30/
 ---
+
 This week we have a talk by Fazli Sapuan followed by a series of ad-hoc lightning talks by members of the community.
 <p style="padding-left: 30px;"><strong>Date/Time:</strong> Friday, Aug 30 at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>

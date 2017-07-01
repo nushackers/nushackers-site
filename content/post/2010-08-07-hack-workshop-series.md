@@ -1,12 +1,17 @@
 ---
-layout: post
-title: "Hack Workshop Series"
-date: 2010-08-07 02:23
 author: angad
+categories:
+- Blogroll
+- Events
+- Featured
+- Headline
+- News
 comments: true
-categories: [Blogroll, Events, Featured, Headline, News]
-
+date: 2010-08-07T00:00:00Z
+title: Hack Workshop Series
+url: /2010/08/07/hack-workshop-series/
 ---
+
 We had mentioned about a workshop series from linuxNUS in a recent blog post and now here we are with something concrete that you can look forward to!
 <br />
 <img src="http://www.comp.nus.edu.sg/~u0909118/hac.jpg" alt="Logo" height = "400px" width="350px" />

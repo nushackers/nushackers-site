@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #105, January 22nd"
-date: 2016-01-18 16:56:01
 author: Jingwen
+date: 2016-01-18T16:56:01Z
+title: 'Friday Hacks #105, January 22nd'
+url: /2016/01/18/friday-hacks-105-Jan-22/
 ---
 
 Welcome back to a brand new semester! For our first Friday Hacks of the semester, we're having Fazli, a School of Computing student, talking about his homemade Roomba hack with Kinect and RPi.

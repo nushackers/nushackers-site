@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #66, March 14"
-date: 2014-03-12 10:51
 author: vishnu
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2014-03-12T00:00:00Z
+title: 'Friday Hacks #66, March 14'
+url: /2014/03/12/friday-hacks-66-march-14/
 ---
+
 This friday, we have a talk by Chia Yuan from DSO National Laboratories. See you there!
 <blockquote><strong>Date/Time</strong>: Friday, March 14th at 6:30pm
 <strong>Venue</strong>: SR2, Education Resource Centre, University Town

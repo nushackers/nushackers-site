@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Friday Hacks #28, Sep 7"
-date: 2012-09-05 23:18
 author: ejames
+categories:
+- Friday Hacks
 comments: true
-categories: [Friday Hacks]
-
+date: 2012-09-05T00:00:00Z
+title: 'Friday Hacks #28, Sep 7'
+url: /2012/09/05/friday-hacks-talks-sep-7-1-the-technology-behind-the-online-advertisement-machine-2-do-computers-really-understand-the-human-language/
 ---
+
 <div>This week we have Thomas Gorissen, web developer and organiser behind JSCamp, and Tan Liling, an NTU graduate student working on word sense disambiguation.</div>
 <div></div>
 <div>We are making one change this week:</div>

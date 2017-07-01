@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Novell sponsors free driver development for Linux"
-date: 2007-10-03 02:30
 author: Ruiwen
+categories:
+- News
 comments: true
-categories: [News]
-
+date: 2007-10-03T00:00:00Z
+title: Novell sponsors free driver development for Linux
+url: /2007/10/03/novell-sponsors-free-driver-development-for-linux/
 ---
+
 <a href="http://blog.wired.com/monkeybites/2007/10/linux-driver-pr.html"><img src="http://inlinethumb63.webshots.com/21630/2157087220101890940S425x425Q85.jpg" title="WIRED - Linux Driver Project " alt="WIRED - Linux Driver Project " align="right" height="260" hspace="3" width="340" /></a>
 
 <a href="http://www.kroah.com/log/">Greg Kroah-Hartman</a>, one of the leading Linux kernel hackers has announced on his blog that his employer, Novell, <a href="http://www.kroah.com/log/linux/linux_driver_project_kickoff.html">has moved him</a> to work full-time on a project he <a href="http://www.kroah.com/log/linux/free_drivers.html">announced</a> back in January this year to help device manufacturers write free Linux drivers for their devices, so long as they provided the device specifications.

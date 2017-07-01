@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "[Podcast] Episode 3: Software Freedom Day 09"
-date: 2009-09-15 11:03
 author: Ruiwen
+categories:
+- Featured
+- Headline
+- Podcast
 comments: true
-categories: [Featured, Headline, Podcast]
-
+date: 2009-09-15T00:00:00Z
+title: '[Podcast] Episode 3: Software Freedom Day 09'
+url: /2009/09/15/podcast-episode-3-software-freedom-day-09/
 ---
+
 <img src="/res/2009/09/sfdLogo-300x176.png" alt="Software Freedom Day" title="SFD" width="300" height="176" class="size-medium wp-image-876" />
 
 It's the time of  year again! It's time to raise your hands in cheer to celebrate Free and Open Source Software! Go shout it from the mountain tops! Go dancing in the street!

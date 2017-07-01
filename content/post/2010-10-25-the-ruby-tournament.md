@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "The Ruby Tournament!"
-date: 2010-10-25 09:41
 author: angad
+categories:
+- Events
+- Featured
+- Headline
+- Photos
 comments: true
-categories: [Events, Featured, Headline, Photos]
-
+date: 2010-10-25T00:00:00Z
+title: The Ruby Tournament!
+url: /2010/10/25/the-ruby-tournament/
 ---
+
 We had a great time at the Ruby Tournament held on the 22nd of October. It was great to have Chris Boesch, Professor at School of Information Systems from SMU. He and his wife, Sandra conducted the tournament with the same vigor and energy, as always. And we loved it.
 
 We had 27 participants in the Programming Lab 1 in SoC, NUS. It was fun to see them all churning out Ruby code to grab onto the prizes (and glory). The SingPath platform created by Chris and Sandra is a great place to practice new languages and syntax. The leaderboard on the screen in front of the participants made the tournament even more interesting.

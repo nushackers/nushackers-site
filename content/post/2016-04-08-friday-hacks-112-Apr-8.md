@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #112, April 8"
-date: 2016-04-03 11:41:31
 author: Varun
+date: 2016-04-08T11:41:31Z
+title: 'Friday Hacks #112, April 8'
+url: /2016/04/08/friday-hacks-112-Apr-8/
 ---
 
 For our second last Friday Hacks of the semester, we're inviting Omer and Jason to tell us more about implementing compilers and programming languages. Join us for this programming languages themed talk.

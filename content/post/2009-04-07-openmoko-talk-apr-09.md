@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Openmoko Talk Apr 09"
-date: 2009-04-07 01:39
 author: Luther Goh Lu Feng
+categories:
+- Events
+- Featured
 comments: true
-categories: [Events, Featured]
-
+date: 2009-04-07T00:00:00Z
+title: Openmoko Talk Apr 09
+url: /2009/04/07/openmoko-talk-apr-09/
 ---
+
 <a href="/res/2009/04/openmoko.jpg"><img src="/res/2009/04/openmoko-212x300.jpg" alt="openmoko" title="openmoko" width="212" height="300" class="aligncenter size-medium wp-image-470" /></a>
 
 <strong>April 8:

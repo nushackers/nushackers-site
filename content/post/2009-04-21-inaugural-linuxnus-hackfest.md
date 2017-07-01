@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "Inaugural linuxNUS HackFest"
-date: 2009-04-21 22:26
 author: Luther Goh Lu Feng
+categories:
+- Events
+- Featured
+- Headline
+- Photos
 comments: true
-categories: [Events, Featured, Headline, Photos]
-
+date: 2009-04-21T00:00:00Z
+title: Inaugural linuxNUS HackFest
+url: /2009/04/21/inaugural-linuxnus-hackfest/
 ---
+
 <div align="center"><p><img src="http://farm4.static.flickr.com/3493/3459142749_d14f547d52.jpg?v=0" alt="Post-it declarations :)" /><br /><em>Post-it declarations</em></p>
 <p><img src="http://farm4.static.flickr.com/3586/3459961604_ef56c6c989.jpg?v=0" alt="Genius at work do not disturb :p" /><br /><em>Genius at work do not disturb</em></p>
 </div>

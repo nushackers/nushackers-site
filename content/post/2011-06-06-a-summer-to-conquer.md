@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "A summer to conquer"
-date: 2011-06-06 04:53
 author: angad
+categories:
+- Featured
+- Headline
 comments: true
-categories: [Featured, Headline]
-
+date: 2011-06-06T00:00:00Z
+title: A summer to conquer
+url: /2011/06/06/a-summer-to-conquer/
 ---
+
 The NUSHackers Coreteam is working hard over the vacations to take over the world with every line of code. Each one of us is involved in some development or the other and we have some interesting stuff to talk about.
 
 Since I am writing the post, I get to talk about myself first. <a href="http://twitter.com/angadsg">I</a> am taking part in the <a href="http://code.google.com/soc/">Google Summer of Code</a> Program and I am working for <a href="http://www.umitproject.org/">Umit Organization</a>. They are involved with network scanning tools and their main product is a user friendly front end to <a href="http://nmap.org">nmap</a>. I am developing a Network Scanner for the Android. It has three components - Host Discovery, Port Scanning and OSFingerPrinting. Most of my code is in Java but I am also writing native code in C++. It has got to do with raw packets, sockets and lots of cool low level networking stuff. You can follow me on <a href="https://github.com/angad">Github</a> or have a look at the official <a href="http://dev.umitproject.org/projects/mns/wiki">Project</a> page.

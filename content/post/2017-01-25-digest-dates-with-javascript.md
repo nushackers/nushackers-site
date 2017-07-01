@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Digest: Dates with JavaScript"
-date: 2017-01-25 08:42
 author: Ng Zhi An
-categories: [Digest]
+categories:
+- Digest
+date: 2017-01-25T00:00:00Z
+title: 'Digest: Dates with JavaScript'
+url: /2017/01/25/digest-dates-with-javascript/
 ---
 
 This post is about the various ways you can create a `Date` in JavaScript,

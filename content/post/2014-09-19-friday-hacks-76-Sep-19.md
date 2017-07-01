@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #76, September 19"
-date: 2014-09-16 16:56:01.004599
 author: Joey
+date: 2014-09-19T16:56:01Z
+title: 'Friday Hacks #76, September 19'
+url: /2014/09/19/friday-hacks-76-Sep-19/
 ---
 
 ... let's play a game. Solve programming challenges this week at Friday Hacks, with a twist – shortest solutions win! JavaScript, Python and others accepted for Code Golf.

@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Friday Hacks #5"
-date: 2011-10-05 15:16
 author: ejames
+categories:
+- Events
+- Friday Hacks
 comments: true
-categories: [Events, Friday Hacks]
-
+date: 2011-10-05T00:00:00Z
+title: 'Friday Hacks #5'
+url: /2011/10/05/friday-hacks-5/
 ---
+
 This week's Friday Hacks would be held at Seminar Room 3, at UTown Education Resource Centre. We don't have a speaker booked, so if you'd like to give an informal talk please leave us a note at the <a href="http://groups.google.com/group/nushackers?hl=en_US">mailing list</a>.
 
 <strong>Full Details:</strong>

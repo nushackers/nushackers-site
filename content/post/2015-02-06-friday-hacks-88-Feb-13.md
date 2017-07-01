@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #88, February 13"
-date: 2015-02-06 19:37:25
 author: Jingwen
+date: 2015-02-06T19:37:25Z
+title: 'Friday Hacks #88, February 13'
+url: /2015/02/06/friday-hacks-88-Feb-13/
 ---
 
 Ever wanted to get involved in the tech/developer community but don't know where to

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Intro to Nokia Qt C++ Framework"
-date: 2010-06-16 22:08
 author: Viet Le
+categories:
+- Uncategorized
 comments: true
-categories: [Uncategorized]
-
+date: 2010-06-16T00:00:00Z
+title: Intro to Nokia Qt C++ Framework
+url: /2010/06/16/intro-to-nokia-qt-c-framework/
 ---
+
 ![Qt Logo](/res/2010/06/qt_image_thumb.png "Qt Logo")
 
 Developing a portable application has never been an easy task, be it a browser-based service or a fanciful desktop application. With emergence of many frameworks for developing cross-platform applications, choosing the right one has become a challenge. One can name a bunch of frameworks for desktop development, such as GTK+, Gtkmm, FLTK, VCF C++, etc. Adobe fans would pronounce Adobe Air as the best choice. Well, so what do I have in my hat? Voilà! I'd like to present Nokia Qt C++ framework - one of the leading frameworks for desktop &amp; mobile development.

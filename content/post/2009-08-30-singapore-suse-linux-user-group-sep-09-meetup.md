@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Singapore Suse Linux User Group Sep 09 Meetup"
-date: 2009-08-30 19:52
 author: Luther Goh Lu Feng
+categories:
+- Events
+- External
 comments: true
-categories: [Events, External]
-
+date: 2009-08-30T00:00:00Z
+title: Singapore Suse Linux User Group Sep 09 Meetup
+url: /2009/08/30/singapore-suse-linux-user-group-sep-09-meetup/
 ---
+
 Location:
 <del datetime="2009-09-02T05:40:59+00:00">New Horizons
 Tiong Bahru plaza

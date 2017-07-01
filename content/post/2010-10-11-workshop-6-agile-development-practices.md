@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "Workshop #6 Agile Development Practices"
-date: 2010-10-11 13:16
 author: angad
+categories:
+- Events
+- Featured
+- Headline
+- News
 comments: true
-categories: [Events, Featured, Headline, News]
-
+date: 2010-10-11T00:00:00Z
+title: 'Workshop #6 Agile Development Practices'
+url: /2010/10/11/workshop-6-agile-development-practices/
 ---
+
 <div id=":13k">
 <div><span style="font-family: arial, sans-serif; border-collapse: collapse;"><br/>
 The next session in the Hack Workshop series is by <strong>JB Steadman from Pivotal Labs</strong>. He is coming down to speak on <a style="color: #2a5db0; font-size: 13px;" href="http://en.wikipedia.org/wiki/Agile_software_development" target="_blank"><strong>Agile Development Practices</strong></a>. It is a <strong>Non-technical </strong>workshop and would be of great significance for project teams.<br/><br/>

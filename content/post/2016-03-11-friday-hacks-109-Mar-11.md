@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #109, March 11"
-date: 2016-03-07 00:37:23
 author: Varun
+date: 2016-03-11T00:37:23Z
+title: 'Friday Hacks #109, March 11'
+url: /2016/03/11/friday-hacks-109-Mar-11/
 ---
 
 For our fifth Friday Hacks of the semester, we're having Jia Hao, an undergrad from SUTD to talk about his popular [nativefier](http://github.com/jiahaog/nativefier) project.

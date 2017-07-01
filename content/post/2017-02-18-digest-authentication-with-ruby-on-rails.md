@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Digest: Authentication with Ruby on Rails"
-date: 2017-02-18 13:53
 author: Herbert Ilhan Tanujaya
-categories: [Digest]
+categories:
+- Digest
+date: 2017-02-18T00:00:00Z
+title: 'Digest: Authentication with Ruby on Rails'
+url: /2017/02/18/digest-authentication-with-ruby-on-rails/
 ---
 
 ## Introduction

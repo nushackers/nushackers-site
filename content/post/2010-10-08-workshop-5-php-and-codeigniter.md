@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Workshop #5 PHP and CodeIgniter"
-date: 2010-10-08 01:51
 author: angad
+categories:
+- Blogroll
+- Events
+- Featured
 comments: true
-categories: [Blogroll, Events, Featured]
-
+date: 2010-10-08T00:00:00Z
+title: 'Workshop #5 PHP and CodeIgniter'
+url: /2010/10/08/workshop-5-php-and-codeigniter/
 ---
+
 Next Workshop - PHP and CodeIgniter
 
 Location : COM1/202

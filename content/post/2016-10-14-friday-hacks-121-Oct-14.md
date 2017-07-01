@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #121, October 14"
-date: 2016-10-08 21:49:38.296491
 author: Advay Pal
+date: 2016-10-14T21:49:38Z
+title: 'Friday Hacks #121, October 14'
+url: /2016/10/14/friday-hacks-121-Oct-14/
 ---
 
 This week have Chuk from from NUS ISS and Yos from Paypal talking about JavaScript Promises, and GraphQL respectively. See you there!

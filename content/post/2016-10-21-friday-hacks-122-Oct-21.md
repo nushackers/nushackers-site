@@ -1,8 +1,8 @@
 ---
-layout: friday_hack
-title: "Friday Hacks #122, October 21"
-date: 2016-10-17 00:34:50.640832
 author: Advay Pal
+date: 2016-10-21T00:34:50Z
+title: 'Friday Hacks #122, October 21'
+url: /2016/10/21/friday-hacks-122-Oct-21/
 ---
 
 This week is about some of the things our very own NUS students have been working on. We also have members from the NUSMods team talking about the latest things they've been doing to improve the timetable builder. See you there!

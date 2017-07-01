@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Pizza Party on 26 Oct 2006"
-date: 2006-10-31 00:06
 author: rey
+categories:
+- Chatter
+- Photos
 comments: true
-categories: [Chatter, Photos]
-
+date: 2006-10-31T00:00:00Z
+title: Pizza Party on 26 Oct 2006
+url: /2006/10/31/pizza-party-on-26-oct-2006/
 ---
+
 <table width="100%" cellspacing="4" cellpadding="4" border="1" style="text-align: left">
 <tr>
 <td style="vertical-align: top"><a class="imagelink" title="photo-0021.jpg" href="/res/2006/10/photo-0021.jpg"> </a>

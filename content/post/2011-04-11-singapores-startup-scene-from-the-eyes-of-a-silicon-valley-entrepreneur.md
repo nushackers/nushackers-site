@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Singapore's Startup scene - words of a Silicon Valley Entrepreneur"
-date: 2011-04-11 23:25
 author: angad
+categories:
+- Guest blogger
 comments: true
-categories: [Guest blogger]
-
+date: 2011-04-11T00:00:00Z
+title: Singapore's Startup scene - words of a Silicon Valley Entrepreneur
+url: /2011/04/11/singapores-startup-scene-from-the-eyes-of-a-silicon-valley-entrepreneur/
 ---
+
 <p>I was recently linked to Vincent Lauria aka. Vinnie who was in Singapore a few weeks back. A short bio -</p>
 <p><em>Vinnie Lauria graduated with a B.S. in Computer Engineering, joined IBM in New York for a few years and then quit his job to move out to Silicon Valley.  He joined onto the Meetro team - living and working out of the same house, building a location-aware IM client.  The core Meetro team then set out to launch a new company, Lefora to make running a forum and online community easier.  Lefora was acquired in 2010 and Vinnie and his wife Kristine decided to take some time away from the Valley and explore the world by backpacking across Asia. Vinnie has been drawn into the emerging tech scene of Singapore and has joined The Founder Institute as a mentor for the SG spring semester in addition to helping to organize the fun hackathon party <a href="http://superhappydevhouse.sg/" target="_blank">SuperHappyDevHouse.SG</a> happening this May.</em></p>
 

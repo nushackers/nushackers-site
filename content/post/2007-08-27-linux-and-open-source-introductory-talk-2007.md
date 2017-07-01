@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Linux and Open Source Introductory Talk 2007"
-date: 2007-08-27 02:40
 author: Luther Goh Lu Feng
+categories:
+- Events
+- News
 comments: true
-categories: [Events, News]
-
+date: 2007-08-27T00:00:00Z
+title: Linux and Open Source Introductory Talk 2007
+url: /2007/08/27/linux-and-open-source-introductory-talk-2007/
 ---
+
 linuxNUS presents, the Linux and Open Source Introductory Talk.
 <p style="text-align: justify">Have you always wanted to know more about Open Source and Linux? Learn about the philosophies of the Open Source world. What makes Open Source software better?</p>
 <p style="text-align: justify">Can you do the same things you do on Windows and Mac in Linux? Can you do them better? What about compatibility? Will you still be able to share files with your Windows and Mac using friends? What about assignments?</p>
