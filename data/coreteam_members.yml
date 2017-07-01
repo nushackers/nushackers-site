@@ -1,82 +1,85 @@
-- name: Advay
-  description: |
-    a Computer Science undergraduate. You can find out more about him <a href="http://advaypal.com/">here</a>
+=======
+---
+members:
+  - name: Advay
+    description: |
+      a Computer Science undergraduate. You can find out more about him <a href="http://advaypal.com/">here</a>
 
-- name: Varun
-  description: |
-    a CS undergrad interested in Programming Languages and Algorithms.
-    He frequents hackathons and keeps busy with his startup.
-    He's a varsity Ultimate Frisbee player and cycles around Singapore on weekends.
-    He's reachable at <a href="mailto:varun@nushackers.org">varun@nushackers.org</a>
+  - name: Varun
+    description: |
+      a CS undergrad interested in Programming Languages and Algorithms.
+      He frequents hackathons and keeps busy with his startup.
+      He's a varsity Ultimate Frisbee player and cycles around Singapore on weekends.
+      He's reachable at <a href="mailto:varun@nushackers.org">varun@nushackers.org</a>
 
-- name: Johannes Choo
-  description: |
-    a Computer Science undergraduate. His secondary interests include classical
-    languages and philosophy. You can find his code at
-    <a href="http://github.com/jhanschoo">github.com/jhanschoo</a> and his blog at
-    <a href="http://jhanschoo.github.io">jhanschoo.github.io</a>.
+  - name: Johannes Choo
+    description: |
+      a Computer Science undergraduate. His secondary interests include classical
+      languages and philosophy. You can find his code at
+      <a href="http://github.com/jhanschoo">github.com/jhanschoo</a> and his blog at
+      <a href="http://jhanschoo.github.io">jhanschoo.github.io</a>.
 
-- name: Harish V
-  description: |
-    a Computer Engineering undergraduate and tech enthusiast. Loves to explore the realms of software engineering and music.
-    <em>More information about him here: </em> <a href="http://harishv7.github.io">harishv7.github.io</a>.
+  - name: Harish V
+    description: |
+      a Computer Engineering undergraduate and tech enthusiast. Loves to explore the realms of software engineering and music.
+      <em>More information about him here: </em> <a href="http://harishv7.github.io">harishv7.github.io</a>.
 
-- name: Jiayee
-  description: |
-    a Computer Science undergraduate trying to build a webpage
-    (then website) which she can call her own.
-    <em>Current attempts here: </em><a href="http://GlacieReiN.blogspot.sg/">GlacieReiN</a><em>.</em>
+  - name: Jiayee
+    description: |
+      a Computer Science undergraduate trying to build a webpage
+      (then website) which she can call her own.
+      <em>Current attempts here: </em><a href="http://GlacieReiN.blogspot.sg/">GlacieReiN</a><em>.</em>
 
-- name: David
-  description: |
-    a Computer Science undergraduate who loves learning and learning how to
-    learn. You can reach him at <a href="mailto:david@nushackers.org">david@nushackers.org</a>.
+  - name: David
+    description: |
+      a Computer Science undergraduate who loves learning and learning how to
+      learn. You can reach him at <a href="mailto:david@nushackers.org">david@nushackers.org</a>.
 
-- name: Ramu
-  description: |
-    an EE undergrad who likes to exercise his imagination and toy with
-    unconventional ideas. He's into puzzling, tinkering, making and programming.
-    Engage Ramu at <a href="mailto:ramu@nushackers.org">ramu@nushackers.org</a>.
+  - name: Ramu
+    description: |
+      an EE undergrad who likes to exercise his imagination and toy with
+      unconventional ideas. He's into puzzling, tinkering, making and programming.
+      Engage Ramu at <a href="mailto:ramu@nushackers.org">ramu@nushackers.org</a>.
 
-- name: Deshun
-  description: |
-    a Computer Science undergraduate. He likes chocolate.
+  - name: Deshun
+    description: |
+      a Computer Science undergraduate. He likes chocolate.
 
-- name: Herbert
-  description: |
-    a Computer Science student who takes more pure math modules than CS.
-    His first real programming experience was in CS1101S. Since then, he
-    has tried many things which can be found at
-    <a href="http://github.com/donjar">github.com/donjar</a>.
+  - name: Herbert
+    description: |
+      a Computer Science student who takes more pure math modules than CS.
+      His first real programming experience was in CS1101S. Since then, he
+      has tried many things which can be found at
+      <a href="http://github.com/donjar">github.com/donjar</a>.
 
-- name: Jethro
-  description: |
-    a Computer Science undergraduate, who hacks all things hackable.
-    He organizes an <a href="https://www.meetup.com/Emacs-SG/">Emacs meetup</a>
-    and would love to see you there! You can stalk him <a href="http://www.jethrokuan.com/">here</a>.
+  - name: Jethro
+    description: |
+      a Computer Science undergraduate, who hacks all things hackable.
+      He organizes an <a href="https://www.meetup.com/Emacs-SG/">Emacs meetup</a>
+      and would love to see you there! You can stalk him <a href="http://www.jethrokuan.com/">here</a>.
 
-- name: Li Kai
-  description: |
-    a Computer Science undergraduate that builds websites, then builds some more.
-    <a href="http://github.com/li-kai">github.com/li-kai</a>.
+  - name: Li Kai
+    description: |
+      a Computer Science undergraduate that builds websites, then builds some more.
+      <a href="http://github.com/li-kai">github.com/li-kai</a>.
 
-- name: Suyash
-  description: |
-     a Computer Science undergraduate student who loves everything tech, from new home automation hacks to new apps.
-     He might be new to the world of making things but has been breaking things his whole life.
-     Feel free to contact him at <a href="mailto:suyash@nushackers.org">suyash@nushackers.org</a>.
+  - name: Suyash
+    description: |
+      a Computer Science undergraduate student who loves everything tech, from new home automation hacks to new apps.
+      He might be new to the world of making things but has been breaking things his whole life.
+      Feel free to contact him at <a href="mailto:suyash@nushackers.org">suyash@nushackers.org</a>.
 
-- name: Rachael
-  description: |
-     a Business Analytics undergraduate (and a CS student at heart) that loves exploring many fields, such as psychology, AI and film studies.
-     She hope to create and recreate more as she experiments with new things. First attempt in creating a <a href="https://rachaeltay.github.io/">website</a>.
-     Get in touch with her at <a href="mailto:rachaeltay@nushackers.org">rachaeltay@nushackers.org</a> to hear interesting stories or just for a chat.
+  - name: Rachael
+    description: |
+      a Business Analytics undergraduate (and a CS student at heart) that loves exploring many fields, such as psychology, AI and film studies.
+      She hope to create and recreate more as she experiments with new things. First attempt in creating a <a href="https://rachaeltay.github.io/">website</a>.
+      Get in touch with her at <a href="mailto:rachaeltay@nushackers.org">rachaeltay@nushackers.org</a> to hear interesting stories or just for a chat.
 
-- name: Raynold
-  description: |
-     Raynold is a Computer Science student interested in Algorithms, Math and dodgeball. You can find his code at <a href="http://github.com/raynoldng">github.com/raynoldng</a>.
-     You can engage him at <a href="mailto:raynold@nushackers.org">raynold@nushackers.org</a>g
+  - name: Raynold
+    description: |
+      Raynold is a Computer Science student interested in Algorithms, Math and dodgeball. You can find his code at <a href="http://github.com/raynoldng">github.com/raynoldng</a>.
+      You can engage him at <a href="mailto:raynold@nushackers.org">raynold@nushackers.org</a>g
 
-- name: Francis
-  description: |
-     a sushi-loving, rock-climbing, tembusu-staying, mural-painting, vampires-studying, Computer Engineering student, hoping to extend this list as the years go by.
+  - name: Francis
+    description: |
+      a sushi-loving, rock-climbing, tembusu-staying, mural-painting, vampires-studying, Computer Engineering student, hoping to extend this list as the years go by.

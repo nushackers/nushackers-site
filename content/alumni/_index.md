@@ -5,8 +5,4 @@ date: "2014-06-23"
 ---
 Here is a list of former coreteam members. We are thankful to them for their service.
 
-{% for person in site.data.alumni %}
-<p>
-    <strong>{{ person.name }}</strong> was {{ person.description }}
-</p>
-{% endfor %}
+{{< alumni >}}
