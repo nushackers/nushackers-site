@@ -1,102 +1,104 @@
-- name: Eli James/Cedric
-  description: |
-    a Computer Science undergraduate, and is responsible for <a
-    href="http://novelr.com">Novelr</a> and Pandamian. He loves ebook formats,
-    Python, and cats. (Well, and tea. Lots of tea.) <em>More about him at</em> <a
-    href="http://elijames.org">elijames.org</a>.
+---
+members:
+  - name: Eli James/Cedric
+    description: |
+      a Computer Science undergraduate, and is responsible for <a
+      href="http://novelr.com">Novelr</a> and Pandamian. He loves ebook formats,
+      Python, and cats. (Well, and tea. Lots of tea.) <em>More about him at</em> <a
+      href="http://elijames.org">elijames.org</a>.
 
-- name: Tay Ray Chuan
-  description: |
-    a software enthusiast and student, with interests as disparate as history
-    and philosophy. In between ploughing through his tutorials, he hacks
-    randomly, mainly in Python and JavaScript. In addition to <a
-    href="http://github.com/rctay">working on open-source</a>, he hopes to give
-    back to the community through his involvement in NUS Hackers.
+  - name: Tay Ray Chuan
+    description: |
+      a software enthusiast and student, with interests as disparate as history
+      and philosophy. In between ploughing through his tutorials, he hacks
+      randomly, mainly in Python and JavaScript. In addition to <a
+      href="http://github.com/rctay">working on open-source</a>, he hopes to give
+      back to the community through his involvement in NUS Hackers.
 
-- name:  Omer Iqbal 
-  description: |
-    a Computer Engineering undergraduate who loves drinking language Koolaid.
-    These days his passions include clojure hacking, Westerosi politics and
-    cheap coffee.
+  - name:  Omer Iqbal
+    description: |
+      a Computer Engineering undergraduate who loves drinking language Koolaid.
+      These days his passions include clojure hacking, Westerosi politics and
+      cheap coffee.
 
-- name: Divyanshu Arora
-  description: |
-    a Computer Science undergraduate at NUS. His time is mostly split among web
-    development, linux sys administration, and random hacks. Oh, and reading
-    <em>interesting</em> books. <em>More about him at</em> <a title="Or, a
-    -really-long-domain-name.com" href="http://www.darora.com">darora.com</a>.
+  - name: Divyanshu Arora
+    description: |
+      a Computer Science undergraduate at NUS. His time is mostly split among web
+      development, linux sys administration, and random hacks. Oh, and reading
+      <em>interesting</em> books. <em>More about him at</em> <a title="Or, a
+      -really-long-domain-name.com" href="http://www.darora.com">darora.com</a>.
 
-- name: Angad Singh
-  description: |
-    a Computer Engineering undergraduate. He joined linuxNUS in his first month
-    in NUS and has been with it ever since. He codes to scratch itches, here and
-    there. He also specializes in Embedded Systems with a varied interest in
-    micro-controllers. He started the HackDay Series with the help of his team
-    in NUS. <em>More about him at</em> <a href="http://angad.sg">angad.sg</a>.
+  - name: Angad Singh
+    description: |
+      a Computer Engineering undergraduate. He joined linuxNUS in his first month
+      in NUS and has been with it ever since. He codes to scratch itches, here and
+      there. He also specializes in Embedded Systems with a varied interest in
+      micro-controllers. He started the HackDay Series with the help of his team
+      in NUS. <em>More about him at</em> <a href="http://angad.sg">angad.sg</a>.
 
-- name: Shan
-  description: |
-    a Computer Science undergraduate. He can almost always be spotted engulfed
-    in either his Android or his laptop. He is an advocate of open source
-    software, and swears by Linux. If not currently engaged by a gadget that is
-    powered up, he would either be tearing it apart to figure out how it works,
-    or to hack it to make it faster, better and more useful! Zealous about
-    stargazing and classical music. Just to name a couple of facets that make up
-    Shan!
+  - name: Shan
+    description: |
+      a Computer Science undergraduate. He can almost always be spotted engulfed
+      in either his Android or his laptop. He is an advocate of open source
+      software, and swears by Linux. If not currently engaged by a gadget that is
+      powered up, he would either be tearing it apart to figure out how it works,
+      or to hack it to make it faster, better and more useful! Zealous about
+      stargazing and classical music. Just to name a couple of facets that make up
+      Shan!
 
-- name: Rahul Gokul
-  description: |
-    , and is, a hardware hacker.
+  - name: Rahul Gokul
+    description: |
+      , and is, a hardware hacker.
 
-- name: Heng Low Wee
-  description: |
-    a Computer Science undergraduate. He supports the idea of open source
-    software, and is interested in learning more about anything <em>cool</em>.
-    He is now into developing his first Android app. <em>More about him at</em>
-    <a href="http://about.me/lwheng">about.me/lwheng</a>
+  - name: Heng Low Wee
+    description: |
+      a Computer Science undergraduate. He supports the idea of open source
+      software, and is interested in learning more about anything <em>cool</em>.
+      He is now into developing his first Android app. <em>More about him at</em>
+      <a href="http://about.me/lwheng">about.me/lwheng</a>
 
-- name: Shawn Tan
-  description: |
-    a Computer Science undergraduate and plans to pursue a career in research.
-    He interests lie in machine learning and AI in general.
+  - name: Shawn Tan
+    description: |
+      a Computer Science undergraduate and plans to pursue a career in research.
+      He interests lie in machine learning and AI in general.
 
-- name: Laurence Putra Franslay
-  description: |
-    a Computer Science undergraduate, and focuses mainly in the area of
-    distributed systems and computer security. He is quite active in the
-    Singaporean geek scene, and is one of the organisers of <a
-    href="http://geekcamp.sg">Geekcamp</a>. <em>More about him at</em> <a
-    href="http://www.geeksphere.net">geeksphere.net</a>.
+  - name: Laurence Putra Franslay
+    description: |
+      a Computer Science undergraduate, and focuses mainly in the area of
+      distributed systems and computer security. He is quite active in the
+      Singaporean geek scene, and is one of the organisers of <a
+      href="http://geekcamp.sg">Geekcamp</a>. <em>More about him at</em> <a
+      href="http://www.geeksphere.net">geeksphere.net</a>.
 
-- name: Michael
-  description: |
-    a Computer Science undergraduate. <em>More about him at</em> <a
-    href="http://ymichael.com">ymichael.com</a>.
+  - name: Michael
+    description: |
+      a Computer Science undergraduate. <em>More about him at</em> <a
+      href="http://ymichael.com">ymichael.com</a>.
 
-- name: Jerome
-  description: |
-    a Computer Science undergraduate. <em>More about him at</em> <a
-    href="http://www.ayulin.net" target="_blank">ayulin.net</a>.
+  - name: Jerome
+    description: |
+      a Computer Science undergraduate. <em>More about him at</em> <a
+      href="http://www.ayulin.net" target="_blank">ayulin.net</a>.
 
-- name: Camillus
-  description: |
-    a Computer Science undergraduate interested in information security.
-    <em>More about him at</em> <a href="http://www.qxcg.net/">qxcg.net</a>.
+  - name: Camillus
+    description: |
+      a Computer Science undergraduate interested in information security.
+      <em>More about him at</em> <a href="http://www.qxcg.net/">qxcg.net</a>.
 
-- name: Benedict
-  description: |
-    a Computer Science undergraduate with interests in Software Engineering. You
-    can reach him at benedict@nushackers.org
+  - name: Benedict
+    description: |
+      a Computer Science undergraduate with interests in Software Engineering. You
+      can reach him at benedict@nushackers.org
 
-- name: Pallav
-  description: |
-    a Computer Science undergraduate and AI/algorithms enthusiast. <em>More
-    about him at</em> <a title="Pallav's homepage"
-    href="https://pshinghal.com">pshinghal.com</a>.
+  - name: Pallav
+    description: |
+      a Computer Science undergraduate and AI/algorithms enthusiast. <em>More
+      about him at</em> <a title="Pallav's homepage"
+      href="https://pshinghal.com">pshinghal.com</a>.
 
-- name: Yujian
-  description: |
-    a Computer Science undergraduate who likes reading, mathematics, computer
-    science, technology and Spongebob. He also likes to try out new stuff when
-    he's free. <em>More about him at</em> <a
-    href="http://yjyao.com">yjyao.com</a>.
+  - name: Yujian
+    description: |
+      a Computer Science undergraduate who likes reading, mathematics, computer
+      science, technology and Spongebob. He also likes to try out new stuff when
+      he's free. <em>More about him at</em> <a
+      href="http://yjyao.com">yjyao.com</a>.
