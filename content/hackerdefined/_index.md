@@ -1,14 +1,9 @@
 ---
-layout: page
 title: What is a Hacker?
+description: What is a Hacker?
 permalink: /hackerdefined/
-notes: |
-  <h3>Related</h3>
-
-  <ul><li><a href="/about">About Us</a></li>
-  <li><a href="/why">Why We Do What We Do</a></li><li><a href="/the-hacker-attitude/">The Hacker Attitude</a></li>
-  <li><a href="/name-change/">On The Name Change</a></li></ul>
 ---
+
 <em>We have found that the best definition of hacker is this bit from Eric S. Raymond's essay</em> <a href="http://www.catb.org/~esr/faqs/hacker-howto.html#what_is">How To Become A Hacker</a>:
 
 There is a community, a shared culture, of expert programmers and networking wizards that traces its history back through decades to the first time-sharing minicomputers and the earliest ARPAnet experiments. The members of this culture originated the term ‘hacker’. Hackers built the Internet. Hackers made the Unix operating system what it is today. Hackers run Usenet. Hackers make the World Wide Web work. If you are part of this culture, if you have contributed to it and other people in it know who you are and call you a hacker, you're a hacker.

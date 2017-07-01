@@ -1,7 +1,8 @@
 ---
-layout: page
+
 title: On The Name Change
 permalink: /name-change/
+date: "2014-06-23"
 notes: |
   <h3>Related</h3>
 

@@ -1,10 +1,7 @@
 ---
-layout: page
 title: Sponsoring NUS Hackers
-permalink: /sponsor/
-notes: |
-  <h3>Hello World!</h3>
-  <p>Do remember that the quickest way to contact us is via <a href="/contact">email</a>!</p>
+description: Sponsoring NUS Hackers
+date: "2014-06-23"
 ---
 <big>Thank you for your interest in sponsoring NUS Hackers. We're building a community of passionate programmers in NUS, and sponsoring these events is a good way to get your name known if you're interested in recruiting from the university.</big>
 

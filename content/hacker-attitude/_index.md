@@ -1,13 +1,7 @@
 ---
-layout: page
 title: The Hacker Attitude
-permalink: /the-hacker-attitude/
-notes: |
-  <h3>Related</h3>
-
-  <ul><li><a href="/about">About Us</a></li>
-  <li><a href="/why">Why We Do What We Do</a></li><li><a href="/the-hacker-attitude/">The Hacker Attitude</a></li>
-  <li><a href="/name-change/">On The Name Change</a></li></ul>
+description: The Hacker Attitude
+date: "2014-06-23"
 ---
 <em>Five things. Again taken from Eric S. Raymond's</em> <a href="http://www.catb.org/~esr/faqs/hacker-howto.html#believe1">How To Become a Hacker</a>:
 

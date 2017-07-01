@@ -1,10 +1,7 @@
 ---
 title: Contact
-layout: page
-permalink: /contact/
-notes: |
-  <h3>Writing a recruitment email?</h3>
-  We have a guide for you: <a href="/tips-on-nus-engineers/">Tips on Recruiting NUS Hackers</a>
+description: Contacting us
+date: "2014-06-11"
 ---
 
 If you want to get in touch with us, feel free to send us a message via our email `coreteam [at] nushackers [fullstop] org`
