@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Tips on Recruiting NUS Hackers
-permalink: /tips-on-nus-engineers/
+description: Tips on Recruiting NUS Hackers
+date: "2014-06-23"
 ---
+
 The NUS Hackers mailing list is moderated pretty aggressively by coreteam, to ensure that the amount of unsolicited offers sent to our members are kept to a minimum. We receive a large amount of recruiting offers, far higher than an average mailing list. Naturally, this leads to a situation in which we can be reasonably picky about the ads we forward to the our members.
 
 Here are some tips to ensure your recruiting ad passes a minimum standard of quality. The better your recruitment email, the more likely you'll get the right kind of responses from our members.

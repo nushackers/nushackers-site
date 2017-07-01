@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About Friday Hacks
-permalink: /fridayhacks/
+description: About Friday Hacks
+date: "2014-06-23"
 notes: |
    <h2>Speak at a future Friday Hacks</h2>
 

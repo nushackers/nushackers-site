@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Join Coreteam
-permalink: /join_coreteam/
+description: Join Coreteam
+date: "2014-06-23"
 ---
 
 NUS Hackers is run by a group of student volunteers - the coreteam. Our long term goal is to build a healthy community of passionate hackers in NUS. We think that this benefits everyone: start-ups, tech companies, and professors have a central pool from which to find good programmers, and students have an easy way to meet/learn from like-minded peers.

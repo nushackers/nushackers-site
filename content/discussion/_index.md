@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Discussion
-permalink: /discussion/
+description: Discussion
+date: "2014-06-23"
 ---
+
 We host a community of like-minded, interested hackers in NUS. Join <a href="https://groups.google.com/forum/?fromgroups#!forum/nushackers">our mailing list</a> - most of our organization-wide announcements and discussions are made through it. We also have a presence on Facebook with our <a href='https://www.facebook.com/NUSHackers'>Facebook page</a> and our <a href='https://www.facebook.com/groups/465345730232669/'>Facebook group</a>. You can follow also follow <a href="https://twitter.com/nushackers">@nushackers</a> on Twitter
 
 Note - we do have a recruiter/ad policy:

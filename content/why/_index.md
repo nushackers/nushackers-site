@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Why We Do What We Do
-permalink: /why/
+description: Why We Do What We Do
+date: "2014-06-23"
 ---
+
 We spend a lot of our time working on NUS Hackers. Sometimes so much that we have to fight to balance it with our schoolwork. And we do this for no co-curricular points, whatsoever.
 
 Here's an interesting question to ask: <em>why</em> do we do what we do?
