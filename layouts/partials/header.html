@@ -4,9 +4,9 @@
   </div>
   <nav class="nav col-12 col-sm-8 col-lg-6 offset-lg-2">
     <ul class="nav-menu">
-      {{ $currentPage := . }}
+      {{ $currentURL := .URL }}
       {{ range .Site.Menus.main }}
-      <li class="nav-menu-item"><a class="nav-menu-link{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} nav-menu-active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
+      <li class="nav-menu-item{{ if in $currentURL .URL}} nav-menu-active{{ end }}"><a class="nav-menu-link" href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
     </ul>
   </nav>

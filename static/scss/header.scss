@@ -45,10 +45,10 @@
     text-decoration: none;
     color: black;
   }
-  .nav-menu-item:hover {
+  .nav-menu-active, .nav-menu-item:hover {
     background: $highlight-orange;
   }
-  .nav-menu-item:hover .nav-menu-link {
+  .nav-menu-active .nav-menu-link, .nav-menu-item:hover .nav-menu-link {
     text-decoration: none;
     color: white;
   }
