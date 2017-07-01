@@ -1,0 +1,10 @@
+{{ range $index, $person := $.Site.Data.coreteam_members.members }}
+    <p>
+    <strong>
+        {{ $person.name }}
+        {{ if eq $index 0 }}
+            [President]
+        {{ end }}
+    </strong> is {{ $person.description | markdownify }}
+    </p>
+{{ end }}

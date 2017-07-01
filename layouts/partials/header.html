@@ -1,0 +1,13 @@
+<header class="row header">
+  <div class="banner col-12 col-sm-4" role="banner">
+    <h1 class="banner-text"><a href="/" title="NUS Hackers" rel="home" class="banner-link">NUS Hackers</a></h1>
+  </div>
+  <nav class="nav col-12 col-sm-8 col-lg-6 offset-lg-2">
+    <ul class="nav-menu">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      <li class="nav-menu-item"><a class="nav-menu-link{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} nav-menu-active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+</header>

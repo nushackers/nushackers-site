@@ -1,0 +1,8 @@
+<!doctype html>
+<head>
+{{ partial "meta.html" . }}
+<title>
+{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+</title>
+<link preload rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Quattrocento'>
+<link rel="stylesheet" href="/css/main.css">
