@@ -21,7 +21,7 @@ hacks:
         title: "Stored Value Payment Card Security + How Banks Perform Mystery Shopping on Merchants"
   - nohack: "Polling Day (Public Holiday)"
   - venue: SR3, Town Plaza, University Town
-    topics: 
+    topics:
       - speaker: Ryan Dao
         from: PayPal
         title: Scalability principles to bring your web application to the next level
@@ -34,15 +34,15 @@ hacks:
       - speaker: Yeo Kheng Meng
         title: "NUS SoC Print on Android/iOS & Introduction to Bluetooth Low Energy (BLE)"
         from: NUS
-  - venue: SR3, Town Plaza, University Town 
+  - venue: SR3, Town Plaza, University Town
     topics:
       - speaker: Omer Iqbal
         from: Garena
         title: "Monadic Parsers"
       - speaker: Richard Goulter
-        from: NUS 
+        from: NUS
         title: "Writing Programming Language Applications: C Worksheet Instrumentor"
-  - venue: SR3, Town Plaza, University Town 
+  - venue: SR3, Town Plaza, University Town
     topics:
       - speaker: Sayanee
         from: WeBuild.sg
@@ -50,20 +50,20 @@ hacks:
       - speaker: Various Speakers
         from: The Tech Community
         title: "Lightning Talks"
-  - venue: SR3, Town Plaza, University Town 
+  - venue: SR3, Town Plaza, University Town
     topics:
       - speaker: He Wei
         from: Hopetechnik
         title: "Engineering solutions with Hopetechnik"
       - speaker: Dr. Swapan
-        from: Security 
+        from: Security
         title: "Phishing attacks and countermeasures"
-  - venue: SR3, Town Plaza, University Town 
+  - venue: SR3, Town Plaza, University Town
     topics:
       - speaker: Vishnu, Jingwen, Yujian
         from: NUS Hackers
         title: "Project Intern"
-  - venue: SR3, Town Plaza, University Town 
+  - venue: SR3, Town Plaza, University Town
     topics:
       - speaker: Shaun Martin
         from: Applied Cognitive Science

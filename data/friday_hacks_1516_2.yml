@@ -8,7 +8,7 @@ hacks:
   - venue: VCRm, School of Computing
     topics:
       - speaker: Lim Chee Aun,
-        from: Tech in Asia 
+        from: Tech in Asia
         title: "Building side projects: the timeline, triggers and stages that every builder has to experience."
   - nohack: Chinese New Year
   - venue: VCRm, School of Computing
@@ -57,7 +57,6 @@ hacks:
       - speaker: Melvin Zhang
         title: "Building a Turing Machine emulator to explore Turing's great ideas."
         from: Cosmiqo
-      - speaker: Juan Miguel Jimeno 
+      - speaker: Juan Miguel Jimeno
         title: TBC
         from:
-
