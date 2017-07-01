@@ -1,0 +1,55 @@
+.header {
+  align-items: center;
+  margin-bottom: 1rem;
+  border-bottom: 1px dotted #333;
+}
+
+.banner {
+  .banner-text {
+    margin: 0;
+    background-image: url('/img/nushackersl.gif');
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    @include media-breakpoint-up(sm) {
+      height: 6rem;
+    }
+  }
+  .banner-link {
+    display: block;
+    opacity: 0;
+    height: 100%;
+  }
+}
+
+.nav {
+  .nav-menu {
+    display: flex;
+    justify-content: space-around;
+    font-size: 0.85em;
+    @extend .clear-list;
+    @include media-breakpoint-up(sm) {
+      font-size: 1rem;
+    }
+    @include media-breakpoint-up(lg) {
+      font-size: 1.25rem;
+    }
+  }
+  .nav-menu-item {
+    text-align: center;
+  }
+  .nav-menu-link {
+    display: block;
+    padding: 0.5rem;
+    text-decoration: none;
+    color: black;
+  }
+  .nav-menu-item:hover {
+    background: $highlight-orange;
+  }
+  .nav-menu-item:hover .nav-menu-link {
+    text-decoration: none;
+    color: white;
+  }
+}

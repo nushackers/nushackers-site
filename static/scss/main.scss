@@ -1,0 +1,52 @@
+$font-family-serif: Quattrocento, Georgia, "Times New Roman", Times, serif;
+
+$hackers-orange: #CC4100;
+$highlight-orange: #F8941D;
+$link-color: $hackers-orange;
+$link-hover-color: $hackers-orange;
+
+$dashed-border: 1px dashed #ccc;
+
+@import "./vendor.scss";
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-serif;
+}
+
+.clear-list {
+  padding: 0;
+  margin: 0;
+  line-height: 1.4;
+  list-style: none;
+}
+
+@import "./header.scss";
+@import "./section.scss";
+@import "./footer.scss";
+@import "./front-page.scss";
+
+.front {
+  &-list {
+    margin: 1rem 0;
+    @extend .clear-list;
+  }
+  a {
+    text-decoration: underline;
+    color: #666;
+  }
+}
+
+.entry {
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  border-bottom: $dashed-border;
+  &-title {
+    margin: 0.5rem 0;
+    a {
+      color: #333;
+    }
+  }
+  &-content {
+    margin: 0.5rem 0;
+  }
+}

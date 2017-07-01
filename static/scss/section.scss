@@ -1,0 +1,37 @@
+.section {
+  margin-bottom: 1rem;
+
+  img {
+    width: 100%;
+  }
+}
+
+.aside {
+  margin-top: 1rem;
+}
+
+.single {
+  .posted {
+    font-size: 1.25rem;
+    color: $gray;
+  }
+
+  .browse {
+    justify-content: space-between;
+  }
+
+  .previous {
+    &::before {
+      content: '← ';
+      color: $gray;
+    }
+  }
+  .next {
+    text-align: right;
+
+    &::after {
+      content: ' →';
+      color: $gray;
+    }
+  }
+}
