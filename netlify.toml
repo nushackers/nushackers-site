@@ -1,0 +1,7 @@
+[build]
+  command = "npm rebuild node-sass && npm run build"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.24"
+  YARN_VERSION = "0.24.6"

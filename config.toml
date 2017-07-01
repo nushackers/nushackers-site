@@ -1,0 +1,33 @@
+baseURL = ""
+languageCode = "en-us"
+title = "NUSHackers"
+copyright = "NUS Hackers"
+disqusShortname = "nushackers"
+enableEmoji = true
+ignoreFiles = ["\\.scss$"]
+
+[[menu.main]]
+  name = "About"
+  identifier = "About"
+  weight = 1
+  url = "/about"
+[[menu.main]]
+  name = "Discussion"
+  identifier = "Discussion"
+  weight = 2
+  url = "/discussion"
+[[menu.main]]
+  name = "Events"
+  identifier = "Events"
+  weight = 3
+  url = "/events"
+[[menu.main]]
+  name = "Code"
+  identifier = "Code"
+  weight = 4
+  url = "/code"
+[[menu.main]]
+  name = "Contact"
+  identifier = "Contact"
+  weight = 5
+  url = "/contact"

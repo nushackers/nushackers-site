@@ -1,37 +1,31 @@
-nushackers-site
-====================
+# nushackers-site
 
 Sup! This is the source code of the nushackers blog site http://nushackers.org.
 
 ## Requirement
 
-This website is built with jekyll, so if you want to make changes to the templates or structures of the site, please first read about <a href="http://jekyllrb.com">jekyll</a>. But if you are just going to modify the data or update/add a post, you can simply follow the guide below.
+This website is built with hugo, so if you want to make changes to the templates or structures of the site, please first read about [hugo](https://gohugo.io/overview/introduction/). But if you are just going to modify the data or update/add a post, you can simply follow the guide below.
 
 ## Getting started
 
-It's recommended that you test the site locally before doing any push. To do so, first <a href="https://www.ruby-lang.org/en/installation/">install ruby</a>.
-
-Then, install jekyll:
-
-```bash
-$ gem install jekyll
-```
+It's recommended that you test the site locally before doing any push. To do so, first install [hugo v0.24]("https://github.com/gohugoio/hugo/releases") and [node lts](https://nodejs.org/en/).
 
 Then enter this folder and run
 
 ```bash
-$ jekyll serve --watch
+npm install
+npm start
 ```
 
-jekyll will now generate the site and watch the directory and update the site when any changes are made. You can access the site at `http://localhost:4000`
+Hugo will now generate the site and watch the directory and update the site when any changes are made. You can access the site at `http://localhost:4000`
 
 ## Updating data
 
-First, since jekyll is written in the hipster language ruby, it also uses <a href="http://en.wikipedia.org/wiki/YAML">yaml</a> as the markup for data. It's really simple (and non-mainstream), so just read about it first.
+First, since hugo uses [yaml]("http://en.wikipedia.org/wiki/YAML") as the markup for data. It's really simple, so just read about it first.
 
-With some knowledge of yaml, you can take a look at the `_data` folder - it contains the data for displaying the Friday hacks in the index page, coreteam memebers in the `/about` page and coreteam alumni in the `/alumni` page. More details below:
+With some knowledge of yaml, you can take a look at the `data` folder - it contains the data for displaying the Friday hacks in the index page, coreteam members in the `/about` page and coreteam alumni in the `/alumni` page. More details below:
 
-`friday_hacks.yml` is for the Friday hacks (duh!). It contains a list (under `hacks`) of objects each with four fields: `speaker`, `from`, `title` and `venue`. Leave the `speaker` field empty to mark it as 'slot is open', or fill it up if it's filled up. For special occasion such as holidays, delete all fields and put `nohack` as the sole field with the reason as the value, e.g. 
+`friday_hacks.yml` is for the Friday hacks (duh!). It contains a list (under `hacks`) of objects each with four fields: `speaker`, `from`, `title` and `venue`. Leave the `speaker` field empty to mark it as 'slot is open', or fill it up if it's filled up. For special occasion such as holidays, delete all fields and put `nohack` as the sole field with the reason as the value, e.g.
 
 ```yml
 - nohack: Good Friday
@@ -45,18 +39,13 @@ It also contains a field `start_date` which should be the date-time of the first
 
 ## Updating posts
 
-About writing posts: http://jekyllrb.com/docs/posts/
+About writing posts: https://gohugo.io/content/
 
-If you are write those generic posts about Friday hacks, please use the script  `_script/gen_fh.py` - yep, it's in Python yay! So install Python first.
-
-To use the script, first make sure you have filled up the Friday hacks entry in `_data/friday_hacks.yml`, then just run it.
+If you are write those generic posts about Friday hacks, please run:
 
 ```bash
-$ cd _scripts
-$ python gen_fh.py
+npm run friday-hacks <Title> <Your name>
 ```
-
-It will ask for you name (as the author), and generates the md file in `_posts`. Now go ahead and add in more details to the post.
 
 ## Final words
 
