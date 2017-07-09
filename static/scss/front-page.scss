@@ -1,14 +1,43 @@
-.fh {
-  .fh-list {
+.front-page {
+  .list {
+    .item {
+      padding-left: 0;
+    }
     @extend .clear-list;
   }
-  .fh-list-item {
-    margin-bottom: 0.75rem;
+
+  h1 {
+    border-bottom: 0.1rem dotted $highlight-orange;
   }
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+  }
+}
+
+.hero {
+  .hero-item {
+    padding: 0.5rem;
+    padding-left: 0;
+  }
+}
+
+.front {
+  .front-header {
+    margin-bottom: 0;
+  }
+  .front-list {
+    margin-top: 0;
+  }
+}
+
+.fh {
   .fh-time {
     display: block;
     color: #999;
-    border-bottom: $dashed-border;
   }
   .fh-address {
     margin: 0;
@@ -21,22 +50,43 @@
   .fh-topics {
     @extend .clear-list;
   }
-  .fh-speaker {
+  .fh-item {
     margin: 0.5rem 0;
+    @include media-breakpoint-up(sm) {
+      margin: 0;
+    }
+  }
+  .fh-topic {
+    margin-bottom: 0;
+    font-size: 1.1rem;
+  }
+  .fh-speaker {
+    font-size: 0.9rem;
+  }
+}
+
+.hs {
+  .hs-header {
+    margin-top: 0.5rem;
+  }
+  .hs-time {
+    display: block;
+    color: #999;
+  }
+  .hs-address {
+    margin: 0;
+    margin-bottom: 0.25rem;
+    font-style: italic;
+    font-size: 0.9rem;
+  }
+  .hs-topic {
+    font-size: 1.1rem;
   }
 }
 
 .posts {
-  .posts-list {
-    @extend .clear-list;
-  }
-  .posts-list-item {
-    padding-bottom: 1rem;
+  .item {
     margin-bottom: 1rem;
-    border-bottom: $dashed-border;
-  }
-  .posts-title {
-    font-size: 1.5rem;
   }
   .posts-link {
     color: $gray-dark;

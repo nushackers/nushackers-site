@@ -1,0 +1,10 @@
+projects:
+  - name: hackerschool
+    description: workshops for hackers
+    url: //school.nushackers.org
+  - name: Code@NUS
+    description: Code repository for NUS students
+    url: //code.nushackers.org
+  - name: Hack&Roll
+    description: 24-hour hackathon for students
+    url: //hacknroll.nushackers.org

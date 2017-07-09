@@ -1,13 +1,18 @@
 .header {
   align-items: center;
   margin-bottom: 1rem;
-  border-bottom: 1px dotted #333;
+}
+
+.hero {
+  .hero-hackers {
+    color: $highlight-orange;
+  }
 }
 
 .banner {
   .banner-text {
     margin: 0;
-    background-image: url('/img/nushackersl.gif');
+    background-image: url('/img/nushackers.gif');
     background-position: center center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -37,19 +42,34 @@
     }
   }
   .nav-menu-item {
+    position: relative;
+    font-weight: bold;
     text-align: center;
+  }
+  .nav-menu-item::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0.15rem;
+    background: $highlight-orange;
+    transform: scaleX(0);
+    transform-origin: left;
+    @include transition(deceleration, transform);
   }
   .nav-menu-link {
     display: block;
-    padding: 0.5rem;
+    padding: 0.5rem 0.5rem 0.25rem;
     text-decoration: none;
     color: black;
   }
-  .nav-menu-active, .nav-menu-item:hover {
-    background: $highlight-orange;
+  .nav-menu-active::after,
+  .nav-menu-item:hover::after {
+    transform: scaleX(1);
   }
-  .nav-menu-active .nav-menu-link, .nav-menu-item:hover .nav-menu-link {
+  .nav-menu-active .nav-menu-link,
+  .nav-menu-item:hover .nav-menu-link {
     text-decoration: none;
-    color: white;
   }
 }
