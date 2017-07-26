@@ -9,6 +9,12 @@ $dashed-border: 1px dashed #ccc;
 @import "./vendor.scss";
 @import "./animation.scss";
 
+body {
+  // Add a little circuit bord zest to our background
+  background: inline('./img/background.svg');
+  background-attachment: fixed;
+}
+
 h1,
 h2,
 h3,
@@ -17,6 +23,11 @@ h5,
 h6 {
   // Our favourite distro! /s
   font-family: 'Ubuntu', $font-family-sans-serif;
+}
+
+.body-container {
+  padding: 0 2rem;
+  background: white;
 }
 
 .clear-list {

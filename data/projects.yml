@@ -1,4 +1,7 @@
 projects:
+  - name: Friday Hacks
+    description: talks for hackers
+    url: //www.nushackers.org/fridayhacks
   - name: hackerschool
     description: workshops for hackers
     url: //school.nushackers.org

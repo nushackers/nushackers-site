@@ -1,12 +1,12 @@
 {{ define "main" }}
 <main class="row front-page">
-  <section class="hero col-12">
+  <section class="hero col-12 section">
     <h1>Spreading the hacker culture</h1>
     <div class="hero-content">
       <h2>What we do</h2>
-      <ul class="list row">
+      <ul class="hero-list list row">
         {{ range $event := $.Site.Data.projects.projects }}
-          <li class="hero-item item col-12 col-md-4">
+          <li class="hero-item item">
             <a href="{{ $event.url }}">{{ $event.name }}</a>
             <div>{{ $event.description }}</div>
           </li>
@@ -14,11 +14,11 @@
       </ul>
     </div>
   </section>
-  <section class="col-12">
+  <section class="col-12 section">
     <header>
       <h1>Upcoming events</h1>
     </header>
-    <div class="fh">
+    <div class="fh events">
       <header class="front">
         <h2 class="front-header">Friday Hacks</h2>
         <ul class="front-list">
@@ -57,9 +57,9 @@
         {{ end }}
       </ol>
     </div>
-    <div class="hs">
+    <div class="hs events">
       <header class="front">
-        <h2 class="front-header hs-header">Hacker School</h2>
+        <h2 class="front-header hs-header">Hackerschool</h2>
       </header>
       <ol class="list row">
         {{ range $index, $event := $.Site.Data.hacker_school.events }}
@@ -74,7 +74,7 @@
       </ol>
     </div>
   </section>
-  <div class="posts col-12">
+  <section class="posts col-12 section">
     <header class="front">
       <h1>Articles</h1>
     </header>
@@ -91,6 +91,6 @@
       </li>
       {{ end }}
     </ul>
-  </div>
+  </section>
 </main>
 {{ end }}

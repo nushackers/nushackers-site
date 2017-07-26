@@ -1,11 +1,4 @@
 .front-page {
-  .list {
-    .item {
-      padding-left: 0;
-    }
-    @extend .clear-list;
-  }
-
   h1 {
     border-bottom: 0.1rem dotted $highlight-orange;
   }
@@ -16,12 +9,32 @@
   h6 {
     font-weight: 500;
   }
+
+  .list {
+    .item {
+      padding-left: 0;
+    }
+    @extend .clear-list;
+  }
+
+  .section {
+    margin-bottom: 1.5rem;
+  }
 }
 
 .hero {
+  .hero-list {
+    display: flex;
+    justify-content: space-between;
+  }
+
   .hero-item {
-    padding: 0.5rem;
-    padding-left: 0;
+    flex: 1 0 100%;
+    padding: 0.5rem 1rem 0.5rem 0;
+
+    @include media-breakpoint-up(sm) {
+      flex: 1 1 auto;
+    }
   }
 }
 
@@ -35,6 +48,8 @@
 }
 
 .fh {
+  margin-bottom: 1.5rem;
+
   .fh-time {
     display: block;
     color: #999;
@@ -86,7 +101,8 @@
 
 .posts {
   .item {
-    margin-bottom: 1rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
   }
   .posts-link {
     color: $gray-dark;
