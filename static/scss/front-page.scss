@@ -1,6 +1,8 @@
+$font-small: 0.9rem;
+
 .front-page {
   h1 {
-    border-bottom: 0.1rem dotted $highlight-orange;
+    border-bottom: 2px dotted $highlight-orange;
   }
 
   h3,
@@ -13,6 +15,9 @@
   .list {
     .item {
       padding-left: 0;
+      @include media-breakpoint-down(sm) {
+        padding-right: 0;
+      }
     }
     @extend .clear-list;
   }
@@ -36,6 +41,9 @@
       flex: 1 1 auto;
     }
   }
+  .hero-link {
+    display: block;
+  }
 }
 
 .front {
@@ -43,40 +51,43 @@
     margin-bottom: 0;
   }
   .front-list {
-    margin-top: 0;
+    margin: 0;
+    margin-bottom: 0.5rem;
+    @extend .clear-list;
+  }
+  a {
+    text-decoration: underline;
+    color: $gray-light;
   }
 }
 
 .fh {
-  margin-bottom: 1.5rem;
-
   .fh-time {
     display: block;
-    color: #999;
   }
-  .fh-address {
-    margin: 0;
-    font-style: italic;
-    font-size: 0.9rem;
-  }
+  .fh-address,
   .fh-span {
-    color: #999;
+    display: block;
+    margin: 0;
+    font-size: $font-small;
+    color: $gray-light;
   }
   .fh-topics {
     @extend .clear-list;
   }
   .fh-item {
     margin: 0.5rem 0;
-    @include media-breakpoint-up(sm) {
-      margin: 0;
-    }
   }
   .fh-topic {
     margin-bottom: 0;
     font-size: 1.1rem;
   }
   .fh-speaker {
-    font-size: 0.9rem;
+    font-size: $font-small;
+  }
+
+  @include media-breakpoint-down(sm) {
+    margin-bottom: 1.5rem;
   }
 }
 
@@ -86,13 +97,12 @@
   }
   .hs-time {
     display: block;
-    color: #999;
   }
   .hs-address {
     margin: 0;
     margin-bottom: 0.25rem;
-    font-style: italic;
-    font-size: 0.9rem;
+    font-size: $font-small;
+    color: $gray-light;
   }
   .hs-topic {
     font-size: 1.1rem;
@@ -104,10 +114,15 @@
     margin-top: 0.75rem;
     margin-bottom: 0.75rem;
   }
-  .posts-link {
-    color: $gray-dark;
+  .posts-title {
+    margin-bottom: 0;
   }
   .posts-meta {
-    color: #999;
+    margin-bottom: 0.3rem;
+    font-size: $font-small;
+    color: $gray-light;
+  }
+  .posts-link {
+    color: $gray-dark;
   }
 }

@@ -36,8 +36,10 @@
 .nav {
   .nav-menu {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
-    font-size: 0.85em;
+    font-size: 0.9rem;
+
     @extend .clear-list;
     @include media-breakpoint-up(sm) {
       font-size: 1rem;
@@ -57,7 +59,7 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    height: 0.15rem;
+    height: 2px;
     background: $highlight-orange;
     transform: scaleX(0);
     transform-origin: left;
@@ -65,9 +67,16 @@
   }
   .nav-menu-link {
     display: block;
-    padding: 0.5rem 0.5rem 0.25rem;
+    padding: 0.3rem 0.4rem 0.1rem;
     text-decoration: none;
     color: black;
+
+    @include media-breakpoint-up(md) {
+      padding: 0.4rem 0.5rem 0.2rem;
+    }
+    @include media-breakpoint-up(lg) {
+      padding: 0.5rem 0.5rem 0.25rem;
+    }
   }
   .nav-menu-active::after,
   .nav-menu-item:hover::after {

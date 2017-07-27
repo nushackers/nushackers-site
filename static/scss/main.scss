@@ -27,7 +27,7 @@ h6 {
 
 .body-container {
   padding: 0 2rem;
-  background: white;
+  background: rgba(255, 255, 255, 0.7);
 }
 
 .clear-list {
@@ -41,29 +41,3 @@ h6 {
 @import "./section.scss";
 @import "./footer.scss";
 @import "./front-page.scss";
-
-.front {
-  &-list {
-    margin: 1rem 0;
-    @extend .clear-list;
-  }
-  a {
-    text-decoration: underline;
-    color: #666;
-  }
-}
-
-.entry {
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
-  border-bottom: $dashed-border;
-  &-title {
-    margin: 0.5rem 0;
-    a {
-      color: #333;
-    }
-  }
-  &-content {
-    margin: 0.5rem 0;
-  }
-}

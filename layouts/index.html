@@ -7,8 +7,10 @@
       <ul class="hero-list list row">
         {{ range $event := $.Site.Data.projects.projects }}
           <li class="hero-item item">
-            <a href="{{ $event.url }}">{{ $event.name }}</a>
-            <div>{{ $event.description }}</div>
+            <a class="hero-link" href="{{ $event.url }}">
+            {{ $event.name }}
+            </a>
+            {{ $event.description }}
           </li>
         {{ end }}
       </ul>
@@ -50,7 +52,7 @@
                 {{ end }}
               </ul>
             {{ else }}
-              <em>{{ $hack.nohack }}, no Friday Hacks</em>
+              <em class="fh-span">{{ $hack.nohack }}, no Friday Hacks</em>
             {{ end }}
           </li>
         {{ end }}
