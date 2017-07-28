@@ -14,6 +14,10 @@
   transition: background-color .3s;
 }
 
+.pagination li a:hover {
+  text-decoration: none;
+}
+
 .pagination li.active a {
   color: white;
   background-color: $hackers-orange;
@@ -23,15 +27,7 @@
   display: none;
 }
 
-.pagination li.disabled a {
-  text-decoration: none;
-}
-
-.pagination li.disabled a:hover {
-  cursor: default;
-}
-
-.pagination a:hover:not(.active) {
+.pagination li:not(.active) a:hover {
   background-color: #ddd;
 }
 
