@@ -1,7 +1,7 @@
 $font-family-serif: Quattrocento, Georgia, "Times New Roman", Times, serif;
 
-$hackers-orange: #CC4100;
-$highlight-orange: #F8941D;
+$hackers-orange: #cc4100;
+$highlight-orange: #f8941d;
 $link-color: $hackers-orange;
 $link-hover-color: $hackers-orange;
 
@@ -9,7 +9,12 @@ $dashed-border: 1px dashed #ccc;
 
 @import "./vendor.scss";
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: $font-family-serif;
 }
 
@@ -24,6 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 @import "./section.scss";
 @import "./footer.scss";
 @import "./front-page.scss";
+@import "./paginate.scss";
 
 .front {
   &-list {
