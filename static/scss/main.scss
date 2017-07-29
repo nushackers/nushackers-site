@@ -30,6 +30,23 @@ h6 {
   background: rgba(255, 255, 255, 0.7);
 }
 
+.main {
+  animation-duration: 295ms;
+  animation-timing-function: $standard-curve;
+  animation-name: fade-up;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0.25;
+    transform: translateY(0.3rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
 .clear-list {
   padding: 0;
   margin: 0;
