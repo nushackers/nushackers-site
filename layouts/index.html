@@ -1,56 +1,91 @@
 {{ define "main" }}
-
-<main class="row">
-  <div class="fh col-12 col-md-6 push-md-6">
-    <header class="front">
-      <h1>Friday Hacks</h1>
-      <ul class="front-list">
-        <li>
-          <a href="/sponsor">Supported</a> by NEC and IDA.
-        </li>
+<main class="row front-page main">
+  <section class="hero col-12 section">
+    <h1>Spreading the hacker culture</h1>
+    <div class="hero-content">
+      <h2>What we do</h2>
+      <ul class="hero-list list row">
+        {{ range $event := $.Site.Data.projects.projects }}
+          <li class="hero-item item">
+            <a class="hero-link" href="{{ $event.url }}">
+            {{ $event.name }}
+            </a>
+            {{ $event.description }}
+          </li>
+        {{ end }}
       </ul>
+    </div>
+  </section>
+  <section class="col-12 section">
+    <header>
+      <h1>Upcoming events</h1>
     </header>
-    <ol class="fh-list">
-      {{ $weekInSeconds := 604800 }}
-      {{ $date := $.Site.Data.friday_hacks.start_date }}
-      {{ $dateUnix := (time $date).Unix }}
+    <div class="fh events">
+      <header class="front">
+        <h2 class="front-header">Friday Hacks</h2>
+        <ul class="front-list">
+          <li>
+            <a href="/sponsor">Supported</a> by NEC and IDA.
+          </li>
+        </ul>
+      </header>
+      <ol class="list row">
+        {{ $weekInSeconds := 604800 }}
+        {{ $date := $.Site.Data.friday_hacks.start_date }}
+        {{ $dateUnix := (time $date).Unix }}
 
-      {{ range $index, $hack := $.Site.Data.friday_hacks.hacks }}
-        <li class="fh-list-item">
-          {{ $hackDate := add $dateUnix (mul $index $weekInSeconds) }}
-          <time class="fh-time">{{ dateFormat "Jan 2" $hackDate }}</time>
-          {{ if eq $hack.nohack nil }}
-            <address class="fh-address">{{ $hack.venue }}</address>
-            <ul class="fh-topics">
-              {{ range $topicIndex, $topic := $hack.topics }}
-              <li class="fh-speaker">
-                <b>{{ $topic.speaker }}</b> <span>({{ $topic.from }})</span>
-                <div>{{ $topic.title }}</div>
-              </li>
-              {{ end }}
-            </ul>
-          {{ else }}
-            <em>{{ $hack.nohack }}, no Friday Hacks</em>
-          {{ end }}
-        </li>
-      {{ end }}
-    </ol>
-  </div>
-  <div class="posts col-12 col-md-6 pull-md-6">
+        {{ range $index, $hack := $.Site.Data.friday_hacks.hacks }}
+        {{ if le $index 2 }}
+          <li class="fh-item item col-12 col-md-4">
+            {{ $hackDate := add $dateUnix (mul $index $weekInSeconds) }}
+            <time class="fh-time">{{ dateFormat "Jan 2" $hackDate }}</time>
+            {{ if eq $hack.nohack nil }}
+              <address class="fh-address">{{ $hack.venue }}</address>
+              <ul class="fh-topics">
+                {{ range $topicIndex, $topic := $hack.topics }}
+                <li class="fh-item">
+                  <h3 class="fh-topic">{{ $topic.title }}</h3>
+                  <div class="fh-speaker">
+                    {{ $topic.speaker }} <span>({{ $topic.from }})</span>
+                  </div>
+                </li>
+                {{ end }}
+              </ul>
+            {{ else }}
+              <em class="fh-span">{{ $hack.nohack }}, no Friday Hacks</em>
+            {{ end }}
+          </li>
+        {{ end }}
+        {{ end }}
+      </ol>
+    </div>
+    <div class="hs events">
+      <header class="front">
+        <h2 class="front-header hs-header">Hackerschool</h2>
+      </header>
+      <ol class="list row">
+        {{ range $index, $event := $.Site.Data.hacker_school.events }}
+        {{ if le $index 2 }}
+          <li class="item col-12 col-md-4">
+            <time class="hs-time">{{ dateFormat "Mon, Jan 2, 3pm" (time $event.date) }}</time>
+            <address class="hs-address">{{ $event.venue }}</address>
+            <h3 class=hs-topic>{{ $event.topic }}</h3>
+          </li>
+        {{ end }}
+        {{ end }}
+      </ol>
+    </div>
+  </section>
+  <section class="posts col-12 section">
     <header class="front">
       <h1>Articles</h1>
-      <ul class="front-list">
-        <li>
-          <a href="/sponsor">Supported</a> by NEC and IDA.
-        </li>
-      </ul>
     </header>
-    <ul class="posts-list">
+    <ul class="list row">
       {{ range first 8 .Data.Pages }}
-      <li class="posts-list-item">
+      <li class="item col-12 col-md-4">
       <article>
         <header>
-          <h2 class="posts-title"><a class="posts-link" href='{{ .Permalink }}'> {{ .LinkTitle }}</a> </h2>
+          <h3 class="posts-title"><a class="posts-link" href='{{ .Permalink }}'> {{ .LinkTitle }}</a> </h3>
           <div class="posts-meta">{{ .Date.Format "Mon, Jan 2" }} • {{ .ReadingTime }} min read</div>
         </header>
         {{ .Summary | truncate 150 }} <a href='{{ .Permalink }}'>Read more</a>
@@ -61,6 +96,6 @@
         <span style="float:right"><a href="/archive">more...</a></span>
       </li>
     </ul>
-  </div>
+  </section>
 </main>
 {{ end }}

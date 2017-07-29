@@ -1,0 +1,10 @@
+events:
+  - topic: Introduction to HTML/CSS
+    venue: The Hangar by NUS Enterprise
+    date: 2017-02-04T13:00:00
+  - topic: Introduction to JavaScript & Web Apps
+    venue: The Hangar by NUS Enterprise
+    date: 2017-02-11T13:00:00
+  - topic: Introduction to programming, in Swift Playgrounds
+    venue: The Hangar by NUS Enterprise
+    date: 2017-02-18T13:00:00
