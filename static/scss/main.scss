@@ -1,16 +1,50 @@
-$font-family-serif: Quattrocento, Georgia, "Times New Roman", Times, serif;
-
-$hackers-orange: #CC4100;
-$highlight-orange: #F8941D;
+$hackers-orange: #cc4100;
+$highlight-orange: #f8941d;
 $link-color: $hackers-orange;
 $link-hover-color: $hackers-orange;
 
+$material-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 $dashed-border: 1px dashed #ccc;
 
 @import "./vendor.scss";
+@import "./animation.scss";
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $font-family-serif;
+body {
+  // Add a little circuit bord zest to our background
+  background: inline('./img/background.svg');
+  background-attachment: fixed;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  // Our favourite distro! /s
+  font-family: 'Ubuntu', $font-family-sans-serif;
+}
+
+.body-container {
+  padding: 0 2rem;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.main {
+  animation-duration: 295ms;
+  animation-timing-function: $standard-curve;
+  animation-name: fade-up;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0.25;
+    transform: translateY(0.3rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
 }
 
 .clear-list {
@@ -24,29 +58,3 @@ h1, h2, h3, h4, h5, h6 {
 @import "./section.scss";
 @import "./footer.scss";
 @import "./front-page.scss";
-
-.front {
-  &-list {
-    margin: 1rem 0;
-    @extend .clear-list;
-  }
-  a {
-    text-decoration: underline;
-    color: #666;
-  }
-}
-
-.entry {
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
-  border-bottom: $dashed-border;
-  &-title {
-    margin: 0.5rem 0;
-    a {
-      color: #333;
-    }
-  }
-  &-content {
-    margin: 0.5rem 0;
-  }
-}

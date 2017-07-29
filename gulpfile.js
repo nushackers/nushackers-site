@@ -6,6 +6,7 @@ const sass = require('gulp-sass');
 const notify = require('gulp-notify');
 const plumber = require('gulp-plumber');
 const postcss = require('gulp-postcss');
+const assets  = require('postcss-assets');
 const sorting = require('postcss-sorting');
 const prettier = require('gulp-prettiest');
 const autoprefixer = require('autoprefixer');
@@ -13,7 +14,7 @@ const flexbugs = require('postcss-flexbugs-fixes');
 
 const IS_PRODUCTION = !!gutil.env.production;
 const IS_DEVELOPMENT = !IS_PRODUCTION;
-const SCSS_GLOB = 'static/scss/**/*.scss';
+const SCSS_GLOB = './static/scss/**/*.scss';
 const SCSS_ENTRY = './static/scss/main.scss';
 const SCSS_PATH = './static/scss';
 const CSS_PATH = './static/css';
@@ -190,7 +191,15 @@ gulp.task('scss:compile', ['scss:fix'], () => {
         outputStyle: IS_PRODUCTION ? 'compressed' : 'nested',
       })
     )
-    .pipe(postcss([flexbugs, autoprefixer()]))
+    .pipe(
+      postcss([
+        assets({
+          loadPaths: ['static/'],
+        }),
+        flexbugs,
+        autoprefixer(),
+      ])
+    )
     .pipe(gulp.dest(CSS_PATH));
 });
 
@@ -207,6 +216,7 @@ gulp.task('hugo', ['scss:compile'], () => {
   const flags = [];
   if (IS_DEVELOPMENT) {
     flags.push('server'); // watch and serve
+    flags.push('--navigateToChanged'); // navigate to changed file
   }
   const child = spawn('hugo', flags);
 
