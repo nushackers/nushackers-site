@@ -7,10 +7,7 @@ url: /2015/11/03/friday-hacks-103-Nov-06/
 
 This week, we're focusing on education. Learn about the science of the mind and bring all your questions from engineering to machine learning to the director of engineering at Coursera.
 
-{% capture venue %}
-    {{ 'Seminar Room 3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Nov 06" %}}
 
 Facebook Event link: [https://www.facebook.com/events/180677585609461/](https://www.facebook.com/events/180677585609461/)
 

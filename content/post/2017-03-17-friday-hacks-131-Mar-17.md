@@ -7,11 +7,7 @@ url: /2017/03/17/friday-hacks-131-Mar-17/
 
 Hi folks! This week we are privileged to have one of the leading experts in high performance computing (he has his own law!), give a talk on the intricacies of math in computing. For more information, refer to the talk description.
 
-{% capture venue %}
-    {{ 'SR5, Town Plaza, University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR5, Town Plaza, University Town, NUS" date="March 17" %}}
 
 ### Weapons of Math Destruction
 

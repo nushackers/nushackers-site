@@ -7,11 +7,7 @@ url: /2017/03/24/friday-hacks-132-Mar-24/
 
 Hello folks! Welcome back to Friday Hacks #132. This week we'll be having a talk by Abhilash, the creator of Bus Uncle, about how he built Singapore's most viral chatbot. After which, there will be a panel discussion headed by NUS Hackers Coreteam about how to maximize your summer. 
 
-{% capture venue %}
-    {{ 'SR5, Town Plaza, University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR5, Town Plaza, University Town, NUS" date="March 24" %}}
 
 ### How to Build a Bot People Will Love
 

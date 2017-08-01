@@ -14,10 +14,7 @@ See you!
 
 p.s. There will be a Facebook swag giveaway!
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, UTown' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="SR3, Town Plaza, UTown" date="March 20" %}}
 
 Facebook Event link: https://www.facebook.com/events/352761291599919/
 

@@ -9,11 +9,7 @@ This week have Sean from Twitter talking about building scalable advertising pla
 
 Facebook event [here](https://www.facebook.com/events/1220661767976142/)
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR3, Town Plaza, University Town" date="October 7" %}}
 
 ### Building scalable advertising platforms
 

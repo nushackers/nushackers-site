@@ -9,11 +9,7 @@ This week, we have Melvin from Cosmiqo talking about Programs that play better t
 
 Facebook Event [here](https://www.facebook.com/events/146066629176746/). 
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR3, Town Plaza, University Town" date="September 9" %}}
 
 ### Programs that Play better than Us
 

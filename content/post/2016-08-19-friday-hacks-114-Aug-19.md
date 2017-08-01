@@ -7,11 +7,7 @@ url: /2016/08/19/friday-hacks-114-Aug-19/
 
 <em>In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways.</em>
 
-{% capture venue %}
-    {{ 'School of Computing, Seminar Room 1' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="School of Computing, Seminar Room 1" date="August 19" %}}
 
 ### Welcome Tea
 

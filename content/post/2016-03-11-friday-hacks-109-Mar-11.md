@@ -7,11 +7,7 @@ url: /2016/03/11/friday-hacks-109-Mar-11/
 
 For our fifth Friday Hacks of the semester, we're having Jia Hao, an undergrad from SUTD to talk about his popular [nativefier](http://github.com/jiahaog/nativefier) project. 
 
-{% capture venue %}
-    {{ 'VCRm, School of Computing' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="VCRm, School of Computing" date="March 11" %}}
 
 Facebook Event link: [https://www.facebook.com/events/1665215933745308/](https://www.facebook.com/events/1665215933745308/)
 

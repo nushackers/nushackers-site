@@ -7,10 +7,7 @@ url: /2015/10/27/friday-hacks-102-Oct-30/
 
 This week, our very own coreteam members will be sharing on their internship experiences overseas. Learn why you should do internships, how to choose and of course, how to get them! Ask questions of other students who have interned overseas at various companies including Facebook, Palantir, Apple, Twitter, Dropbox, and Viki. 
 
-{% capture venue %}
-    {{ 'Seminar Room 3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Oct 30" %}}
 
 Facebook Event link: [https://www.facebook.com/events/1691455717756645/](https://www.facebook.com/events/1691455717756645/)
 

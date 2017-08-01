@@ -9,11 +9,7 @@ Hey folks, welcome back from the CNY break! Come join us this Friday to learn ab
 
 Facebook event [here](https://www.facebook.com/events/1353893331348589/)
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR3, Town Plaza, University Town, NUS" date="February 3" %}}
 
 ### Realtime Collaboration: A Brief History
 

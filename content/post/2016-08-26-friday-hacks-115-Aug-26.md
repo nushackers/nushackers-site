@@ -9,11 +9,7 @@ This week, we have Hongyi from IDA and Haoyi from Dropbox, to speak about some t
 
 Facebook Event [here](https://www.facebook.com/events/1063825533713913/).
 
-{% capture venue %}
-    {{ 'School of Computing, Seminar Room 1' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="School of Computing, Seminar Room 1" date="August 26" %}}
 
 ### Diving Into Other People's Code
 

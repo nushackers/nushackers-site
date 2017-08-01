@@ -9,11 +9,7 @@ This week we have Jordan and Shekhar from TradeGecko talking about the benefits 
 
 Facebook event [here](https://web.facebook.com/events/1687498014897347/)
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR3, Town Plaza, University Town" date="October 28" %}}
 
 ### Why Go For Go!
 
