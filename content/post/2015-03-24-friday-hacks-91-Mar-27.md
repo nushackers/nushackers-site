@@ -10,10 +10,7 @@ they built and deployed a large scale web application, while Omer (Garena) will
 be talking about Reactive Cocoa, a functional reactive framework for iOS and
 OSX.
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, UTown' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="SR3, Town Plaza, UTown" date="March 27" %}}
 
 Facebook Event link: https://www.facebook.com/events/1436223633336896/
 

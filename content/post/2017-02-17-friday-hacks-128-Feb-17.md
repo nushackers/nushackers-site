@@ -13,10 +13,7 @@ Free pizza is served before the talks!
 
 Facebook event [here](https://www.facebook.com/events/603214613202877/)
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="SR3, Town Plaza, University Town, NUS" date="February 17" %}}
 
 ### My Love-Hate Relationship with Honeypot
 

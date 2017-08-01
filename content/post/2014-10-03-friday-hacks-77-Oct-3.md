@@ -7,11 +7,7 @@ url: /2014/10/03/friday-hacks-77-Oct-3/
 
 At this week's session, find out about how autonomous underwater vehicles work! Alex will be sharing about control systems, computer vision with openCV, acoustic localization and autonomous mission control.
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza (Level 2), University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR3, Town Plaza (Level 2), University Town, NUS" date="October 3" %}}
 
 ### Building Autonomous Underwater Vehicles
 

@@ -9,10 +9,7 @@ It's going to be an epic security themed Friday this week. There will be two tal
 
 Facebook event: [https://www.facebook.com/events/1546142585684888/](https://www.facebook.com/events/1546142585684888/)
 
-{% capture venue %}
-    {{ 'Seminar Room 3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="April 1" %}}
 
 ### Talk 1: The ABCs of XSS.
 

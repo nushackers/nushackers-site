@@ -9,11 +9,7 @@ This week, our very own coreteam members will be sharing their internship experi
 
 Facebook Event [here](https://www.facebook.com/events/635393133292290/).
 
-{% capture venue %}
-    {{ 'The Hangar by NUS Enterprise' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="The Hangar by NUS Enterprise" date="August 19" %}}
 
 ### Project Intern
 

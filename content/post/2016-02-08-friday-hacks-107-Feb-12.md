@@ -10,11 +10,7 @@ For our third Friday Hacks of the semester, we're having Eeshan and Shuvan, two 
 Facebook Event link:
 [https://www.facebook.com/events/535705849936703/](https://www.facebook.com/events/535705849936703/)
 
-{% capture venue %}
-    {{ 'Video Conferencing Room, COM1-02-13, School of Computing, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="Video Conferencing Room (COM1-02-13), School of Computing, National University of Singapore" date="February 12th" %}}
 
 # Secure, high-speed Wi-Fi using light-bulbs
 

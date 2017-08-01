@@ -7,11 +7,7 @@ url: /2014/09/12/friday-hacks-75-Sep-12/
 
 Learn about machine learning this week! Shamraz will share about using ML in geography and Shawn will show you how to use ML with scikit-learn.
 
-{% capture venue %}
-    {{ 'SR4, Town Plaza (Level 2), University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR4, Town Plaza (Level 2), University Town, NUS" date="September 12" %}}
 
 ### Machine Learning and Environmental Modelling
 

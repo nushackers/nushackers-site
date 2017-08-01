@@ -15,10 +15,7 @@ Free pizza is served before the talks!
 
 Facebook event [here](https://www.facebook.com/events/139093879943292/)
 
-{% capture venue %}
-    {{ 'The Hangar by NUS Enterprise' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="The Hangar by NUS Enterprise" date="March 3" %}}
 
 ### An Introduction to DIY Laser Cutters
 

@@ -24,7 +24,7 @@ Programme:<br />
 Facebook event [here](https://www.facebook.com/events/1802311516756267/)
 
 <blockquote>
-    <strong>Date/Time</strong>: Friday, {{ page.title | split:", " | last }} at 7:00pm <br />
+    <strong>Date/Time</strong>: Friday, March 31 at 7:00pm <br />
     <strong>Venue</strong>: i-Cube Building Auditorium, NUS <br />
     <strong>NUS Enterprise Open Day from 5:00pm to 7:00pm.</strong> <br />
 </blockquote>

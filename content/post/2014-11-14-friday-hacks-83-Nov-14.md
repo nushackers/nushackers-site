@@ -7,10 +7,7 @@ url: /2014/11/14/friday-hacks-83-Nov-14/
 
 Join us for the last Friday Hacks of the semester this week! Find out what your peers have been up to, and take part in NUS Hackers' first Mystery Event! <strong>Please RSVP</strong> on <a href="https://www.facebook.com/events/368317163343825/">our Facebook event</a>. It'll help us in estimating numbers for the Mystery Event!
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza (Level 2), University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="SR3, Town Plaza (Level 2), University Town, NUS" date="November 14" %}}
 
 ### Lightning Talks
 

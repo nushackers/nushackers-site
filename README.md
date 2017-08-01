@@ -42,11 +42,16 @@ It also contains a field `start_date` which should be the date-time of the first
 
 About writing posts: https://gohugo.io/content/
 
-If you are write those generic posts about Friday hacks, please run:
+If you are write those generic posts about Friday hacks, please use the script  `scripts/gen_fh.py` - yep, it's in Python yay! So install Python first. You can then use pip to install the packages in requirements.txt.
+
+To use the script, first make sure you have filled up the Friday hacks entry in `data/friday_hacks.yml`, then just run it.
 
 ```bash
-npm run friday-hacks <Title> <Your name>
+$ cd scripts
+$ python gen_fh.py
 ```
+
+It will ask for you name (as the author), and generates the md file in `post/content`. Now go ahead and add in more details to the post.
 
 ## Final words
 

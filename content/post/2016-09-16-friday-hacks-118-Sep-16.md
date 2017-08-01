@@ -9,11 +9,7 @@ This week we have Yos from PayPal and Yong Wen from IDA talking about some of th
 
 Facebook Event [here](https://www.facebook.com/events/332435350432925/).
 
-{% capture venue %}
-    {{ 'The Hangar by NUS Enterprise' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="The Hangar by NUS Enterprise" date="September 16" %}}
 
 ### Entity Component Systems in Elixir
 

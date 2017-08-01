@@ -7,11 +7,7 @@ url: /2017/03/10/friday-hacks-130-Mar-10/
 
 Hello folks, this week we're very excited to have Virgil Griffith over to speak about Bitcoin, Ethereum, the dark web as well as the exciting prospects of legaltech.
 
-{% capture venue %}
-    {{ 'The Hangar by NUS Enterprise' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="The Hangar by NUS Enterprise" date="March 10" %}}
 
 ### Bitcoin, Darkweb, Ethereum and LegalTech
 

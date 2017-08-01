@@ -9,11 +9,7 @@ Friday Hacks is back for 2017! To kick off an exciting series this semester, we 
 
 Facebook event [here](https://www.facebook.com/events/1257124970992584/)
 
-{% capture venue %}
-    {{ 'The Hangar by NUS Enterprise' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="The Hangar by NUS Enterprise" date="January 20" %}}
 
 ### The Art of Lockpicking
 

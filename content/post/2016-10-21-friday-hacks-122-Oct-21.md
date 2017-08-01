@@ -11,11 +11,7 @@ Facebook event [here](https://www.facebook.com/events/1101191043328375/)
 
 Been working on something cool and want to speak about it at Friday Hacks? Drop us an email at [coreteam@nushackers.org](mailto:coreteam@nushackers.org).
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR3, Town Plaza, University Town" date="October 21" %}}
 
 ### NUSMods v3.0 and Modify.sg - Building the next-gen timetable
 

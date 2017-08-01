@@ -9,10 +9,7 @@ Welcome back to a brand new semester! For our first Friday Hacks of the semester
 
 Facebook event: https://www.facebook.com/events/1027250797369796/
 
-{% capture venue %}
-    {{ 'Video Conferencing Room (COM1-02-13), School of Computing, National University of Singapore' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="Video Conferencing Room (COM1-02-13), School of Computing, National University of Singapore" date="January 22nd" %}}
 
 # That Roomba Raspberry Pi Kinect Hack
 

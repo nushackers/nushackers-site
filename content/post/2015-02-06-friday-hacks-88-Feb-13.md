@@ -8,10 +8,7 @@ url: /2015/02/06/friday-hacks-88-Feb-13/
 Ever wanted to get involved in the tech/developer community but don't know where to
 start? Come down to Friday Hacks this week to learn about it!
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, UTown' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="SR3, Town Plaza, UTown" date="February 13" %}}
 
 Facebook Event link: https://www.facebook.com/events/411879552308839
 

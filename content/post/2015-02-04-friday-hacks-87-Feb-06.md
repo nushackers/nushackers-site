@@ -7,10 +7,7 @@ url: /2015/02/04/friday-hacks-87-Feb-06/
 
 This week's topic will be on an introduction to deep learning and neural networks by Shawn Tan. See you there!
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, UTown' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="SR3, Town Plaza, UTown" date="February 6" %}}
 
 Facebook Event link: https://www.facebook.com/events/660494384072897
 

@@ -9,11 +9,7 @@ This week have Chuk from from NUS ISS and Yos from Paypal talking about JavaScri
 
 Facebook event [here](https://www.facebook.com/events/348978242107994/)
 
-{% capture venue %}
-    {{ 'The Hangar by NUS Enterprise' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="The Hangar by NUS Enterprise" date="October 14" %}}
 
 ### JS Promises
 
