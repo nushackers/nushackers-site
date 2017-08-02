@@ -1,0 +1,42 @@
+// Styles
+
+.pagination {
+  display: flex;
+  // 1-2: Disable browser default list styles
+  padding-left: 0; // 1
+  list-style: none; // 2
+}
+
+.pagination a {
+  float: left;
+  padding: 8px 16px;
+  border: 1px solid #ddd; /* Gray */
+  transition: background-color .3s;
+}
+
+.pagination li a:hover {
+  text-decoration: none;
+}
+
+.pagination li.active a {
+  color: white;
+  background-color: $hackers-orange;
+}
+
+.pagination li.disabled {
+  display: none;
+}
+
+.pagination li:not(.active) a:hover {
+  background-color: #ddd;
+}
+
+.pagination li:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.pagination li:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}

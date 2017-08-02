@@ -216,7 +216,7 @@ gulp.task('hugo', ['scss:compile'], () => {
   const flags = [];
   if (IS_DEVELOPMENT) {
     flags.push('server'); // watch and serve
-    flags.push('--navigateToChanged'); // navigate to changed file
+    flags.push('navigateToChanged'); // navigate to changed file
   }
   const child = spawn('hugo', flags);
 
