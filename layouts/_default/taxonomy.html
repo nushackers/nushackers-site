@@ -1,0 +1,14 @@
+{{ define "main" }}
+<main class="container main">
+  <h1>
+    {{- if .Data.Singular -}}
+    {{ .Data.Singular | title }}: {{ .Data.Term }}
+    {{- end -}}
+  </h1>
+  {{ range .Data.Pages }}
+  <article>
+    <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
+  </article>
+  {{ end }}
+</main>
+{{ end }}
