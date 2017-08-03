@@ -100,3 +100,42 @@
     science, technology and Spongebob. He also likes to try out new stuff when
     he's free. <em>More about him at</em> <a
     href="http://yjyao.com">yjyao.com</a>.
+
+- name: Zhi An
+  description: |
+    a Computer Science undergraduate and also goes by Anzai. When he's not doing
+    school work, he loves reading technology news (Hacker News is his favourite)
+    and trying out new Linux distributions. <em>More about him at</em> <a
+    href="http://ngzhian.com/">ngzhian.com</a>.
+
+- name: Joey
+  description: |
+    a Computer Science undergraduate.
+
+- name: Stacey
+  description: |
+    a Computer Science undergraduate who loves trekking, philosophy, and tea.
+    <em>More about him at </em><a
+    href="http://staceytay.com">staceytay.com</a><em>.</em>
+
+- name: Vishnu
+  description: |
+    a CS student who's interested in too many things at once. You can learn
+    absolutely nothing more about him at his website <a
+    href="http://vishnuprem.com">vishnuprem.com</a>, but you can follow him
+    on <a href="http://twitter.com/burnflare">twitter</a>. He's contactable at
+    <a href="mailto:vishnu@nushackers.org">vishnu@nushackers.org</a>.
+
+- name: Jeremias
+  description: |
+    a Computer Engineering undergraduate who loves electronics, music and philosophy.
+
+- name: Chu-Ming
+  description: |
+    an Electrical Engineering undergraduate with an interest in Computer Science.
+    <em>More about him at</em> <a href="http://changchuming.github.io">changchuming.github.io</a>.
+
+- name: Jingwen
+  description: |
+    a Computer Science undergraduate. He’s interested in software engineering, programming languages, scalability, vim and techno. <em>He is on <a href="http://twitter.com/jin_">Twitter</a> and his personal site is at <a href="http://jin.crypt.sg">jin.crypt.sg</a></em>.
+    
