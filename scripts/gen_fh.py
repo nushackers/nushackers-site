@@ -1,6 +1,5 @@
 # Generate this week's friday hack
-# Please first update data/friday_hacks.yml before
-# running this shit
+# Please first update data/friday_hacks.yml before running this
 import yaml
 from datetime import datetime, timedelta
 from os import listdir
