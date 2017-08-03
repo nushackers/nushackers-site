@@ -5,6 +5,9 @@
         <h1>{{ .Title }}</h1>
         <h2 class="posted">Posted on <time>{{ .Date.Format "Jan 2" }}</time> by {{ .Params.author }}</h2>
         {{ .Content }}
+        {{ if eq (substr .Title 0 14) "Friday Hacks #" }}
+          {{ partial "friday_hack_footer.html" . }}
+        {{ end}}
     </article>
   </section>
   <div class="col-12 col-md-10 offset-md-1 browse">
