@@ -9,11 +9,7 @@ This week, we have Benjamin from DSO and James from nuTonomy, both talking about
 
 Facebook event [here](https://www.facebook.com/events/800240806745171/).
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR3, Town Plaza, University Town" date="September 30" %}}
 
 ### Autonomous Vehicles: Advances and Algorithms
 

@@ -7,11 +7,7 @@ url: /2014/10/31/friday-hacks-81-Oct-31/
 
 Ever written code only to realise later it doesn't work for some particular case? Find out about some common assumptions developers make and what to do instead!
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza (Level 2), University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR3, Town Plaza (Level 2), University Town, NUS" date="October 31" %}}
 
 ### In Murphy('s Law) We Trust
 

@@ -7,10 +7,7 @@ url: /2015/10/14/friday-hacks-100-Oct-16/
 
 NUS Hackers is celebrating our 100th Friday Hacks!
 
-{% capture venue %}
-    {{ 'Seminar Room 3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header_fh_100.html %}
+{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Oct 16" %}}
 
 Facebook Event link: [https://www.facebook.com/events/834978463288543/](https://www.facebook.com/events/834978463288543/)
 

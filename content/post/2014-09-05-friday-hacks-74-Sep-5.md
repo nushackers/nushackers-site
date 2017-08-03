@@ -7,11 +7,7 @@ url: /2014/09/05/friday-hacks-74-Sep-5/
 
 Gérard, chief engineer at Airbus Defence & Space, will be sharing about Open Source Intelligence and how the WebLab approach is used to efficiently mine the web.
 
-{% capture venue %}
-    {{ 'SR4, Town Plaza (Level 2), University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="SR4, Town Plaza (Level 2), University Town, NUS" date="September 5" %}}
 
 ### WebLab Platform for Semantic Media Mining
 

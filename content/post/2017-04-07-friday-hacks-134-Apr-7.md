@@ -7,8 +7,7 @@ url: /2017/04/07/friday-hacks-134-Apr-7/
 
 Welcome back to our last episode of Friday Hacks for this semester! This week we'll be having Peter over to talk about Nix and NixOS. Nix and its related technologies bring a radically different approach to server/container management and allows you to provision OS and software in repeatable and consistent ways. Also, if you're curious about row hammering as a means of exploitation, mentioned last Friday Hacks by Halvar, Vishnu will be sharing about it in detail in the second talk.
 
-{{% friday_hack_header venue="SR5, Town Plaza, University Town, NUS" date="test" %}}
-
+{{% friday_hack_header venue="SR5, Town Plaza, University Town, NUS" date="April 7" %}}
 
 ### (Programming your OS && ignoring state) == bliss
 

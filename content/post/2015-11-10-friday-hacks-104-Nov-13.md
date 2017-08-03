@@ -11,10 +11,7 @@ challenge this week, with a twist - shortest solutions win!
 
 There will also be an afterparty to celebrate the end of the semester!
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza (Level 2), University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="November 13" %}}
 
 ### Code Golf
 

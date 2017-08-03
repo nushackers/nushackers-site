@@ -7,10 +7,7 @@ url: /2015/08/13/friday-hacks-94-Aug-21/
 
 Friday Hacks are back for this new academic year! 
 
-{% capture venue %}
-    {{ 'Seminar Room 1, School of Computing' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="Seminar Room 1, School of Computing" date="August 21" %}}
 
 Please join us in our Welcome Tea, where our president will share about what we do, the importance of fostering hacker culture in NUS and how to hack life!
 

@@ -9,11 +9,7 @@ For our second last Friday Hacks of the semester, we're inviting Omer and Jason 
 
 Facebook event: [https://www.facebook.com/events/213455062355930/](https://www.facebook.com/events/213455062355930/)
 
-{% capture venue %}
-    {{ 'Seminar Room 3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="April 8" %}}
 
 ### Implementing a toy compiler with LLVM
 

@@ -7,10 +7,7 @@ url: /2017/02/10/friday-hacks-127-Feb-10/
 
 Come join us this Friday for our weekly Friday Hacks! We will have Ding Feng sharing about hardware hacking. Read on to know more.
 
-{% capture venue %}
-    {{ 'SR3, Town Plaza, University Town, NUS' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
+{{% friday_hack_header venue="SR3, Town Plaza, University Town, NUS" date="February 10" %}}
 
 ### Hardware Hacks: The Whys and Hows
 

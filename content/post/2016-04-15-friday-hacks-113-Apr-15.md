@@ -10,11 +10,7 @@ For our final Friday Hacks this semester, we’re inviting Melvin from [Cosmiqo]
 
 Facebook Event [here](https://www.facebook.com/events/1219608128069067/).
 
-{% capture venue %}
-    {{ 'Seminar Room 3, Town Plaza, University Town' }}
-{% endcapture %}
-{% include friday_hack_header.html %}
-
+{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="April 15" %}}
 
 ### Talk 1: Building a Turing Machine emulator to explore Turing's great ideas.
 
