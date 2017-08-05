@@ -12,10 +12,10 @@ Did you catch it on Friday (28 Mar)?<br /><br />If not, here's what you missed.<
 
 <div align="center">
 
-<a href="http://good-times.webshots.com/photo/2983381960101890940BjOexL"><img src="http://inlinethumb33.webshots.com/44000/2983381960101890940S425x425Q85.jpg" alt="IMG_7914"></a>
+{{< imglink src="http://inlinethumb33.webshots.com/44000/2983381960101890940S425x425Q85.jpg" alt="IMG_7914" >}}
 
-<a href="http://good-times.webshots.com/photo/2597115680101890940ThoTFb"><img src="http://inlinethumb02.webshots.com/42753/2597115680101890940S425x425Q85.jpg" alt="IMG_7919"></a>
+{{< imglink src="http://inlinethumb02.webshots.com/42753/2597115680101890940S425x425Q85.jpg" alt="IMG_7919" >}}
 
-<a href="http://good-times.webshots.com/photo/2226092410101890940CAplEG"><img src="http://inlinethumb18.webshots.com/44753/2226092410101890940S425x425Q85.jpg" alt="IMG_7920"></a>
+{{< imglink src="http://inlinethumb18.webshots.com/44753/2226092410101890940S425x425Q85.jpg" alt="IMG_7920" >}}
 </div>
 We need to thank the organisers of the Sun NUS Open Source Day for inviting linuxNUS to set up a booth there, for it gave us quite a bit of publicity. And I'm not kidding when I say people have come up to me after watching the demos at the booth saying that they've fallen in love with Linux. <i>Really! It's true!</i><br /><br /><br />And if you're one of those who came by our booth to say hi on Friday and pick up a Fedora DVD, here are a few links to get you started (if you haven't found your way around already =)<br /><ul><li><a href="http://groups.yahoo.com/groups/linuxnus">Our Yahoo! Mailing List</a></li><li><a href="http://opensource.nus.edu.sg">linuxNUS Open Source Wiki</a></li><li><a href="http://opensource.nus.edu.sg/forums">linuxNUS Forums</a></li><li>#linuxnus on irc.<a href="http://freenode.net/">freenode.net<br /></a></li></ul><br /><br />

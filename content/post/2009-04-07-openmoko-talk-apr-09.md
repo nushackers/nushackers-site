@@ -9,7 +9,7 @@ title: Openmoko Talk Apr 09
 url: /2009/04/07/openmoko-talk-apr-09/
 ---
 
-<a href="/img/2009/04/openmoko.jpg"><img src="/img/2009/04/openmoko.jpg" alt="openmoko" title="openmoko" width="212" height="300" class="aligncenter size-medium wp-image-470" /></a>
+{{< imglink src="/img/2009/04/openmoko.jpg" alt="openmoko" >}}
 
 <strong>April 8:
 OpenMoko

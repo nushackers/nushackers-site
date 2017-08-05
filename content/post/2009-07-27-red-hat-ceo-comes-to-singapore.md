@@ -10,7 +10,7 @@ title: Red Hat CEO comes to Singapore
 url: /2009/07/27/red-hat-ceo-comes-to-singapore/
 ---
 
-<a href="/img/2009/07/redhat.jpg"><img src="/img/2009/07/redhat.jpg" alt="redhat" title="redhat" width="272" height="285" class="aligncenter size-full wp-image-668" /></a>
+{{< imglink src="/img/2009/07/redhat.jpg" alt="redhat" >}}
 
 Red Hat CEO, Jim Whitehurst, will be in Singapore this Friday, 31st July 2009, and share his experience and insights on Open Source in 2 sessions..
 

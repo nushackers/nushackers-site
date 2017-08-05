@@ -11,7 +11,7 @@ url: /2009/03/04/open-up-to-lxde/
 ---
 
 <div align="center">&nbsp;
-[caption id="attachment_167" align="aligncenter" width="212" caption="Click for larger image"]<a href="/img/2009/03/lxde_poster.jpg" target="_blank"><img src="/img/2009/03/lxde_poster.jpg" alt="Click for larger image" title="lxde_poster" width="212" height="300" class="size-medium wp-image-167" /></a>[/caption]
+[caption id="attachment_167" align="aligncenter" width="212" caption="Click for larger image"]{{< imglink src="/img/2009/03/lxde_poster.jpg" alt="Click for larger image" >}}[/caption]
 </div>
 
 Hello friends of Open Source, and strangers round the world!

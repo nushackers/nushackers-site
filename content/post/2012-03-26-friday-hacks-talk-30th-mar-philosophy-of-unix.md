@@ -9,7 +9,7 @@ title: Friday Hacks Talk 30th Mar - Philosophy of Unix
 url: /2012/03/26/friday-hacks-talk-30th-mar-philosophy-of-unix/
 ---
 
-<span style="font-family: arial,helvetica,sans-serif;"><a href="/img/2012/03/unix_plate.jpg"><img class="alignnone size-full wp-image-2481" title="unix_plate" src="/img/2012/03/unix_plate.jpg" alt="" width="397" height="201" /></a>
+<span style="font-family: arial,helvetica,sans-serif;">{{< imglink src="/img/2012/03/unix_plate.jpg" alt="" >}}
 </span>
 <div></div>
 <div>

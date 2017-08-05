@@ -42,4 +42,4 @@ Here's the finalized prize distribution:
 
 See you there!
 
-<a href="/img/2012/02/hacknrollposterthird.jpg"><img src="/img/2012/02/hacknrollposterthird.jpg" alt="" title="hacknrollposterthird" width="640" height="905" class="alignleft size-large wp-image-2215" /></a>
+{{< imglink src="/img/2012/02/hacknrollposterthird.jpg" alt="" >}}

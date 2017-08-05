@@ -9,7 +9,7 @@ title: 'Friday Hacks #1'
 url: /2011/08/28/friday-hacks-1/
 ---
 
-<a href="/img/2011/08/IMG_1214.jpg"><img src="/img/2011/08/IMG_1214.jpg" alt="" title="Friday Hacks" width="942" height="434" class="aligncenter size-full wp-image-1718" /></a>
+{{< imglink src="/img/2011/08/IMG_1214.jpg" alt="" >}}
 So we had our first Friday Hacks on the 26th of August, at the UTown Mac Common's largest meeting room. We had 2 people doing their CS2103 assignment, 2 people learning Android, 1 person reading up on the iOS SDK, one person doing "random shit" (e.g.: piping his webcam input to mplayer, and output as <del datetime="2011-08-30T03:03:17+00:00">ASCII</del> Unicode [thanks, Vikram], on Arch), one guy learning Haskell, and one guy working on his FYP - which was building an underwater modem (using sound to transmit signals, of all things).
 
 There were some bugs, as expected. The room's display unit didn't work properly, and the place turned out to be too small for all the people that eventually turned out. We'll be looking for another place on campus where we can bring our own food and drinks.
@@ -26,13 +26,13 @@ Things to work on: locate an alternative venue, one that:
 
 There's no Friday Hacks next week, as we instead have the Welcome Tea. Details are as follows:
 
-<blockquote><strong>Date:</strong> 2nd September 2011 
-<strong>Time:</strong> 6.30pm to 8.30-ish pm. 
-<strong>Venue: </strong>COM1 SR3 [COM1/212]. 
+<blockquote><strong>Date:</strong> 2nd September 2011
+<strong>Time:</strong> 6.30pm to 8.30-ish pm.
+<strong>Venue: </strong>COM1 SR3 [COM1/212].
 <strong>Agenda:</strong> We want to keep this to about an hour. Alumni will be speaking, the current president will explain some administrative stuff, and then we'll all break for talking, free pizza and drinks.</blockquote>
 
 See you there!
 
-<a href="/img/2011/08/IMG_1212.jpg"><img src="/img/2011/08/IMG_1212.jpg" alt="" title="Friday Hacks 1 External View" width="1000" height="750" class="aligncenter size-full wp-image-1719" /></a>
-<a href="/img/2011/08/IMG_1217.jpg"><img src="/img/2011/08/IMG_1217.jpg" alt="" title="Friday Hacks 1 Internal View" width="1000" height="750" class="aligncenter size-full wp-image-1720" /></a>
+{{< imglink src="/img/2011/08/IMG_1212.jpg" alt="" >}}
+{{< imglink src="/img/2011/08/IMG_1217.jpg" alt="" >}}
 

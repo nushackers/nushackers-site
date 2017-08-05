@@ -30,7 +30,7 @@ And if you'd like, do come down to meet the judges and watch the conclusion of t
 
 We hope to see you there!
 
-<a href="/img/2012/02/hacknrollposterthird.jpg"><img src="/img/2012/02/hacknrollposterthird.jpg" alt="" title="hacknrollposterthird" width="640" height="905" class="alignleft size-large wp-image-2215" /></a>
+{{< imglink src="/img/2012/02/hacknrollposterthird.jpg" alt="" >}}
 <br/>
 
 (If you'd like to participate, you <em>will</em> have to pay the $10 registration fee to get a chance to compete for prizes.[1] We have raised enough money for food now, thanks to the kindness of our supporting organizations: <strong>IDA</strong> and <strong>NOC Odyssey Fund</strong>; so we'll be using the money from registrations to fund future Friday Hacks, for the benefit of the NUS developer community).

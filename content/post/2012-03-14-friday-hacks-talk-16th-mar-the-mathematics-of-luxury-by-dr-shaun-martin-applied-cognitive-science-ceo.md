@@ -16,7 +16,7 @@ url: /2012/03/14/friday-hacks-talk-16th-mar-the-mathematics-of-luxury-by-dr-shau
 <div>
 <div>
 <div>
-<div><a href="/img/2012/03/Lamborghini_Murcielago_Roadster.jpg"><img class="alignnone" title="Lamborghini" src="/img/2012/03/Lamborghini_Murcielago_Roadster.jpg" alt="" width="539" height="300" /></a></div>
+<div>{{< imglink src="/img/2012/03/Lamborghini_Murcielago_Roadster.jpg" alt="" >}}</div>
 </div>
 </div>
 </div>
@@ -75,7 +75,7 @@ Applied Cognitive Science was founded to apply new discoveries in the cognitive 
 <div>
 <div>
 <div>
-<div><a href="/img/2012/03/Thinkie-XSmall.jpg"><img class="alignnone" title="thinkie" src="/img/2012/03/Thinkie-XSmall.jpg" alt="" width="400" height="300" /></a></div>
+<div>{{< imglink src="/img/2012/03/Thinkie-XSmall.jpg" alt="" >}}</div>
 </div>
 </div>
 </div>

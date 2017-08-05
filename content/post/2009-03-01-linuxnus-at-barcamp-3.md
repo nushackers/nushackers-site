@@ -10,7 +10,7 @@ title: linuxNUS at Barcamp 3
 url: /2009/03/01/linuxnus-at-barcamp-3/
 ---
 
-<div align="center"><a href="/img/2009/03/img_9638_1.jpg"><img src="/img/2009/03/img_9638_1.jpg" alt="img_9638_1" title="img_9638_1" width="500" height="333" class="aligncenter size-full wp-image-182" /></a></div>
+<div align="center">{{< imglink src="/img/2009/03/img_9638_1.jpg" alt="img_9638_1" >}}</div>
 
 <p>&nbsp;</p>
 <div align="center">[caption id="attachment_157" align="aligncenter" width="500" caption="Hello from Barcamp 3 SG!"]<img src="/img/2009/03/img_9640_.jpg" alt="Hello from Barcamp 3 SG!" title="img_9640_" width="500" height="333" class="size-full wp-image-157" />[/caption]
