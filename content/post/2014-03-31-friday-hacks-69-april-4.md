@@ -41,10 +41,3 @@ b) perform n deletions in O(n) time (open)
 </div>
 <div><strong style="line-height: 1.5em;"></strong>Melvin is a programmer at Hoiio and the maintainer of Magarena, an open source card game with a challenging AI opponent. Melvin received his B.Comp (Hons) and Ph.D. degrees from NUS School of Computing.</div>
 </div>
-Our Sponsors
-
-Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
-
-<a href="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img alt="" src="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg" width="180" height="148" /></a><a href="/img/2013/10/ida.png"><img alt="" src="/img/2013/10/ida.png" width="146" height="136" /></a>
-
-If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg

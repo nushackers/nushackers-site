@@ -19,12 +19,6 @@ The most commonly repeated advice about tech internships is that you should do t
 
 <strong>Speaker Profile:</strong>
 Cedric Chin is an Computer Science major at NUS. He ran the NUS Hackers from late 2010 - mid 2012. He's interned at enough startups to know that they're all trainwrecks on the inside - even the good ones. Previous internships: Kicksend, Viki.
-<h3>Our Sponsors</h3>
-Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
-
-<a href="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img class="alignnone size-medium wp-image-3173" alt="" src="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg" width="300" height="247" style="display:inline-block;" /></a><a href="/img/2013/10/ida.png"><img class="alignnone  wp-image-3176" alt="" src="/img/2013/10/ida.png" width="243" height="227" style="display:inline-block;" /></a>
-
-If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg
 
 ==============================
 

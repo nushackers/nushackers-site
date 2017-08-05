@@ -19,12 +19,3 @@ This friday, we have a talk by Chia Yuan from DSO National Laboratories. See yo
 <strong>Speaker Profile</strong>
 Chia Yuan is a senior scientist at DSO National Laboratories, Singapore. He works on applied formal methods to computer security, in particular the application of automated techniques to improve software and systems security. He obtained his PhD from the University of California, Berkeley in December 2013.
 <div>
-
-Our Sponsors
-
-</div>
-Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
-
-<a href="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img alt="" src="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg" width="180" height="148" /></a><a href="/img/2013/10/ida.png"><img alt="" src="/img/2013/10/ida.png" width="146" height="136" /></a>
-
-If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg

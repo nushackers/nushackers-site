@@ -26,11 +26,3 @@ This Friday, we have a talk by Indra from SimplerCloud. See you!
 Indra Pramana, CEO, SimplerCloud
 
 Indra Pramana has more than 18 years of experience in the Internet and hosting industry. He started his career in 1995 at PT Rahajasa Media Internet (RADNET), a leading Internet Service Provider in Indonesia, before joining Webvisions Pte Ltd (now ICONZ-Webvisions Pte Ltd) as VP, Network, one of Asia’s largest hosting companies, in 2000. He has a Masters Degree on Information Technology from the University of Indonesia, Jakarta.
-
-<span style="line-height: 1.5em;">Our Sponsors</span></div>
-</div>
-Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
-
-<a href="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img alt="" src="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg" width="180" height="148" /></a><a href="/img/2013/10/ida.png"><img alt="" src="/img/2013/10/ida.png" width="146" height="136" /></a>
-
-If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg

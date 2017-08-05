@@ -22,9 +22,3 @@ This Valentine's evening, we have a exciting talk by Hongyi Li about his past wo
 <strong>Speaker Profile:</strong><strong></strong>
 <div><span style="line-height: 1.5em;">Hongyi worked as a product manager at Google from 2011 to 2013. During that time he worked on Spanner with the infrastructure team and the UI redesign of Image Search. He's currently back in Singapore working at IDA on a new team trying to make the government more data driven.</span></div>
 </div>
-<span style="font-size: 1.17em; line-height: 1.5em;">Our Sponsors</span><strong></strong>
-Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
-
-<a href="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img alt="" src="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg" width="180" height="148" /></a><a href="/img/2013/10/ida.png"><img alt="" src="/img/2013/10/ida.png" width="146" height="136" /></a>
-
-If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg

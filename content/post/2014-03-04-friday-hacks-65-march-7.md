@@ -38,12 +38,3 @@ Every wondered what an Internship at a tech company is like? Contemplating an in
 <strong>Speaker Profile</strong>
 Michael is a third year Computer Science undergrad at NUS. He previously interned at Google on the Google Docs team. He also took last semester off to do a software engineering internship at Quora. He’ll be going back to Google this summer.
 <div>
-
-Our Sponsors
-
-</div>
-Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
-
-<a href="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img alt="" src="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg" width="180" height="148" /></a><a href="/img/2013/10/ida.png"><img alt="" src="/img/2013/10/ida.png" width="146" height="136" /></a>
-
-If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg
