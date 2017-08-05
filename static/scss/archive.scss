@@ -1,0 +1,9 @@
+.archive {
+  .archive-list {
+    @extend .clear-list;
+  }
+
+  .posts-title {
+    font-weight: 500;
+  }
+}

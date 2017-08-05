@@ -1,7 +1,9 @@
 {{ define "main" }}
 <main class="row front-page main">
   <section class="hero col-12 section">
-    <h1>Spreading the hacker culture</h1>
+    <header class="section-header">
+      <h1 class="section-title">Spreading the hacker culture</h1>
+    </header>
     <div class="hero-content">
       <h2>What we do</h2>
       <ul class="hero-list list row">
@@ -17,12 +19,12 @@
     </div>
   </section>
   <section class="col-12 section">
-    <header>
-      <h1>Upcoming events</h1>
+    <header class="section-header">
+      <h1 class="section-title">Upcoming events</h1>
     </header>
     <div class="fh events">
-      <header class="front">
-        <h2 class="front-header">Friday Hacks</h2>
+      <header class="front-header">
+        <h2 class="front-title">Friday Hacks</h2>
         <ul class="front-list">
           <li>
             <a href="/sponsor">Supported</a> by NEC and IDA.
@@ -60,8 +62,8 @@
       </ol>
     </div>
     <div class="hs events">
-      <header class="front">
-        <h2 class="front-header hs-header">Hackerschool</h2>
+      <header class="front-header">
+        <h2 class="front-title hs-header">Hackerschool</h2>
       </header>
       <ol class="list row">
         {{ range $index, $event := $.Site.Data.hacker_school.events }}
@@ -77,8 +79,9 @@
     </div>
   </section>
   <section class="posts col-12 section">
-    <header class="front">
-      <h1><a href="/archive">Articles</a></h1>
+    <header class="section-header">
+      <h1 class="section-title">Articles</h1>
+      <a href="/archive">Read more</a>
     </header>
     <ul class="list row">
       {{ range first 8 .Data.Pages }}
@@ -88,7 +91,7 @@
           <h3 class="posts-title"><a class="posts-link" href='{{ .Permalink }}'> {{ .LinkTitle }}</a> </h3>
           <div class="posts-meta">{{ .Date.Format "Mon, Jan 2" }} • {{ .ReadingTime }} min read</div>
         </header>
-        {{ .Summary | truncate 150 }} <a href='{{ .Permalink }}'>Read more</a>
+        {{ .Summary | truncate 150 }} <a href='{{ .Permalink }}'>more</a>
       </article>
       </li>
       {{ end }}
