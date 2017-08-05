@@ -24,7 +24,7 @@ Fazli likes to hack random projects for fun and without any apparent reason. Faz
 <h3>Our Sponsors</h3>
 Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
 
-<a href="/res/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img class="alignnone  wp-image-3173" style="display: inline-block;" alt="" src="/res/2013/10/ETP-logo-full-color-vertical-to-be-used-300x247.jpg" width="180" height="148" /></a><a href="/res/2013/10/ida.png"><img class="alignnone  wp-image-3176" style="display: inline-block;" alt="" src="/res/2013/10/ida-300x280.png" width="146" height="136" /></a>
+<a href="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img class="alignnone  wp-image-3173" style="display: inline-block;" alt="" src="/img/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg" width="180" height="148" /></a><a href="/img/2013/10/ida.png"><img class="alignnone  wp-image-3176" style="display: inline-block;" alt="" src="/img/2013/10/ida.png" width="146" height="136" /></a>
 
 If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg
 

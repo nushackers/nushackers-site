@@ -18,7 +18,7 @@ Oh, were we displeased by that! There was some talk on the mailing list of atten
 
 Anyway, I'm here to tell you a bit about what we do, and maybe a little bit of what hacking is, so you don't go home and tell your friends: 'oh, I just went to CodeCom 2011; it was organized by this bunch of evil hackers.'
 
-<a href="/res/2011/02/5438767458_54be3241d8_b.jpeg"><img class="aligncenter size-full wp-image-1497" title="5438767458_54be3241d8_b" src="/res/2011/02/5438767458_54be3241d8_b.jpeg" alt="" width="1024" height="768" /></a>
+<a href="/img/2011/02/5438767458_54be3241d8_b.jpeg"><img class="aligncenter size-full wp-image-1497" title="5438767458_54be3241d8_b" src="/img/2011/02/5438767458_54be3241d8_b.jpeg" alt="" width="1024" height="768" /></a>
 <h3>What We Do</h3>
 What we do at NUS Hackers is simple: we work to spread the hacker culture. And of course nobody - not even the hackers - take this culture too seriously, but it's important for a couple of reasons.
 
@@ -34,27 +34,27 @@ There is an exception  (as Div has pointed out to me): I'm talking about practic
 
 Alright - if you don't believe me - very quickly:
 
-<a href="/res/2011/02/linus.gif"><img class="aligncenter size-full wp-image-1514" title="linus" src="/res/2011/02/linus.gif" alt="" width="312" height="314" /></a>
+<a href="/img/2011/02/linus.gif"><img class="aligncenter size-full wp-image-1514" title="linus" src="/img/2011/02/linus.gif" alt="" width="312" height="314" /></a>
 
 Linux. Linux was created by this 21 year old kid, Linus Torvalds, because he was bored and he wanted to read news in a terminal in his bedroom.
 
-<a href="/res/2011/02/steve-jobs-steve-wozniak-blue-box.jpg"><img class="aligncenter size-full wp-image-1513" title="steve-jobs-steve-wozniak-blue-box" src="/res/2011/02/steve-jobs-steve-wozniak-blue-box.jpg" alt="" width="344" height="285" /></a>
+<a href="/img/2011/02/steve-jobs-steve-wozniak-blue-box.jpg"><img class="aligncenter size-full wp-image-1513" title="steve-jobs-steve-wozniak-blue-box" src="/img/2011/02/steve-jobs-steve-wozniak-blue-box.jpg" alt="" width="344" height="285" /></a>
 
 Steve Jobs and Steve Wozniak were members of the Homebrew Computer Club, and they started out selling hacker blue boxes.
 
-<a href="/res/2011/02/20080121-young-bill-gates.jpg"><img class="aligncenter size-full wp-image-1515" title="20080121-young-bill-gates" src="/res/2011/02/20080121-young-bill-gates.jpg" alt="" width="490" height="337" /></a>
+<a href="/img/2011/02/20080121-young-bill-gates.jpg"><img class="aligncenter size-full wp-image-1515" title="20080121-young-bill-gates" src="/img/2011/02/20080121-young-bill-gates.jpg" alt="" width="490" height="337" /></a>
 
 Bill Gates had been programming since high school, with a bunch of friends who were all mad about it. He would climb out of his bedroom window at 3am in the morning and sneak to the University of Washington to use the faculty computers.
 
-<a href="/res/2011/01/nerdpol-ken-den.jpg"><img class="size-large wp-image-1296" title="Ken Thompson and Dennis Ritchie" src="/res/2011/01/nerdpol-ken-den-1024x819.jpg" alt="Ken Thompson and Dennis Ritchie at the PDP-11 in 1972" height="511" /></a>
+<a href="/img/2011/01/nerdpol-ken-den.jpg"><img class="size-large wp-image-1296" title="Ken Thompson and Dennis Ritchie" src="/img/2011/01/nerdpol-ken-den.jpg" alt="Ken Thompson and Dennis Ritchie at the PDP-11 in 1972" height="511" /></a>
 
 Ken Thompson and Dennis Ritchie - that's them at the PDP-10 there. Ken Thompson was sick to death of working on the Multics operating system, so he decided to write this portable OS called Unix instead. And as a result we got the Unix design of operating systems, and we got GNU, and we got the C programming language.
 
-<a href="/res/2011/02/tim_berners-lee_cern_1993.jpg"><img class="aligncenter size-full wp-image-1516" title="tim_berners-lee_cern_1993" src="/res/2011/02/tim_berners-lee_cern_1993.jpg" alt="" width="800" height="513" /></a>
+<a href="/img/2011/02/tim_berners-lee_cern_1993.jpg"><img class="aligncenter size-full wp-image-1516" title="tim_berners-lee_cern_1993" src="/img/2011/02/tim_berners-lee_cern_1993.jpg" alt="" width="800" height="513" /></a>
 
 CERN was the lab where the world wide web was built. And while the Internet wasn't a hacker-initiated project, it was built by hackers, and the Internet as we know it today was the result of this hacker who got bored and wondered what would happen if he sent an electronic message through the early network. And so we got email.
 
-<a href="/res/2011/02/mark_zuckerberg_facebook-540x315.jpg"><img class="aligncenter size-full wp-image-1517" title="mark_zuckerberg_facebook-540x315" src="/res/2011/02/mark_zuckerberg_facebook-540x315.jpg" alt="" width="540" height="315" /></a>
+<a href="/img/2011/02/mark_zuckerberg_facebook.jpg"><img class="aligncenter size-full wp-image-1517" title="mark_zuckerberg_facebook-540x315" src="/img/2011/02/mark_zuckerberg_facebook.jpg" alt="" width="540" height="315" /></a>
 
 Mark Zuckerberg was a hacker. Before Facebook he wrote this MP3 player to select music based on what you liked, and he gave it away for free, online. Why? Because he was bored.
 

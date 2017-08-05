@@ -8,7 +8,7 @@ title: Intro to Nokia Qt C++ Framework
 url: /2010/06/16/intro-to-nokia-qt-c-framework/
 ---
 
-![Qt Logo](/res/2010/06/qt_image_thumb.png "Qt Logo")
+![Qt Logo](/img/2010/06/qt_image_thumb.png "Qt Logo")
 
 Developing a portable application has never been an easy task, be it a browser-based service or a fanciful desktop application. With emergence of many frameworks for developing cross-platform applications, choosing the right one has become a challenge. One can name a bunch of frameworks for desktop development, such as GTK+, Gtkmm, FLTK, VCF C++, etc. Adobe fans would pronounce Adobe Air as the best choice. Well, so what do I have in my hat? Voilà! I'd like to present Nokia Qt C++ framework - one of the leading frameworks for desktop &amp; mobile development.
 
@@ -24,7 +24,7 @@ There are many reasons why I love Qt Designer and would like to share some with 
 
 You may want read more on [Qt Designer][].
 
-![World Time Clock Plugin Example](/res/2010/06/worldtimeclockplugin-example.png "World Time Clock Plugin Example")
+![World Time Clock Plugin Example](/img/2010/06/worldtimeclockplugin-example.png "World Time Clock Plugin Example")
 
 ### Write once &amp; run everywhere
 
@@ -34,13 +34,13 @@ You can target different architectures such as x86, x86-64, ARM, ... and run on 
 
 Qt has a wealth of network libraries. The clients to the standard services such as HTTP(S) &amp; FTP are already there for you. XML parsing, XQuery &amp; XPath libraries will enable you to interface with web services. Writing own TCP/UDP-based protocols with Qt is easy. Feel free to read more on [Qt Network][].
 
-![Google Suggest Example](/res/2010/06/googlesuggest-example.png "Google Suggest Example")
+![Google Suggest Example](/img/2010/06/googlesuggest-example.png "Google Suggest Example")
 
 ### Browser &amp; scripting integration
 
 Along with high quality modules for GUI, networking and XML, Nokia Qt C++ framework has other 2 killer modules: QtWebkit &amp; QtScript. QtWebkit provides browser integration based on the Webkit engine used by Apple Safari &amp; Google Chrome. Adding a browser to your application to render web pages or custom help/manual files in HTML has never been easier. QtScript exposes Qt objects to scripting with JS-like language. With QtScript you are empowered to do cross-platform scripting on your applications to increase productivity and encourage users to write their own extensions. Please refer to the official [Qt Script][] and [Qt Webkit][] documents and examples to explore more.
 
-![Webkit Examples](/res/2010/06/webkit-examples.png "Webkit Examples")
+![Webkit Examples](/img/2010/06/webkit-examples.png "Webkit Examples")
 
 ### Installation
 
@@ -68,7 +68,7 @@ Along with high quality modules for GUI, networking and XML, Nokia Qt C++ framew
 
 Now you are ready to run Qt demos &amp; examples. Enjoy!
 
-![Qt Demonstrations](/res/2010/06/qtdemo.png "Qt Demonstrations")
+![Qt Demonstrations](/img/2010/06/qtdemo.png "Qt Demonstrations")
 
 ### Conclusion
 

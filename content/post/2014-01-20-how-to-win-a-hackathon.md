@@ -9,7 +9,7 @@ url: /2014/01/20/how-to-win-a-hackathon/
 ---
 
 <em>Camillus Cai was part of the 3 person team that won Hack&amp;Roll 2013, and later a part of the 4 person team that won 3rd place in PenApps Fall 2013, the largest student hackathon in the US (and possibly the world). He's now one of the organisers for <a href="http://hacknroll.nushackers.org/">Hack&amp;Roll 2014</a>.</em>
-<p style="text-align: center;"><a href="/res/2014/01/417309_10150631790541726_697811725_9285897_1030864859_n.jpg"><img class=" wp-image-3269 aligncenter" alt="Prizes, Hack&amp;Roll 2012" src="/res/2014/01/417309_10150631790541726_697811725_9285897_1030864859_n.jpg" width="535" height="400" /></a></p>
+<p style="text-align: center;"><a href="/img/2014/01/417309_10150631790541726_697811725_9285897_1030864859_n.jpg"><img class=" wp-image-3269 aligncenter" alt="Prizes, Hack&amp;Roll 2012" src="/img/2014/01/417309_10150631790541726_697811725_9285897_1030864859_n.jpg" width="535" height="400" /></a></p>
 Are you dead serious about winning?
 
 Hackathons are supposed to be fun events for networking and learning, but sometimes, you might just <strong>want</strong> that top prize that badly. Whatever your reasons are, hackathons, like any other system designed by mere humans, can be gamed with impunity.
@@ -33,7 +33,7 @@ Make sure that everyone on the team knows their role in the development process,
 Collaboration tools like Git and Asana are immensely helpful. If you are using them, make sure they are set up and accessible before turning up at the competition venue, and that everyone on the team knows how and when to use them.
 
 In particular, task management systems like Asana are invaluable in keeping the development process organised towards the end of the competition when the team is operating under fatigue. However, these systems require effort to maintain. When the team is fresh and on the same page at the beginning of the competition, it is easy to lose the discipline to keep your task record up to date.
-<p style="text-align: center;"><a href="/res/2013/03/WP_20130224_016.jpg"><img class=" wp-image-3003 aligncenter" alt="Hack&amp;Roll '13 - 1" src="/res/2013/03/WP_20130224_016-1024x576.jpg" width="535" height="301" /></a></p>
+<p style="text-align: center;"><a href="/img/2013/03/WP_20130224_016.jpg"><img class=" wp-image-3003 aligncenter" alt="Hack&amp;Roll '13 - 1" src="/img/2013/03/WP_20130224_016.jpg" width="535" height="301" /></a></p>
 
 <h2>Size up the competition</h2>
 Walk around when taking breaks to observe what other teams are doing. If you encounter another team that is doing something similar, you will be faced with a decision to accept the competition, or to do something else.

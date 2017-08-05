@@ -11,14 +11,14 @@ url: /2009/03/04/open-up-to-lxde/
 ---
 
 <div align="center">&nbsp;
-[caption id="attachment_167" align="aligncenter" width="212" caption="Click for larger image"]<a href="/res/2009/03/lxde_poster.jpg" target="_blank"><img src="/res/2009/03/lxde_poster-212x300.jpg" alt="Click for larger image" title="lxde_poster" width="212" height="300" class="size-medium wp-image-167" /></a>[/caption]
+[caption id="attachment_167" align="aligncenter" width="212" caption="Click for larger image"]<a href="/img/2009/03/lxde_poster.jpg" target="_blank"><img src="/img/2009/03/lxde_poster.jpg" alt="Click for larger image" title="lxde_poster" width="212" height="300" class="size-medium wp-image-167" /></a>[/caption]
 </div>
 
 Hello friends of Open Source, and strangers round the world!
 
 You're all invited to NUS to listen to Mario Behling talk about <a href = "http://lxde.org/">LXDE</a> next Wednesday, 11 March! The talk will be held at the SOC1 building, in SR4 on the 6th level. Registration starts at 6.30pm; the event proper commences at 7. However, do leave us your particulars at <a href = "https://spreadsheets.google.com/viewform?formkey=cElNNV9yTk0xaS1sSDFtZW55TVJ6QWc6MA">http://linuxnus.org/registration/lxde</a> first!
 
-<div align="center"><img src="/res/2009/03/lxde-logo-150x150.png" alt="lxde-logo" title="lxde-logo" width="150" height="150" class="aligncenter size-thumbnail wp-image-149" /></div>
+<div align="center"><img src="/img/2009/03/lxde-logo.png" alt="lxde-logo" title="lxde-logo" width="150" height="150" class="aligncenter size-thumbnail wp-image-149" /></div>
 
 If you're on Facebook, there are more details <a href = "http://www.facebook.com/event.php?eid=66992256136">here!</a> ... Well, maybe you shouldn't come if you're a bit too strange... but who are we to judge, right? ;)
 

@@ -14,7 +14,7 @@ url: /2009/04/29/e27-unconference-2009-discounts-with-linuxnus/
 <em>linuxNUS has partnered with e27 to bring you a special discount for the unConference. <a href="http://unconference2009sg.eventbrite.com/?discount=e27_linuxnus">Sign up with us</a> , to get 20% off the current prevailing price of entrance tickets to the unConference. What's more, if you sign up at any time before 8 May 2009, Friday, you'll only pay <strong>SGD 40,</strong> instead of <strong>SGD 56 </strong> (without the discount, tickets are going at SGD 50 before 8 May, and SGD 70 after). Sign up at the link above, or use the discount code &quot;<strong>e27_linuxnus</strong> &quot; when you <a href="http://unconference2009sg.eventbrite.com/">purchase tickets</a> online. You can even share the discount code with your friends! </em>
 
 <em>--</em> <a href="http://unconference2009sg.eventbrite.com/?discount=e27_linuxnus">
-<img class="aligncenter" src="/res/2009/04/edm-resized_02.jpg" alt="e27 unConference 2009" /> </a>
+<img class="aligncenter" src="/img/2009/04/edm-resized_02.jpg" alt="e27 unConference 2009" /> </a>
 
 Thinking of starting up? Not sure how? Need tips? Need inspiration? Read on.<a href="http://unconference2009sg.eventbrite.com/?discount=e27_linuxnus"> </a>
 

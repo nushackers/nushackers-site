@@ -9,7 +9,7 @@ title: A HoN-y Night
 url: /2009/08/15/a-hon-y-night/
 ---
 
-<img src="/res/2009/08/hon_logo.png" alt="hon_logo" title="hon_logo" width="336" height="300" class="aligncenter size-full wp-image-767" />
+<img src="/img/2009/08/hon_logo.png" alt="hon_logo" title="hon_logo" width="336" height="300" class="aligncenter size-full wp-image-767" />
 
 Besides the usual hacking and configuration, it only apt to unwind and take a break from geekdom once in a while. So it's time to play!
 

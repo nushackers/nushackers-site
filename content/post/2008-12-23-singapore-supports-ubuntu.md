@@ -9,11 +9,11 @@ url: /2008/12/23/singapore-supports-ubuntu/
 ---
 
 <div>&nbsp;</div>
-<div align="center"><a href='/res/2008/11/ubuntulogo.png'><img src="/res/2008/11/ubuntulogo.png" alt="" title="ubuntulogo" width="202" height="55" class="aligncenter size-full wp-image-112" /></a></div>
+<div align="center"><a href='/img/2008/11/ubuntulogo.png'><img src="/img/2008/11/ubuntulogo.png" alt="" title="ubuntulogo" width="202" height="55" class="aligncenter size-full wp-image-112" /></a></div>
 
 We all know the ubuntu logo looks like: 3 arcs forming a circle. It looks like a Singapore organisation may actually be supportive of Ubuntu:
 
-<div align="center"><a href='http://www.fairemployment.sg/main.aspx'><img src="/res/2008/11/logo.jpg" alt="" title="logo" width="377" height="138" class="aligncenter size-full wp-image-113" /></a></div>
+<div align="center"><a href='http://www.fairemployment.sg/main.aspx'><img src="/img/2008/11/logo.jpg" alt="" title="logo" width="377" height="138" class="aligncenter size-full wp-image-113" /></a></div>
 
 Oh let's email them to see if they are using Ubuntu in their workplace. Oh wait, the URL to the site is <a href="http://www.fairemployment.sg/main.aspx">http://www.fairemployment.sg/main.<strong>aspx</strong></a> :s
 
