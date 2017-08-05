@@ -54,6 +54,12 @@ h6 {
   list-style: none;
 }
 
+.fh-sponsor {
+  display: block;
+  max-width: 16rem;
+  margin: 0 auto;
+}
+
 @import "./header.scss";
 @import "./section.scss";
 @import "./footer.scss";
