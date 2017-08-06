@@ -18,5 +18,5 @@ Come meet the Palantir team and learn more about how you can join them in solvin
 Sushi and pizza will be provided. There's also a raffle, so just come on down! Please also note the change in venue for this session.
 
 <div>
-<a href="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/10669379_763683617023407_6196031159481319998_o.png"><img class="inline-img" alt="" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/10669379_763683617023407_6196031159481319998_o.png" width="500" height="800" /></a>
+{{< imglink src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/10669379_763683617023407_6196031159481319998_o.png" alt="" >}}
 </div>

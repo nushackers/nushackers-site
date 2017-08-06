@@ -19,12 +19,3 @@ This friday, we have a talk by Lee Chun Munn from Institute of Systems Science a
 <strong>Speaker Profile</strong>
 <span style="line-height: 1.5em;">Lee Chuk Munn is with the Advanced Technology Applications Practice for National University of Singapore, Institute of Systems Science (NUS-ISS). His current responsibilities includes developing courseware, and teaching graduate and public courses in enterprise software engineering, software architecture, web technologies and enterprise Java. </span>Prior to joining ISS, Chuk works for Oracle and Sun Microsystems where his main responsibilities includes helping customers and partners across all industries in the APAC region, to develop, size and tune applications deployed to Java EE Application Servers. His interest includes peer-to-peer networks, application frameworks, Java Virtual Machine and dynamic languages. He keeps himself busy by contributing to various open source projects.
 <div>
-
-Our Sponsors
-
-</div>
-Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
-
-<a href="/res/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img alt="" src="/res/2013/10/ETP-logo-full-color-vertical-to-be-used-300x247.jpg" width="180" height="148" /></a><a href="/res/2013/10/ida.png"><img alt="" src="/res/2013/10/ida-300x280.png" width="146" height="136" /></a>
-
-If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg

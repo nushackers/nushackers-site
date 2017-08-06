@@ -10,7 +10,7 @@ title: '[Podcast] Episode 3: Software Freedom Day 09'
 url: /2009/09/15/podcast-episode-3-software-freedom-day-09/
 ---
 
-<img src="/res/2009/09/sfdLogo-300x176.png" alt="Software Freedom Day" title="SFD" width="300" height="176" class="size-medium wp-image-876" />
+<img src="/img/2009/09/sfdLogo.png" alt="Software Freedom Day" title="SFD" width="300" height="176" class="size-medium wp-image-876" />
 
 It's the time of  year again! It's time to raise your hands in cheer to celebrate Free and Open Source Software! Go shout it from the mountain tops! Go dancing in the street!
 

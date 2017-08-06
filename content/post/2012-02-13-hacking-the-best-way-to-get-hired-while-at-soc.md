@@ -8,7 +8,7 @@ title: 'Hacking: The Best Way To Get Hired, While At SoC'
 url: /2012/02/13/hacking-the-best-way-to-get-hired-while-at-soc/
 ---
 
-<a href="/res/2011/12/MelvinZhangFH.jpg"><img src="/res/2011/12/MelvinZhangFH-1024x575.jpg" alt="Melvin Zhang at NUS Hackers weekly meeting, speaking about Solving Computer Science Problems" title="MelvinZhangFH" width="640" height="359" class="alignleft size-large wp-image-2111" /></a>
+{{< imglink src="/img/2011/12/MelvinZhangFH.jpg" alt="Melvin Zhang at NUS Hackers weekly meeting, speaking about Solving Computer Science Problems" >}}
 <br/>
 If you're a School of Computing student, you've probably been told that the best way to get good at programming is to 'just keep practicing'.
 
@@ -73,7 +73,7 @@ Programming for personal projects makes you a better programmer, <s>helps you sc
 
 It's not hard to start hacking - pick a problem you've always had, and think about how you might solve it with code. Alternatively, pick a cool new technology you want to learn, and find a way to use <em>that</em> to solve your burning problem.
 
-<a href="/hack-and-roll/"><img style="margin-left:-430px; border: 1px solid #ccc;" src="/imageshrbanner.gif" alt="Hack & Roll Banner" /></a>
+{{< imglink src="/imageshrbanner.gif" alt="Hack & Roll Banner" >}}
 
 If you'd like to get a head-start, come join us at our <strong>Hack & Roll Hackathon</strong>, on the 19-20th February. <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDRZeUhUQXJybHdsa1oySEpxYVRUdWc6MQ">Sign up here</a>, or read more about the event at this <a href="/hack-and-roll/">link</a>. We're trying to get more SoC students to hack on stuff, so if you'd like to learn how to start doing so, in the company of your peers, come join us. It's only $10 per person, and even then for food.
 
