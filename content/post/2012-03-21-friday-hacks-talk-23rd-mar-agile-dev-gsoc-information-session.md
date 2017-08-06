@@ -17,7 +17,7 @@ url: /2012/03/21/friday-hacks-talk-23rd-mar-agile-dev-gsoc-information-session/
 <div>
 <div>
 <div><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: arial, helvetica, sans-serif;">
-<img src="/res/2012/03/Cheetah_run.jpg" alt="Inline image 1" /></span></span></div>
+<img src="/img/2012/03/Cheetah_run.jpg" alt="Inline image 1" /></span></span></div>
 </div>
 </div>
 </div>
@@ -50,7 +50,7 @@ url: /2012/03/21/friday-hacks-talk-23rd-mar-agile-dev-gsoc-information-session/
 <div></div>
 <div><span style="font-family: arial, helvetica, sans-serif;"><span><strong>Talk #2 - "</strong></span><strong>Google Summer of Code Information Session</strong></span><span><strong>" (</strong></span><strong><span style="font-family: arial, helvetica, sans-serif;">by Tay Ray Chuan & GSoC Seniors)</span></strong></div>
 <div></div>
-<div><img src="/res/2012/03/gsoc_info_session.jpg" alt="Inline image 3" /></div>
+<div><img src="/img/2012/03/gsoc_info_session.jpg" alt="Inline image 3" /></div>
 <div></div>
 <div>
 <div>

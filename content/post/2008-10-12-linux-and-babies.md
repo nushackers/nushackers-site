@@ -9,7 +9,7 @@ url: /2008/10/12/linux-and-babies/
 ---
 
 <div align="center">
-<em><a href='/res/2008/10/baby.jpg'><img src="/res/2008/10/baby.jpg" alt="" title="baby" width="500" height="406" class="aligncenter size-full wp-image-107" /></a>
+<em>{{< imglink src="/img/2008/10/baby.jpg" alt="" >}}
 
 Awwwwwwwwww.....Cute toddler spotted! <a href="http://www.thinkgeek.com/tshirts/kids/5ace/action/21059cb/">Source: ThinkGeek</a></em></div>
 

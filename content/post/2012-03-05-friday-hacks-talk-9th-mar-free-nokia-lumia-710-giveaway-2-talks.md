@@ -13,7 +13,7 @@ url: /2012/03/05/friday-hacks-talk-9th-mar-free-nokia-lumia-710-giveaway-2-talks
 
 <strong></strong><strong>"Sync, Sink, Sync"</strong> by Mohit Singh Kanwal, NUS Student
 <div>
-<div><img src="/res/2012/03/2012-03-02_211700.png" alt="Inline image 1" /></div>
+<div><img src="/img/2012/03/2012-03-02_211700.png" alt="Inline image 1" /></div>
 </div>
 <div>This week we have a Nokia Lumia 710 giveaway, courtesy of Nokia Singapore :D
 It will be given out via lucky draw during the talk itself.</div>

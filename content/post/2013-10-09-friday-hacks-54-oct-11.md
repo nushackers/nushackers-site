@@ -21,12 +21,6 @@ This talk will cover general computer A.I. theory and the internals of a modern 
 
 <strong>Speaker Profile:</strong>
 Fazli likes to hack random projects for fun and without any apparent reason. Fazli has made <em>super cool</em> chess software such as <a href="http://vulpine.fuzzie.sg">Vulpine</a>, a chess GUI, and <a href="http://cc.fuzzie.sg">Cloud Chess</a>, a high performance online chess A.I. app. Fazli feels writing in third-person is really weird.
-<h3>Our Sponsors</h3>
-Friday Hacks is sponsored by the NUS Enterprise Center and the Infocomm Development Authority.
-
-<a href="/res/2013/10/ETP-logo-full-color-vertical-to-be-used.jpg"><img class="alignnone  wp-image-3173" style="display: inline-block;" alt="" src="/res/2013/10/ETP-logo-full-color-vertical-to-be-used-300x247.jpg" width="180" height="148" /></a><a href="/res/2013/10/ida.png"><img class="alignnone  wp-image-3176" style="display: inline-block;" alt="" src="/res/2013/10/ida-300x280.png" width="146" height="136" /></a>
-
-If you are looking to turn your ideas into a startup and would love some business support, feel free to get in touch with Peck Ying from NUS Enterprise: tanpeckying@nus.edu.sg
 
 ==============================
 

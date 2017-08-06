@@ -12,7 +12,7 @@ title: FOSS Non-tech Books in the NUS libraries
 url: /2010/02/16/foss-non-tech-books-in-the-nus-libraries/
 ---
 
-<img class="alignleft size-full wp-image-992" title="FOSS Books" src="/res/2010/02/thumbDSC086971.JPG" alt="FOSS Books" width="300" height="225" />
+<img class="alignleft size-full wp-image-992" title="FOSS Books" src="/img/2010/02/thumbDSC086971.JPG" alt="FOSS Books" width="300" height="225" />
 
 My favorite sections in the NUS Central Library is the TK5I05.885 and QA76.76 - all catering to the latest and old books on various Computer technologies. Last semester, I had to write an essay for the USP application on a topic that talks about my interest. And guess what, I wrote about  <a href="http://angad-sing.blogspot.com/2009/11/my-essay-for-usp-2nd-intake.html" target="_blank">Open Source</a>. I had to keep it non-technical as mainly Arts Professors would evaluate that. (Disclaimer : I did not get through USP :) ).
 

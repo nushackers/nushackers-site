@@ -10,7 +10,7 @@ title: Live blogging at LXDE Talk Mar 09
 url: /2009/03/11/live-blogging-at-lxde-talk-mar-09/
 ---
 
-<div align="center"><a href="/res/2009/03/lxde_talk.jpg"><img src="/res/2009/03/lxde_talk.jpg" alt="lxde_talk" title="lxde_talk" width="240" height="160" class="aligncenter size-full wp-image-315" /></a></div>
+<div align="center">{{< imglink src="/img/2009/03/lxde_talk.jpg" alt="lxde_talk" >}}</div>
 
 After talking about the business opportunities with LXDE, Mario is now talking about the community at LXDE.
 

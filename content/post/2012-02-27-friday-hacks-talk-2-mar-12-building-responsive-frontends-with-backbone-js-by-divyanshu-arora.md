@@ -9,7 +9,7 @@ title: Friday Hacks Talk 2nd Mar - Building responsive frontends with Backbone.j
 url: /2012/02/27/friday-hacks-talk-2-mar-12-building-responsive-frontends-with-backbone-js-by-divyanshu-arora/
 ---
 
-<a href="/res/2012/02/417599_304279572963816_164904410234667_838981_1516059813_n.jpeg"><img class="aligncenter size-full wp-image-2268" title="417599_304279572963816_164904410234667_838981_1516059813_n" src="/res/2012/02/417599_304279572963816_164904410234667_838981_1516059813_n.jpeg" alt="" width="600" /></a>
+{{< imglink src="/img/2012/02/417599_304279572963816_164904410234667_838981_1516059813_n.jpeg" alt="" >}}
 <div>We're back from the Semester Break with 2 talks this Friday Hacks :)</div>
 <div><span>
 <strong>- Location</strong><strong>:</strong> Seminar Room 2, UTown ERC Level 2</span>

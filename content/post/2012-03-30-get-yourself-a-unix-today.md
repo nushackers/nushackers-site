@@ -9,7 +9,7 @@ title: Get Yourself A UNIX Today!
 url: /2012/03/30/get-yourself-a-unix-today/
 ---
 
-In conjunction with our self-styled 'Linux week', Professor Brown gave a cool talk on the Unix philosophy at Friday Hacks earlier tonight (slides available <a href="/res/2012/03/UnixPhilosophy.pdf">here</a>). We at NUS Hackers would like to take this opportunity to encourage everyone to install a *nix flavour, for experience, fun, and indoctrination in programming kung-fu.
+In conjunction with our self-styled 'Linux week', Professor Brown gave a cool talk on the Unix philosophy at Friday Hacks earlier tonight (slides available <a href="/img/2012/03/UnixPhilosophy.pdf">here</a>). We at NUS Hackers would like to take this opportunity to encourage everyone to install a *nix flavour, for experience, fun, and indoctrination in programming kung-fu.
 
 If you were around tonight, you'd have heard Professor Brown say two things:
 <ol>

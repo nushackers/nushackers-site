@@ -8,6 +8,6 @@ title: Thinking of becoming a system admin?
 url: /2007/09/22/thinking-of-becoming-a-system-admin/
 ---
 
-<a href='/res/2007/09/sysmin.jpg' title='Sys Admin'><img src='/res/2007/09/sysmin.jpg' alt='Sys Admin' /></a>
+<a href='/img/2007/09/sysmin.jpg' title='Sys Admin'><img src='/img/2007/09/sysmin.jpg' alt='Sys Admin' /></a>
 
 You sure?
