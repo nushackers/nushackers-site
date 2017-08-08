@@ -18,64 +18,68 @@
       </ul>
     </div>
   </section>
-  <section class="col-12 section">
+  <section class="section col-12">
     <header class="section-header">
       <h1 class="section-title">Upcoming events</h1>
     </header>
-    <div class="fh events">
-      <header class="front-header">
-        <h2 class="front-title">Friday Hacks</h2>
-        <ul class="front-list">
-          <li>
-            <a href="/sponsor">Supported</a> by NEC and IDA.
-          </li>
-        </ul>
-      </header>
-      <ol class="list row">
-        {{ $weekInSeconds := 604800 }}
-        {{ $date := $.Site.Data.friday_hacks.start_date }}
-        {{ $dateUnix := (time $date).Unix }}
+    <div class="row">
+      <div class="events fh col-12 col-md-6">
+        <header class="front-header">
+          <h2 class="front-title">Friday Hacks</h2>
+          <ul class="front-list">
+            <li>
+              <a href="/sponsor">Supported</a> by NEC and IDA.
+            </li>
+          </ul>
+        </header>
+        <ol class="list row">
+          {{ $weekInSeconds := 604800 }}
+          {{ $date := $.Site.Data.friday_hacks.start_date }}
+          {{ $dateUnix := (time $date).Unix }}
 
-        {{ range $index, $hack := $.Site.Data.friday_hacks.hacks }}
-        {{ if le $index 2 }}
-          <li class="fh-item item col-12 col-md-4">
-            {{ $hackDate := add $dateUnix (mul $index $weekInSeconds) }}
-            <time class="fh-time">{{ dateFormat "Jan 2" $hackDate }}</time>
-            {{ if eq $hack.nohack nil }}
-              <address class="fh-address">{{ $hack.venue }}</address>
-              <ul class="fh-topics">
-                {{ range $topicIndex, $topic := $hack.topics }}
-                <li class="fh-item">
-                  <h3 class="fh-topic">{{ $topic.title }}</h3>
-                  <div class="fh-speaker">
-                    {{ $topic.speaker }} <span>({{ $topic.from }})</span>
-                  </div>
-                </li>
-                {{ end }}
-              </ul>
-            {{ else }}
-              <em class="fh-span">{{ $hack.nohack }}, no Friday Hacks</em>
-            {{ end }}
-          </li>
-        {{ end }}
-        {{ end }}
-      </ol>
-    </div>
-    <div class="hs events">
-      <header class="front-header">
-        <h2 class="front-title hs-header">Hackerschool</h2>
-      </header>
-      <ol class="list row">
-        {{ range $index, $event := $.Site.Data.hacker_school.events }}
-        {{ if le $index 2 }}
-          <li class="item col-12 col-md-4">
-            <time class="hs-time">{{ dateFormat "Mon, Jan 2, 3pm" (time $event.date) }}</time>
-            <address class="hs-address">{{ $event.venue }}</address>
-            <h3 class=hs-topic>{{ $event.topic }}</h3>
-          </li>
-        {{ end }}
-        {{ end }}
-      </ol>
+          {{ range $index, $hack := $.Site.Data.friday_hacks.hacks }}
+            <li class="fh-item event-item item">
+              {{ $hackDate := add $dateUnix (mul $index $weekInSeconds) }}
+              <time class="fh-time" datetime={{ dateFormat "2006-01-02T15:04:05-0700" $hackDate}}>
+                {{ dateFormat "Jan 2" $hackDate }}
+              </time>
+              {{ if eq $hack.nohack nil }}
+                <address class="fh-address">{{ $hack.venue }}</address>
+                <ul class="fh-topics">
+                  {{ range $topicIndex, $topic := $hack.topics }}
+                  <li class="fh-item">
+                    <h3 class="fh-topic">{{ $topic.title }}</h3>
+                    <div class="fh-speaker">
+                      {{ $topic.speaker }} <span>({{ $topic.from }})</span>
+                    </div>
+                  </li>
+                  {{ end }}
+                </ul>
+              {{ else }}
+                <em class="fh-span">{{ $hack.nohack }}, no Friday Hacks</em>
+              {{ end }}
+            </li>
+          {{ end }}
+        </ol>
+        <div class="events-button" role="button">Show more</div>
+      </div>
+      <div class="events hs col-12 col-md-6">
+        <header class="front-header">
+          <h2 class="front-title hs-header">Hackerschool</h2>
+        </header>
+        <ol class="list row">
+          {{ range $index, $event := $.Site.Data.hacker_school.events }}
+            <li class="event-item item">
+              <time class="hs-time" datetime={{ dateFormat "2006-01-02T15:04:05-0700" $event.date}}>
+                {{ dateFormat "Mon, Jan 2, 3pm" (time $event.date) }}
+              </time>
+              <address class="hs-address">{{ $event.venue }}</address>
+              <h3 class=hs-topic>{{ $event.topic }}</h3>
+            </li>
+          {{ end }}
+        </ol>
+        <div class="events-button" role="button">Show more</div>
+      </div>
     </div>
   </section>
   <section class="posts col-12 section">
@@ -98,4 +102,5 @@
     </ul>
   </section>
 </main>
+<script>{{ readFile "static/js/toggleShowMore.js" | safeJS }}</script>
 {{ end }}

@@ -1,5 +1,6 @@
 $hackers-orange: #cc4100;
 $highlight-orange: #f8941d;
+$button-link-color: #4a4a4a;
 $link-color: $hackers-orange;
 $link-hover-color: $hackers-orange;
 
@@ -52,6 +53,17 @@ h6 {
   margin: 0;
   line-height: 1.4;
   list-style: none;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  border: 0;
+  clip: rect(0 0 0 0);
 }
 
 .fh-sponsor {
