@@ -1,0 +1,79 @@
+start_date: 2017-01-20 18:00:00 +0800
+hacks:
+  - venue: The Hangar by NUS Enterprise
+    topics:
+      - speaker: Fazli Sapuan
+        from: Garena
+        title: The Art of Lockpicking
+      - speaker: Wang Chen
+        from: SAP
+        title: Smart Enterprise Software Empowered by Machine Learning
+  - nohack: CNY Eve
+  - venue: SR3, Town Plaza, University Town, NUS
+    topics:
+      - speaker: Jethro Kuan
+        from: NUS Hackers
+        title: 'Realtime Collaboration: A Brief History'
+      - speaker: Wang Leng
+        from: NUS School of Computing
+        title: Cross Site Scripting
+  - venue: SR3, Town Plaza, University Town, NUS
+    topics:
+      - speaker: Ding Feng
+        from: NUS CS
+        title: 'Hardware Hacks: The Whys and Hows'
+      - speaker: Raghav Sood
+        from: IBM Blockchain Innovation Center
+        title: 'Wi-Fi Hacks: Hacking the Air Around Us'
+  - venue: SR3, Town Plaza, University Town, NUS
+    topics:
+      - speaker: Emil Tan
+        from: Edgis
+        title: My Love-Hate Relationship with Honeypot
+      - speaker: Sunny Neo
+        from: BT Security
+        title: Web Security for Developers
+  - nohack: Recess Week
+  - venue: The Hangar by NUS Enterprise
+    topics:
+      - speaker: Kee Wee Teng
+        from: FSTD, MINDEF
+        title: An Introduction to DIY Laser Cutters
+      - speaker: Francis Regan, Xinxin Du and Shabbir
+        from: Ionic3DP
+        title: The Kappa 3D Printer
+  - venue: The Hangar by NUS Enterprise
+    topics:
+      - speaker: Virgil Griffith
+        from: Legalese
+        title: Bitcoin, Darkweb, Ethereum and LegalTech
+  - venue: SR5, Town Plaza, University Town, NUS
+    topics:
+      - speaker: John L. Gustafson
+        from: NUS
+        title: Weapons of Math Destruction
+  - venue: SR5, Town Plaza, University Town, NUS
+    topics:
+      - speaker: Abhilash Murthy
+        from: Bus Uncle
+        title: How to Build a Bot People Will Love
+      - speaker: Coreteam
+        from: NUS Hackers
+        title: Panel Discussion - Summer Plans
+  - venue: i-Cube Building Auditorium, NUS
+    topics:
+      - speaker: Jeff Moss
+        from: DEFCON & BlackHat
+        title: A Sharing on Cyber Security
+      - speaker: Halvar Flake
+        from: Google
+        title: Another Sharing on Cyber Security
+  - venue: SR5, Town Plaza, University Town, NUS
+    topics:
+      - speaker: Peter Hoeg
+        from: Speartail
+        title: '(Programming your OS && ignoring state) == bliss'
+      - speaker: Vishnu Prem
+        from: Coreteam
+        title: 'Row Hammer: Flipping Bits in Memory Without Accessing Them'
+  - nohack: Good Friday

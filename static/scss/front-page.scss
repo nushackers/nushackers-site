@@ -67,6 +67,24 @@ $font-small: 0.9rem;
   }
 }
 
+.events {
+  .events-button {
+    display: block;
+    text-align: center;
+    color: $button-link-color;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+  }
+  .item {
+    opacity: 1;
+    transform: none;
+    @include transition(deceleration);
+  }
+  .item-hidden {
+    opacity: 0;
+    transform: translateY(-1rem);
+  }
+}
+
 .fh {
   .fh-time {
     display: block;
