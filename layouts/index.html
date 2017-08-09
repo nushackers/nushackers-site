@@ -32,7 +32,7 @@
             </li>
           </ul>
         </header>
-        <ol class="list row">
+        <ol class="list">
           {{ $weekInSeconds := 604800 }}
           {{ $date := $.Site.Data.friday_hacks.start_date }}
           {{ $dateUnix := (time $date).Unix }}
@@ -67,7 +67,7 @@
         <header class="front-header">
           <h2 class="front-title hs-header">Hackerschool</h2>
         </header>
-        <ol class="list row">
+        <ol class="list">
           {{ range $index, $event := $.Site.Data.hacker_school.events }}
             <li class="event-item item">
               <time class="hs-time" datetime={{ dateFormat "2006-01-02T15:04:05-0700" $event.date}}>
