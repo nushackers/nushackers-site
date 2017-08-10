@@ -37,4 +37,4 @@ NUS Hackers is managed by a coreteam of student-volunteers. If you'd like to re
 We keep a list of former NUS Hackers coreteam members [over at our alumni page →](/alumni/)
 
 ## Join us
-Want to help us spread the hacker culture? You can find out more [here](/join_coreteam/).
+Want to help us spread the hacker culture? You can find out more [here](/join-coreteam/).
