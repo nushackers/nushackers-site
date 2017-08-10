@@ -20,6 +20,7 @@
 
   lists.forEach((list, index) => {
     const futureEvents = [];
+
     list.querySelectorAll('.item').forEach(event => {
       const dateString = event.querySelector('time').getAttribute('datetime');
       const date = new Date(dateString);
@@ -28,21 +29,24 @@
       const isPastEvent = NOW - date > TWENTY_FOUR_HOURS / 4;
       if (isPastEvent) {
         event.remove();
-      }
-
-      // Hide events that are more than two weeks ahead
-      const isWithinTwoWeeks = date - NOW < TWO_WEEKS;
-      if (!isWithinTwoWeeks) {
-        event.classList.add(HIDDEN_CLASS_NAME, VISUALLY_HIDDEN_CLASS_NAME);
+      } else {
         futureEvents.push(event);
       }
     });
 
+    const hiddenEvents = futureEvents.slice(2);
+    hiddenEvents.forEach(event => {
+      event.classList.add(HIDDEN_CLASS_NAME, VISUALLY_HIDDEN_CLASS_NAME);
+    });
+    eventsByListIndex[index] = hiddenEvents;
+
     if (!futureEvents.length) {
       list.parentNode.appendChild(NO_EVENTS_NOTICE);
+    }
+    // Remove button if nothing more to show
+    if (!hiddenEvents.length) {
       buttons[index].remove();
     }
-    eventsByListIndex[index] = futureEvents;
   });
 
   buttons.forEach(function(button, index) {
