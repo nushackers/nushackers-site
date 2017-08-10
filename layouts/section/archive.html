@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main class="container">
+<main class="container main">
   <section class="row section">
     <div class="archive posts col-12 col-md-8 push-md-4">
       {{ $paginator := .Paginate (where .Site.Pages "Type" "post") 15 }}
