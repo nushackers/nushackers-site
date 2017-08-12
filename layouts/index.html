@@ -50,7 +50,11 @@
                   <li class="fh-item">
                     <h3 class="fh-topic">{{ $topic.title }}</h3>
                     <div class="fh-speaker">
-                      {{ $topic.speaker }} <span>({{ $topic.from }})</span>
+                      {{ if eq $topic.from nil }}
+                        {{ $topic.speaker }}
+                      {{ else }}
+                        {{ $topic.speaker }} <span>({{ $topic.from }})</span>
+                      {{ end }}
                     </div>
                   </li>
                   {{ end }}
