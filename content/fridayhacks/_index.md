@@ -5,7 +5,7 @@ date: "2014-06-23"
 notes: |
 
 ---
-## Our weekly Friday meetups are called Friday Hacks. They include one or two technical talks, followed by a hacking session. The idea is simple: get people to come share their hacks, research, or technical knowledge with the technical community in NUS.
+Our weekly Friday meetups are called Friday Hacks. They include one or two technical talks, followed by a hacking session. The idea is simple: get people to come share their hacks, research, or technical knowledge with the technical community in NUS.
 
 We have up to 2 talks at each session, talks are usually 30-45 minutes long. Dinner is always served (usually pizza). Food is served at 6:30pm, talks start at 7pm.
 
