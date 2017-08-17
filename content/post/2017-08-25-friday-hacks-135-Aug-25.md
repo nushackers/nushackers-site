@@ -6,7 +6,7 @@ author: Suyash
 
 <em>(In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways.)</em>
 
-{{% friday_hack_header venue="Venue: COM1 SR1 (COM1-0206)" date="August 25" %}}
+{{% friday_hack_header venue="Seminar Room 1, NUS School of Computing (COM1-0206)" date="August 25" %}}
 
 ### Welcome Tea
 
