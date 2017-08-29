@@ -2,6 +2,41 @@ start_date: 2017-08-25 18:00:00 +0800
 hacks:
   - venue: "Seminar Room 1, NUS School of Computing (COM1-0206)"
     topics:
-      - speaker: NUS Hackers
+      - speaker: Advay Pal
+        from: NUS Hackers
         title: Welcome Tea
   - nohack: Hari Raya Haji
+  - venue: "The HANGAR by NUS Enterprise"
+    topics:
+      - speaker: Yonah
+        from: Yonah Team
+        title: Open Source Aircraft Autopilots in Practice
+      - speaker: Patrick, Roy, Yichen
+        from: laYer Team
+        title: laYer
+  - venue: "Seminar Room 1, NUS School of Computing (COM1-0206)"
+    topics:
+      - speaker: NUS Hackers Coreteam
+        from: NUS Hackers
+        title: Internships, and How to Get Them
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: Dmitry Martyanov
+        from: Paypal
+        title: Functional Programming
+      - speaker: Brahim Hamadicharef
+        from: TradeGecko
+        title: laYer
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: Dmitry Martyanov
+        from: Paypal
+        title: Functional Programming
+      - speaker: Brahim Hamadicharef
+        from: TradeGecko
+        title: laYer
+  - nohack: Recess Week
+  - venue: "The HANGAR by NUS Enterprise"
+    topics:
+      - speaker: Peter Hoeg
+        title: NixOS
