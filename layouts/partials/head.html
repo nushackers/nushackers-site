@@ -4,8 +4,11 @@
 <title>
 {{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}
 </title>
-<link rel="dns-prefetch" href="//fonts.googleapis.com/css?family=Ubuntu:500,700">
-<link href="/css/main.css" rel="stylesheet">
+<link rel="dns-prefetch" href="//fonts.googleapis.com/">
+<link rel="preload" href="/css/main.css" as="style">
+
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:500,700">
+<link rel="stylesheet" href="/css/main.css">
 {{ if .IsHome }}
 {{ range $event := $.Site.Data.events.events }}
 <link rel="dns-prefetch" href="{{ $event.url }}"/>
