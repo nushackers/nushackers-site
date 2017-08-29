@@ -9,7 +9,6 @@ hacks:
   - venue: "The HANGAR by NUS Enterprise"
     topics:
       - speaker: Yonah
-        from: Yonah Team
         title: Open Source Aircraft Autopilots in Practice
       - speaker: Patrick, Roy, Yichen
         from: laYer Team
@@ -17,7 +16,6 @@ hacks:
   - venue: "Seminar Room 1, NUS School of Computing (COM1-0206)"
     topics:
       - speaker: NUS Hackers Coreteam
-        from: NUS Hackers
         title: Internships, and How to Get Them
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
@@ -25,16 +23,15 @@ hacks:
         from: Paypal
         title: Functional Programming
       - speaker: Brahim Hamadicharef
-        from: TradeGecko
+        from: A*STAR
         title: laYer
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
-      - speaker: Dmitry Martyanov
-        from: Paypal
-        title: Functional Programming
-      - speaker: Brahim Hamadicharef
+      - speaker: Hongyi
+        title: Digital Parking App
+      - speaker: Mohammad
         from: TradeGecko
-        title: laYer
+        title: Sidekiq Internals
   - nohack: Recess Week
   - venue: "The HANGAR by NUS Enterprise"
     topics:
