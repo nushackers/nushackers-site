@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main class="container main">
-  <section class="row section">
+  <section class="row justify-content-center section">
     {{ if .Pages }}
     <article class="col-12 col-md-8">
         <header class="section-header">
@@ -16,7 +16,7 @@
       {{ end }}
     </aside>
     {{ else }}
-    <article class="col-12 col-md-10 offset-md-1">
+    <article class="col-12 col-md-10">
         <header class="section-header">
             <h1 class="section-title">{{ .Title }}</h1>
         </header>

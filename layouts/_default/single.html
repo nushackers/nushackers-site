@@ -1,6 +1,6 @@
 {{ define "main" }}
-<main class="row single main">
-  <section class="col-12 col-md-8 offset-md-2 section">
+<main class="row justify-content-center single main">
+  <section class="col-12 col-md-8 section">
     <article>
         <h1>{{ .Title }}</h1>
         <h2 class="posted">Posted on <time>{{ .Date.Format "Jan 2" }}</time> by {{ .Params.author }}</h2>
@@ -10,7 +10,7 @@
         {{ end}}
     </article>
   </section>
-  <div class="col-12 col-md-10 offset-md-1 browse">
+  <div class="col-12 col-md-10 browse">
     <div class="row">
     {{ if .Prev }}
       <a class="col-6 previous" href="{{ .Prev.Permalink }}">{{ .Prev.Title }}</a>
@@ -20,7 +20,7 @@
     {{ end }}
     </div>
   </div>
-  <aside class="col-12 col-md-10 offset-md-1 aside">
+  <aside class="col-12 col-md-10 aside">
     <div class="row">
       <ul class="col categories">
         {{ range .Params.topics }}
