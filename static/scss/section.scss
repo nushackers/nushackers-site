@@ -1,6 +1,10 @@
 .section {
   margin-bottom: 1rem;
 
+  .section-title {
+    font-size: $h1-font-size;
+  }
+
   img {
     width: 100%;
   }
@@ -13,7 +17,7 @@
 .single {
   .posted {
     font-size: 1.25rem;
-    color: $gray;
+    color: $gray-800;
   }
 
   .browse {
@@ -23,7 +27,7 @@
   .previous {
     &::before {
       content: '← ';
-      color: $gray;
+      color: $gray-800;
     }
   }
   .next {
@@ -31,7 +35,7 @@
 
     &::after {
       content: ' →';
-      color: $gray;
+      color: $gray-800;
     }
   }
 }

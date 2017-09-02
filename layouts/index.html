@@ -1,22 +1,22 @@
 {{ define "main" }}
 <main class="row front-page main">
-  <section class="hero col-12 section">
-    <header class="section-header">
-      <h1 class="section-title">Spreading the hacker culture</h1>
-    </header>
-    <div class="hero-content">
-      <h2>What we do</h2>
-      <ul class="hero-list list row">
-        {{ range $event := $.Site.Data.projects.projects }}
-          <li class="hero-item item">
-            <a class="hero-link" href="{{ $event.url }}">
-            {{ $event.name }}
-            </a>
-            {{ $event.description }}
-          </li>
-        {{ end }}
-      </ul>
-    </div>
+  <section class="section col-12 hero">
+    <h1 class="hero-title">
+      Spreading the <span class="hero-hacker">hacker</span> culture
+    </h1>
+    <ul class="list row justify-content-around">
+      {{ range $event := $.Site.Data.projects.projects }}
+        <li class="col hero-item">
+          <a class="hero-link" href="{{ $event.url }}">
+          {{ readFile $event.logo | safeHTML }}
+          <div class="hero-details">
+            <div class="hero-name">{{ $event.name }}</div>
+            <div class="hero-desc">{{ $event.description }}</div>
+          </div>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
   </section>
   <section class="section col-12">
     <header class="section-header">
@@ -26,27 +26,24 @@
       <div class="events fh col-12 col-md-6">
         <header class="front-header">
           <h2 class="front-title">Friday Hacks</h2>
-          <ul class="front-list">
-          </ul>
         </header>
         <ol class="list">
           {{ $weekInSeconds := 604800 }}
           {{ $date := $.Site.Data.friday_hacks.start_date }}
           {{ $dateUnix := (time $date).Unix }}
-
           {{ range $index, $hack := $.Site.Data.friday_hacks.hacks }}
-            <li class="fh-item event-item item">
+            <li class="fh-item events-item item">
               {{ $hackDate := add $dateUnix (mul $index $weekInSeconds) }}
-              <time class="fh-time" datetime={{ dateFormat "2006-01-02T15:04:05-0700" $hackDate}}>
+              <time class="events-time" datetime={{ dateFormat "2006-01-02T15:04:05-0700" $hackDate}}>
                 {{ dateFormat "Jan 2" $hackDate }}
               </time>
               {{ if eq $hack.nohack nil }}
-                <address class="fh-address">{{ $hack.venue }}</address>
+                <address class="events-address">{{ $hack.venue }}</address>
                 <ul class="fh-topics">
                   {{ range $topicIndex, $topic := $hack.topics }}
-                  <li class="fh-item">
-                    <h3 class="fh-topic">{{ $topic.title }}</h3>
-                    <div class="fh-speaker">
+                  <li class="fh-topic">
+                    <h3 class="topic-title">{{ $topic.title }}</h3>
+                    <div class="topic-speaker">
                       {{ if eq $topic.from nil }}
                         {{ $topic.speaker }}
                       {{ else }}
@@ -62,24 +59,24 @@
             </li>
           {{ end }}
         </ol>
-        <div class="events-button" role="button">Show more</div>
+        <div class="events-button" role="button">More events</div>
       </div>
       <div class="events hs col-12 col-md-6">
         <header class="front-header">
-          <h2 class="front-title hs-header">Hackerschool</h2>
+          <h2 class="front-title">Hackerschool</h2>
         </header>
         <ol class="list">
           {{ range $index, $event := $.Site.Data.hacker_school.events }}
-            <li class="event-item item">
+            <li class="events-item item">
               <time class="hs-time" datetime={{ dateFormat "2006-01-02T15:04:05-0700" $event.date}}>
                 {{ dateFormat "Mon, Jan 2, 3pm" (time $event.date) }}
               </time>
-              <address class="hs-address">{{ $event.venue }}</address>
+              <address class="events-address">{{ $event.venue }}</address>
               <h3 class=hs-topic>{{ $event.topic }}</h3>
             </li>
           {{ end }}
         </ol>
-        <div class="events-button" role="button">Show more</div>
+        <div class="events-button" role="button">More events</div>
       </div>
     </div>
   </section>
@@ -88,9 +85,9 @@
       <h1 class="section-title">Articles</h1>
       <a href="/archive">Read more</a>
     </header>
-    <ul class="list row">
-      {{ range first 8 .Data.Pages }}
-      <li class="item col-12 col-md-4">
+    <ul class="list row justify-content-between">
+      {{ range first 7 .Data.Pages }}
+      <li class="item col-12 col-sm-8 col-md-6 col-xl-4">
       <article>
         <header>
           <h3 class="posts-title"><a class="posts-link" href='{{ .Permalink }}'> {{ .LinkTitle }}</a> </h3>
