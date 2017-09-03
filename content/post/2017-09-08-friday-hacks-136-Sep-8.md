@@ -55,5 +55,5 @@ Some highlights include:
 
 2 members from lAyeR team:
 
-- Luo Yuyang is a Year 3 CS student at NUS and is currently taking back-end engineer intern at PayPal.
+- Luo Yuyang is a Year 3 CS student at NUS and is currently a back-end engineer intern at PayPal.
 - Patrick Cho is an alumnus of NUS and is about to pursue a Master in CS at Stanford.
