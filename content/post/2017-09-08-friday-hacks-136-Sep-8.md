@@ -4,10 +4,9 @@ date: 2017-09-03 22:49:05.245210
 author: Herbert
 ---
 
---- say something as introduction ---
+Hi everyone! If you want to learn about cool projects done by NUS students and alumni, do come down to this Friday Hacks! For more information, refer to the description below.
 
 {{% friday_hack_header venue="The HANGAR by NUS Enterprise" date="September 8" %}}
-
 
 ### Open Source Aircraft Autopilots in Practice
 
@@ -30,18 +29,15 @@ Sriram Sami is a third year computer science undergraduate student and part of t
 
 #### Talk Description:
 
-There's been a rise of real estate startups in the west where they use their own balance sheet to provide instant liquidity to home sellers by buying directly from them. At the heart of this phenomenon is an accurate machine learning valuation model of homes. With this business case in mind, we started looking to build our own valuation model for Singapore homes based on some 20 yrs of transaction data.
+There's been a rise of real estate startups in the west where they use their own balance sheet to provide instant liquidity to home sellers by buying directly from them. At the heart of this phenomenon is an accurate machine learning valuation model of homes. With this business case in mind, we started looking to build our own valuation model for Singapore homes based on some 20 years of transaction data.
 
 #### Speaker Profile
 
 Michael Cho is a seasoned real estate investment professional as well as a serial entrepreneur. Patrick Cho is a data geek about to pursue a Master in CS at Stanford.
 
-### lAyer: augmented reality on iOS before ARKit
+### lAyeR: augmented reality on iOS before ARKit
 
 #### Talk Description:
-
-![lAyeR](img/2017/09/layer1.jpg)
-![lAyeR](img/2017/09/layer2.jpg)
 
 How we built lAyeR, an iOS app that brings together AR navigation and routes crowdsourcing.
 
