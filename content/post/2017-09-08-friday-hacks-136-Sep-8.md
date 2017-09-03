@@ -42,6 +42,7 @@ Michael Cho is a seasoned real estate investment professional as well as a seria
 How we built lAyeR, an iOS app that brings together AR navigation and routes crowdsourcing.
 
 Some highlights include:
+
 - the general idea of AR implementation
 - the implementation on iOS platform:
   - Core Motion (monitor the device orientation)
@@ -53,5 +54,6 @@ Some highlights include:
 #### Speaker Profile
 
 2 members from lAyeR team:
+
 - Luo Yuyang is a Year 3 CS student at NUS and is currently taking back-end engineer intern at PayPal.
 - Patrick Cho is an alumnus of NUS and is about to pursue a Master in CS at Stanford.
