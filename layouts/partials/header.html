@@ -1,8 +1,8 @@
-<header class="row header">
+<header class="row justify-content-between header">
   <div class="banner col-12 col-sm-4" role="banner">
     <h1 class="banner-text"><a href="/" title="NUS Hackers" rel="home" class="banner-link">NUS Hackers</a></h1>
   </div>
-  <nav class="nav col-12 col-sm-8 col-lg-6 offset-lg-2">
+  <nav class="nav col-12 col-sm-8 col-lg-6">
     <ul class="nav-menu">
       {{ $currentURL := .URL }}
       {{ range .Site.Menus.main }}
