@@ -40,7 +40,11 @@ Michael Cho is a seasoned real estate investment professional as well as a seria
 
 #### Talk Description:
 
-How did we build lAyeR, an iOS app that brings together AR navigation and routes crowdsourcing.
+![lAyeR](img/2017/09/layer1.jpg)
+![lAyeR](img/2017/09/layer2.jpg)
+
+How we built lAyeR, an iOS app that brings together AR navigation and routes crowdsourcing.
+
 Some highlights include:
 - the general idea of AR implementation
 - the implementation on iOS platform:
@@ -52,4 +56,6 @@ Some highlights include:
 
 #### Speaker Profile
 
-lAyeR team
+2 members from lAyeR team:
+- Luo Yuyang is a Year 3 CS student at NUS and is currently taking back-end engineer intern at PayPal.
+- Patrick Cho is an alumnus of NUS and is about to pursue a Master in CS at Stanford.
