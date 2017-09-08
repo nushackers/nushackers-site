@@ -1,13 +1,4 @@
 events:
-- topic: How to Git Gud (Introduction to Git)
-  venue: TBC 
-  date: 2017-09-16T13:00:00
-- topic: Introduction to Electronics (Audrino)
-  venue: TBC 
-  date: 2017-09-23T13:00:00
-- topic: Using Docker for Deployment
-  venue: TBC 
-  date: 2017-10-7T13:00:00
-- topic: Getting Started with TensorFlow
-  venue: TBC 
-  date: 2017-10-14T13:00:00
+- topic: Introduction to HTML/CSS
+  venue: The Hangar by NUS Enterprise
+  date: 2018-02-04T13:00:00
