@@ -1,13 +1,13 @@
 events:
-- topic: How to Git Gud (Introduction to Git)
-  venue: TBC 
-  date: 2017-09-16T13:00:00
-- topic: Introduction to Electronics (Audrino)
-  venue: TBC 
+- topic: How to Git Gut (Introduction to Git)
+  venue: Seminar Room 3 COM1, School of Computing, National University of Singapore
+  date: 2017-09-14T13:00:00
+- topic: Introduction to Electronics (Arduino)
+  venue: TBC
   date: 2017-09-23T13:00:00
 - topic: Using Docker for Deployment
-  venue: TBC 
-  date: 2017-10-7T13:00:00
-- topic: Getting Started with TensorFlow
-  venue: TBC 
+  venue: TBC
+  date: 2017-10-07T13:00:00
+- topic: Introduction to TensorFlow
+  venue: TBC
   date: 2017-10-14T13:00:00
