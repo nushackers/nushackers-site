@@ -14,7 +14,7 @@ This Friday, our very own coreteam members will be sharing their internship expe
 
 Learn why you should do internships, how to choose companies, and of course, how to get them!
 
-Ask questions of other students who have interned locally and overseas at various companies. These companies include Google, Facebook, Twitter, Asana, as well as local companies like Google Singapore, Twitter Singapore, Carousell, Garena, and Tinkerbox!
+Ask questions of other students who have interned locally and overseas at various companies. These companies include Google, Facebook, Twitter, Asana, Apple, as well as local companies like Carousell, Garena, Grab, and Tinkerbox!
 
 To the freshmen, it's never too early to start!
 
@@ -24,6 +24,6 @@ Free pizza is served before the talks.
 
 #### Speaker Profile
 
-Varun is a Year 4 Computer Science student who did internships at Grab, Garena, Asana, and Jump Trading.
+Varun is a Year 4 Computer Science student who did internships at Jump Trading, Asana, Garena and Grab.
 
-Advay is a Year 3 Computer Science student who did internships at Xfers and Twitter.
+Advay is a Year 3 Computer Science student who did internships at Twitter and Xfers.
