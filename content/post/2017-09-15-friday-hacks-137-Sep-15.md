@@ -24,6 +24,6 @@ Free pizza is served before the talks.
 
 #### Speaker Profile
 
-Varun is a Year 4 Computer Science student who previously did internships at Garena, Asana, and Jump Trading.
+Varun is a Year 4 Computer Science student who did internships at Grab, Garena, Asana, and Jump Trading.
 
-Advay is a Year 3 Computer Science student who previously did internships at Xfers and Twitter.
+Advay is a Year 3 Computer Science student who did internships at Xfers and Twitter.
