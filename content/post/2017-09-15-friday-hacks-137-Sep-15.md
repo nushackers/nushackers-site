@@ -4,7 +4,7 @@ date: 2017-09-12 09:40:35.299431
 author: Herbert
 ---
 
-This Friday, our very own coreteam members will be haring their internship experiences both locally and overseas. We will also invite NUS students who have done internships in various companies.
+This Friday, our very own coreteam members will be sharing their internship experiences both locally and overseas. We will also invite NUS students who have done internships in various companies.
 
 {{% friday_hack_header venue="Seminar Room 1, NUS School of Computing (COM1-0206)" date="September 15" %}}
 
@@ -12,9 +12,9 @@ This Friday, our very own coreteam members will be haring their internship exper
 
 #### Talk Description:
 
-Learn why you should do internships, how to choose, and of course, how to get them!
+Learn why you should do internships, how to choose companies, and of course, how to get them!
 
-Ask questions of other students who have interned locally and overseas at various companies. This includes overseas like Google, Facebook, Twitter, Asana, and local companies like Google Singapore, Twitter Singapore, Carousell, Garena, and Tinkerbox!
+Ask questions of other students who have interned locally and overseas at various companies. These companies include Google, Facebook, Twitter, Asana, as well as local companies like Google Singapore, Twitter Singapore, Carousell, Garena, and Tinkerbox!
 
 To the freshmen, it's never too early to start!
 
