@@ -23,9 +23,10 @@ hacks:
       - speaker: Dmitry Martyanov
         from: Paypal
         title: Functional Programming
-      - speaker: Brahim Hamadicharef
-        from: A*STAR
-        title: FPGAs
+      - speaker: Herbert Ilhan Tanujaya
+        from: NUS Hackers
+        title: Three SQL Tips
+  - nohack: Recess Week
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
       - speaker: Hongyi
@@ -33,8 +34,14 @@ hacks:
       - speaker: Mohammad
         from: TradeGecko
         title: Sidekiq Internals
-  - nohack: Recess Week
   - venue: "The HANGAR by NUS Enterprise"
     topics:
       - speaker: Peter Hoeg
         title: NixOS
+      - speaker: Brahim Hamadicharef
+      - from:  A*STAR
+      - title: FGPAs
+  - venue: "The HANGAR by NUS Enterprise"
+    topics:
+      - speaker: Mattheus Lee
+        title: C++ Template Metaprogramming
