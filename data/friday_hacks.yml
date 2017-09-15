@@ -39,8 +39,8 @@ hacks:
       - speaker: Peter Hoeg
         title: NixOS
       - speaker: Brahim Hamadicharef
-      - from:  A*STAR
-      - title: FGPAs
+        from:  A*STAR
+        title: FGPAs
   - venue: "The HANGAR by NUS Enterprise"
     topics:
       - speaker: Mattheus Lee
