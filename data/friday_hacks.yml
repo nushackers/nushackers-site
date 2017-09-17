@@ -23,9 +23,9 @@ hacks:
       - speaker: Dmitry Martyanov
         from: Paypal
         title: Functional Programming
-      - speaker: Brahim Hamadicharef
-        from: A*STAR
-        title: FPGAs
+      - speaker: Herbert Ilhan Tanujaya
+        from: NUS Hackers
+        title: SQL Queries Wizardry
   - nohack: Recess Week
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
