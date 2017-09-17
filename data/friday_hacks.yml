@@ -51,12 +51,12 @@ hacks:
         title: TBC
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
-      - speaker: TBC
-      - speaker: TBC
+      - title: TBC
+      - title: TBC
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
-      - speaker: TBC
-      - speaker: TBC
+      - title: TBC
+      - title: TBC
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
       - speaker: NUS Hackers Coreteam
