@@ -26,15 +26,42 @@ hacks:
       - speaker: Brahim Hamadicharef
         from: A*STAR
         title: FPGAs
+  - nohack: Recess Week
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
       - speaker: Hongyi
+        from: Govtech
         title: Digital Parking App
       - speaker: Mohammad
         from: TradeGecko
-        title: Sidekiq Internals
-  - nohack: Recess Week
+        title: Asynchronous Processing
   - venue: "The HANGAR by NUS Enterprise"
     topics:
       - speaker: Peter Hoeg
         title: NixOS
+      - speaker: Hancong
+        from: Visa
+        title: Docker
+  - venue: "The HANGAR by NUS Enterprise"
+    topics:
+      - speaker: Mattheus
+        title: C++ Template Metaprogramming
+      - speaker: Feng Yuan
+        from: Govtech
+        title: TBC
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: TBC
+      - speaker: TBC
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: TBC
+      - speaker: TBC
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: NUS Hackers Coreteam
+        title: Contributing to Open Source Projects
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: NUS Hackers Coreteam
+        title: Code Golf
