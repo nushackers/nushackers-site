@@ -1,7 +1,7 @@
 ---
 title: "Friday Hacks #138, September 22"
 date: 2017-09-18 00:03:34.092496
-author: Herbert
+author: Suyash
 ---
 
 This week we have Dmitry from PayPal who would be talking about functional programming with Scala. We also have Herbert, a Year 3 Computer Science and Mathematics undergraduate who will be talking about solving complex problems using SQL!
