@@ -4,21 +4,19 @@ date: 2017-09-18 00:03:34.092496
 author: Herbert
 ---
 
---- say something as introduction ---
+This week we have Dmitry from PayPal who would be talking about functional programming with Scala. We also have Herbert, a Year 3 Computer Science and Mathematics undergraduate who will be talking about solving complex problems using SQL!
 
 {{% friday_hack_header venue="SR3, Town Plaza, University Town, NUS" date="September 22" %}}
 
-
-### Functional Programming
+### An Introduction to Functional Programming with Scala
 
 #### Talk Description:
 
---- describe ----
+This talk covers basic material about Functional programming with an example of Scala language. The baseline of this talk is built on the concept of learning a new programming language through 3 aspects: Primitives, Means of Combination and Means of Abstraction. I am also going to share my personal experience of using Scala in big enterprises and provide some examples and interesting cases. The main purpose of this talk is to acquaint the audience with some fundamental principles of functional programming, to try to rethink core problems of software engineering and to consider advantages and disadvantages of such engineering approaches. We will also talk about areas where functional programming already plays a dominant role for innovation: data streams, parallel data processing, etc.
 
 #### Speaker Profile
 
---- describe ----
-
+Dmitry Martyanov, Senior Software Engineer in Paypal Singapore,  Risk team. Dmitry has over 5 years of professional experience with Scala in different domains like API services, Data processing, and Distributed Systems. Before moving to Singapore was an architect of enterprise data services in one of the biggest Consumer Digital Banks in the world based in Moscow where Scala was primary language for all middle-tier services.
 
 
 ### SQL Queries Wizardry
