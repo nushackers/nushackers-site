@@ -35,10 +35,10 @@ We managed to add it back with a build process which also concurrently spawns th
 
 ## Faster site & build previews
 
-The last feature that we added was to move our hosting to service called [Netlify](https://netlify.com).
+The last feature that we added was to move our hosting to a service called [Netlify](https://netlify.com).
 
 <img src="/img/2017/09/netlify.png" alt="netlify"/>
 
-Not only did it improve the load time of our site through their incredibly fast Content-Distribution Networks (CDN), they also provided build previews whenever we pushed to to github. This meant that any new changes could be previewed in an actual fork of the site. It certainly made reviewing a lot easier and more trustworthy.
+Not only did it improve the load time of our site through their incredibly fast Content-Distribution Networks (CDN), they also provided build previews whenever we pushed to Github. This meant that any new changes could be previewed in an actual fork of the site. It certainly made reviewing a lot easier and more trustworthy.
 
-All said and done, the new blog is incredibly fast, convenient and sleek. We hope that this digest encouraged you to start your own. Our code is always publicly available at [Github](github.com/nushackers/nushackers-site)!
+All said and done, the new blog is incredibly fast, convenient and sleek. We hope that this digest encouraged you to start your own. Our code is always publicly available at [Github](https://github.com/nushackers/nushackers-site)!
