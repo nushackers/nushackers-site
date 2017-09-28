@@ -1,11 +1,11 @@
 ---
 author: benedict
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-03-20T00:00:00Z
+date: 2013-03-20T00:00:00.000Z
 title: 'Friday Hacks #45, Mar 22'
-url: /2013/03/20/friday-hacks-45-mar-22/
+url: /2013/03/friday-hacks-45
 ---
 
 This week we have Dr Michael Brown and Melvin Zhang. These talks are suited for everyone! So come and listen to them!

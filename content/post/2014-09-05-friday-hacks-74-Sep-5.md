@@ -1,8 +1,8 @@
 ---
 author: Joey
-date: 2014-09-05T13:08:10Z
+date: 2014-09-05T13:08:10.000Z
 title: 'Friday Hacks #74, September 5'
-url: /2014/09/05/friday-hacks-74-Sep-5/
+url: /2014/09/friday-hacks-74
 ---
 
 Gérard, chief engineer at Airbus Defence & Space, will be sharing about Open Source Intelligence and how the WebLab approach is used to efficiently mine the web.

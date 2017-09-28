@@ -1,8 +1,8 @@
 ---
 author: Advay Pal
-date: 2016-09-02T02:06:45Z
+date: 2016-09-02T02:06:45.000Z
 title: 'Friday Hacks #116, September 2'
-url: /2016/09/02/friday-hacks-116-Sep-2/
+url: /2016/09/friday-hacks-116
 ---
 
 This week, our very own coreteam members will be sharing their internship experiences locally and overseas!

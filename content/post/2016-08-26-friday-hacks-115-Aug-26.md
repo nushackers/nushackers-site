@@ -1,8 +1,8 @@
 ---
 author: Advay Pal
-date: 2016-08-26T12:22:16Z
+date: 2016-08-26T12:22:16.000Z
 title: 'Friday Hacks #115, August 26'
-url: /2016/08/26/friday-hacks-115-Aug-26/
+url: /2016/08/friday-hacks-115
 ---
 
 This week, we have Hongyi from IDA and Haoyi from Dropbox, to speak about some the work they do and the challenges they face while doing so. See you there!

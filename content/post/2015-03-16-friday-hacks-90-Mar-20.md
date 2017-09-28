@@ -1,8 +1,8 @@
 ---
 author: Jingwen
-date: 2015-03-16T10:37:25Z
+date: 2015-03-16T10:37:25.000Z
 title: 'Friday Hacks #90, March 20'
-url: /2015/03/16/friday-hacks-90-Mar-20/
+url: /2015/03/friday-hacks-90
 ---
 
 We'll be having two talks this week! The first will be about building developer

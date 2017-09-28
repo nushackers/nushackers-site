@@ -1,8 +1,8 @@
 ---
 author: Advay Pal
-date: 2016-09-30T21:02:22Z
+date: 2016-09-30T21:02:22.000Z
 title: 'Friday Hacks #119, September 30'
-url: /2016/09/30/friday-hacks-119-Sep-30/
+url: /2016/10/friday-hacks-119
 ---
 
 This week, we have Benjamin from DSO and James from nuTonomy, both talking about Autonomous Vehicles. See you there!

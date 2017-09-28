@@ -1,11 +1,11 @@
 ---
 author: vishnu
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2014-03-26T00:00:00Z
+date: 2014-03-26T00:00:00.000Z
 title: 'Friday Hacks #68, March 28'
-url: /2014/03/26/friday-hacks-68-march-28/
+url: /2014/03/friday-hacks-68
 ---
 
 This friday, we have a talk by the awesome Beng Eu about he built NUSMods. See you there! (Also, a little birdie tells us that Jeff Moss <em>might</em> be attending FH this week :))

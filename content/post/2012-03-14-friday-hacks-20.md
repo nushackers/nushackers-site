@@ -1,12 +1,12 @@
 ---
 author: admin
 categories:
-- Events
-- Friday Hacks
+  - Events
+  - Friday Hacks
 comments: true
-date: 2012-03-14T00:00:00Z
+date: 2012-03-14T00:00:00.000Z
 title: Friday Hacks Talk 16th Mar – The Mathematics of Luxury
-url: /2012/03/14/friday-hacks-talk-16th-mar-the-mathematics-of-luxury-by-dr-shaun-martin-applied-cognitive-science-ceo/
+url: /2012/03/friday-hacks-20
 ---
 
 <span><strong>Talk #1 - "</strong><strong>The Mathematics of Luxury" (by Dr Shaun Martin, </strong></span><strong>Applied Cognitive Science CEO)</strong>

@@ -1,8 +1,8 @@
 ---
 author: Joey
-date: 2014-10-24T14:28:44Z
+date: 2014-10-24T14:28:44.000Z
 title: 'Friday Hacks #80, October 24'
-url: /2014/10/24/friday-hacks-80-Oct-24/
+url: /2014/10/friday-hacks-80
 ---
 
 Get all your questions about internships answered at next week's Friday Hacks! There will be a Q&A session after.

@@ -1,10 +1,10 @@
 ---
 author: Ramu
 categories:
-- Friday Hacks
-date: 2017-03-03T17:42:59Z
+  - Friday Hacks
+date: 2017-03-03T17:42:59.000Z
 title: 'Friday Hacks #129, March 3'
-url: /2017/03/03/friday-hacks-129-Mar-3/
+url: /2017/03/friday-hacks-129
 ---
 
 Welcome back folks! We will be exploring cool hardware at our next Friday Hacks! Ever wondered what goes into building a laser cutter machine? Machine builder Kiwi will be doing a reverse teardown of a CO2 laser cutter! A team from Ionic3DP will also be sharing about their experiences in building their own 3D printers! You can look forward to live demos (:

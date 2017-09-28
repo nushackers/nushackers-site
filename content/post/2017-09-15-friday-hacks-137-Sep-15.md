@@ -1,7 +1,8 @@
 ---
-title: "Friday Hacks #137, September 15"
-date: 2017-09-12 09:40:35.299431
+title: 'Friday Hacks #137, September 15'
+date: 2017-09-12T09:40:35.299Z
 author: Herbert
+url: /2017/09/friday-hacks-137
 ---
 
 This Friday, our very own coreteam members will be sharing their internship experiences both locally and overseas. We will also invite NUS students who have done internships in various companies.

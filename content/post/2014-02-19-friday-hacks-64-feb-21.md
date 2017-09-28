@@ -1,11 +1,11 @@
 ---
 author: vishnu
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2014-02-19T00:00:00Z
+date: 2014-02-19T00:00:00.000Z
 title: 'Friday Hacks #64, Feb 21'
-url: /2014/02/19/friday-hacks-64-feb-21/
+url: /2014/02/friday-hacks-64
 ---
 
 This Friday, we have a talk by Indra from SimplerCloud. See you!

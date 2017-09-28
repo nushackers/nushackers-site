@@ -1,12 +1,12 @@
 ---
 author: ejames
 categories:
-- Events
-- Friday Hacks
+  - Events
+  - Friday Hacks
 comments: true
-date: 2011-09-10T00:00:00Z
+date: 2011-09-10T00:00:00.000Z
 title: 'Friday Hacks #2 Recap'
-url: /2011/09/10/friday-hacks-2-recap/
+url: /2011/09/friday-hacks-2
 ---
 
 Yesterday's Friday Hacks was huge. We had a turnout that stuffed Seminar Room 9, and when we had both the hacking and the speaking going on, people had barely any tables to sit at.

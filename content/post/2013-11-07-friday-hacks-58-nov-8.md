@@ -1,11 +1,11 @@
 ---
 author: admin
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-11-07T00:00:00Z
+date: 2013-11-07T00:00:00.000Z
 title: 'Friday Hacks #58, Nov 8'
-url: /2013/11/07/friday-hacks-58-nov-8/
+url: /2013/11/friday-hacks-58
 ---
 
 This week we have Lee Chuk Munn.

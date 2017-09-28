@@ -1,11 +1,11 @@
 ---
 author: admin
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-10-02T00:00:00Z
+date: 2013-10-02T00:00:00.000Z
 title: 'Friday Hacks #53, Oct 4'
-url: /2013/10/02/friday-hacks-53-oct-4/
+url: /2013/10/friday-hacks-53
 ---
 
 This week we have Cedric Chin and Divyanshu Arora.

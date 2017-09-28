@@ -1,11 +1,11 @@
 ---
 author: vishnu
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2014-03-12T00:00:00Z
+date: 2014-03-12T00:00:00.000Z
 title: 'Friday Hacks #66, March 14'
-url: /2014/03/12/friday-hacks-66-march-14/
+url: /2014/03/friday-hacks-66
 ---
 
 This friday, we have a talk by Chia Yuan from DSO National Laboratories. See you there!

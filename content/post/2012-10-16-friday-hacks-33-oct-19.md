@@ -1,11 +1,11 @@
 ---
 author: ejames
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2012-10-16T00:00:00Z
+date: 2012-10-16T00:00:00.000Z
 title: 'Friday Hacks #33, Oct 19'
-url: /2012/10/16/friday-hacks-33-oct-19/
+url: /2012/10/friday-hacks-33
 ---
 
 This week we have Associate Professor Lonce Wyse on the WebAudio API, and Shawn Tan on an introduction to LaTeX.

@@ -1,8 +1,8 @@
 ---
 author: Jethro Kuan
-date: 2017-03-10T18:32:21Z
+date: 2017-03-10T18:32:21.000Z
 title: 'Friday Hacks #130, March 10'
-url: /2017/03/10/friday-hacks-130-Mar-10/
+url: /2017/03/friday-hacks-130
 ---
 
 Hello folks, this week we're very excited to have Virgil Griffith over to speak about Bitcoin, Ethereum, the dark web as well as the exciting prospects of legaltech.

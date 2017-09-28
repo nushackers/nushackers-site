@@ -1,8 +1,8 @@
 ---
 author: Chu-Ming
-date: 2015-10-27T19:32:00Z
+date: 2015-10-27T19:32:00.000Z
 title: 'Friday Hacks #102, Oct 30'
-url: /2015/10/27/friday-hacks-102-Oct-30/
+url: /2015/10/friday-hacks-102
 ---
 
 This week, our very own coreteam members will be sharing on their internship experiences overseas. Learn why you should do internships, how to choose and of course, how to get them! Ask questions of other students who have interned overseas at various companies including Facebook, Palantir, Apple, Twitter, Dropbox, and Viki.

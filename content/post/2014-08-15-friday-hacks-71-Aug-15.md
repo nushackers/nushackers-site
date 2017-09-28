@@ -1,8 +1,8 @@
 ---
 author: Joey
-date: 2014-08-15T23:02:38Z
+date: 2014-08-15T23:02:38.000Z
 title: 'Friday Hacks #71, August 15'
-url: /2014/08/15/friday-hacks-71-Aug-15/
+url: /2014/08/friday-hacks-71
 ---
 
 For our first Friday Hack of AY2014/2015, we will have our Welcome Tea followed by an introduction to open source development by NUSMods creators, Beng and Yang Shun. See you there!

@@ -1,8 +1,8 @@
 ---
 author: Chu-Ming
-date: 2015-11-03T19:19:00Z
+date: 2015-11-03T19:19:00.000Z
 title: 'Friday Hacks #103, Nov 06'
-url: /2015/11/03/friday-hacks-103-Nov-06/
+url: /2015/11/friday-hacks-103
 ---
 
 This week, we're focusing on education. Learn about the science of the mind and bring all your questions from engineering to machine learning to the director of engineering at Coursera.

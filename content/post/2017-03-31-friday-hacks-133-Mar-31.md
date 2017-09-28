@@ -1,8 +1,8 @@
 ---
 author: Ramu
-date: 2017-03-31T18:41:10Z
+date: 2017-03-31T18:41:10.000Z
 title: 'Friday Hacks #133, March 31'
-url: /2017/03/31/friday-hacks-133-Mar-31/
+url: /2017/04/friday-hacks-133
 ---
 
 Hey folks, join this special edition on cyber security to hear from Jeff Moss and Halvar Flake!

@@ -1,11 +1,11 @@
 ---
 author: admin
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-11-15T00:00:00Z
+date: 2013-11-15T00:00:00.000Z
 title: 'Friday Hacks #59, Nov 15'
-url: /2013/11/15/friday-hacks-59-nov-15/
+url: /2013/11/friday-hacks-59
 ---
 
 <h2>Project Show & Tell</h2>

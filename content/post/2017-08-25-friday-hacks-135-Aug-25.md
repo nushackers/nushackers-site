@@ -1,7 +1,8 @@
 ---
-title: "Friday Hacks #135, August 25"
-date: 2017-08-16 11:05:43.042872
+title: 'Friday Hacks #135, August 25'
+date: 2017-08-16T11:05:43.042Z
 author: Suyash
+url: /2017/08/friday-hacks-135
 ---
 
 <em>(In the jargon of the computer programmer, a hacker is someone who strives to solve problems in elegant and ingenious ways.)</em>

@@ -1,8 +1,8 @@
 ---
 author: Jingwen
-date: 2015-08-13T10:37:25Z
+date: 2015-08-13T10:37:25.000Z
 title: 'Friday Hacks #94, August 21'
-url: /2015/08/13/friday-hacks-94-Aug-21/
+url: /2015/08/friday-hacks-94
 ---
 
 Friday Hacks are back for this new academic year!

@@ -1,8 +1,8 @@
 ---
 author: Chu-Ming
-date: 2015-09-29T00:14:25Z
+date: 2015-09-29T00:14:25.000Z
 title: 'Friday Hacks #98, Oct 02'
-url: /2015/09/29/friday-hacks-98-Oct-02/
+url: /2015/09/friday-hacks-98
 ---
 
 Members of SoC have no doubt used the SoC Printing app on Android/iOS before. Kheng Meng, a recent SoC graduate will be explaining the behind the scenes of the SoC Printing system as well as giving an introduction to Bluetooth Low Energy.

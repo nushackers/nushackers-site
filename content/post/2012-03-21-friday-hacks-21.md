@@ -1,12 +1,12 @@
 ---
 author: admin
 categories:
-- Events
-- Friday Hacks
+  - Events
+  - Friday Hacks
 comments: true
-date: 2012-03-21T00:00:00Z
+date: 2012-03-21T00:00:00.000Z
 title: Friday Hacks Talk 23rd Mar – Agile Dev + GSoC Information Session
-url: /2012/03/21/friday-hacks-talk-23rd-mar-agile-dev-gsoc-information-session/
+url: /2012/03/friday-hacks-21
 ---
 
 <div>

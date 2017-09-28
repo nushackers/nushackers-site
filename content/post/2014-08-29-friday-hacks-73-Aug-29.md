@@ -1,8 +1,8 @@
 ---
 author: Joey
-date: 2014-08-29T20:23:41Z
+date: 2014-08-29T20:23:41.000Z
 title: 'Friday Hacks #73, August 29'
-url: /2014/08/29/friday-hacks-73-Aug-29/
+url: /2014/08/friday-hacks-73
 ---
 
 This week, Shan will be sharing about his work to optimize underwater modems, and how to get started with electronics. We're also giving away a Raspberry Pi to one lucky attendee, see you there!

@@ -1,8 +1,8 @@
 ---
 author: Varun
-date: 2016-04-01T16:07:20Z
+date: 2016-04-01T16:07:20.000Z
 title: 'Friday Hacks #111, April 1'
-url: /2016/04/01/friday-hacks-111-Apr-1/
+url: /2016/04/friday-hacks-111
 ---
 
 It's going to be an epic security themed Friday this week. There will be two talks followed by a Q/A with Jeff Moss, founder of Black Hat & DEF CON!

@@ -1,8 +1,8 @@
 ---
 author: Joey
-date: 2014-10-03T00:50:00Z
+date: 2014-10-03T00:50:00.000Z
 title: 'Friday Hacks #77, October 3'
-url: /2014/10/03/friday-hacks-77-Oct-3/
+url: /2014/10/friday-hacks-77
 ---
 
 At this week's session, find out about how autonomous underwater vehicles work! Alex will be sharing about control systems, computer vision with openCV, acoustic localization and autonomous mission control.

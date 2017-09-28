@@ -1,8 +1,8 @@
 ---
 author: Ramu
-date: 2017-02-03T00:52:39Z
+date: 2017-02-03T00:52:39.000Z
 title: 'Friday Hacks #126, February 3'
-url: /2017/02/03/friday-hacks-126-Feb-3/
+url: /2017/02/friday-hacks-126
 ---
 
 Hey folks, welcome back from the CNY break! Come join us this Friday to learn about computer security and collaborative tools! We will have Jethro Kuan sharing about collaborative text editing and Wang Leng sharing about cross site scripting. Read on to know more.

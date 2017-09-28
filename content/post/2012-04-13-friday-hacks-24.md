@@ -1,11 +1,11 @@
 ---
 author: admin
 categories:
-- Friday Hacks
+  - Friday Hacks
 comments: true
-date: 2012-04-13T00:00:00Z
+date: 2012-04-13T00:00:00.000Z
 title: Friday Hacks Talk April 13th - Introduction to an Agile Python!
-url: /2012/04/13/friday-hacks-talk-april-13th-introduction-to-an-agile-python/
+url: /2012/04/friday-hacks-24
 ---
 
 We have talks by<strong> Owen Jones</strong> (from Google) and <strong>Andras Kristof</strong> on the 13th of April 2012. Feel free to spread the word—and the email—to hackers, coders, and anyone who might be interested but isn't in the mailing list. Please note that registration is required.

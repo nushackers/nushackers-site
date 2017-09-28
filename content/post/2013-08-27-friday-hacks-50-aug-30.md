@@ -1,11 +1,11 @@
 ---
 author: admin
 categories:
-- Friday Hacks
+  - Friday Hacks
 comments: true
-date: 2013-08-27T00:00:00Z
+date: 2013-08-27T00:00:00.000Z
 title: 'Friday Hacks #50, Aug 30'
-url: /2013/08/27/friday-hacks-50-aug-30/
+url: /2013/08/friday-hacks-50
 ---
 
 This week we have a talk by Fazli Sapuan followed by a series of ad-hoc lightning talks by members of the community.

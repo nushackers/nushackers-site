@@ -1,11 +1,11 @@
 ---
 author: ejames
 categories:
-- Friday Hacks
+  - Friday Hacks
 comments: true
-date: 2012-08-22T00:00:00Z
+date: 2012-08-22T00:00:00.000Z
 title: 'Friday Hacks #26, Aug 24'
-url: /2012/08/22/friday-hacks-26-aug-26-1-javascript-without-frameworks-why-we-did-it-and-how-painful-it-was-2-hacking-hackers-for-fun-and-profit/
+url: /2012/08/friday-hacks-26
 ---
 
 This week we have Shaw Chian, co-founder of Flocations, and Ruiwen Chua from Hackerspace.sg with us.

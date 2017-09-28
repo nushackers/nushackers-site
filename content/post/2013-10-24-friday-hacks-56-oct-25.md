@@ -1,11 +1,11 @@
 ---
 author: admin
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-10-24T00:00:00Z
+date: 2013-10-24T00:00:00.000Z
 title: 'Friday Hacks #56, Oct 25'
-url: /2013/10/24/friday-hacks-56-oct-25/
+url: /2013/10/friday-hacks-56
 ---
 
 This week we have Nick Jachowski and Lin Zhihao.

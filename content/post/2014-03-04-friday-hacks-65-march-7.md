@@ -1,11 +1,11 @@
 ---
 author: michael
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2014-03-04T00:00:00Z
+date: 2014-03-04T00:00:00.000Z
 title: 'Friday Hacks #65, March 7'
-url: /2014/03/04/friday-hacks-65-march-7/
+url: /2014/03/friday-hacks-65
 ---
 
 This friday, we’ll be having a Project Intern themed Friday Hacks!

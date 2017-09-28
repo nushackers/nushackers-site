@@ -1,11 +1,11 @@
 ---
 author: benedict
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-04-17T00:00:00Z
+date: 2013-04-17T00:00:00.000Z
 title: 'Friday Hacks #48, Apr 19'
-url: /2013/04/17/friday-hacks-48-apr-19/
+url: /2013/04/friday-hacks-48
 ---
 
 This week we have Kelvin Yeung and Miha Ciglar.

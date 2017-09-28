@@ -1,12 +1,12 @@
 ---
 author: ejames
 categories:
-- Events
-- Friday Hacks
+  - Events
+  - Friday Hacks
 comments: true
-date: 2011-10-18T00:00:00Z
+date: 2011-10-18T00:00:00.000Z
 title: 'Friday Hacks #6'
-url: /2011/10/18/friday-hacks-6/
+url: /2011/10/friday-hacks-6
 ---
 
 For this week's Friday Hacks, Steven Goh, a 4th year CompSci student will be coming down to share with us "Rapid Web Development the right (Pythonic) way"

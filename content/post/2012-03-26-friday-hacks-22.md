@@ -1,12 +1,12 @@
 ---
 author: admin
 categories:
-- Events
-- Friday Hacks
+  - Events
+  - Friday Hacks
 comments: true
-date: 2012-03-26T00:00:00Z
+date: 2012-03-26T00:00:00.000Z
 title: Friday Hacks Talk 30th Mar - Philosophy of Unix
-url: /2012/03/26/friday-hacks-talk-30th-mar-philosophy-of-unix/
+url: /2012/03/friday-hacks-22
 ---
 
 <span style="font-family: arial,helvetica,sans-serif;">{{< imglink src="/img/2012/03/unix_plate.jpg" alt="" >}}

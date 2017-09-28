@@ -1,11 +1,11 @@
 ---
 author: admin
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-10-30T00:00:00Z
+date: 2013-10-30T00:00:00.000Z
 title: 'Friday Hacks #57, Nov 1'
-url: /2013/10/30/friday-hacks-57-nov-1/
+url: /2013/10/friday-hacks-57
 ---
 
 This week we have Giovanni Casinelli.

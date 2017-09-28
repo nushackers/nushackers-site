@@ -1,8 +1,8 @@
 ---
 author: Advay Pal
-date: 2016-09-09T18:47:01Z
+date: 2016-09-09T18:47:01.000Z
 title: 'Friday Hacks #117, September 9'
-url: /2016/09/09/friday-hacks-117-Sep-9/
+url: /2016/09/friday-hacks-117
 ---
 
 This week, we have Melvin from Cosmiqo talking about Programs that play better than us, and Zhi An from our Coreteam talking about Chromelens. See you there!

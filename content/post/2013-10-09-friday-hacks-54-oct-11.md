@@ -1,11 +1,11 @@
 ---
 author: admin
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-10-09T00:00:00Z
+date: 2013-10-09T00:00:00.000Z
 title: 'Friday Hacks #54, Oct 11'
-url: /2013/10/09/friday-hacks-54-oct-11/
+url: /2013/10/friday-hacks-54
 ---
 
 This week we have Fazli Sapuan and Fazli Sapuan. Followed by talk(s) which are hopefully A.I. themed (maybe), and then a series of ad-hoc lightning talks by members of the community.

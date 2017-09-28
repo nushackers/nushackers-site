@@ -1,11 +1,11 @@
 ---
 author: ejames
 categories:
-- Meetings
+  - Meetings
 comments: true
-date: 2012-02-09T00:00:00Z
+date: 2012-02-09T00:00:00.000Z
 title: 'Friday Hacks: Google''s Go Talk and Andy Croll''s TDD Talk'
-url: /2012/02/09/friday-hacks-googles-go-talk-and-andy-crolls-tdd-talk/
+url: /2012/02/friday-hacks-17
 ---
 
 {{< imglink src="/img/2012/02/image00.jpeg" alt="A picture of the Go Gopher, mascot of the Go Programming Language, with a rabbit." >}}

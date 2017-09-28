@@ -1,12 +1,12 @@
 ---
 author: admin
 categories:
-- Events
-- Friday Hacks
+  - Events
+  - Friday Hacks
 comments: true
-date: 2012-02-27T00:00:00Z
+date: 2012-02-27T00:00:00.000Z
 title: Friday Hacks Talk 2nd Mar - Building responsive frontends with Backbone.js
-url: /2012/02/27/friday-hacks-talk-2-mar-12-building-responsive-frontends-with-backbone-js-by-divyanshu-arora/
+url: /2012/02/friday-hacks-18
 ---
 
 {{< imglink src="/img/2012/02/417599_304279572963816_164904410234667_838981_1516059813_n.jpeg" alt="" >}}

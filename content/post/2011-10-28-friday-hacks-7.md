@@ -1,12 +1,12 @@
 ---
 author: rctay
 categories:
-- Events
-- Friday Hacks
+  - Events
+  - Friday Hacks
 comments: true
-date: 2011-10-28T00:00:00Z
+date: 2011-10-28T00:00:00.000Z
 title: 'Friday Hacks #7'
-url: /2011/10/28/1851/
+url: /2011/10/friday-hacks-7
 ---
 
 <div>Notice: the NUS Hackers site continues to be black for this week. Last week, just as we were about to change it back, we received news of another passing - John McCarthy.</div>

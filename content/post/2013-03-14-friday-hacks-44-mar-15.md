@@ -1,11 +1,11 @@
 ---
 author: michael
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-03-14T00:00:00Z
+date: 2013-03-14T00:00:00.000Z
 title: 'Friday Hacks #44, Mar 15'
-url: /2013/03/14/friday-hacks-44-mar-15/
+url: /2013/03/friday-hacks-44
 ---
 
 This week, we will be adding a twist to our regular Friday Hacks.

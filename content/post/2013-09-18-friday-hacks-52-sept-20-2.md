@@ -1,11 +1,11 @@
 ---
 author: jerome
 categories:
-- Friday Hacks
+  - Friday Hacks
 comments: true
-date: 2013-09-18T00:00:00Z
+date: 2013-09-18T00:00:00.000Z
 title: 'Friday Hacks #52, Sept 20'
-url: /2013/09/18/friday-hacks-52-sept-20-2/
+url: /2013/09/friday-hacks-52
 ---
 
 This week we have a talk by Microsoft. Do note that we'll be in Seminar Room 1, COM1 (NUS School of Computing) instead of at University Town for this session!

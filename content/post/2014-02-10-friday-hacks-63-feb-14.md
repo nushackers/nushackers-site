@@ -1,11 +1,11 @@
 ---
 author: vishnu
 categories:
-- Friday Hacks
+  - Friday Hacks
 comments: true
-date: 2014-02-10T00:00:00Z
+date: 2014-02-10T00:00:00.000Z
 title: 'Friday Hacks #63, Feb 14'
-url: /2014/02/10/friday-hacks-63-feb-14/
+url: /2014/02/friday-hacks-63
 ---
 
 This Valentine's evening, we have a exciting talk by Hongyi Li about his past work on Google Spanner &amp; Image Search. See you!

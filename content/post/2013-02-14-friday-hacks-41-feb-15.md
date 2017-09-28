@@ -1,11 +1,11 @@
 ---
 author: benedict
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-02-14T00:00:00Z
+date: 2013-02-14T00:00:00.000Z
 title: 'Friday Hacks #41, Feb 15'
-url: /2013/02/14/friday-hacks-41-feb-15/
+url: /2013/02/friday-hacks-41
 ---
 
 This week we have Wong Yi, who will share with us on game programming. Anyone who is interested in this field, or is curious about game programming should definitely come for the talk!

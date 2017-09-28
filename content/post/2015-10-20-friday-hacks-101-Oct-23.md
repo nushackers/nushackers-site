@@ -1,8 +1,8 @@
 ---
 author: Chu-Ming
-date: 2015-10-20T13:32:00Z
+date: 2015-10-20T13:32:00.000Z
 title: 'Friday Hacks #101, Oct 23'
-url: /2015/10/20/friday-hacks-101-Oct-23/
+url: /2015/10/friday-hacks-101
 ---
 
 Coming up in our 101th Friday Hacks, we have He Wei from Hopetechnik sharing on engineering solutions in his line of work as well as Dr. Swapan giving a talk about security issues and phishing.

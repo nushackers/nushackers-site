@@ -1,8 +1,8 @@
 ---
 author: Jethro Kuan
-date: 2017-03-17T09:52:54Z
+date: 2017-03-17T09:52:54.000Z
 title: 'Friday Hacks #131, March 17'
-url: /2017/03/17/friday-hacks-131-Mar-17/
+url: /2017/03/friday-hacks-131
 ---
 
 Hi folks! This week we are privileged to have one of the leading experts in high performance computing (he has his own law!), give a talk on the intricacies of math in computing. For more information, refer to the talk description.

@@ -1,8 +1,8 @@
 ---
 author: Varun
-date: 2016-02-08T00:00:01Z
+date: 2016-02-08T00:00:01.000Z
 title: 'Friday Hacks #107, February 12th'
-url: /2016/02/08/friday-hacks-107-Feb-12/
+url: /2016/02/friday-hacks-107
 ---
 
 For our third Friday Hacks of the semester, we're having Eeshan and Shuvan, two PhD's attempting to commercialize Li-Fi technology.

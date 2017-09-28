@@ -1,11 +1,11 @@
 ---
 author: vishnu
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2014-02-04T00:00:00Z
+date: 2014-02-04T00:00:00.000Z
 title: 'Friday Hacks #62, Feb 7'
-url: /2014/02/04/friday-hacks-62-feb-7/
+url: /2014/02/friday-hacks-62
 ---
 
 This week, we have a talk by Alex Teo from D'Crypt. Do note the change in venue, it's back at UTown again! See you there

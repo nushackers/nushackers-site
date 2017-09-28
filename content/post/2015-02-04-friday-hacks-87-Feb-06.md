@@ -1,8 +1,8 @@
 ---
 author: Jingwen
-date: 2015-02-04T16:08:25Z
+date: 2015-02-04T16:08:25.000Z
 title: 'Friday Hacks #87, February 6'
-url: /2015/02/04/friday-hacks-87-Feb-06/
+url: /2015/02/friday-hacks-87
 ---
 
 This week's topic will be on an introduction to deep learning and neural networks by Shawn Tan. See you there!

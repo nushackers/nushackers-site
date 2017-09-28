@@ -1,11 +1,11 @@
 ---
 author: ejames
 categories:
-- Friday Hacks
+  - Friday Hacks
 comments: true
-date: 2012-11-05T00:00:00Z
+date: 2012-11-05T00:00:00.000Z
 title: 'Friday Hacks #35, Nov 9'
-url: /2012/11/05/friday-hacks-35-nov-9/
+url: /2012/11/friday-hacks-35
 ---
 
 <img class="alignleft  wp-image-2782" style="margin: 5px;" title="main-qimg-f61a4d3c922757b1f5f354f28f4c3558" src="/img/2012/11/main-qimg-f61a4d3c922757b1f5f354f28f4c3558.png" alt="" width="168" height="168" />
