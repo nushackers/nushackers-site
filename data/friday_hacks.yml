@@ -30,7 +30,7 @@ hacks:
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
       - speaker: Hongyi
-        from: Govtech
+        from: GovTech
         title: Digital Parking App
       - speaker: Mohammad
         from: TradeGecko
