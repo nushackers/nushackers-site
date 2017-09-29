@@ -10,7 +10,7 @@
     "license": "MIT",
     "devDependencies": {
         "autoprefixer": "^7.1.2",
-        "bootstrap": "beta",
+        "bootstrap": "next",
         "gulp": "^3.9.1",
         "gulp-changed-in-place": "^2.2.0",
         "gulp-notify": "^3.0.0",

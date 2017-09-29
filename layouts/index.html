@@ -1,9 +1,10 @@
 {{ define "main" }}
 <main class="row front-page main">
   <section class="section col-12 hero">
-    <h1 class="hero-title">
+    <pre class="hero-title">
+
       Spreading the <a href="https://www.nushackers.org/hackerdefined/" class="hero-hacker">hacker</a> culture
-    </h1>
+    </pre>
     <ul class="list row justify-content-around">
       {{ range $event := $.Site.Data.projects.projects }}
         <li class="col hero-item">
