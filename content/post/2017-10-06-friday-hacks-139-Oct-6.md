@@ -4,7 +4,7 @@ date: 2017-09-29 23:01:13.231346
 author: Herbert
 ---
 
-This Friday, we have Hongyi from GovTech talking about his Digital Parking App, and Mohammad from TradeGecko talking about Asynchronous Processing!
+This Friday, we have Hongyi from GovTech talking about the making and deployment of a Digital Parking App, and Mohammad from TradeGecko talking about Asynchronous Processing!
 
 {{% friday_hack_header venue="SR3, Town Plaza, University Town, NUS" date="October 6" %}}
 
@@ -16,9 +16,7 @@ TBC
 
 #### Speaker Profile
 
-Li Hongyi
-
-
+Hongyi worked as a product manager at Google from 2011 to 2013. During that time he worked on Spanner with the infrastructure team and the UI redesign of Image Search. He’s currently back in Singapore working at IDA on a new team trying to make the government more data driven.
 
 ### Asynchronous Processing
 
