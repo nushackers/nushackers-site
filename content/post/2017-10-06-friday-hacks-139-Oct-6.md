@@ -12,11 +12,11 @@ This Friday, we have Hongyi from GovTech talking about his Digital Parking App, 
 
 #### Talk Description:
 
---- describe ----
+TBC
 
 #### Speaker Profile
 
---- describe ----
+Li Hongyi
 
 
 
