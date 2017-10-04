@@ -8,15 +8,23 @@ This Friday, we have Hongyi from GovTech talking about the making and deployment
 
 {{% friday_hack_header venue="SR3, Town Plaza, University Town, NUS" date="October 6" %}}
 
-### Digital Parking App
+### Parking.sg: from Prototype to Production
 
 #### Talk Description:
 
-TBC
+Parking.sg is an app to pay for street parking without needing coupons. Learn how the app was built from the initial prototype to roll it out island wide. We will talk about the product, engineering, and bureacratic design decisions that were made to get us successfully to launch.
+
+Things we'll cover include:
+
+- Pitching with prototypes instead of slides
+- Stripping away unecessary features so you can focus on what is important
+- Designing a data model for a distributed system
+- Reliable apps while having an unreliable network
+- Designing a clean user experience
 
 #### Speaker Profile
 
-Hongyi worked as a product manager at Google from 2011 to 2013. During that time he worked on Spanner with the infrastructure team and the UI redesign of Image Search. He’s currently back in Singapore working at IDA on a new team trying to make the government more data driven.
+Hongyi likes to build things. As the Deputy Director of the Product and Engineering Team at GovTech, his job is to design, evangelize, and implement software to help improve the public good. Projects he's launched include Data.gov.sg, Beeline.sg, and Parking.sg. Prior to joining the government Hongyi worked at Google. There he designed the current Image Search "page split" UI and worked on Spanner: Google's Globally Distributed Database.
 
 ### Asynchronous Processing
 
