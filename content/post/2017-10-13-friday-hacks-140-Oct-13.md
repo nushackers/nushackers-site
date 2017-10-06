@@ -15,7 +15,7 @@ author: Herbert
 
 In systems engineering we deal with shared state, impurities and mutable data. Nix and NixOS provide a practical and efficient way to remove a lot of that ugliness in a safe, repeatable and reliable way.
 
-We will be going through how it solves real-life problem such as as:
+We will be going through how it solves real-life problem such as:
 - cleanly change (and roll-back) deployed systems
 - ensuring developers have the exact same environments
 - getting rid of language/framework specific package managers (virtuelenv, rbenv, etc) to provide a single cohesive language
