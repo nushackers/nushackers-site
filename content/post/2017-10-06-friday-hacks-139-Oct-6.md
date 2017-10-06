@@ -30,12 +30,10 @@ Hongyi likes to build things. As the Deputy Director of the Product and Engineer
 
 #### Talk Description:
 
-Asynchronous processing is an important methodology for systems design which allows execution of expensive calculations independently of critical/responsive system flows. In this talk, we will be:
+Asynchronous processing is an important methodology for systems design which allows execution of expensive calculations independently of critical/responsive system flows. In this talk we will be:
 
+- Walking through systems before/after asynchronous processing is introduced into their architecture.
 - Shedding the light on Asynchronous processing landscape (servers, frameworks, and libraries).
-- Showcasing an example technology, Sidekiq, and how to use it to accomplish Async Processing.
-- Outlining Sidekiq’s strengths and weaknesses compared to other options in the landscape.
-- Take an quick tour to the internals of Sidekiq, to reveal some interesting architectural tradeoffs.
 
 #### Speaker Profile
 
