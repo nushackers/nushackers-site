@@ -12,12 +12,16 @@
   </section>
   <div class="col-12 col-md-10 browse">
     <div class="row">
-    {{ if .Prev }}
-      <a class="col-6 previous" href="{{ .Prev.Permalink }}">{{ .Prev.Title }}</a>
-    {{ end }}
-    {{ if .Next }}
-      <a class="col-6 next" href="{{ .Next.Permalink }}">{{ .Next.Title }}</a>
-    {{ end }}
+      <div class="col-6 post-previous">
+        {{ if .Prev }}
+          <a href="{{ .Prev.Permalink }}">{{ .Prev.Title }}</a>
+        {{ end }}
+      </div>
+      <div class="col-6 post-next">
+        {{ if .Next }}
+          <a href="{{ .Next.Permalink }}">{{ .Next.Title }}</a>
+        {{ end }}
+      </div>
     </div>
   </div>
   <aside class="col-12 col-md-10 aside">
