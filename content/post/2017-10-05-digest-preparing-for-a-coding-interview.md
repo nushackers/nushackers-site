@@ -1,5 +1,5 @@
 ---
-author: Yang Shun (NUS Alumni)
+author: Tay Yang Shun (NUS Alumni)
 categories:
 - Digest
 date: 2017-10-05T00:00:00Z
@@ -29,10 +29,14 @@ At companies like Facebook and Google, the people are software engineers first, 
 
 Unfortunately, the rules are set by the companies, not by the candidates. There is a high emphasis on general computer science concepts like algorithms, design patterns, data structures; core skills that a good software engineer should possess. If you want the job, you have to play by the rules set by the game masters — improve your coding interview skills!
 
-![tech interview handbook](/img/2017/10/handbook.png)
+![Tech Interview Handbook](/img/2017/10/handbook.png)
 
-The content for this post can be found in my [Tech Interview Handbook repo](https://github.com/yangshun/tech-interview-handbook)
-<iframe src="https://ghbtns.com/github-btn.html?user=yangshun&repo=tech-interview-handbook&type=star&count=true&size=large" frameborder="0" scrolling="0" width="142px" height="30px"></iframe>. Updates will be made there. Pull requests for suggestions and corrections are welcome!
+<div class="text-center">
+  <iframe src="https://ghbtns.com/github-btn.html?user=yangshun&repo=tech-interview-handbook&type=star&count=true&size=large" frameborder="0" scrolling="0" width="142px" height="30px"></iframe>
+</div>
+<br/>
+
+The content for this post can be found in my [Tech Interview Handbook repo](https://github.com/yangshun/tech-interview-handbook) and future updates will be made there. Pull requests for suggestions and corrections are welcome!
 
 # Preparing for a Coding Interview
 
@@ -150,6 +154,6 @@ By following these steps, you will improve your coding interview skills, and be 
 
 All the best!
 
-*This post was originally published on [Medium](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b).*
+---
 
-Yang Shun is an astute NUS alumni and co-creator of NUSMods, among many other things. He is currently working as a Front End Engineer at Facebook.
+*Yang Shun is an astute NUS alumni and co-creator of NUSMods, among many other things. He is currently working as a Front End Engineer at Facebook. This post was originally published on [Medium](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b).*
