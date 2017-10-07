@@ -18,26 +18,26 @@ Here's the finalized prize distribution:
 
 <strong>First Place:</strong>
 <ul>
-	<li>4 PlayBooks</li>
-	<li>4 Samsung Aces</li>
-	<li>4 X 50 AWS Credits</li>
-	<li>4 Private Github Accounts</li>
-	<li>4 Tickets to NUS Startup Weekend</li>
-	<li>4 Tickets to Echelon</li>
-	<li>4 Nokia Goodie Bags</li>
+  <li>4 PlayBooks</li>
+  <li>4 Samsung Aces</li>
+  <li>4 X 50 AWS Credits</li>
+  <li>4 Private GitHub Accounts</li>
+  <li>4 Tickets to NUS Startup Weekend</li>
+  <li>4 Tickets to Echelon</li>
+  <li>4 Nokia Goodie Bags</li>
 </ul>
 <strong>Second Place:</strong>
 <ul>
-	<li>4 Blackberry Torches</li>
-	<li>4 Microsoft Ergonomic Keyboards (Not sponsored)</li>
-	<li>4 X 50 AWS Credits</li>
-	<li>4 Tickets to NUS Startup Weekend</li>
-	<li>4 Nokia Goodie Bags</li>
+  <li>4 Blackberry Torches</li>
+  <li>4 Microsoft Ergonomic Keyboards (Not sponsored)</li>
+  <li>4 X 50 AWS Credits</li>
+  <li>4 Tickets to NUS Startup Weekend</li>
+  <li>4 Nokia Goodie Bags</li>
 </ul>
 <strong>Popular Vote:</strong>
 <ul>
-	<li>4 X 50 AWS Credits</li>
-	<li>4 Nokia Goodie Bags</li>
+  <li>4 X 50 AWS Credits</li>
+  <li>4 Nokia Goodie Bags</li>
 </ul>
 
 See you there!
