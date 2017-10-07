@@ -38,7 +38,7 @@ TWI is basically composed with an ultra compact 9 axis IMU from Invensense, the 
 ##### How?
 To make the PCB, you can get the gerbers from the OSHpark widget, or you can get the latest version from upverter. It's still a prototype but a detailed bill of material is available here: goo.gl/8yxCDU
 
-I developed the PCB using Upverter so feel free to fork it and improve it! Similarly, feel free to fork the Github repo and play with the software...
+I developed the PCB using Upverter so feel free to fork it and improve it! Similarly, feel free to fork the GitHub repo and play with the software...
 Enjoy ;)
 
 

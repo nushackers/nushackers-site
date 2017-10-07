@@ -39,7 +39,7 @@ Have you ever wondered how your framework of choice has implemented the software
 <strong>Talk Prep:</strong>
 I’d be showing some examples directly from the Drupal code base. It’d be easy to follow along if you have a copy of Drupal 7 on your machine (no need to install). Download from <a href="http://ftp.drupal.org/files/projects/drupal-7.20.tar.gz">here</a>. Alternatively, you can use the awesome <a href="http://drupalcode.org/project/drupal.git/tree/3a24da1b40f5e05876ad7775044500b61eb2ed94">repository viewer</a> on Drupal.org.
 
-Additional code examples at my <a href="https://github.com/amarnus/drupal-design-patterns">Github repo</a>. Examples are wrapped in a Drupal module. You can learn how to install a Drupal module from <a href="http://drupal.org/documentation/install/modules-themes">here</a>.
+Additional code examples at my <a href="https://github.com/amarnus/drupal-design-patterns">GitHub repo</a>. Examples are wrapped in a Drupal module. You can learn how to install a Drupal module from <a href="http://drupal.org/documentation/install/modules-themes">here</a>.
 
 <strong>Speaker Profile:</strong>
 Amarnath Ravikumar works as an Engineer at <a href="http://theteamie.com/">Teamie</a> and joined the team in May 2011.

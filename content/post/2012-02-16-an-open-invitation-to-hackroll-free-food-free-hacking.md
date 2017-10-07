@@ -41,7 +41,7 @@ We hope to see you there!
 <li>Microsoft Natural Ergonomic Keyboard 4000</li>
 <li>Samsung Galaxy Ace</li>
 <li>AWS Credits</li>
-<li>Private Github Accounts</li>
+<li>Private GitHub Accounts</li>
 <li>Free tickets to NUS Startup Weekend (worth $45 each)</li>
 <li>Free tickets to e27's Echelon 2012 (worth $60 each)</li>
 <li>Nokia Goodie Bags</li>
