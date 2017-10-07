@@ -59,7 +59,7 @@ Every trivial hack project brings with it a hidden cascade of things to learn. T
 <h3>Hacking puts you in touch with actual developers</h3>
 One of the quickest ways to learn about the software world is to contribute to an open source project. Many coreteam members contribute to existing OSS codebases, one even <a href="http://rctay.tuletech.com/2011/06/Update-on-port-histogram-diff">implemented a new diff algorithm for Git</a>. SoC provides students with a good Firefox course with which to learn about Open Source. Both approaches to OSS will eventually require us, as students, to meet with and talk to working, breathing developers.
 
-But hacking on your own projects are also a good way to meet other developers. If you're solving someone else's problem, he or she may find you on Github to contribute to your code.
+But hacking on your own projects are also a good way to meet other developers. If you're solving someone else's problem, he or she may find you on GitHub to contribute to your code.
 
 Again, this teaches you things you might otherwise have to wait for graduation to learn.
 
