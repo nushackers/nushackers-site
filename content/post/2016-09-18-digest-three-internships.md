@@ -58,7 +58,7 @@ Well known for its giant [monorepo](https://www.wired.com/2015/09/google-2-billi
 
 ### Stripe
 
-Main languages are Ruby and Scala. Uses Github for code, PR, code review, phabricator for issue tracking. Deploys to AWS using a custom tool, and developers can develop on AWS instances too.
+Main languages are Ruby and Scala. Uses GitHub for code, PR, code review, phabricator for issue tracking. Deploys to AWS using a custom tool, and developers can develop on AWS instances too.
 
 ### Uber
 

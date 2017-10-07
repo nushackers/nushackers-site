@@ -12,7 +12,7 @@ url: /2013/03/18/guest-post-1-nusmorge/
 
 <em> Here are some reflections by their team members:</em>
 <h3>Yao Yujian</h3>
-I had my 24-hour hackathon from this Sunday to Monday. Really great experience. Stayed up all night long coding non-stopped and produced something that actually works. Take a look at my <a href="https://github.com/yyjhao">github profile page</a> - there were 108 commits during that period! This is kind of funny because it is exactly half the number of commits I have pushed in a year.
+I had my 24-hour hackathon from this Sunday to Monday. Really great experience. Stayed up all night long coding non-stopped and produced something that actually works. Take a look at my <a href="https://github.com/yyjhao">GitHub profile page</a> - there were 108 commits during that period! This is kind of funny because it is exactly half the number of commits I have pushed in a year.
 Working in a team of four was also great. I don’t have to style the page, write up the server backend, or parse the data - all pushed to others :P.
 Anyway, here’s the product we have hacked out: <a href="http://morge.nuscomputing.com/">NUSMorge</a>, a time table merger that takes in names and corresponding <a href="http://nusmods.com/">NUS mods</a> url and produce a merge of everyone’s time table so that you can clearly see all the free time slots. It even allows you to hide some of your lessons (for example, if you decide that you can skip that lecture, or that the lecturer has cancelled it) so you can maybe find more free time slots. For more information, please see <a href="http://yjyao.com/NUSMorge/">this introductory page</a>. It is also <a href="https://github.com/yyjhao/NUSMorge">open sourced</a>.
 <h3>Ng Zhi An</h3>
@@ -31,6 +31,6 @@ Stay focused, stay motivated. 24 hours isn't a long time, to be able to ship som
 Learn to distribute work, and learn the strengths of each member. Everyone will have an easier time this way.
 Keep updating each other. Everyone should know what everyone else is working on this time. There needs to discussion and communication, so that members don't go working on the same thing (like writing two different ways of parsing), or working on wildly different things.
 <strong>Source</strong>
-Our <a href="https://github.com/yyjhao/NUSMorge">project</a> is on Github.
+Our <a href="https://github.com/yyjhao/NUSMorge">project</a> is on GitHub.
 
 &nbsp;
