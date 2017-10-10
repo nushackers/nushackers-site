@@ -41,7 +41,7 @@ hacks:
         title: Functional Systems in a Non-functional World
       - speaker: Hancong
         from: Visa
-        title: Docker
+        title: Getting to Know Containers and Docker
   - venue: "The HANGAR by NUS Enterprise"
     topics:
       - speaker: Mattheus
