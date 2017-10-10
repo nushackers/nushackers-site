@@ -19,7 +19,7 @@ with open('../data/friday_hacks.yml', 'r') as fin:
 
     # Sick undocumented feature
     if len(argv) > 1:
-        now += timedelta(days = 7 * argv[1])
+        now += timedelta(days = 7 * int(argv[1]))
 
     hacks = doc['hacks']
     cur = start_date
