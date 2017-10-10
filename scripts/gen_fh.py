@@ -39,8 +39,7 @@ with open('../data/friday_hacks.yml', 'r') as fin:
         print "Dude no hackz"
         quit()
 
-    print "Creating FH post for " + str(cur)
-    name = raw_input("Your name? ")
+    date = cur
 
     # so future-proof it's sick
     fhre = re.compile(
@@ -56,6 +55,14 @@ with open('../data/friday_hacks.yml', 'r') as fin:
                 num = cur
 
     num += 1
+
+    # What is abstraction?
+    if len(argv) > 1:
+        num += int(argv[1])
+
+    print "Creating FH post for #" + str(num) + ", at " + str(date)
+    name = raw_input("Your name? ")
+
     # now witness templating in raw string
     content = '''\
 ---
