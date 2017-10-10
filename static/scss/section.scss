@@ -24,16 +24,17 @@
     justify-content: space-between;
   }
 
-  .previous {
-    &::before {
+  .post-previous {
+    a:before {
       content: '← ';
       color: $gray-800;
     }
   }
-  .next {
+
+  .post-next {
     text-align: right;
 
-    &::after {
+    a:after {
       content: ' →';
       color: $gray-800;
     }

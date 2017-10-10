@@ -22,7 +22,7 @@ Mark is the founder of Bazinga! A technology development and prototyping company
 #### 'Talk' Description
 How better to get started with electronics than to... actually get started! Chinmay and friends will guide all of you through creating your own noise synthesizers. This workshop is simple and targeted at absolute beginners, so don't worry about having never done hardware hacking before. Kits are provided* free-of-charge.
 
-You can preview the workshop materials <a href="https://github.com/notthetup/squaresynth-workshop/">here on Github</a>.
+You can preview the workshop materials <a href="https://github.com/notthetup/squaresynth-workshop/">here on GitHub</a>.
 
 *Limited quantities available, on a first-come-first-served basis.
 

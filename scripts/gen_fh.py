@@ -1,9 +1,13 @@
 # Generate this week's friday hack
+# To generate some other FH pass in a number as argument
+# e.g python gen_fh.py 1 generates next week's
+# e.g python gen_fh.py 3 generates next next next week's
 # Please first update data/friday_hacks.yml before running this
 import yaml
 from datetime import datetime, timedelta
 from os import listdir
 from os.path import isfile, join
+from sys import argv
 import re
 
 with open('../data/friday_hacks.yml', 'r') as fin:
@@ -12,6 +16,11 @@ with open('../data/friday_hacks.yml', 'r') as fin:
                                '%Y-%m-%d %H:%M:%S +0800')
     # Time delta fixes weird bug
     now = datetime.today() - timedelta(hours=3)
+
+    # Sick undocumented feature
+    if len(argv) > 1:
+        now += timedelta(days = 7 * argv[1])
+
     hacks = doc['hacks']
     cur = start_date
     next_hack = None

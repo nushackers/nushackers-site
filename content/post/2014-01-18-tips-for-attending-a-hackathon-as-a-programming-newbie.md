@@ -29,7 +29,7 @@ or:
 <ol>
 	<li>Learn Django by following the <a href="https://docs.djangoproject.com/en/1.10/intro/tutorial01/">official Django tutorial</a>. Your goal is to create a Django-based website by the end of the hackathon. (Also see: <a href="http://elweb.co/want-to-learn-django-start-here/">this link</a>).</li>
 	<li>Learn Git by reading the <a href="http://git-scm.com/book">Git book</a>, chapters 1-5 (and skip chapter 4). Install Git on your machine.</li>
-	<li>Set up a Github account, if you haven't already. Push your Django project to Github.</li>
+	<li>Set up a GitHub account, if you haven't already. Push your Django project to GitHub.</li>
 	<li><em>If you have time</em>, buy some server space on Digital Ocean (which is really cheap), figure out how to set it up according to one of the Digital Ocean guides (for instance, <a href="https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04">here's the Ubuntu server setup guide</a>).</li>
 </ol>
 This syllabus teaches you: Git, Django, Python, the MVC design pattern, basic HTML/CSS and basic server administration.

@@ -15,7 +15,7 @@ Facebook event [here](https://www.facebook.com/events/1677032215959888/)
 
 This week’s Friday Hacks is something different – instead of talks, we’ll be having a Code Golf session! Take a break from content-heavy talks and forget your programming languages’ best practices. See how well you know your favourite languages and pit your skills against other attendees!
 
-We’ll be making use of GitHub to run the challenge, so be sure to create a GitHub account at github.com before you arrive!
+We’ll be making use of GitHub to run the challenge, so be sure to create a GitHub account at https://github.com before you arrive!
 
 You’ll be allowed to use your favourite programming language. Further challenge details will be revealed on the day itself!
 

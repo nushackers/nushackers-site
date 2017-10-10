@@ -21,7 +21,7 @@ The first proposal he had was for NUS Hackers to maintain Download@NUS, a mirror
 
 {{< imglink src="http://farm7.static.flickr.com/6102/6212982069_7e7c803cbc.jpg" alt="Friday Hacks #4" >}}
 
-The rest of the Friday Hacks consisted of the Weekly Hackathon as well as a group discussion on the NUS Hackers cluster building project. I did a quick skeleton of the <a href="https://github.com/shadowsun7/nus-fileshare">file-sharing app on Github</a>, and others worked on a variety of projects (excluding homework): an open source card game, the Android SDK, and a program in Silverlight. Pics below:
+The rest of the Friday Hacks consisted of the Weekly Hackathon as well as a group discussion on the NUS Hackers cluster building project. I did a quick skeleton of the <a href="https://github.com/shadowsun7/nus-fileshare">file-sharing app on GitHub</a>, and others worked on a variety of projects (excluding homework): an open source card game, the Android SDK, and a program in Silverlight. Pics below:
 
 {{< imglink src="http://farm7.static.flickr.com/6162/6212987809_41d8999375.jpg" alt="Friday Hacks #4" >}}
 {{< imglink src="http://farm7.static.flickr.com/6093/6212990863_538fdd75d5.jpg" alt="Friday Hacks #4" >}}
