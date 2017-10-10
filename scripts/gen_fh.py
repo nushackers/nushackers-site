@@ -39,6 +39,7 @@ with open('../data/friday_hacks.yml', 'r') as fin:
         print "Dude no hackz"
         quit()
 
+    print "Creating FH post for " + str(cur)
     name = raw_input("Your name? ")
 
     # so future-proof it's sick
