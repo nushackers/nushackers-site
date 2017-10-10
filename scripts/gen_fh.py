@@ -19,7 +19,7 @@ with open('../data/friday_hacks.yml', 'r') as fin:
 
     # Sick undocumented feature
     if len(argv) > 1:
-        now += timedelta(days = 7 * argv[1])
+        now += timedelta(days = 7 * int(argv[1]))
 
     hacks = doc['hacks']
     cur = start_date
@@ -39,7 +39,7 @@ with open('../data/friday_hacks.yml', 'r') as fin:
         print "Dude no hackz"
         quit()
 
-    name = raw_input("Your name? ")
+    date = cur
 
     # so future-proof it's sick
     fhre = re.compile(
@@ -55,6 +55,14 @@ with open('../data/friday_hacks.yml', 'r') as fin:
                 num = cur
 
     num += 1
+
+    # What is abstraction?
+    if len(argv) > 1:
+        num += int(argv[1])
+
+    print "Creating FH post for #" + str(num) + ", at " + str(date)
+    name = raw_input("Your name? ")
+
     # now witness templating in raw string
     content = '''\
 ---
