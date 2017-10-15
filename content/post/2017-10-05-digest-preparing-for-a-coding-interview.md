@@ -32,7 +32,7 @@ Unfortunately, the rules are set by the companies, not by the candidates. There 
 ![Tech Interview Handbook](/img/2017/10/handbook.png)
 
 <div class="text-center">
-  <iframe src="https://ghbtns.com/github-btn.html?user=yangshun&repo=tech-interview-handbook&type=star&count=true&size=large" frameborder="0" scrolling="0" width="142px" height="30px"></iframe>
+  <iframe src="https://ghbtns.com/github-btn.html?user=yangshun&repo=tech-interview-handbook&type=star&count=true&size=large" frameborder="0" scrolling="0" width="151px" height="30px"></iframe>
 </div>
 <br/>
 
