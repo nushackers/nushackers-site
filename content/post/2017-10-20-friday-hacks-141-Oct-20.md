@@ -25,13 +25,12 @@ This talk is aimed at users with experience in C++.
 
 Mattheus is a Year 4 Mechanical Engineering Major and Computer Science Minor undergraduate. He enjoys discovering (and abusing) new features in programming languages, and then passing on that knowledge to others. He currently enjoys teaching beginner/intermediate programming, and is a TA for CS1010E (Programming Methodology) and CS1020E (Data Structures and Algorithms I) in NUS.
 
-### TBC
+### Data Science for the Public Good
 
 #### Talk Description:
 
---- describe ----
+Feng-Yuan will talk a bit more about the work that the Data Science Division does in enabling data to influence policy and operational decision making.
 
 #### Speaker Profile
 
---- describe ----
-
+Feng-Yuan is Director of the Data Science and Artificial Intelligence Division at GovTech. He runs a multidisciplinary team of social scientists, data scientists, designers and software engineers to apply data-driven methods to solving public sector problems.
