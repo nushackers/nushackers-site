@@ -4,7 +4,7 @@ date: 2017-10-10 18:33:25.812044
 author: Herbert
 ---
 
---- say something as introduction ---
+Hey everyone! This week, we have Feng Yuan from GovTech who will be talking about data science for the public good and Mattheus who will be talking about C++ Template Metaprogramming. See you there!
 
 {{% friday_hack_header venue="The HANGAR by NUS Enterprise" date="October 20" %}}
 
