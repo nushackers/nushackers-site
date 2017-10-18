@@ -9,6 +9,16 @@ Hey everyone! This week, we have Feng Yuan from GovTech who will be talking abou
 {{% friday_hack_header venue="The HANGAR by NUS Enterprise" date="October 20" %}}
 
 
+### Data Science for the Public Good
+
+#### Talk Description:
+
+Feng-Yuan will talk a bit more about the work that the Data Science Division does in enabling data to influence policy and operational decision making.
+
+#### Speaker Profile
+
+Feng-Yuan is Director of the Data Science and Artificial Intelligence Division at GovTech. He runs a multidisciplinary team of social scientists, data scientists, designers and software engineers to apply data-driven methods to solving public sector problems.
+
 ### C++ Template Metaprogramming
 
 #### Talk Description:
@@ -24,13 +34,3 @@ This talk is aimed at users with experience in C++.
 #### Speaker Profile
 
 Mattheus is a Year 4 Mechanical Engineering Major and Computer Science Minor undergraduate. He enjoys discovering (and abusing) new features in programming languages, and then passing on that knowledge to others. He currently enjoys teaching beginner/intermediate programming, and is a TA for CS1010E (Programming Methodology) and CS1020E (Data Structures and Algorithms I) in NUS.
-
-### Data Science for the Public Good
-
-#### Talk Description:
-
-Feng-Yuan will talk a bit more about the work that the Data Science Division does in enabling data to influence policy and operational decision making.
-
-#### Speaker Profile
-
-Feng-Yuan is Director of the Data Science and Artificial Intelligence Division at GovTech. He runs a multidisciplinary team of social scientists, data scientists, designers and software engineers to apply data-driven methods to solving public sector problems.
