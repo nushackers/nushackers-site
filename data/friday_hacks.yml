@@ -44,11 +44,11 @@ hacks:
         title: Getting to Know Containers and Docker
   - venue: "The HANGAR by NUS Enterprise"
     topics:
-      - speaker: Mattheus
-        title: C++ Template Metaprogramming
       - speaker: Feng Yuan
         from: Govtech
-        title: TBC
+        title: Data Science for the Public Good
+      - speaker: Mattheus
+        title: C++ Template Metaprogramming
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
       - title: TBC
