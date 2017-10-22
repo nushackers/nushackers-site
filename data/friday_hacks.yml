@@ -51,7 +51,9 @@ hacks:
         title: C++ Template Metaprogramming
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
-      - title: TBC
+      - speaker: Wilbert, Khue, and Wenhao
+        from: NUSGem
+        title: Making Engineering of Customised Kill Switches Easier
       - title: TBC
   - venue: "SR3, Town Plaza, University Town, NUS"
     topics:
