@@ -15,13 +15,11 @@ author: Herbert
 
 Many SynBio groups are engineering microbes that could one day be useful in detecting diseases, fighting cancer and monitoring heavy metals in rivers. However, engineered microbes may leak into the non-designated environment, posing threats to our natural ecosystem. This is a major hurdle towards the commercialization of engineered microbes. To address this, we need effective kill switches to prevent engineered microbes from escaping into the environment.
 
-Team NUSgem aims to make engineering of customised, effective kill switches easier. To this end, we are developing a library of characterized sensors, a killing and verification module which can be used in a computer-aided design tool can be readily modelled. This talk aims to provide an introduction to modelling genetic circuits in synthetic biology.
+Team NUSgem aims to make engineering of customised, effective kill switches easier. To this end, we are developing a library of characterized sensors, a killing and verification module which can be used in a computer-aided design tool and can be readily modelled. This talk aims to provide an introduction to modelling genetic circuits in synthetic biology.
 
 #### Speaker Profile
 
 Wilbert, Khue and Wenhao are from NUSGem. NUSgem is a team of seven NUS students from different faculties competing in the prestigious synthetic biology competition, iGEM. We like bacteria, models and hotpot.
-
-
 
 ### TBC
 
@@ -32,4 +30,3 @@ Wilbert, Khue and Wenhao are from NUSGem. NUSgem is a team of seven NUS students
 #### Speaker Profile
 
 --- describe ----
-
