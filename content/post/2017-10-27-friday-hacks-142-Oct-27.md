@@ -4,8 +4,6 @@ date: 2017-10-22 17:47:58.542886
 author: Herbert
 ---
 
---- say something as introduction ---
-
 {{% friday_hack_header venue="SR3, Town Plaza, University Town, NUS" date="October 27" %}}
 
 
@@ -21,12 +19,12 @@ Team NUSgem aims to make engineering of customised, effective kill switches easi
 
 Wilbert, Khue and Wenhao are from NUSGem. NUSgem is a team of seven NUS students from different faculties competing in the prestigious synthetic biology competition, iGEM. We like bacteria, models and hotpot.
 
-### TBC
+### I Haskell A Git
 
 #### Talk Description:
 
---- describe ----
+Git has a reputation for being obtuse and difficult to use. Part of this reputation stems from a focus on understanding the intricate details of the UI instead of forming a mental model of what the tool is actually doing. To address this, we're going to implement our own Git, and confirm that it works as we expect.
 
 #### Speaker Profile
 
---- describe ----
+Vaibhav is a programmer in search of better tools and techniques. After writing lots of bugs as a web developer, he took some time off to attend a batch at the Recurse Center and make sense of this functional programming thing. Now he manages servers for Zalora.
