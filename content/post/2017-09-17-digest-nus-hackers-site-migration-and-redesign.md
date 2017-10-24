@@ -5,7 +5,7 @@ categories:
 date: 2017-09-17T00:00:00Z
 published: true
 title: 'Digest: NUS Hackers site migration and redesign'
-url: /2017/09/17/digest-nus-hackers-site-migration-and-redesign/
+url: /2017/09/digest-nus-hackers-site-migration-and-redesign/
 ---
 
 This summer, the NUS Hackers site went through a huge redesign (you’re looking at it right now). It took the efforts of everyone on the core team to make the blog better. In terms of improvements we managed to improve not only the developer experience but also the speed and performance of the website itself. In this week's digest, we will be talking about some of the improvements we've made and how we've done it.
