@@ -45,7 +45,7 @@ with open('../data/friday_hacks.yml', 'r') as fin:
 
     # so future-proof it's sick
     fhre = re.compile(
-        r'^20[0-9][0-9]-[01][0-9]-[0-3][0-9]-friday-hacks-([1-9][0-9]*)-[a-zA-z]*-[0-9]+\.md$')
+        r'^20[0-9][0-9]-[01][0-9]-[0-3][0-9]-friday-hacks-([1-9][0-9]*)\.md$')
 
     num = 0
     # so.. tempted... to... use lazy evaluation
@@ -71,6 +71,7 @@ with open('../data/friday_hacks.yml', 'r') as fin:
 title: "Friday Hacks #{num}, {month} {day}"
 date: {now}
 author: {author}
+url: /{year}/{month}/friday-hacks-{num}
 ---
 
 --- say something as introduction ---
@@ -79,6 +80,7 @@ author: {author}
 
 '''.format(num=num,
            now=datetime.today(),
+           year=next_date.strftime("%Y"),
            month=next_date.strftime("%B"),
            day=next_date.day,
            author=name,
@@ -95,7 +97,7 @@ author: {author}
 
 '''.format(talk_name=topic['title']) for topic in next_hack['topics']])
 
-    filename = '../content/post/{now}-friday-hacks-{num}-{month}-{day}.md'.format(
+    filename = '../content/post/{now}-friday-hacks-{num}.md'.format(
         now=next_date.strftime("%Y-%m-%d"),
         num=num,
         month=next_date.strftime('%b'),
