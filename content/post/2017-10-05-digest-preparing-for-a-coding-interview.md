@@ -5,7 +5,7 @@ categories:
 date: 2017-10-05T00:00:00Z
 published: true
 title: 'Digest: Preparing for a Coding Interview'
-url: /2017/09/17/digest-preparing-for-a-coding-interview/
+url: /2017/09/digest-preparing-for-a-coding-interview/
 ---
 
 ![android campus](/img/2017/10/android.jpeg)

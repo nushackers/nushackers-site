@@ -1,10 +1,13 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "NUSHackers"
 copyright = "NUS Hackers"
 disqusShortname = "nushackers"
 enableEmoji = true
 ignoreFiles = ["\\.scss$"]
+
+[permalinks]
+  post = "/:year/:month/:slug/"
 
 [[menu.main]]
   name = "About"

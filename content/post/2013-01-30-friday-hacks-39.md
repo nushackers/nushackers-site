@@ -1,11 +1,11 @@
 ---
 author: ejames
 categories:
-- Friday Hacks
+  - Friday Hacks
 comments: true
-date: 2013-01-30T00:00:00Z
+date: 2013-01-30T00:00:00.000Z
 title: 'Friday Hacks #39, Feb 1'
-url: /2013/01/30/friday-hacks-39/
+url: /2013/01/friday-hacks-39
 ---
 
 This week we have Michael Yong and Gaurav Chandrashekar, two NUS students who have or will be interning at interesting tech companies. Michael will be sharing about lessons he learnt from passing the Quora and Google interviews, and Gaurav will be talking about his experiencing working on localization at Spotify.

@@ -1,11 +1,11 @@
 ---
 author: ejames
 categories:
-- Friday Hacks
+  - Friday Hacks
 comments: true
-date: 2012-09-11T00:00:00Z
+date: 2012-09-11T00:00:00.000Z
 title: 'Friday Hacks #29, Sep 14'
-url: /2012/09/11/friday-hacks-29/
+url: /2012/09/friday-hacks-29
 ---
 
 This week we have Sourabh Rao, an NUS student who programs for fun (and has done some impressive things outside of school!), and Michael Li, a Research Officer from the Data Analytics Department, National Business Analytics Center.
