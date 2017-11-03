@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- Featured
-- Headline
+  - Events
+  - Featured
+  - Headline
 comments: true
-date: 2009-09-15T00:00:00Z
+date: 2009-09-15T00:00:00.000Z
 title: linuxNUS Installfest Sep 2009
-url: /2009/09/15/linuxnus-installfest-sep-2009/
+url: /2009/09/linuxnus-installfest-sep-2009/
+aliases:
+  - /2009/09/15/linuxnus-installfest-sep-2009/
 ---
 
 <p align="center"><img src="http://farm4.static.flickr.com/3505/3260062912_baf52f4ed7.jpg?v=0" alt="Installing...." /></p>

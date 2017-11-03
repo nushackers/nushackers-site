@@ -1,11 +1,13 @@
 ---
 author: iced
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2009-02-28T00:00:00Z
+date: 2009-02-28T00:00:00.000Z
 title: Non Sequitur
-url: /2009/02/28/non-sequitur/
+url: /2009/02/non-sequitur/
+aliases:
+  - /2009/02/28/non-sequitur/
 ---
 
 <div align="center">{{< imglink src="/img/2009/02/opensuse-logo.png" alt="opensuse-logo" >}}</div>

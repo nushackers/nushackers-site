@@ -1,12 +1,14 @@
 ---
 author: rey
 categories:
-- Events
-- News
+  - Events
+  - News
 comments: true
-date: 2007-09-07T00:00:00Z
+date: 2007-09-07T00:00:00.000Z
 title: Gelato Itanium Conference & Expo (ICE) Singapore
-url: /2007/09/07/gelato-itanium-conference-expo-ice-singapore/
+url: /2007/09/gelato-itanium-conference-expo-ice-singapore/
+aliases:
+  - /2007/09/07/gelato-itanium-conference-expo-ice-singapore/
 ---
 
 The Gelato Itanium Conference &amp; Expo (ICE) technical program covers topics

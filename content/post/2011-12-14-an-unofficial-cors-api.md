@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Code
+  - Code
 comments: true
-date: 2011-12-14T00:00:00Z
+date: 2011-12-14T00:00:00.000Z
 title: An Unofficial CORS API
-url: /2011/12/14/an-unofficial-cors-api/
+url: /2011/12/an-unofficial-cors-api/
+aliases:
+  - /2011/12/14/an-unofficial-cors-api/
 ---
 
 We've happy to announce the release of an unofficial CORS API, available at <a href="http://api.nushackers.org/">api.nushackers.org</a>. Full usage details are available at <a href="http://api.nushackers.org">the API site</a>, but in sum, all API access is over HTTP, and is accessed from the api.nushackers.org domain. All data is received as JSON.

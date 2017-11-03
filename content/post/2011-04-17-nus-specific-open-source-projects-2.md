@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Code
+  - Code
 comments: true
-date: 2011-04-17T00:00:00Z
+date: 2011-04-17T00:00:00.000Z
 title: NUS-Specific Open Source Projects
-url: /2011/04/17/nus-specific-open-source-projects-2/
+url: /2011/04/nus-specific-open-source-projects-2/
+aliases:
+  - /2011/04/17/nus-specific-open-source-projects-2/
 ---
 
 One of the things we do at NUS Hackers is to encourage contributions to student-initiated open source projects. Sometimes we post links to such projects on the mailing list; other times we quietly fork the repository, contributing our own patches. Here are a couple of projects that we think deserve more love:

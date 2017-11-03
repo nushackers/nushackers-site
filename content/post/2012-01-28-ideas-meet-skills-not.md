@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Essay
+  - Essay
 comments: true
-date: 2012-01-28T00:00:00Z
-title: Ideas, Meet Skills! Not.
-url: /2012/01/28/ideas-meet-skills-not/
+date: 2012-01-28T00:00:00.000Z
+title: 'Ideas, Meet Skills! Not.'
+url: /2012/01/ideas-meet-skills-not/
+aliases:
+  - /2012/01/28/ideas-meet-skills-not/
 ---
 
 There’s this idea that gets passed around a lot in the entrepreneurship clubs in NUS. The idea goes that technical people need ‘ideas people’, and that entrepreneurship clubs exist to matchmake the two.

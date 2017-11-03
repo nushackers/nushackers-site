@@ -1,11 +1,13 @@
 ---
 author: admin
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2014-01-20T00:00:00Z
+date: 2014-01-20T00:00:00.000Z
 title: How to win a Hackathon
-url: /2014/01/20/how-to-win-a-hackathon/
+url: /2014/01/how-to-win-a-hackathon/
+aliases:
+  - /2014/01/20/how-to-win-a-hackathon/
 ---
 
 <em>Camillus Cai was part of the 3 person team that won Hack&amp;Roll 2013, and later a part of the 4 person team that won 3rd place in PenApps Fall 2013, the largest student hackathon in the US (and possibly the world). He's now one of the organisers for <a href="http://hacknroll.nushackers.org/">Hack&amp;Roll 2014</a>.</em>

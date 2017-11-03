@@ -1,12 +1,14 @@
 ---
 author: jmarki
 categories:
-- Events
-- News
+  - Events
+  - News
 comments: true
-date: 2006-12-26T00:00:00Z
+date: 2006-12-26T00:00:00.000Z
 title: Donation drive is a success!
-url: /2006/12/26/donation-drive-is-a-success/
+url: /2006/12/donation-drive-is-a-success/
+aliases:
+  - /2006/12/26/donation-drive-is-a-success/
 ---
 
 Wee!! Despite the lack of heavy publicity and the very short notice, we still managed to collect $100. Many thanks to:

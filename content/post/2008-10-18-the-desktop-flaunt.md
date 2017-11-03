@@ -1,11 +1,13 @@
 ---
 author: Yuen Hoe
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2008-10-18T00:00:00Z
+date: 2008-10-18T00:00:00.000Z
 title: The Desktop Flaunt (!)
-url: /2008/10/18/the-desktop-flaunt/
+url: /2008/10/the-desktop-flaunt/
+aliases:
+  - /2008/10/18/the-desktop-flaunt/
 ---
 
 Hi, this is Yuen Hoe here, and I'm supposed to be kicking off this new monthly desktop screeny thing. So the basic idea is simple, every month we'll be having a Linux box over to powder up and pose for the printscreen. We'll click a couple of shots, then upload and flash them here in what would hopefully be a showcase of glamour. Presumably this would serve on the one hand to give fellow Linux users tips and inspirations with regards to customizing your own box, and on the other to <del>make you infidelic non-Linuxers drool in uncontrollable envy</del> educate the masses that modern Linux can be as polished as any other graphical OS - because we all know that <del>people only care about looks</del> a pretty and refined GUI goes a long way :)

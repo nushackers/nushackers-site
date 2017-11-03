@@ -1,11 +1,13 @@
 ---
 author: Jethro Kuan
 categories:
-- digest
-date: 2017-03-04T00:00:00Z
+  - digest
+date: 2017-03-04T00:00:00.000Z
 published: true
 title: 'Digest: Editor Internals - MS Word'
-url: /2017/03/04/digest-editor-internals-ms-word/
+url: /2017/03/digest-editor-internals-ms-word/
+aliases:
+  - /2017/03/04/digest-editor-internals-ms-word/
 ---
 
 Recently, I delivered

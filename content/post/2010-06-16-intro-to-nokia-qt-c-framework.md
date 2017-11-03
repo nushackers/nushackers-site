@@ -1,11 +1,13 @@
 ---
 author: Viet Le
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2010-06-16T00:00:00Z
+date: 2010-06-16T00:00:00.000Z
 title: Intro to Nokia Qt C++ Framework
-url: /2010/06/16/intro-to-nokia-qt-c-framework/
+url: /2010/06/intro-to-nokia-qt-c-framework/
+aliases:
+  - /2010/06/16/intro-to-nokia-qt-c-framework/
 ---
 
 ![Qt Logo](/img/2010/06/qt_image_thumb.png "Qt Logo")

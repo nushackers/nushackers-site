@@ -1,12 +1,14 @@
 ---
 author: rey
 categories:
-- Events
-- News
+  - Events
+  - News
 comments: true
-date: 2007-09-06T00:00:00Z
+date: 2007-09-06T00:00:00.000Z
 title: Ubuntu Install Workshop on 12 Sep 07
-url: /2007/09/06/ubuntu-install-workshop-on-12-sep-07/
+url: /2007/09/ubuntu-install-workshop-on-12-sep-07/
+aliases:
+  - /2007/09/06/ubuntu-install-workshop-on-12-sep-07/
 ---
 
 Always wanted to install Linux on your PC/laptop but don't know how to? Want to find out how to dual-boot Linux and Windows? Or even triple boot (with MacOS)? Fancy having some cool visual effects on your desktop?

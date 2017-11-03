@@ -1,11 +1,15 @@
 ---
 author: angad
 categories:
-- Guest blogger
+  - Guest blogger
 comments: true
-date: 2011-04-11T00:00:00Z
+date: 2011-04-11T00:00:00.000Z
 title: Singapore's Startup scene - words of a Silicon Valley Entrepreneur
-url: /2011/04/11/singapores-startup-scene-from-the-eyes-of-a-silicon-valley-entrepreneur/
+url: >-
+  /2011/04/singapores-startup-scene-from-the-eyes-of-a-silicon-valley-entrepreneur/
+aliases:
+  - >-
+    /2011/04/11/singapores-startup-scene-from-the-eyes-of-a-silicon-valley-entrepreneur/
 ---
 
 <p>I was recently linked to Vincent Lauria aka. Vinnie who was in Singapore a few weeks back. A short bio -</p>

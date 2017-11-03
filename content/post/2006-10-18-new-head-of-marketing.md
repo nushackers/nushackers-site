@@ -1,11 +1,13 @@
 ---
 author: jmarki
 categories:
-- News
+  - News
 comments: true
-date: 2006-10-18T00:00:00Z
+date: 2006-10-18T00:00:00.000Z
 title: New Head of Marketing
-url: /2006/10/18/new-head-of-marketing/
+url: /2006/10/new-head-of-marketing/
+aliases:
+  - /2006/10/18/new-head-of-marketing/
 ---
 
 Yoz! linuxNUS has a new Head of Marketing! Wee Biao aka Rey is coerced {{< imglink src="/img/2006/10/lufeng_and_rey.thumbnail.jpg" alt="Lu Feng (Left) and Rey (Right) in our room" >}} into this by none other than Lu Feng, he has graciously accepted his role.

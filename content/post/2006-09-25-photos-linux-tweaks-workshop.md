@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Photos
+  - Photos
 comments: true
-date: 2006-09-25T00:00:00Z
+date: 2006-09-25T00:00:00.000Z
 title: 'Photos: Linux Tweaks Workshop'
-url: /2006/09/25/photos-linux-tweaks-workshop/
+url: /2006/09/photos-linux-tweaks-workshop/
+aliases:
+  - /2006/09/25/photos-linux-tweaks-workshop/
 ---
 
 <div align="center">

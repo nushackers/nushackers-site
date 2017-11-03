@@ -1,13 +1,15 @@
 ---
 author: Ruiwen
 categories:
-- Chatter
-- Featured
-- Headline
+  - Chatter
+  - Featured
+  - Headline
 comments: true
-date: 2009-10-07T00:00:00Z
+date: 2009-10-07T00:00:00.000Z
 title: linuxNUS Turns 4!
-url: /2009/10/07/linuxnus-turns-4/
+url: /2009/10/linuxnus-turns-4/
+aliases:
+  - /2009/10/07/linuxnus-turns-4/
 ---
 
 Four years ago to this day, 7 Oct 2005, linuxNUS was officially born. That is to day, of course, that we were officially recognised as a <a href="http://www.nus.edu.sg/osa/activities/svcs/interestgrps.html">Student Special Interest Group</a>. Of course, that doesn't mean that we weren't around before that. linuxNUS first came into existence on 6 Jul 2005, as our <a href="http://tech.groups.yahoo.com/group/linuxnus/">Yahoo! Group</a>, which still serves as our primary mailing list till this day. Before 7 Oct though, we were a loosely organised, but nontheless motivate bunch, determined to bring the value and benefit of open source software to NUS.

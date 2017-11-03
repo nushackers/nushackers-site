@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Featured
+  - Featured
 comments: true
-date: 2012-01-07T00:00:00Z
+date: 2012-01-07T00:00:00.000Z
 title: Projects Recently Shared On The Mailing List
-url: /2012/01/07/cool-projects-shared-on-the-mailing-list-recently/
+url: /2012/01/cool-projects-shared-on-the-mailing-list-recently/
+aliases:
+  - /2012/01/07/cool-projects-shared-on-the-mailing-list-recently/
 ---
 
 We've got two cool projects recently posted to the NUS Hackers <a href="https://groups.google.com/forum/#!forum/nushackers">mailing list</a> to show you today.

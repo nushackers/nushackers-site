@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2008-03-11T00:00:00Z
+date: 2008-03-11T00:00:00.000Z
 title: Open Source Voices in Singapore
-url: /2008/03/11/open-source-voices-in-singapore/
+url: /2008/03/open-source-voices-in-singapore/
+aliases:
+  - /2008/03/11/open-source-voices-in-singapore/
 ---
 
 You know, you hear a lot about "open source" these days, and if you've ever wondered how the Open Source community in Singapore is doing, here's a handy tip, check out <a href="http://planet.anomalistic.org/">Planet LUGS</a>.

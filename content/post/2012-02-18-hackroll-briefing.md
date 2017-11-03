@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Events
+  - Events
 comments: true
-date: 2012-02-18T00:00:00Z
+date: 2012-02-18T00:00:00.000Z
 title: Hack&Roll Briefing
-url: /2012/02/18/hackroll-briefing/
+url: /2012/02/hackroll-briefing/
+aliases:
+  - /2012/02/18/hackroll-briefing/
 ---
 
 If you're a team at Hack&amp;Roll, or if you're planning on just dropping by, here's a <a href="/img/2012/01/HackRollBriefing.pdf">participant briefing document</a> that we've prepared so you know what to expect at the event.

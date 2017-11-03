@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Essay
+  - Essay
 comments: true
-date: 2013-01-14T00:00:00Z
-title: In memoriam, Aaron Swartz
-url: /2013/01/14/in-memoriam-aaron-swartz/
+date: 2013-01-14T00:00:00.000Z
+title: 'In memoriam, Aaron Swartz'
+url: /2013/01/in-memoriam-aaron-swartz/
+aliases:
+  - /2013/01/14/in-memoriam-aaron-swartz/
 ---
 
 <em>(This post is written by Eli, a former President of NUS Hackers.)</em>

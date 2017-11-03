@@ -1,14 +1,16 @@
 ---
 author: Ruiwen
 categories:
-- Featured
-- Headline
-- News
-- Podcast
+  - Featured
+  - Headline
+  - News
+  - Podcast
 comments: true
-date: 2009-04-02T00:00:00Z
+date: 2009-04-02T00:00:00.000Z
 title: '[Podcast] Episode 0: Closed on Sundays'
-url: /2009/04/02/podcast-episode-0-closed-on-sundays/
+url: /2009/04/podcast-episode-0-closed-on-sundays/
+aliases:
+  - /2009/04/02/podcast-episode-0-closed-on-sundays/
 ---
 
 Aaaandd.. here we go!

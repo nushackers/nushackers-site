@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Guest blogger
+  - Guest blogger
 comments: true
-date: 2008-10-12T00:00:00Z
+date: 2008-10-12T00:00:00.000Z
 title: Linux and babies
-url: /2008/10/12/linux-and-babies/
+url: /2008/10/linux-and-babies/
+aliases:
+  - /2008/10/12/linux-and-babies/
 ---
 
 <div align="center">

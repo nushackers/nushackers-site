@@ -1,12 +1,14 @@
 ---
 author: iced
 categories:
-- Events
-- Featured
+  - Events
+  - Featured
 comments: true
-date: 2009-02-10T00:00:00Z
-title: What Fun, an Install Fest!
-url: /2009/02/10/what-fun-an-install-fest/
+date: 2009-02-10T00:00:00.000Z
+title: 'What Fun, an Install Fest!'
+url: /2009/02/what-fun-an-install-fest/
+aliases:
+  - /2009/02/10/what-fun-an-install-fest/
 ---
 
 <img src="http://farm4.static.flickr.com/3505/3260062912_baf52f4ed7.jpg?v=0" alt="Installing...." />

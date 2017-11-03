@@ -1,14 +1,16 @@
 ---
 author: angad
 categories:
-- Events
-- Featured
-- Headline
-- Photos
+  - Events
+  - Featured
+  - Headline
+  - Photos
 comments: true
-date: 2010-10-25T00:00:00Z
+date: 2010-10-25T00:00:00.000Z
 title: The Ruby Tournament!
-url: /2010/10/25/the-ruby-tournament/
+url: /2010/10/the-ruby-tournament/
+aliases:
+  - /2010/10/25/the-ruby-tournament/
 ---
 
 We had a great time at the Ruby Tournament held on the 22nd of October. It was great to have Chris Boesch, Professor at School of Information Systems from SMU. He and his wife, Sandra conducted the tournament with the same vigor and energy, as always. And we loved it.

@@ -1,13 +1,15 @@
 ---
 author: angad
 categories:
-- Events
-- Featured
-- Headline
+  - Events
+  - Featured
+  - Headline
 comments: true
-date: 2009-11-11T00:00:00Z
-title: An Afternoon with Simone Brunozzi, Amazon Web Services
-url: /2009/11/11/an-afternoon-with-simone-brunozzi-amazon-web-services/
+date: 2009-11-11T00:00:00.000Z
+title: 'An Afternoon with Simone Brunozzi, Amazon Web Services'
+url: /2009/11/an-afternoon-with-simone-brunozzi-amazon-web-services/
+aliases:
+  - /2009/11/11/an-afternoon-with-simone-brunozzi-amazon-web-services/
 ---
 
 <div><span style="color: #330099; font-size: medium;"><strong><span style="text-decoration: underline;">

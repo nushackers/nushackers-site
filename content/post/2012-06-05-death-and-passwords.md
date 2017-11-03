@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Essay
+  - Essay
 comments: true
-date: 2012-06-05T00:00:00Z
+date: 2012-06-05T00:00:00.000Z
 title: Death and Passwords
-url: /2012/06/05/death-and-passwords/
+url: /2012/06/death-and-passwords/
+aliases:
+  - /2012/06/05/death-and-passwords/
 ---
 
 <p>I was discharged from the National University Hospital this morning, after rushing there in a Campus Security car at about 1.30am. I got stung by a bee and developed an&nbsp;anaphylactic reaction in about 15 minutes: couldn't breathe, rashes, slight shivering, all from a 2-second, extremely minor bee sting. It wasn't a life-or-death situation by any means (although I now know that having multiple bee stings <em>would&nbsp;</em>probably escalate into a life-or-death situation very quickly), but it got me thinking again about death and passwords.</p>

@@ -1,11 +1,13 @@
 ---
 author: jmarki
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2007-04-10T00:00:00Z
+date: 2007-04-10T00:00:00.000Z
 title: Good Luck For the Exams!
-url: /2007/04/10/good-luck-for-the-exams/
+url: /2007/04/good-luck-for-the-exams/
+aliases:
+  - /2007/04/10/good-luck-for-the-exams/
 ---
 
 It's 2 more weeks to the exams, and everyone is furiously mugging (I hope...). Good luck everyone! May everyone pass with flying colours!

@@ -1,12 +1,14 @@
 ---
 author: ejames
 categories:
-- Events
-- Friday Hacks
+  - Events
+  - Friday Hacks
 comments: true
-date: 2011-09-08T00:00:00Z
+date: 2011-09-08T00:00:00.000Z
 title: 'Friday Hacks #2'
-url: /2011/09/08/this-weeks-friday-hacks/
+url: /2011/09/this-weeks-friday-hacks/
+aliases:
+  - /2011/09/08/this-weeks-friday-hacks/
 ---
 
 <strong>Update! Venue is now changed to Seminar Room 9, on the second floor of the Education Resource Centre, UTown

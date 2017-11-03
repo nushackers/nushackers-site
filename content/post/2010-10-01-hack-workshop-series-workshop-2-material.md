@@ -1,14 +1,16 @@
 ---
 author: angad
 categories:
-- Events
-- Featured
-- News
-- Slides
+  - Events
+  - Featured
+  - News
+  - Slides
 comments: true
-date: 2010-10-01T00:00:00Z
+date: 2010-10-01T00:00:00.000Z
 title: 'Hack Workshop Series Workshop #2 Material'
-url: /2010/10/01/hack-workshop-series-workshop-2-material/
+url: /2010/10/hack-workshop-series-workshop-2-material/
+aliases:
+  - /2010/10/01/hack-workshop-series-workshop-2-material/
 ---
 
 Hey Hey! We know we are late with putting up the materials for the 2nd workshop that was on Mercurial Version control system. The penguins were really busy with studies.

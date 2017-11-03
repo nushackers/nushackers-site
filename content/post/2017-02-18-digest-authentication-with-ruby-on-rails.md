@@ -1,10 +1,12 @@
 ---
 author: Herbert Ilhan Tanujaya
 categories:
-- Digest
-date: 2017-02-18T00:00:00Z
+  - Digest
+date: 2017-02-18T00:00:00.000Z
 title: 'Digest: Authentication with Ruby on Rails'
-url: /2017/02/18/digest-authentication-with-ruby-on-rails/
+url: /2017/02/digest-authentication-with-ruby-on-rails/
+aliases:
+  - /2017/02/18/digest-authentication-with-ruby-on-rails/
 ---
 
 ## Introduction

@@ -1,13 +1,15 @@
 ---
 author: iced
 categories:
-- Events
-- Headline
-- Meetings
+  - Events
+  - Headline
+  - Meetings
 comments: true
-date: 2009-03-04T00:00:00Z
+date: 2009-03-04T00:00:00.000Z
 title: 'linuxNUS presents: LXDE''s Mario Behling!'
-url: /2009/03/04/open-up-to-lxde/
+url: /2009/03/open-up-to-lxde/
+aliases:
+  - /2009/03/04/open-up-to-lxde/
 ---
 
 <div align="center">&nbsp;

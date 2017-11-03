@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Featured
-- Meetings
-- Photos
+  - Featured
+  - Meetings
+  - Photos
 comments: true
-date: 2008-11-08T00:00:00Z
+date: 2008-11-08T00:00:00.000Z
 title: linuxNUS goes to Geylang
-url: /2008/11/08/linuxnus-goes-to-geylang/
+url: /2008/11/linuxnus-goes-to-geylang/
+aliases:
+  - /2008/11/08/linuxnus-goes-to-geylang/
 ---
 
 Well, we didn't go there for vice. Actually it was an outing to the office of one of our alumni, Ahmad, who currently works in a startup. He had some problems with Samba on Centos, so we decided that it was a good excuse for a quick get together.

@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2012-01-08T00:00:00Z
+date: 2012-01-08T00:00:00.000Z
 title: Building NUS CORS Instant
-url: /2012/01/08/building-nus-cors-instant/
+url: /2012/01/building-nus-cors-instant/
+aliases:
+  - /2012/01/08/building-nus-cors-instant/
 ---
 
 <em>Rollen Gomes is a recently graduated NUS student. Here, he talks about the nuscors.com, an instant search for CORS built on top of the Unofficial CORS API.</em>

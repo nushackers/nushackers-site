@@ -1,13 +1,15 @@
 ---
 author: Ruiwen
 categories:
-- Featured
-- Headline
-- Podcast
+  - Featured
+  - Headline
+  - Podcast
 comments: true
-date: 2009-05-20T00:00:00Z
+date: 2009-05-20T00:00:00.000Z
 title: '[Podcast] Episode 1: Birth of the Alliance'
-url: /2009/05/20/podcast-episode-1-birth-of-the-alliance/
+url: /2009/05/podcast-episode-1-birth-of-the-alliance/
+aliases:
+  - /2009/05/20/podcast-episode-1-birth-of-the-alliance/
 ---
 
 Whew! Has this been a long time coming, or what?

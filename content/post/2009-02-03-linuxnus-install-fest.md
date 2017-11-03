@@ -1,11 +1,13 @@
 ---
 author: iced
 categories:
-- Events
+  - Events
 comments: true
-date: 2009-02-03T00:00:00Z
+date: 2009-02-03T00:00:00.000Z
 title: LinuxNUS Install Fest!
-url: /2009/02/03/linuxnus-install-fest/
+url: /2009/02/linuxnus-install-fest/
+aliases:
+  - /2009/02/03/linuxnus-install-fest/
 ---
 
 Hi guys!

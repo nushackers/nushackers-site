@@ -1,12 +1,14 @@
 ---
 author: Ruiwen
 categories:
-- Events
-- Slides
+  - Events
+  - Slides
 comments: true
-date: 2008-01-31T00:00:00Z
+date: 2008-01-31T00:00:00.000Z
 title: Developing Facebook Apps with Django
-url: /2008/01/31/developing-facebook-apps-with-django/
+url: /2008/01/developing-facebook-apps-with-django/
+aliases:
+  - /2008/01/31/developing-facebook-apps-with-django/
 ---
 
 And here's the aftermath!

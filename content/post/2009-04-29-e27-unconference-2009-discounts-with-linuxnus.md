@@ -1,14 +1,16 @@
 ---
 author: Ruiwen
 categories:
-- Events
-- External
-- Featured
-- Headline
+  - Events
+  - External
+  - Featured
+  - Headline
 comments: true
-date: 2009-04-29T00:00:00Z
+date: 2009-04-29T00:00:00.000Z
 title: 'e27 unConference 2009: Discounts with linuxNUS'
-url: /2009/04/29/e27-unconference-2009-discounts-with-linuxnus/
+url: /2009/04/e27-unconference-2009-discounts-with-linuxnus/
+aliases:
+  - /2009/04/29/e27-unconference-2009-discounts-with-linuxnus/
 ---
 
 <em>linuxNUS has partnered with e27 to bring you a special discount for the unConference. <a href="http://unconference2009sg.eventbrite.com/?discount=e27_linuxnus">Sign up with us</a> , to get 20% off the current prevailing price of entrance tickets to the unConference. What's more, if you sign up at any time before 8 May 2009, Friday, you'll only pay <strong>SGD 40,</strong> instead of <strong>SGD 56 </strong> (without the discount, tickets are going at SGD 50 before 8 May, and SGD 70 after). Sign up at the link above, or use the discount code &quot;<strong>e27_linuxnus</strong> &quot; when you <a href="http://unconference2009sg.eventbrite.com/">purchase tickets</a> online. You can even share the discount code with your friends! </em>

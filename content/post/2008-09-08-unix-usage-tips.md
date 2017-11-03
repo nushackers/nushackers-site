@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2008-09-08T00:00:00Z
+date: 2008-09-08T00:00:00.000Z
 title: UNIX Usage Tips
-url: /2008/09/08/unix-usage-tips/
+url: /2008/09/unix-usage-tips/
+aliases:
+  - /2008/09/08/unix-usage-tips/
 ---
 
 The <a href="http://www.ibm.com/developerworks/">IBM developerWorks</a> articles are a great resource for anyone who's into the world of development. We saw some recently that dealt with tips and tricks for working on the command line. For us Linux users, while we may like our fancy desktops and graphical effects, courtesy of the <a href="http://www.compiz-fusion.org/">CompizFusion</a> project, the command line is always available when we need that raw power and flexibility.

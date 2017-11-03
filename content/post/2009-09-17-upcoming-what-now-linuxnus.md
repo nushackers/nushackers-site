@@ -1,14 +1,16 @@
 ---
 author: Ruiwen
 categories:
-- Events
-- Featured
-- Headline
-- Photos
+  - Events
+  - Featured
+  - Headline
+  - Photos
 comments: true
-date: 2009-09-17T00:00:00Z
+date: 2009-09-17T00:00:00.000Z
 title: '[Upcoming] What now, linuxNUS?'
-url: /2009/09/17/upcoming-what-now-linuxnus/
+url: /2009/09/upcoming-what-now-linuxnus/
+aliases:
+  - /2009/09/17/upcoming-what-now-linuxnus/
 ---
 
 Thanks again everyone for showing such support for our Welcome Tea! You guys turned out in such great numbers this year that we were caught completely off guard! We know it was a tight squeeze, but you guys were such great sports to help shift the furniture around to make way, you rock! =)

@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
-- Featured
+  - Events
+  - External
+  - Featured
 comments: true
-date: 2009-07-27T00:00:00Z
+date: 2009-07-27T00:00:00.000Z
 title: Red Hat CEO comes to Singapore
-url: /2009/07/27/red-hat-ceo-comes-to-singapore/
+url: /2009/07/red-hat-ceo-comes-to-singapore/
+aliases:
+  - /2009/07/27/red-hat-ceo-comes-to-singapore/
 ---
 
 {{< imglink src="/img/2009/07/redhat.jpg" alt="redhat" >}}

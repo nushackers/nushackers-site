@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Guest blogger
+  - Guest blogger
 comments: true
-date: 2008-10-09T00:00:00Z
+date: 2008-10-09T00:00:00.000Z
 title: The Life Scientist goes Linux-ing
-url: /2008/10/09/the-life-scientist-goes-linux-ing/
+url: /2008/10/the-life-scientist-goes-linux-ing/
+aliases:
+  - /2008/10/09/the-life-scientist-goes-linux-ing/
 ---
 
 Hello there,

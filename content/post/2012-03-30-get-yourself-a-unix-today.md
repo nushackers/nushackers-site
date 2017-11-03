@@ -1,12 +1,14 @@
 ---
 author: ejames
 categories:
-- Friday Hacks
-- Slides
+  - Friday Hacks
+  - Slides
 comments: true
-date: 2012-03-30T00:00:00Z
+date: 2012-03-30T00:00:00.000Z
 title: Get Yourself A UNIX Today!
-url: /2012/03/30/get-yourself-a-unix-today/
+url: /2012/03/get-yourself-a-unix-today/
+aliases:
+  - /2012/03/30/get-yourself-a-unix-today/
 ---
 
 In conjunction with our self-styled 'Linux week', Professor Brown gave a cool talk on the Unix philosophy at Friday Hacks earlier tonight (slides available <a href="/img/2012/03/UnixPhilosophy.pdf">here</a>). We at NUS Hackers would like to take this opportunity to encourage everyone to install a *nix flavour, for experience, fun, and indoctrination in programming kung-fu.

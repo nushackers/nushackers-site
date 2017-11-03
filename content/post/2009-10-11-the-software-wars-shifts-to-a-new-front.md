@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Chatter
+  - Chatter
 comments: true
-date: 2009-10-11T00:00:00Z
+date: 2009-10-11T00:00:00.000Z
 title: The software wars shifts to a new front
-url: /2009/10/11/the-software-wars-shifts-to-a-new-front/
+url: /2009/10/the-software-wars-shifts-to-a-new-front/
+aliases:
+  - /2009/10/11/the-software-wars-shifts-to-a-new-front/
 ---
 
 <p align="center"><img src="http://www.free-soft.org/softwarewar.gif" width="500px" alt="Software wars" /><br /><em>These are the current fronts in which the software wars are being fought.</em></p>

@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- Featured
+  - Events
+  - Featured
 comments: true
-date: 2009-04-07T00:00:00Z
+date: 2009-04-07T00:00:00.000Z
 title: Openmoko Talk Apr 09
-url: /2009/04/07/openmoko-talk-apr-09/
+url: /2009/04/openmoko-talk-apr-09/
+aliases:
+  - /2009/04/07/openmoko-talk-apr-09/
 ---
 
 {{< imglink src="/img/2009/04/openmoko.jpg" alt="openmoko" >}}

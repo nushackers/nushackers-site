@@ -1,10 +1,12 @@
 ---
 author: Ng Zhi An
 categories:
-- Digest
-date: 2016-09-18T00:00:00Z
+  - Digest
+date: 2016-09-18T00:00:00.000Z
 title: 'Digest: My experience interning at 3 companies'
-url: /2016/09/18/digest-three-internships/
+url: /2016/09/digest-three-internships/
+aliases:
+  - /2016/09/18/digest-three-internships/
 ---
 
 From Oct 2015 to Aug 2016, I had the good fortune of interning at 3 respectable companies: Google, Stripe, and Uber.

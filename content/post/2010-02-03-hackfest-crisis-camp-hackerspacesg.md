@@ -1,13 +1,15 @@
 ---
 author: angad
 categories:
-- Events
-- Featured
-- Headline
+  - Events
+  - Featured
+  - Headline
 comments: true
-date: 2010-02-03T00:00:00Z
+date: 2010-02-03T00:00:00.000Z
 title: Hackfest!! Crisis Camp @ HackerspaceSG
-url: /2010/02/03/hackfest-crisis-camp-hackerspacesg/
+url: /2010/02/hackfest-crisis-camp-hackerspacesg/
+aliases:
+  - /2010/02/03/hackfest-crisis-camp-hackerspacesg/
 ---
 
 Hackfest @ HackerspaceSG

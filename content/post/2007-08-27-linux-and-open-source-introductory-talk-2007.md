@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- News
+  - Events
+  - News
 comments: true
-date: 2007-08-27T00:00:00Z
+date: 2007-08-27T00:00:00.000Z
 title: Linux and Open Source Introductory Talk 2007
-url: /2007/08/27/linux-and-open-source-introductory-talk-2007/
+url: /2007/08/linux-and-open-source-introductory-talk-2007/
+aliases:
+  - /2007/08/27/linux-and-open-source-introductory-talk-2007/
 ---
 
 linuxNUS presents, the Linux and Open Source Introductory Talk.

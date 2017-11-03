@@ -1,11 +1,14 @@
 ---
 author: admin
 categories:
-- Featured
+  - Featured
 comments: true
-date: 2012-05-12T00:00:00Z
-title: Building random shit for fun, (and making a girl happy while at it)
-url: /2012/05/12/building-random-shit-for-fun-and-making-a-girl-happy-while-at-it/
+date: 2012-05-12T00:00:00.000Z
+title: 'Building random shit for fun, (and making a girl happy while at it)'
+url: /2012/05/building-random-shit-for-fun-and-making-a-girl-happy-while-at-it/
+aliases:
+  - >-
+    /2012/05/12/building-random-shit-for-fun-and-making-a-girl-happy-while-at-it/
 ---
 
 Long overdued, and only my third post here.

@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2013-01-18T00:00:00Z
+date: 2013-01-18T00:00:00.000Z
 title: Twitter Data Science Event at Plugin@Blk71
-url: /2013/01/18/twitter-data-science-event-at-pluginblk71/
+url: /2013/01/twitter-data-science-event-at-pluginblk71/
+aliases:
+  - /2013/01/18/twitter-data-science-event-at-pluginblk71/
 ---
 
 Data Scientist Linus Lee will be speaking about tackling big data at one of the fastest growing companies in the world, Twitter. His talk will cover:

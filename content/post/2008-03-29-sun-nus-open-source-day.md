@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- Events
+  - Events
 comments: true
-date: 2008-03-29T00:00:00Z
+date: 2008-03-29T00:00:00.000Z
 title: Sun NUS Open Source Day
-url: /2008/03/29/sun-nus-open-source-day/
+url: /2008/03/sun-nus-open-source-day/
+aliases:
+  - /2008/03/29/sun-nus-open-source-day/
 ---
 
 Did you catch it on Friday (28 Mar)?<br /><br />If not, here's what you missed.<br /><br />Sun held it's Open Source Day at COM1 on Friday, as part of the Sun Technology Outreach programme. <br /><br />On the kind invite of organisers, <a href="http://prstat.blogspot.com/">Wee Yeh</a> and Neng Giin, linuxNUS set up a booth at the event to showcase Fedora 8 (along with <a href="http://youtube.com/results?search_query=compiz+fusion&amp;search_type=">Compiz Fusion</a> goodies =). Thanks to <a href="http://www.kernel.sg/roller/eugene/">Eugene</a>, we also had <a href="http://www.kernel.sg/roller/eugene/entry/fedora_schwag_has_arrived">nice printed Fedora DVDs</a> to hand out to the crowd that dropped by our booth. <br /><br />Our showcase comprised mainly of Compiz-Fusion demos, productivity suites (Microsoft Office-on-<a href="http://winehq.org/">WINE</a> and <a href="http://openoffice.org">OpenOffice.org</a>), and the nifty <a href="http://en.wikipedia.org/wiki/Virtualization">virtualisation</a> of <a href="http://www.nexenta.org/os">Nexenta</a> within the recently <a href="http://www.sun.com/aboutsun/pr/2008-02/sunflash.20080212.1.xml">Sun-acquired</a> <a href="http://www.virtualbox.org/">Innotek VirtualBox</a>. And indeed, while the audience had their productivity (and compatibility!) doubts resolved, and admired the flexibility of running an OS-within-an-OS, we have to say honestly, that the Compiz-Fusion demos were the star of the show.<br /><br />

@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- News
+  - News
 comments: true
-date: 2007-10-03T00:00:00Z
+date: 2007-10-03T00:00:00.000Z
 title: Novell sponsors free driver development for Linux
-url: /2007/10/03/novell-sponsors-free-driver-development-for-linux/
+url: /2007/10/novell-sponsors-free-driver-development-for-linux/
+aliases:
+  - /2007/10/03/novell-sponsors-free-driver-development-for-linux/
 ---
 
 {{< imglink src="http://inlinethumb63.webshots.com/21630/2157087220101890940S425x425Q85.jpg" alt="WIRED - Linux Driver Project " >}}

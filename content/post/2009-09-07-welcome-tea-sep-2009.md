@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- Featured
-- Headline
+  - Events
+  - Featured
+  - Headline
 comments: true
-date: 2009-09-07T00:00:00Z
+date: 2009-09-07T00:00:00.000Z
 title: Welcome Tea Sep 2009
-url: /2009/09/07/welcome-tea-sep-2009/
+url: /2009/09/welcome-tea-sep-2009/
+aliases:
+  - /2009/09/07/welcome-tea-sep-2009/
 ---
 
 Hi everyone,

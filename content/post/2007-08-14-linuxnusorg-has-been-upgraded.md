@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Chatter
-- News
+  - Chatter
+  - News
 comments: true
-date: 2007-08-14T00:00:00Z
+date: 2007-08-14T00:00:00.000Z
 title: linuxNUS.org has been upgraded
-url: /2007/08/14/linuxnusorg-has-been-upgraded/
+url: /2007/08/linuxnusorg-has-been-upgraded/
+aliases:
+  - /2007/08/14/linuxnusorg-has-been-upgraded/
 ---
 
 Our website has a new look!

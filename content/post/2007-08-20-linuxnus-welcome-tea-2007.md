@@ -1,12 +1,14 @@
 ---
 author: rey
 categories:
-- Events
-- News
+  - Events
+  - News
 comments: true
-date: 2007-08-20T00:00:00Z
+date: 2007-08-20T00:00:00.000Z
 title: linuxNUS Welcome Tea 2007
-url: /2007/08/20/linuxnus-welcome-tea-2007/
+url: /2007/08/linuxnus-welcome-tea-2007/
+aliases:
+  - /2007/08/20/linuxnus-welcome-tea-2007/
 ---
 
 Hi everyone

@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Featured
-- News
-- Slides
+  - Featured
+  - News
+  - Slides
 comments: true
-date: 2009-03-07T00:00:00Z
+date: 2009-03-07T00:00:00.000Z
 title: Android interest in linuxNUS
-url: /2009/03/07/android-interest-in-linuxnus/
+url: /2009/03/android-interest-in-linuxnus/
+aliases:
+  - /2009/03/07/android-interest-in-linuxnus/
 ---
 
 Recently, there has been a burgeoning interest and excitment in both linuxNUS and Singapore with regards to Android.

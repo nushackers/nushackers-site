@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- External
+  - External
 comments: true
-date: 2009-04-04T00:00:00Z
+date: 2009-04-04T00:00:00.000Z
 title: Android Singapore Meetup Mar 09
-url: /2009/04/04/android-singapore-meetup-mar-09/
+url: /2009/04/android-singapore-meetup-mar-09/
+aliases:
+  - /2009/04/04/android-singapore-meetup-mar-09/
 ---
 
 While most of us will be happy to laze at home on a bright Saturday morning, a group of Android lovers gathered in NUS for the inaugural Android SIngapore Meetup.

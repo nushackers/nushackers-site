@@ -1,13 +1,15 @@
 ---
 author: angad
 categories:
-- Blogroll
-- Events
-- Featured
+  - Blogroll
+  - Events
+  - Featured
 comments: true
-date: 2010-10-08T00:00:00Z
+date: 2010-10-08T00:00:00.000Z
 title: 'Workshop #5 PHP and CodeIgniter'
-url: /2010/10/08/workshop-5-php-and-codeigniter/
+url: /2010/10/workshop-5-php-and-codeigniter/
+aliases:
+  - /2010/10/08/workshop-5-php-and-codeigniter/
 ---
 
 Next Workshop - PHP and CodeIgniter

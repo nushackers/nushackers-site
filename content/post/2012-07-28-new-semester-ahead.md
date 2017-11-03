@@ -1,11 +1,13 @@
 ---
 author: admin
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2012-07-28T00:00:00Z
-title: New Semester ahead :)
-url: /2012/07/28/new-semester-ahead/
+date: 2012-07-28T00:00:00.000Z
+title: 'New Semester ahead :)'
+url: /2012/07/new-semester-ahead/
+aliases:
+  - /2012/07/28/new-semester-ahead/
 ---
 
 After an awesome holiday that saw brilliant hacks by many of our members, including <a href="http://modivle.yrmichael.com/welcome" title="modivle" target="_blank">MODIVLE</a>, <a href="http://nusmods.com/" title="nusmods" target="_blank">NUSMods</a>, and <a href="https://play.google.com/store/apps/details?id=nus.ais.mobile.android.shuttlebus&hl=en" title="nus next bus" target="_blank">NUS Next Bus</a>, we are now looking to restart our activities in the coming academic year.

@@ -1,12 +1,14 @@
 ---
 author: Ruiwen
 categories:
-- Events
-- External
+  - Events
+  - External
 comments: true
-date: 2009-04-15T00:00:00Z
+date: 2009-04-15T00:00:00.000Z
 title: '[Interoperability Group Singapore] The Virtualisation Shootout'
-url: /2009/04/15/interop-virtualisation/
+url: /2009/04/interop-virtualisation/
+aliases:
+  - /2009/04/15/interop-virtualisation/
 ---
 
 <p style="text-align: justify;">Quick. Think back to the first few lessons your parents taught you as they packed you off to your very first day at school.  If you were like most kids, chances are, those lessons were &quot;<em>Play nice with others! Share your things!</em> &quot;</p>

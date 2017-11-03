@@ -1,13 +1,15 @@
 ---
 author: iced
 categories:
-- Events
-- Featured
-- Headline
+  - Events
+  - Featured
+  - Headline
 comments: true
-date: 2009-05-07T00:00:00Z
+date: 2009-05-07T00:00:00.000Z
 title: The linuxNUS Hackfest returns!
-url: /2009/05/07/the-linuxnus-hackfest-returns/
+url: /2009/05/the-linuxnus-hackfest-returns/
+aliases:
+  - /2009/05/07/the-linuxnus-hackfest-returns/
 ---
 
 This Saturday, linuxNUS is going to have another hackfest. The last time we had one, projects involving Java, PHP, Python and even Mobile Processing were being worked on by all the different people who attended. Ideas were tossed around, and conversations about iPhone, Android and open source events in Singapore were in full swing, among others. <a href="http://www.flickr.com/photos/ruiwen/sets/72157617001011319/">See the photos!</a>

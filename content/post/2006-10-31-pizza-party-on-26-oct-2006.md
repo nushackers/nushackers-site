@@ -1,12 +1,14 @@
 ---
 author: rey
 categories:
-- Chatter
-- Photos
+  - Chatter
+  - Photos
 comments: true
-date: 2006-10-31T00:00:00Z
+date: 2006-10-31T00:00:00.000Z
 title: Pizza Party on 26 Oct 2006
-url: /2006/10/31/pizza-party-on-26-oct-2006/
+url: /2006/10/pizza-party-on-26-oct-2006/
+aliases:
+  - /2006/10/31/pizza-party-on-26-oct-2006/
 ---
 
 <table width="100%" cellspacing="4" cellpadding="4" border="1" style="text-align: left">

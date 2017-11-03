@@ -1,14 +1,16 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
-- Featured
-- Photos
+  - Events
+  - External
+  - Featured
+  - Photos
 comments: true
-date: 2009-04-04T00:00:00Z
+date: 2009-04-04T00:00:00.000Z
 title: Interoperability Group Singapore Meetup Mar 09
-url: /2009/04/04/interoperability-group-singapore-meetup-mar-09/
+url: /2009/04/interoperability-group-singapore-meetup-mar-09/
+aliases:
+  - /2009/04/04/interoperability-group-singapore-meetup-mar-09/
 ---
 
 Have you heard of Interoperability Group Singapore?

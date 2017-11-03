@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2009-08-14T00:00:00Z
+date: 2009-08-14T00:00:00.000Z
 title: Singapore Open Source News on ZDNet
-url: /2009/08/14/singapore-open-source-news/
+url: /2009/08/singapore-open-source-news/
+aliases:
+  - /2009/08/14/singapore-open-source-news/
 ---
 
 <a href="http://www.zdnetasia.com/news/software/0,39044164,62056390,00.htm">A piece about Open Source trends in Singapore</a>, which is <a href="http://www.zdnetasia.com/news/software/0,39044164,62056314,00.htm">part of a roundup on Open Source in Asia</a>.

@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Guest blogger
+  - Guest blogger
 comments: true
-date: 2008-10-11T00:00:00Z
+date: 2008-10-11T00:00:00.000Z
 title: Wubi-ing Ubuntu 8.10 Intrepid Beta
-url: /2008/10/11/wubi-ing-ubuntu-810-intrepid-beta/
+url: /2008/10/wubi-ing-ubuntu-810-intrepid-beta/
+aliases:
+  - /2008/10/11/wubi-ing-ubuntu-810-intrepid-beta/
 ---
 
 One benefit I enjoy working at <a href="http://www.tylerprojects.com/">Tyler Projects</a> was the freedom in choosing the operating system I want. My PC is quite a powerful machine, with 2 GB ram and dual cores. It ran Vista quite seamlessly. I decided to install <a href="http://www.ubuntu.com/">Ubuntu Linux</a> I could have easily setup a dual boot but I decided to take this opportunity to try out the <a href="http://wubi-installer.org/">Wubi</a> installer for the first time. For those not in the know, Wubi allows you to install and uninstall Ubuntu as any other Windows application, in a simple way that is hardly rocket science.
