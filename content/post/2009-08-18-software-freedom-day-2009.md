@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
-- Featured
+  - Events
+  - External
+  - Featured
 comments: true
-date: 2009-08-18T00:00:00Z
+date: 2009-08-18T00:00:00.000Z
 title: Software Freedom Day 2009
-url: /2009/08/18/software-freedom-day-2009/
+url: /2009/08/software-freedom-day-2009/
+aliases:
+  - /2009/08/18/software-freedom-day-2009/
 ---
 
 From our <a href="http://tech.groups.yahoo.com/group/linuxNUS/message/4183">mailing list archive</a>:

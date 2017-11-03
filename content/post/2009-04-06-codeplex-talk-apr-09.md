@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- Featured
+  - Events
+  - Featured
 comments: true
-date: 2009-04-06T00:00:00Z
+date: 2009-04-06T00:00:00.000Z
 title: Codeplex Talk Apr 09
-url: /2009/04/06/codeplex-talk-apr-09/
+url: /2009/04/codeplex-talk-apr-09/
+aliases:
+  - /2009/04/06/codeplex-talk-apr-09/
 ---
 
 {{< imglink src="/img/2009/04/codeplex-logo_3.jpg" alt="codeplex-logo_3" >}}

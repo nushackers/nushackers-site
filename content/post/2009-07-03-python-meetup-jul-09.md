@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
-- Featured
+  - Events
+  - External
+  - Featured
 comments: true
-date: 2009-07-03T00:00:00Z
+date: 2009-07-03T00:00:00.000Z
 title: Python Meetup Jul 09
-url: /2009/07/03/python-meetup-jul-09/
+url: /2009/07/python-meetup-jul-09/
+aliases:
+  - /2009/07/03/python-meetup-jul-09/
 ---
 
 4th Singapore Python User Group Meeting

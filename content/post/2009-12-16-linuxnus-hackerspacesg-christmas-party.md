@@ -1,11 +1,13 @@
 ---
 author: dqminh
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2009-12-16T00:00:00Z
+date: 2009-12-16T00:00:00.000Z
 title: linuxNUS @ HackerspaceSG Christmas party
-url: /2009/12/16/linuxnus-hackerspacesg-christmas-party/
+url: /2009/12/linuxnus-hackerspacesg-christmas-party/
+aliases:
+  - /2009/12/16/linuxnus-hackerspacesg-christmas-party/
 ---
 
 From <a href="http://http://www.facebook.com/event.php?eid=219542641712&amp;ref=ts">HackerspaceSG Christmas party Facebook page</a>

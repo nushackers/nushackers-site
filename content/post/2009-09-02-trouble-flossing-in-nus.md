@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- Chatter
+  - Chatter
 comments: true
-date: 2009-09-02T00:00:00Z
+date: 2009-09-02T00:00:00.000Z
 title: '[Poll] Trouble FLOSSing in NUS?'
-url: /2009/09/02/trouble-flossing-in-nus/
+url: /2009/09/trouble-flossing-in-nus/
+aliases:
+  - /2009/09/02/trouble-flossing-in-nus/
 ---
 
 All right, I'll cut right to the chase with this one, and won't pull any punches. Let me be the first to say, <em>It can be a pain trying to use only Free and open source software.</em>

@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Essay
+  - Essay
 comments: true
-date: 2011-02-16T00:00:00Z
+date: 2011-02-16T00:00:00.000Z
 title: 'NUS Hackers: What We Do'
-url: /2011/02/16/nus-hackers-what-we-do/
+url: /2011/02/nus-hackers-what-we-do/
+aliases:
+  - /2011/02/16/nus-hackers-what-we-do/
 ---
 
 <em>This was adapted from a short introduction I did at the beginning of <a href="/2011/02/learning-ruby-the-fun-way/">CodeCom 2011</a>. Intended purpose: to introduce people to NUS Hackers, seeing as we had recently undergone a name change. I thought I'd put it up here, as well, just so we're clear.</em>

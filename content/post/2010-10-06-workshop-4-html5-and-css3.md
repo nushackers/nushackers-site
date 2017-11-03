@@ -1,15 +1,17 @@
 ---
 author: angad
 categories:
-- Blogroll
-- Events
-- Featured
-- Headline
-- Slides
+  - Blogroll
+  - Events
+  - Featured
+  - Headline
+  - Slides
 comments: true
-date: 2010-10-06T00:00:00Z
+date: 2010-10-06T00:00:00.000Z
 title: 'Workshop #4 HTML5 and CSS3'
-url: /2010/10/06/workshop-4-html5-and-css3/
+url: /2010/10/workshop-4-html5-and-css3/
+aliases:
+  - /2010/10/06/workshop-4-html5-and-css3/
 ---
 
 Div and Cedric did an awesome job for the workshop on HTML5 and CSS3.

@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Essay
+  - Essay
 comments: true
-date: 2012-02-13T00:00:00Z
+date: 2012-02-13T00:00:00.000Z
 title: 'Hacking: The Best Way To Get Hired, While At SoC'
-url: /2012/02/13/hacking-the-best-way-to-get-hired-while-at-soc/
+url: /2012/02/hacking-the-best-way-to-get-hired-while-at-soc/
+aliases:
+  - /2012/02/13/hacking-the-best-way-to-get-hired-while-at-soc/
 ---
 
 {{< imglink src="/img/2011/12/MelvinZhangFH.jpg" alt="Melvin Zhang at NUS Hackers weekly meeting, speaking about Solving Computer Science Problems" >}}

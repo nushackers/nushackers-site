@@ -1,11 +1,16 @@
 ---
 author: Johannes Choo
 categories:
-- Digest
-date: 2017-11-03T00:00:00Z
+  - Digest
+date: 2017-11-03T00:00:00.000Z
 title: 'Digest: Installing and Running Ubuntu 17.10 Desktop on the 12-inch MacBook'
-tags: [ubuntu, macbook, linux]
-url: /2017/11/03/digest-ubuntu-on-macbook/
+tags:
+  - ubuntu
+  - macbook
+  - linux
+url: /2017/11/digest-ubuntu-on-macbook/
+aliases:
+  - /2017/11/03/digest-ubuntu-on-macbook/
 ---
 
 # Introduction

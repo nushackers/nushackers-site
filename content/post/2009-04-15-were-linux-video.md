@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- News
+  - News
 comments: true
-date: 2009-04-15T00:00:00Z
+date: 2009-04-15T00:00:00.000Z
 title: '"We''re Linux" video contest winners announced'
-url: /2009/04/15/were-linux-video/
+url: /2009/04/were-linux-video/
+aliases:
+  - /2009/04/15/were-linux-video/
 ---
 
 In the wake of <a href="http://www.apple.com/getamac/ads/">Apple's &quot;I'm a Mac&quot; ads</a> , and <a href="http://www.microsoft.com/windows/gates-and-seinfeld.aspx">Microsoft's Jerry Sienfeld</a> ones, the Linux Foundation earlier this year called upon the community to produce short video clips with their personal take on the theme, &quot;I'm Linux&quot;, in the form of a contest.

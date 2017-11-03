@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Headline
-- Meetings
+  - Headline
+  - Meetings
 comments: true
-date: 2009-07-23T00:00:00Z
+date: 2009-07-23T00:00:00.000Z
 title: The linuxNUS Foodie Social
-url: /2009/07/23/the-linuxnus-foodie-social/
+url: /2009/07/the-linuxnus-foodie-social/
+aliases:
+  - /2009/07/23/the-linuxnus-foodie-social/
 ---
 
 Feeling overwhelmed with dry technical presentations during meetups? Feel that you are the only surviving techie/geek/hacker?

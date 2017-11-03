@@ -1,14 +1,16 @@
 ---
 author: angad
 categories:
-- Events
-- Featured
-- Headline
-- News
+  - Events
+  - Featured
+  - Headline
+  - News
 comments: true
-date: 2010-12-12T00:00:00Z
+date: 2010-12-12T00:00:00.000Z
 title: Hackers@NUS
-url: /2010/12/12/hackernus/
+url: /2010/12/hackernus/
+aliases:
+  - /2010/12/12/hackernus/
 ---
 
 Thanks to all those who attended the Hack Workshop Series. We did 8 workshops this semester and the response from the audience was really good. We (also) got to learn a lot after doing all these workshops.

@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
-- Featured
+  - Events
+  - External
+  - Featured
 comments: true
-date: 2009-10-28T00:00:00Z
+date: 2009-10-28T00:00:00.000Z
 title: GNOME.Asia Summit 2009
-url: /2009/10/28/gnome-asia-summit-2009/
+url: /2009/10/gnome-asia-summit-2009/
+aliases:
+  - /2009/10/28/gnome-asia-summit-2009/
 ---
 
 <p align="center">{{< imglink src="/img/2009/10/gnome.asia-logo-2009.02.1.png" alt="gnome.asia-logo-2009.02.1" >}}</p>

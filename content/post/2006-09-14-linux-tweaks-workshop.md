@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- News
+  - News
 comments: true
-date: 2006-09-14T00:00:00Z
+date: 2006-09-14T00:00:00.000Z
 title: Linux Tweaks Workshop
-url: /2006/09/14/linux-tweaks-workshop/
+url: /2006/09/linux-tweaks-workshop/
+aliases:
+  - /2006/09/14/linux-tweaks-workshop/
 ---
 
 ---------------

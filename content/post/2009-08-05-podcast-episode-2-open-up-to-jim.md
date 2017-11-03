@@ -1,14 +1,16 @@
 ---
 author: Ruiwen
 categories:
-- External
-- Featured
-- Headline
-- Podcast
+  - External
+  - Featured
+  - Headline
+  - Podcast
 comments: true
-date: 2009-08-05T00:00:00Z
+date: 2009-08-05T00:00:00.000Z
 title: '[Podcast] Episode 2: Open Up to Jim'
-url: /2009/08/05/podcast-episode-2-open-up-to-jim/
+url: /2009/08/podcast-episode-2-open-up-to-jim/
+aliases:
+  - /2009/08/05/podcast-episode-2-open-up-to-jim/
 ---
 
 In this episode of the linuxNUS Podcast, we catch up with Jim Whitehurst, President and CEO of Red Hat Inc. to get some insight into the mind of the man who runs the world's number one open source software provider.

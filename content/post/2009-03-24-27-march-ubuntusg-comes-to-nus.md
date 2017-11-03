@@ -1,13 +1,15 @@
 ---
 author: iced
 categories:
-- Events
-- Featured
-- Headline
+  - Events
+  - Featured
+  - Headline
 comments: true
-date: 2009-03-24T00:00:00Z
+date: 2009-03-24T00:00:00.000Z
 title: '27 March: Ubuntu.SG comes to NUS'
-url: /2009/03/24/27-march-ubuntusg-comes-to-nus/
+url: /2009/03/27-march-ubuntusg-comes-to-nus/
+aliases:
+  - /2009/03/24/27-march-ubuntusg-comes-to-nus/
 ---
 
 For all of you who're interested in trying out Ubuntu for the first time, NUS Computing Club and Ubuntu.SG have teamed up with us to present the next instalment of our Open up to Open Source series, imaginatively titled Ubuntu. (Sorry!)

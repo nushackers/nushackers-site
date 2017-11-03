@@ -1,11 +1,13 @@
 ---
 author: admin
 categories:
-- Essay
+  - Essay
 comments: true
-date: 2011-06-14T00:00:00Z
+date: 2011-06-14T00:00:00.000Z
 title: Why every undergrad should intern for a startup at least once.
-url: /2011/06/14/why-every-undergrad-should-intern-for-a-startup-at-least-once/
+url: /2011/06/why-every-undergrad-should-intern-for-a-startup-at-least-once/
+aliases:
+  - /2011/06/14/why-every-undergrad-should-intern-for-a-startup-at-least-once/
 ---
 
 My first post here =D

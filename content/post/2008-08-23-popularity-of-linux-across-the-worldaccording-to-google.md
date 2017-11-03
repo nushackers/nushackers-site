@@ -1,11 +1,13 @@
 ---
 author: dndguru
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2008-08-23T00:00:00Z
+date: 2008-08-23T00:00:00.000Z
 title: Popularity of Linux Across the World...According to Google
-url: /2008/08/23/popularity-of-linux-across-the-worldaccording-to-google/
+url: /2008/08/popularity-of-linux-across-the-worldaccording-to-google/
+aliases:
+  - /2008/08/23/popularity-of-linux-across-the-worldaccording-to-google/
 ---
 
 Ever wondered about the geographical popularity of Linux in a Windows dominated world?

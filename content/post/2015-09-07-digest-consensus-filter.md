@@ -1,13 +1,15 @@
 ---
 author: yujian
-author_link: http://yjyao.com
+author_link: 'http://yjyao.com'
 categories:
-- Digest
+  - Digest
 comments: true
-date: 2015-09-07T00:00:00Z
+date: 2015-09-07T00:00:00.000Z
 support_math: true
 title: 'Digest: Consensus Filters'
-url: /2015/09/07/digest-consensus-filter/
+url: /2015/09/digest-consensus-filter/
+aliases:
+  - /2015/09/07/digest-consensus-filter/
 ---
 
 ## The Problem

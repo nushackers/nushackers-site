@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- External
-- Meetings
+  - External
+  - Meetings
 comments: true
-date: 2009-03-19T00:00:00Z
+date: 2009-03-19T00:00:00.000Z
 title: linuxNUS goes to SLMG meetup
-url: /2009/03/19/linuxnus-goes-to-slmg-meetup/
+url: /2009/03/linuxnus-goes-to-slmg-meetup/
+aliases:
+  - /2009/03/19/linuxnus-goes-to-slmg-meetup/
 ---
 
 So a small contingent from linuxNUS and NTUOSS <a href="http://linuxnus.org/2009/03/17/singapore-linux-march-meetup-singapore-lubuntu-team/">headed down to the SLMG meetup</a>.  The meeting was soon called to order, and David and Darrel spearheaded the discussion about the draft of the constitution.

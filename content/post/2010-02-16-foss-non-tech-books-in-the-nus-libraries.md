@@ -1,15 +1,17 @@
 ---
 author: angad
 categories:
-- Blogroll
-- Chatter
-- Featured
-- Headline
-- News
+  - Blogroll
+  - Chatter
+  - Featured
+  - Headline
+  - News
 comments: true
-date: 2010-02-16T00:00:00Z
+date: 2010-02-16T00:00:00.000Z
 title: FOSS Non-tech Books in the NUS libraries
-url: /2010/02/16/foss-non-tech-books-in-the-nus-libraries/
+url: /2010/02/foss-non-tech-books-in-the-nus-libraries/
+aliases:
+  - /2010/02/16/foss-non-tech-books-in-the-nus-libraries/
 ---
 
 <img class="alignleft size-full wp-image-992" title="FOSS Books" src="/img/2010/02/thumbDSC086971.JPG" alt="FOSS Books" width="300" height="225" />

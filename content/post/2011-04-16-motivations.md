@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Essay
+  - Essay
 comments: true
-date: 2011-04-16T00:00:00Z
+date: 2011-04-16T00:00:00.000Z
 title: Motivations
-url: /2011/04/16/motivations/
+url: /2011/04/motivations/
+aliases:
+  - /2011/04/16/motivations/
 ---
 
 Over the past couple months or so we've had a number of non-programmers contacting us, looking for hackers to hire for their startup/project/idea/next-Facebook-to-be.

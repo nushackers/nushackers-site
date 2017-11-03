@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Essay
+  - Essay
 comments: true
-date: 2012-03-13T00:00:00Z
+date: 2012-03-13T00:00:00.000Z
 title: Do We Need A New Richard Stallman?
-url: /2012/03/13/do-we-need-a-new-richard-stallman/
+url: /2012/03/do-we-need-a-new-richard-stallman/
+aliases:
+  - /2012/03/13/do-we-need-a-new-richard-stallman/
 ---
 
 <p>A heretical thought struck me recently, while at a dialog session with Free Software founder Richard Stallman. Could it be that the Free Software movement is — today — irrelevant? This notion is repulsive: we owe so much to rms’s multi-decade crusade for Software Freedom and universal digital liberties. </p>

@@ -1,12 +1,14 @@
 ---
 author: ymichael
-author_link: http://ymichael.com
+author_link: 'http://ymichael.com'
 categories:
-- Digest
+  - Digest
 comments: true
-date: 2015-08-26T00:00:00Z
+date: 2015-08-26T00:00:00.000Z
 title: 'Digest: Consistent Hashing'
-url: /2015/08/26/digest-consistent-hashing/
+url: /2015/08/digest-consistent-hashing/
+aliases:
+  - /2015/08/26/digest-consistent-hashing/
 ---
 
 _This is our first digest article. What's a digest article? Basically we source around NUS and write something that's technically interesting. [Let us know](/contact/) if you would like to submit an article!_

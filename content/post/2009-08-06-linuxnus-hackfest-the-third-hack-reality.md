@@ -1,12 +1,14 @@
 ---
 author: Ruiwen
 categories:
-- Events
-- Featured
+  - Events
+  - Featured
 comments: true
-date: 2009-08-06T00:00:00Z
+date: 2009-08-06T00:00:00.000Z
 title: 'linuxNUS Hackfest the Third: Hack Reality'
-url: /2009/08/06/linuxnus-hackfest-the-third-hack-reality/
+url: /2009/08/linuxnus-hackfest-the-third-hack-reality/
+aliases:
+  - /2009/08/06/linuxnus-hackfest-the-third-hack-reality/
 ---
 
 It's been a long time coming, but it's time once again for yet another linuxNUS Hackfest!

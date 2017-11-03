@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2007-09-18T00:00:00Z
+date: 2007-09-18T00:00:00.000Z
 title: 'Things you miss on #linuxNUS'
-url: /2007/09/18/things-you-miss-on-linuxnus/
+url: /2007/09/things-you-miss-on-linuxnus/
+aliases:
+  - /2007/09/18/things-you-miss-on-linuxnus/
 ---
 
 We like strategy games..

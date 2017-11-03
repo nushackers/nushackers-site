@@ -1,15 +1,17 @@
 ---
 author: angad
 categories:
-- Blogroll
-- Events
-- Featured
-- Headline
-- News
+  - Blogroll
+  - Events
+  - Featured
+  - Headline
+  - News
 comments: true
-date: 2010-08-07T00:00:00Z
+date: 2010-08-07T00:00:00.000Z
 title: Hack Workshop Series
-url: /2010/08/07/hack-workshop-series/
+url: /2010/08/hack-workshop-series/
+aliases:
+  - /2010/08/07/hack-workshop-series/
 ---
 
 We had mentioned about a workshop series from linuxNUS in a recent blog post and now here we are with something concrete that you can look forward to!

@@ -1,11 +1,13 @@
 ---
 author: angad
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2010-07-02T00:00:00Z
+date: 2010-07-02T00:00:00.000Z
 title: linuxNUS Workshop series
-url: /2010/07/02/linuxnus-workshop-series/
+url: /2010/07/linuxnus-workshop-series/
+aliases:
+  - /2010/07/02/linuxnus-workshop-series/
 ---
 
 <span style="font-size: small;"><span style="font-weight: bold;">linuxNUS is planning for the next semester!</span></span>

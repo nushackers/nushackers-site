@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
-- Featured
+  - Events
+  - External
+  - Featured
 comments: true
-date: 2009-07-05T00:00:00Z
+date: 2009-07-05T00:00:00.000Z
 title: SLMG meetup Jul 09
-url: /2009/07/05/slmg-meetup-jul-09/
+url: /2009/07/slmg-meetup-jul-09/
+aliases:
+  - /2009/07/05/slmg-meetup-jul-09/
 ---
 
 <strong>Software Freedom Day Planning session</strong>

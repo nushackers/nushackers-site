@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- News
+  - News
 comments: true
-date: 2007-09-25T00:00:00Z
+date: 2007-09-25T00:00:00.000Z
 title: EU think tank recommends unbundling Windows from PCs
-url: /2007/09/25/eu-think-tank-recommends-unbundling-windows-from-pcs/
+url: /2007/09/eu-think-tank-recommends-unbundling-windows-from-pcs/
+aliases:
+  - /2007/09/25/eu-think-tank-recommends-unbundling-windows-from-pcs/
 ---
 
 Here's a step forward in the European Union.

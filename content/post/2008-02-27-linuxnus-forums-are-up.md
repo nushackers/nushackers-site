@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- News
+  - News
 comments: true
-date: 2008-02-27T00:00:00Z
+date: 2008-02-27T00:00:00.000Z
 title: linuxNUS Forums are up!
-url: /2008/02/27/linuxnus-forums-are-up/
+url: /2008/02/linuxnus-forums-are-up/
+aliases:
+  - /2008/02/27/linuxnus-forums-are-up/
 ---
 
 And in the name of more open communication.. linuxNUS brings to you.. the <a href="http://opensource.nus.edu.sg/forums/">linuxNUS Forums</a>!

@@ -1,14 +1,16 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- Featured
-- Headline
-- Photos
+  - Events
+  - Featured
+  - Headline
+  - Photos
 comments: true
-date: 2009-04-21T00:00:00Z
+date: 2009-04-21T00:00:00.000Z
 title: Inaugural linuxNUS HackFest
-url: /2009/04/21/inaugural-linuxnus-hackfest/
+url: /2009/04/inaugural-linuxnus-hackfest/
+aliases:
+  - /2009/04/21/inaugural-linuxnus-hackfest/
 ---
 
 <div align="center"><p><img src="http://farm4.static.flickr.com/3493/3459142749_d14f547d52.jpg?v=0" alt="Post-it declarations :)" /><br /><em>Post-it declarations</em></p>

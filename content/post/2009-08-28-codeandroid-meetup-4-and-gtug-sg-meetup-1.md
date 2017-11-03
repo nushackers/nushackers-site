@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
-- Featured
+  - Events
+  - External
+  - Featured
 comments: true
-date: 2009-08-28T00:00:00Z
+date: 2009-08-28T00:00:00.000Z
 title: CodeAndroid Meetup 4 and GTUG-SG Meetup 1
-url: /2009/08/28/codeandroid-meetup-4-and-gtug-sg-meetup-1/
+url: /2009/08/codeandroid-meetup-4-and-gtug-sg-meetup-1/
+aliases:
+  - /2009/08/28/codeandroid-meetup-4-and-gtug-sg-meetup-1/
 ---
 
 <span style="font-family: 'Times New Roman'; font-size: 16px; line-height: normal;"> </span>

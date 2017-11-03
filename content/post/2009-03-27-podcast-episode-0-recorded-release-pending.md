@@ -1,13 +1,15 @@
 ---
 author: dwu
 categories:
-- Featured
-- Headline
-- Podcast
+  - Featured
+  - Headline
+  - Podcast
 comments: true
-date: 2009-03-27T00:00:00Z
+date: 2009-03-27T00:00:00.000Z
 title: '[Podcast] Episode 0 recorded; release pending.'
-url: /2009/03/27/podcast-episode-0-recorded-release-pending/
+url: /2009/03/podcast-episode-0-recorded-release-pending/
+aliases:
+  - /2009/03/27/podcast-episode-0-recorded-release-pending/
 ---
 
 After some difficulty finding a recording venue and some hours of figuring out a reasonable setup, five linuxNUSers (icedwater, ruiwen, dqminh, aaronstevensonle, dwu) finally got around to recording the raw premier episode of the linuxNUS podcast. Discussed on the record were:

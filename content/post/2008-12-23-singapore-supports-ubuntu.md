@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2008-12-23T00:00:00Z
+date: 2008-12-23T00:00:00.000Z
 title: Singapore supports Ubuntu!
-url: /2008/12/23/singapore-supports-ubuntu/
+url: /2008/12/singapore-supports-ubuntu/
+aliases:
+  - /2008/12/23/singapore-supports-ubuntu/
 ---
 
 <div>&nbsp;</div>

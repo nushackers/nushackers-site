@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- News
-- Photos
+  - Events
+  - News
+  - Photos
 comments: true
-date: 2007-08-04T00:00:00Z
+date: 2007-08-04T00:00:00.000Z
 title: Inaugural participation in NUS Matric Fair
-url: /2007/08/04/inaugural-participation-in-nus-matric-fair/
+url: /2007/08/inaugural-participation-in-nus-matric-fair/
+aliases:
+  - /2007/08/04/inaugural-participation-in-nus-matric-fair/
 ---
 
 <p>Matric fair rocked! linuxNUS was down for 4 days at booth #55 from 30th July to 2nd Aug. This is the 1st time that linuxNUS participated in the fair since we just started off not too long ago.</p>

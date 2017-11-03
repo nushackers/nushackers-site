@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
+  - Events
+  - External
 comments: true
-date: 2009-07-29T00:00:00Z
+date: 2009-07-29T00:00:00.000Z
 title: Singapore Perl Mongers Meetup Apr 09
-url: /2009/07/29/singapore-perl-mongers-meetup-apr-09/
+url: /2009/07/singapore-perl-mongers-meetup-apr-09/
+aliases:
+  - /2009/07/29/singapore-perl-mongers-meetup-apr-09/
 ---
 
 Hey everybody,

@@ -1,14 +1,16 @@
 ---
 author: angad
 categories:
-- Events
-- Featured
-- Headline
-- News
+  - Events
+  - Featured
+  - Headline
+  - News
 comments: true
-date: 2010-10-11T00:00:00Z
+date: 2010-10-11T00:00:00.000Z
 title: 'Workshop #6 Agile Development Practices'
-url: /2010/10/11/workshop-6-agile-development-practices/
+url: /2010/10/workshop-6-agile-development-practices/
+aliases:
+  - /2010/10/11/workshop-6-agile-development-practices/
 ---
 
 <div id=":13k">

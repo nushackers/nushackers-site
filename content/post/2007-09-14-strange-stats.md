@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2007-09-14T00:00:00Z
+date: 2007-09-14T00:00:00.000Z
 title: Strange stats
-url: /2007/09/14/strange-stats/
+url: /2007/09/strange-stats/
+aliases:
+  - /2007/09/14/strange-stats/
 ---
 
 Was just checking out our Google Analytics stats the other day and found a very interesting trend. Second to Singapore (of course), the highest number of incoming visitors to our <a href="http://opensource.nus.edu.sg">Opensource Wiki</a> are from.... USA!

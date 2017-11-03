@@ -1,11 +1,13 @@
 ---
 author: admin
 categories:
-- Events
+  - Events
 comments: true
-date: 2012-02-27T00:00:00Z
+date: 2012-02-27T00:00:00.000Z
 title: Hack&Roll '12 Wrapup
-url: /2012/02/27/hackroll-12-wrapup/
+url: /2012/02/hackroll-12-wrapup/
+aliases:
+  - /2012/02/27/hackroll-12-wrapup/
 ---
 
 {{< imglink src="/img/2012/02/e27-Hack-Roll-Winner.jpeg" alt="" >}}

@@ -1,12 +1,14 @@
 ---
 author: jmarki
 categories:
-- Events
-- News
+  - Events
+  - News
 comments: true
-date: 2007-01-13T00:00:00Z
+date: 2007-01-13T00:00:00.000Z
 title: Happy New Year!!!
-url: /2007/01/13/happy-new-year/
+url: /2007/01/happy-new-year/
+aliases:
+  - /2007/01/13/happy-new-year/
 ---
 
 It's the second week of the new NUS semester, so HAPPY NEW YEAR!!! The coreteam has planned several events this semester, most of which are still in a planning stage. Just to pique your interest, here's a sneak preview:

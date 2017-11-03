@@ -1,13 +1,15 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Chatter
-- Events
-- Featured
+  - Chatter
+  - Events
+  - Featured
 comments: true
-date: 2009-03-11T00:00:00Z
+date: 2009-03-11T00:00:00.000Z
 title: Live blogging at LXDE Talk Mar 09
-url: /2009/03/11/live-blogging-at-lxde-talk-mar-09/
+url: /2009/03/live-blogging-at-lxde-talk-mar-09/
+aliases:
+  - /2009/03/11/live-blogging-at-lxde-talk-mar-09/
 ---
 
 <div align="center">{{< imglink src="/img/2009/03/lxde_talk.jpg" alt="lxde_talk" >}}</div>

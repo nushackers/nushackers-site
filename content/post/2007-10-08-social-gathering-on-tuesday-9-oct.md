@@ -1,11 +1,13 @@
 ---
 author: jmarki
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2007-10-08T00:00:00Z
-title: Social Gathering on Tuesday, 9 Oct!
-url: /2007/10/08/social-gathering-on-tuesday-9-oct/
+date: 2007-10-08T00:00:00.000Z
+title: 'Social Gathering on Tuesday, 9 Oct!'
+url: /2007/10/social-gathering-on-tuesday-9-oct/
+aliases:
+  - /2007/10/08/social-gathering-on-tuesday-9-oct/
 ---
 
 Wee~

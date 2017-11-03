@@ -1,12 +1,15 @@
 ---
 author: ejames
 categories:
-- Events
+  - Events
 comments: true
-date: 2012-02-16T00:00:00Z
-title: Not Participating? You're Still Invited To Hack&Roll 2012 (Free Food, Free
+date: 2012-02-16T00:00:00.000Z
+title: >-
+  Not Participating? You're Still Invited To Hack&Roll 2012 (Free Food, Free
   Hacking!)
-url: /2012/02/16/an-open-invitation-to-hackroll-free-food-free-hacking/
+url: /2012/02/an-open-invitation-to-hackroll-free-food-free-hacking/
+aliases:
+  - /2012/02/16/an-open-invitation-to-hackroll-free-food-free-hacking/
 ---
 
 <img style="margin-left:-430px; border: 1px solid #ccc;" src="/imageshrbanner.gif" alt="Hack & Roll Banner" />

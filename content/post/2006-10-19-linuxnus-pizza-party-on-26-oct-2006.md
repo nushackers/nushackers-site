@@ -1,13 +1,15 @@
 ---
 author: rey
 categories:
-- Events
-- Featured
-- Meetings
+  - Events
+  - Featured
+  - Meetings
 comments: true
-date: 2006-10-19T00:00:00Z
+date: 2006-10-19T00:00:00.000Z
 title: linuxNUS Pizza Party on 26 Oct 2006
-url: /2006/10/19/linuxnus-pizza-party-on-26-oct-2006/
+url: /2006/10/linuxnus-pizza-party-on-26-oct-2006/
+aliases:
+  - /2006/10/19/linuxnus-pizza-party-on-26-oct-2006/
 ---
 
 Dear linuxNUS friends,

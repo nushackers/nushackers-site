@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- News
+  - News
 comments: true
-date: 2009-04-04T00:00:00Z
+date: 2009-04-04T00:00:00.000Z
 title: 'Cost savings with Linux: An NUS case study'
-url: /2009/04/04/cost-savings-with-linux-an-nus-case-study/
+url: /2009/04/cost-savings-with-linux-an-nus-case-study/
+aliases:
+  - /2009/04/04/cost-savings-with-linux-an-nus-case-study/
 ---
 
 Would you like to save SGD 100,000 in software licensing costs, reduce operational IT costs by about SGD 60,000 and cut your IT administration headcount by three?

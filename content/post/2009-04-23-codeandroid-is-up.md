@@ -1,11 +1,13 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- News
+  - News
 comments: true
-date: 2009-04-23T00:00:00Z
+date: 2009-04-23T00:00:00.000Z
 title: '#codeandroid is up'
-url: /2009/04/23/codeandroid-is-up/
+url: /2009/04/codeandroid-is-up/
+aliases:
+  - /2009/04/23/codeandroid-is-up/
 ---
 
 The <a href="http://www.codeandroid.org/">codeandroid</a> guys now have their very own IRC channel on Freenode. linuxNUS is pleased to be <a href="http://opensource.nus.edu.sg/ca_irc/logs/">hosting the logs for #codeandroid.</a>

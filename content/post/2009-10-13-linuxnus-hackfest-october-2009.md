@@ -1,12 +1,14 @@
 ---
 author: dqminh
 categories:
-- Events
-- Headline
+  - Events
+  - Headline
 comments: true
-date: 2009-10-13T00:00:00Z
+date: 2009-10-13T00:00:00.000Z
 title: linuxNUS HackFest October 2009
-url: /2009/10/13/linuxnus-hackfest-october-2009/
+url: /2009/10/linuxnus-hackfest-october-2009/
+aliases:
+  - /2009/10/13/linuxnus-hackfest-october-2009/
 ---
 
 Hi guys,

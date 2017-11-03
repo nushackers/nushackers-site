@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- News
+  - Events
+  - News
 comments: true
-date: 2007-05-23T00:00:00Z
+date: 2007-05-23T00:00:00.000Z
 title: IVLE now welcomes Firefox
-url: /2007/05/23/ivle-now-welcomes-firefox/
+url: /2007/05/ivle-now-welcomes-firefox/
+aliases:
+  - /2007/05/23/ivle-now-welcomes-firefox/
 ---
 
 <p align="center"><img id="image54" src="/img/2007/05/ff_box1.png" alt="ff_box1.png" />

@@ -1,12 +1,14 @@
 ---
 author: rey
 categories:
-- Events
-- News
+  - Events
+  - News
 comments: true
-date: 2006-12-18T00:00:00Z
+date: 2006-12-18T00:00:00.000Z
 title: Food Donation to Sharity Gift Box on 20 Dec 06
-url: /2006/12/18/food-donation-to-sharity-gift-box-on-20-dec-06/
+url: /2006/12/food-donation-to-sharity-gift-box-on-20-dec-06/
+aliases:
+  - /2006/12/18/food-donation-to-sharity-gift-box-on-20-dec-06/
 ---
 
 Hi everyone

@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
+  - Events
+  - External
 comments: true
-date: 2009-04-14T00:00:00Z
+date: 2009-04-14T00:00:00.000Z
 title: Python meetup Apr 09
-url: /2009/04/14/python-meetup-apr-09/
+url: /2009/04/python-meetup-apr-09/
+aliases:
+  - /2009/04/14/python-meetup-apr-09/
 ---
 
 Exam stress mounting? Come chill out at the 3rd Python Meetup.

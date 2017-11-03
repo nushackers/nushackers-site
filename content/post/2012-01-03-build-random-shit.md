@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Essay
+  - Essay
 comments: true
-date: 2012-01-03T00:00:00Z
-title: Build Random Shit For Fun, Experience, and Glory
-url: /2012/01/03/build-random-shit/
+date: 2012-01-03T00:00:00.000Z
+title: 'Build Random Shit For Fun, Experience, and Glory'
+url: /2012/01/build-random-shit/
+aliases:
+  - /2012/01/03/build-random-shit/
 ---
 
 A few days ago I realized a simple summary of what we do at NUS Hackers (if you subtract away all the marketing) is: get people to build random shit for fun, experience and glory.

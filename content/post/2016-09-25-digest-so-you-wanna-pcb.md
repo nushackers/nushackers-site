@@ -1,10 +1,12 @@
 ---
 author: 50m3 b01k3
 categories:
-- Digest
-date: 2016-09-25T00:00:00Z
+  - Digest
+date: 2016-09-25T00:00:00.000Z
 title: 'Digest: Do you wanna PCB?'
-url: /2016/09/25/digest-so-you-wanna-pcb/
+url: /2016/09/digest-so-you-wanna-pcb/
+aliases:
+  - /2016/09/25/digest-so-you-wanna-pcb/
 ---
 
 The [scHnRk](https://github.com/nushackers/scHnRk) and [Neander](https://github.com/jellyjellyrobot/neander) was born in the first half of this year.

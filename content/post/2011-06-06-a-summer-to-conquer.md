@@ -1,12 +1,14 @@
 ---
 author: angad
 categories:
-- Featured
-- Headline
+  - Featured
+  - Headline
 comments: true
-date: 2011-06-06T00:00:00Z
+date: 2011-06-06T00:00:00.000Z
 title: A summer to conquer
-url: /2011/06/06/a-summer-to-conquer/
+url: /2011/06/a-summer-to-conquer/
+aliases:
+  - /2011/06/06/a-summer-to-conquer/
 ---
 
 The NUSHackers Coreteam is working hard over the vacations to take over the world with every line of code. Each one of us is involved in some development or the other and we have some interesting stuff to talk about.

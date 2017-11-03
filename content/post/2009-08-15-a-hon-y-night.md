@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- Headline
+  - Events
+  - Headline
 comments: true
-date: 2009-08-15T00:00:00Z
+date: 2009-08-15T00:00:00.000Z
 title: A HoN-y Night
-url: /2009/08/15/a-hon-y-night/
+url: /2009/08/a-hon-y-night/
+aliases:
+  - /2009/08/15/a-hon-y-night/
 ---
 
 <img src="/img/2009/08/hon_logo.png" alt="hon_logo" title="hon_logo" width="336" height="300" class="aligncenter size-full wp-image-767" />

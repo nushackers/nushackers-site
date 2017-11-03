@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- Events
-- External
+  - Events
+  - External
 comments: true
-date: 2009-10-14T00:00:00Z
+date: 2009-10-14T00:00:00.000Z
 title: Singapore Python User Group Oct Meetup
-url: /2009/10/14/singapore-python-user-group-oct-meetup/
+url: /2009/10/singapore-python-user-group-oct-meetup/
+aliases:
+  - /2009/10/14/singapore-python-user-group-oct-meetup/
 ---
 
 Date: 15th October 2009 (Thursday)

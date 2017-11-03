@@ -1,11 +1,13 @@
 ---
 author: Ruiwen
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2008-04-18T00:00:00Z
+date: 2008-04-18T00:00:00.000Z
 title: '"Web tripwires" reveal 1.3% of web pages altered in transit'
-url: /2008/04/18/web-tripwires-reveal-13-of-web-pages-altered-in-transit/
+url: /2008/04/web-tripwires-reveal-13-of-web-pages-altered-in-transit/
+aliases:
+  - /2008/04/18/web-tripwires-reveal-13-of-web-pages-altered-in-transit/
 ---
 
 <blockquote>When you visit a web page, you might expect that the code and images from the page will make their journey through the tubes unmolested and unaltered, but according to security researchers, you would also be wrong 1.3 percent of the time.</blockquote>

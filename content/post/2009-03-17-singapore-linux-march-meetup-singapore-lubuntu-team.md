@@ -1,12 +1,14 @@
 ---
 author: Luther Goh Lu Feng
 categories:
-- External
-- Meetings
+  - External
+  - Meetings
 comments: true
-date: 2009-03-17T00:00:00Z
+date: 2009-03-17T00:00:00.000Z
 title: The Singapore Linux March Meetup + Singapore Lubuntu Team
-url: /2009/03/17/singapore-linux-march-meetup-singapore-lubuntu-team/
+url: /2009/03/singapore-linux-march-meetup-singapore-lubuntu-team/
+aliases:
+  - /2009/03/17/singapore-linux-march-meetup-singapore-lubuntu-team/
 ---
 
 <a href="http://www.meetup.com/sg-linux/calendar/9766755/">From SLMG</a>:

@@ -1,11 +1,13 @@
 ---
 author: jmarki
 categories:
-- Chatter
+  - Chatter
 comments: true
-date: 2006-09-26T00:00:00Z
+date: 2006-09-26T00:00:00.000Z
 title: Our room's gettin' popula'!!
-url: /2006/09/26/our-rooms-gettin-popula/
+url: /2006/09/our-rooms-gettin-popula/
+aliases:
+  - /2006/09/26/our-rooms-gettin-popula/
 ---
 
 Hmm, it seems that we have more and more people popping over to the society room (SOC1-03-19). There are days when I even lose my favourite seat! =p

@@ -1,12 +1,14 @@
 ---
 author: ejames
 categories:
-- Essay
-- Hack&amp;Roll
+  - Essay
+  - Hack&amp;Roll
 comments: true
-date: 2014-01-18T00:00:00Z
+date: 2014-01-18T00:00:00.000Z
 title: Tips for Attending a Hackathon as a Programming Newbie
-url: /2014/01/18/tips-for-attending-a-hackathon-as-a-programming-newbie/
+url: /2014/01/tips-for-attending-a-hackathon-as-a-programming-newbie/
+aliases:
+  - /2014/01/18/tips-for-attending-a-hackathon-as-a-programming-newbie/
 ---
 
 Our annual hackathon, Hack&amp;Roll, is coming up at the end of this week. If you're a freshman, or new to programming, you're probably wondering if you should join it. You barely know how to program, after all, much less build apps — why join a competition filled with people with way more experience than you?

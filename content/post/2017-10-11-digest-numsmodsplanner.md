@@ -1,10 +1,14 @@
 ---
 author: Raynold Ng and Bay Wei Heng
 categories:
-- Digest
-date: 2017-10-11T00:00:00Z
-title: 'Digest: How 2 inexperienced freshmen built an automated timetable generator over a summer'
-url: /2017/10/25/digest-nusmodsplanner/
+  - Digest
+date: 2017-10-11T00:00:00.000Z
+title: >-
+  Digest: How 2 inexperienced freshmen built an automated timetable generator
+  over a summer
+url: /2017/10/digest-nusmodsplanner/
+aliases:
+  - /2017/10/25/digest-nusmodsplanner/
 ---
 # Introduction
 

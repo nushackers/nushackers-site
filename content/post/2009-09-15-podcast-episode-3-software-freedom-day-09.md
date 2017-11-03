@@ -1,13 +1,15 @@
 ---
 author: Ruiwen
 categories:
-- Featured
-- Headline
-- Podcast
+  - Featured
+  - Headline
+  - Podcast
 comments: true
-date: 2009-09-15T00:00:00Z
+date: 2009-09-15T00:00:00.000Z
 title: '[Podcast] Episode 3: Software Freedom Day 09'
-url: /2009/09/15/podcast-episode-3-software-freedom-day-09/
+url: /2009/09/podcast-episode-3-software-freedom-day-09/
+aliases:
+  - /2009/09/15/podcast-episode-3-software-freedom-day-09/
 ---
 
 <img src="/img/2009/09/sfdLogo.png" alt="Software Freedom Day" title="SFD" width="300" height="176" class="size-medium wp-image-876" />

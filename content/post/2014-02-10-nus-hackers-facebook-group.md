@@ -1,11 +1,13 @@
 ---
 author: michael
 categories:
-- Uncategorized
+  - Uncategorized
 comments: true
-date: 2014-02-10T00:00:00Z
+date: 2014-02-10T00:00:00.000Z
 title: NUS Hackers Facebook Group!
-url: /2014/02/10/nus-hackers-facebook-group/
+url: /2014/02/nus-hackers-facebook-group/
+aliases:
+  - /2014/02/10/nus-hackers-facebook-group/
 ---
 
 We've just started a new NUS Hackers Facebook Group!

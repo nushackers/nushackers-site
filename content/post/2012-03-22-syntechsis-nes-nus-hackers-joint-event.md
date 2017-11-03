@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- Events
+  - Events
 comments: true
-date: 2012-03-22T00:00:00Z
-title: synTECHsis - NES, NUS Hackers Joint Event
-url: /2012/03/22/syntechsis-nes-nus-hackers-joint-event/
+date: 2012-03-22T00:00:00.000Z
+title: 'synTECHsis - NES, NUS Hackers Joint Event'
+url: /2012/03/syntechsis-nes-nus-hackers-joint-event/
+aliases:
+  - /2012/03/22/syntechsis-nes-nus-hackers-joint-event/
 ---
 
 Hi everyone!

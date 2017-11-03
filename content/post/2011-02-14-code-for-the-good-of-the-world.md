@@ -1,11 +1,13 @@
 ---
 author: ejames
 categories:
-- News
+  - News
 comments: true
-date: 2011-02-14T00:00:00Z
+date: 2011-02-14T00:00:00.000Z
 title: Code for the Good of The World
-url: /2011/02/14/code-for-the-good-of-the-world/
+url: /2011/02/code-for-the-good-of-the-world/
+aliases:
+  - /2011/02/14/code-for-the-good-of-the-world/
 ---
 
 It was a late Thursday night when we got the email from Laurence:
