@@ -75,7 +75,7 @@ Programming for personal projects makes you a better programmer, <s>helps you sc
 
 It's not hard to start hacking - pick a problem you've always had, and think about how you might solve it with code. Alternatively, pick a cool new technology you want to learn, and find a way to use <em>that</em> to solve your burning problem.
 
-{{< imglink src="/imageshrbanner.gif" alt="Hack & Roll Banner" >}}
+{{< imglink src="/img/hrbanner.gif" alt="Hack & Roll Banner" >}}
 
 If you'd like to get a head-start, come join us at our <strong>Hack & Roll Hackathon</strong>, on the 19-20th February. <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDRZeUhUQXJybHdsa1oySEpxYVRUdWc6MQ">Sign up here</a>, or read more about the event at this <a href="/hack-and-roll/">link</a>. We're trying to get more SoC students to hack on stuff, so if you'd like to learn how to start doing so, in the company of your peers, come join us. It's only $10 per person, and even then for food.
 
