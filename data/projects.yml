@@ -5,13 +5,13 @@ projects:
     logo: static/img/friday-hacks-logo.svg
   - name: hackerschool
     description: Hacking workshops for everyone
-    url: //school.nushackers.org
+    url: http://school.nushackers.org
     logo: static/img/hacker-school-logo.svg
-  - name: Code@NUS
-    description: Code repository for NUS students
-    url: //code.nushackers.org
+  - name: OSS@nushackers
+    description: Code repository for NUS Hackers
+    url: //github.com/nushackers
     logo: static/img/code-logo.svg
   - name: Hack&Roll
     description: 24-hour hackathon for students
-    url: //hacknroll.nushackers.org
+    url: http://hacknroll.nushackers.org
     logo: static/img/hack-and-roll-logo.svg
