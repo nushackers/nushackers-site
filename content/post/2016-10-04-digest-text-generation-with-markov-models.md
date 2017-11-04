@@ -21,7 +21,7 @@ A Markov Model is used for such processes, to find the probabilities of being in
 
 An example of a Markov Chain from Wikipedia:
 
-![Picture of a Markov Chain from Wikipedia](/img/markov-chain.png)
+![Picture of a Markov Chain from Wikipedia](/img/2016/10/markov-chain.png)
 
 ### Text Generation
 
@@ -47,7 +47,7 @@ In this manner, we can construct the model by finding the probabilities of singl
 
 A Diagrammatic Illustration of Text Generation:
 
-![Picture of markov model text generation](/img/markov-text.png)
+![Picture of markov model text generation](/img/2016/10/markov-text.png)
 
 You may wonder why such a simple idea like this could give rise to meaningful results. In practice, a lot of it has to do with the value of k. If k is a small value, then the generated text is often one filled with gibberish. On the other hand, if k is too large, the generated text will end up sounding a lot more like the input text. It’s also worth noting that the quality of the text generated depends on the input itself, i.e. you’re more likely to get a better play as your output if the input is a Shakesperean text, than if it is a poltician's speech.
 

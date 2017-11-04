@@ -163,7 +163,7 @@ It describes what to do when a single argument is passed to the Date constructor
 
 The first step is to convert the input to a primitive value using `ToPrimitive`, which behavior is detailed in section [9.1](http://es5.github.io/#x9.1) of the same spec.
 
-![Section 9.1 of ES5 Spec - ToPrimitive Conversions](/img/es5-9-1-toprimitive-conversions.png)
+![Section 9.1 of ES5 Spec - ToPrimitive Conversions](/img/2017/01/es5-9-1-toprimitive-conversions.png)
 
 Of the 6 types mentioned above, only `Object` is not a primitive value. So it needs be converted.
 
