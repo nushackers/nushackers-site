@@ -12,7 +12,7 @@ aliases:
   - /2012/02/16/an-open-invitation-to-hackroll-free-food-free-hacking/
 ---
 
-<img style="margin-left:-430px; border: 1px solid #ccc;" src="/imageshrbanner.gif" alt="Hack & Roll Banner" />
+![Hack & Roll Banner](/img/2012/02/hrbanner.gif)
 
 Hi everyone!
 

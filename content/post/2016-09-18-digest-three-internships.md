@@ -13,7 +13,7 @@ From Oct 2015 to Aug 2016, I had the good fortune of interning at 3 respectable 
 
 In this post I wish to share my experiences at the 3 different places.
 
-![New York]({{ site.url }}/images/google-nyc.jpg)
+![New York](/img/2016/09/google-nyc.jpg)
 
 ## Interview process
 

@@ -9,7 +9,7 @@ This website is built with hugo, so if you want to make changes to the templates
 
 ## Getting started
 
-It's recommended that you test the site locally before doing any push. To do so, first install [hugo v0.24]("https://github.com/gohugoio/hugo/releases") and [node lts](https://nodejs.org/en/).
+It's recommended that you test the site locally before doing any push. To do so, first install [hugo v0.30.2]("https://github.com/gohugoio/hugo/releases") and [node lts](https://nodejs.org/en/).
 
 Then enter this folder and run
 

@@ -120,7 +120,7 @@ head and tail nodes. A span is then created, which represents the
 entirety of the file buffer contents. This span is appended to the
 linked list.
 
-![img](/images/piecetable/start.png)
+![img](/img/piecetable/start.png)
 
 ## Removing text
 
@@ -136,7 +136,7 @@ represent, respectively:
 In general, the delete operation increases the number of spans in the
 piece table by 1.
 
-![img](/images/piecetable/remove.png)
+![img](/img/piecetable/remove.png)
 
 ## Insert text
 
@@ -151,7 +151,7 @@ the add buffer. Next, the span is split into 3:
 3.  The third span represents the items of the old span after the
     insert ("")
 
-![img](/images/piecetable/insert.png)
+![img](/img/piecetable/insert.png)
 
 ## Advantages
 

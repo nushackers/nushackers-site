@@ -14,7 +14,7 @@ aliases:
 
 <span style="font-family: 'Times New Roman'; font-size: 16px; line-height: normal;"> </span>
 <div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: #ffffff; font: normal normal normal 13px/19px Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; background-position: initial initial; padding: 0.6em; margin: 0px;">
-<p style="text-align: center;"><img class="aligncenter" src="http://www.codeandroid.org/wp-content/themes/arthemia/images/logo.png" alt="" width="300" height="90" /></p>
+<p style="text-align: center;"><img class="aligncenter" src="http://www.codeandroid.org/wp-content/themes/arthemia/img/logo.png" alt="" width="300" height="90" /></p>
 
 <span style="font-family: 'lucida grande'; font-size: 11px; line-height: normal; color: #333333;">Hello everyone!
 </span>

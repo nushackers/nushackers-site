@@ -4,6 +4,9 @@ title = "NUSHackers"
 copyright = "NUS Hackers"
 disqusShortname = "nushackers"
 enableEmoji = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "emacs"
 ignoreFiles = ["\\.scss$"]
 
 [permalinks]
