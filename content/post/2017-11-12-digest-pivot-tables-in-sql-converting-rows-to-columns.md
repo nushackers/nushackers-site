@@ -13,8 +13,8 @@ aliases:
 ---
 
 A few weeks ago I gave a talk at NUS Hackers's Friday Hacks on some advanced
-tips in using SQL. (It was my first technical talk, btw!) Here, I will give one
-of those tips in more detail.
+tips in using SQL. (It was my first technical talk, btw!) Here, I will elaborate
+upon one of those tips in more detail.
 
 # Background
 
@@ -32,7 +32,7 @@ Submissions:
 - problem_id: foreign key to problems
 - score: integer
 
-(There are some sample SQL data that can be found
+(There is some sample SQL data that can be found
 [here](https://github.com/donjar/sql-wizardry). The file `dump.sql` is of your
 interest; check out the `contest_scores` table. The file
 `contest_pivot_table.sql` is the solution to the problem below. This repo was
@@ -94,9 +94,9 @@ Notice that this involves converting rows of the table into columns: in this
 case, the `problem_id` needs to be "split" into `problem_1`, `problem_2`, and
 `problem_3`.
 
-You can't do this in a normal SQL SELECT statement! Normally, when you select
+You can't do this with a normal SQL SELECT statement! Normally, when you select
 columns, you can only select based on operations on the existing columns. There
-are no operations that allow you to convert rows into columns like this way.
+are no operations that allow you to convert rows into columns in this way.
 
 You can work around this with table joins though, for example:
 ```sql
@@ -136,8 +136,8 @@ ON problem_1_table.user_id = problem_3_table.user_id
 ```
 
 Basically, `problem_1_table` is a table that contains the (`user_id`, `score`)
-pair for submissions with `problem_id = 1`, and so on. Afterwards, we join them
-on the `user_id` to produce the table we want.
+pair for submissions with `problem_id = 1`, and so on. Afterwards, we join with
+them on the `user_id` to produce the table we want.
 
 In fact, this was our original approach to the problem! The website was built
 with Ruby on Rails, and we used a loop in Ruby to loop through all problems and
@@ -210,7 +210,7 @@ Enter pivot tables.
 
 # Pivot Tables
 
-You might heard pivot tables from Microsoft Excel. To quote Wikipedia:
+You might heard about pivot tables from Microsoft Excel. To quote Wikipedia:
 
 > A pivot table is a table that summarizes data in another table, and is made
 > by applying an operation such as sorting, averaging, or summing to data in
@@ -221,9 +221,9 @@ The "grouping of the data" is of interest here.
 ## Caveat
 
 Pivot tables have different implementations across different databases. I am
-only going to discuss how to do it on PostgreSQL, as that is the database I am
+only going to discuss how to do it in PostgreSQL, as that is the database I am
 using in my application. You should be able to find implementations for other
-databases by searching, for example, "pivot tables MySQL".
+databases by searching for something like "pivot tables MySQL".
 
 ## Crosstab
 
@@ -258,7 +258,7 @@ separate.
 
 An example will make these concepts clearer. Going to the example we discussed
 previously, we notice that the key is the `user_id` - basically, this is the
-column we want to be at the first column. The category is `problem_id`, since
+column we want as our first column. The category is `problem_id`, since
 this is what we want the next columns of the resulting pivot table to be. And
 finally, the values to be filled in inside the resulting table would be `score`.
 It is normal to use an `ORDER BY key` as well here, so that the resulting pivot
@@ -267,7 +267,7 @@ table is not jumbled. Combining all of them, we have this `source_sql` query:
 SELECT user_id, problem_id, score FROM submissions ORDER BY user_id
 ```
 
-For the category, we know that the problem IDs we want is 1, 2, 3, and hence,
+For the category, we know that the problem IDs we want are 1, 2, and 3. Hence,
 the corresponding `category_sql` is:
 ```sql
 SELECT 1, 2, 3
@@ -321,7 +321,7 @@ not work (as I assume Rails doesn't know where to put the `COUNT` query).
 
 With two queries running, performance might also be a problem. From my
 observations, the SQL joins query takes around 70 ms, while these two queries
-take around 50 ms in total; however, this does not account network overheads
+take around 50 ms in total; however, this does not account for network overheads
 etc. A more systematic benchmarking is needed to confirm if this solution is
 indeed faster than the joining solution.
 
