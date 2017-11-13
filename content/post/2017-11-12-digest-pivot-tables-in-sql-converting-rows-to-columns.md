@@ -210,7 +210,8 @@ Enter pivot tables.
 
 # Pivot Tables
 
-You might heard about pivot tables from Microsoft Excel. To quote Wikipedia:
+You might have heard about pivot tables from Microsoft Excel. To quote
+Wikipedia:
 
 > A pivot table is a table that summarizes data in another table, and is made
 > by applying an operation such as sorting, averaging, or summing to data in
