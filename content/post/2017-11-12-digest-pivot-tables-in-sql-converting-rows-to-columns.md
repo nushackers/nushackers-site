@@ -12,6 +12,8 @@ aliases:
   - /2017/11/12/digest-pivot-tables-in-sql-converting-rows-to-columns
 ---
 
+(This post is cross-posted from http://herbert.id/2017/11/pivot-tables-in-sql/.)
+
 A few weeks ago I gave a talk at NUS Hackers's Friday Hacks on some advanced
 tips in using SQL. (It was my first technical talk, btw!) Here, I will elaborate
 upon one of those tips in more detail.
@@ -326,7 +328,7 @@ take around 50 ms in total; however, this does not account for network overheads
 etc. A more systematic benchmarking is needed to confirm if this solution is
 indeed faster than the joining solution.
 
-## Conclusion
+# Conclusion
 
 If you need to somehow convert rows into columns, and vice versa, to do
 grouping/aggregation, pivot tables might be for you. While several problems
