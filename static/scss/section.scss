@@ -8,6 +8,12 @@
   img {
     width: 100%;
   }
+
+  blockquote > p {
+    padding: 0.7rem 1rem;
+    font-size: 0.95rem;
+    border-left: 3px solid $hackers-orange;
+  }
 }
 
 .aside {
