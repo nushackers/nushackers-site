@@ -1,9 +1,16 @@
 {{ define "main" }}
 <main class="row front-page main">
   <section class="section col-12 hero">
-    <h1 class="hero-title">
+    <!--h1 class="hero-title">
       Spreading the <a href="https://www.nushackers.org/hackerdefined/" class="hero-hacker">hacker</a> culture
-    </h1>
+    </h1-->
+    <div class="row justify-content-center">
+    <a class="hacknroll col-12 col-md-6 offset-md-3" href="https://hacknroll.nushackers.org/2018/site/">
+      <span>Sign up for</span>
+      <img alt="hacknroll" src="img/2017/12/logo.png"/>
+      27-28 Jan 2018
+    </a>
+    </div>
     <ul class="list row justify-content-around">
       {{ range $event := $.Site.Data.projects.projects }}
         <li class="col hero-item">
