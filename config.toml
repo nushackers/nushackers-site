@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "NUSHackers"
 copyright = "NUS Hackers"
+buildFuture = true
 disqusShortname = "nushackers"
 enableEmoji = true
 pygmentsCodeFences = true
