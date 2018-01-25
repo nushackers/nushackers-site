@@ -19,21 +19,24 @@ hacks:
         title:
   - venue: "TBC"
     topics:
-      - speaker: "TBC"
-        from:
+      - speaker: "Choo Jia Hui"
+        title:
+      - speaker: 
+        from: "Circles.Life"
         title:
   - nohack: "Lunar New Year"
-  - venue: "TBC"
+  - venue: "The HANGAR by NUS Enterprise"
     topics:
       - speaker: "Parth Pokar"
         from: "Maltem Consulting Group"
         title: "A Gentle Introduction to Blockchain"
   - nohack: "Recess Week"
-#  - venue:
-#    topics:
-#      - speaker:
-#        from:
-#        title:
+  - venue: "TBC"
+    topics:
+      - speaker: "Johannes Choo"
+        from: "NUS Hackers"
+        title: "Introduction to Kubernetes"
+      - speaker:
 #  - venue:
 #    topics:
 #      - speaker:
