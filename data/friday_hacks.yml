@@ -2,10 +2,65 @@ start_date: 2018-01-19 18:00:00 +0800
 hacks:
   - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
     topics:
-      - speaker: Herbert Ilhan Tanujaya
-        from: NUS Hackers
+      - speaker: "Herbert Ilhan Tanujaya"
+        from: "NUS Hackers"
         title: "Editor War: Vim"
-      - speaker: Jethro Kuan
-        from: NUS Hackers
+      - speaker: "Jethro Kuan"
+        from: "NUS Hackers"
         title: "Editor War: Emacs"
   - nohack: "Hack & Roll 2018"
+  - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
+    topics:
+      - speaker: "Bunnie Huang and Dr Jie Qi"
+        from: "Chibitronics"
+        title: "Paper Electronic"
+      - speaker: "Prof Tay Yong Chiang"
+        from: "NUS School of Computing"
+        title: "Three Projects"
+  - venue: "TBC"
+    topics:
+      - speaker: "Choo Jia Hui"
+        title: "Using Recurrent Neural Networks in Anomaly Detection of Failures in UAV"
+  - nohack: "Lunar New Year"
+  - venue: "TBC"
+    topics:
+      - speaker: "Parth Pokar"
+        from: "Maltem Consulting Group"
+        title: "A Gentle Introduction to Blockchain"
+  - nohack: "Recess Week"
+#  - venue:
+#    topics:
+#      - speaker:
+#        from:
+#        title:
+#  - venue:
+#    topics:
+#      - speaker:
+#        from:
+#        title:
+#  - venue:
+#    topics:
+#      - speaker:
+#        from:
+#        title:
+#  - venue:
+#    topics:
+#      - speaker:
+#        from:
+#        title:
+#  - venue:
+#    topics:
+#      - speaker:
+#        from:
+#        title:
+#  - venue:
+#    topics:
+#      - speaker:
+#        from:
+#        title:
+#  - venue:
+#    topics:
+#      - speaker:
+#        from:
+#        title:
+#
