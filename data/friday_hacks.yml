@@ -9,34 +9,31 @@ hacks:
         from: "NUS Hackers"
         title: "Editor War: Emacs"
   - nohack: "Hack & Roll 2018"
-  - venue: "TBC"
+  - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
     topics:
-      - speaker: "Prof Tay Yong Chiang"
-        from: "NUS School of Computing"
-        title:
-      - speaker: "Bunnie Huang and Dr Jie Qi"
+     - speaker: "Bunnie Huang and Dr Jie Qi"
         from: "Chibitronics"
-        title:
+        title: "Paper Electronic"
+     - speaker: "Prof Tay Yong Chiang"
+       from: "NUS School of Computing"
+       title: "Three Projects"
   - venue: "TBC"
     topics:
-      - speaker: "Choo Jia Hui"
-        title:
-      - speaker: 
-        from: "Circles.Life"
+      - speaker: Choo Jia Hui 
+        from:
         title:
   - nohack: "Lunar New Year"
-  - venue: "The HANGAR by NUS Enterprise"
+  - venue: "TBC"
     topics:
       - speaker: "Parth Pokar"
         from: "Maltem Consulting Group"
         title: "A Gentle Introduction to Blockchain"
   - nohack: "Recess Week"
-  - venue: "TBC"
-    topics:
-      - speaker: "Johannes Choo"
-        from: "NUS Hackers"
-        title: "Introduction to Kubernetes"
-      - speaker:
+#  - venue:
+#    topics:
+#      - speaker:
+#        from:
+#        title:
 #  - venue:
 #    topics:
 #      - speaker:
