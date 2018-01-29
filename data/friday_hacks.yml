@@ -20,7 +20,7 @@ hacks:
   - venue: "TBC"
     topics:
       - speaker: "Choo Jia Hui"
-        from:
+
         title: "Using Recurrent Neural Networks in Anomaly Detection of Failures in UAV"
   - nohack: "Lunar New Year"
   - venue: "TBC"
