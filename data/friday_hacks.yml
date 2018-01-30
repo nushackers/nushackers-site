@@ -13,14 +13,16 @@ hacks:
     topics:
       - speaker: "Bunnie Huang and Dr Jie Qi"
         from: "Chibitronics"
-        title: "Paper Electronic"
+        title: "Paper Electronic: Better for Electrons, Better for Expression"
       - speaker: "Prof Tay Yong Chiang"
         from: "NUS School of Computing"
-        title: "Three Projects"
+        title: "3 Projects on Computer System Performance"
   - venue: "TBC"
     topics:
       - speaker: "Choo Jia Hui"
         title: "Using Recurrent Neural Networks in Anomaly Detection of Failures in UAV"
+      - speaker:
+        from: "Circles.Life"
   - nohack: "Lunar New Year"
   - venue: "TBC"
     topics:
