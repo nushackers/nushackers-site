@@ -18,30 +18,6 @@ $font-small: 0.9rem;
     @extend .clear-list;
   }
 
-  /* to remove when hacknroll admission period is over */
-  .hacknroll {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 1rem;
-    font-size: 1.2rem;
-    text-align: center;
-    color: #1d62f0;
-    animation-duration: 1s;
-    animation-timing-function: $standard-curve;
-    animation-name: bounceIn;
-
-    > img {
-      max-width: 20em;
-    }
-
-    > span {
-      font-weight: bold;
-      font-size: 1.75rem;
-      color: $gray-900;
-    }
-  }
-
   .section {
     .section-header {
       display: flex;
