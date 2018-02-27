@@ -34,17 +34,18 @@ hacks:
   - nohack: "Recess Week"
   - venue: "TBC"
     topics:
-      - speaker: "Johannes Choo"
-        from: "NUS Hackers"
-        title: "Introduction to Kubernetes"
       - speaker: "Joaquin Keller"
         from: "Entrepreneur First"
         title: "Reality Hybridation: from Biology to Digits"
-#  - venue:
-#    topics:
-#      - speaker:
-#        from:
-#        title:
+      - speaker: "Johannes Choo"
+        from: "NUS Hackers"
+        title: "Introduction to Kubernetes"
+  - venue: "TBC"
+    topics:
+      - speaker: "Omer"
+        title: "WebRTC"
+      - speaker: "Joseph Fitzsimons"
+        from: "Centre for Quantum Technologies"
 #  - venue:
 #    topics:
 #      - speaker:
