@@ -39,7 +39,7 @@ hacks:
         title: "Reality Hybridation: from Biology to Digits"
       - speaker: "Johannes Choo"
         from: "NUS Hackers"
-        title: "Introduction to Kubernetes"
+        title: "Hello Kube"
   - venue: "TBC"
     topics:
       - speaker: "Omer"
