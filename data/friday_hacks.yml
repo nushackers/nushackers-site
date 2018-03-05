@@ -32,19 +32,20 @@ hacks:
         from: "Maltem Consulting Group"
         title: "A Gentle Introduction to Blockchain"
   - nohack: "Recess Week"
-  - venue: "TBC"
+  - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
     topics:
-      - speaker: "Johannes Choo"
-        from: "NUS Hackers"
-        title: "Introduction to Kubernetes"
       - speaker: "Joaquin Keller"
         from: "Entrepreneur First"
         title: "Reality Hybridation: from Biology to Digits"
-#  - venue:
-#    topics:
-#      - speaker:
-#        from:
-#        title:
+      - speaker: "Johannes Choo"
+        from: "NUS Hackers"
+        title: "Hello Kube"
+  - venue: "TBC"
+    topics:
+      - speaker: "Omer"
+        title: "WebRTC"
+      - speaker: "Joseph Fitzsimons"
+        from: "Centre for Quantum Technologies"
 #  - venue:
 #    topics:
 #      - speaker:
