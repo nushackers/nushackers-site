@@ -48,11 +48,11 @@ hacks:
       - speaker: "Joseph Fitzsimons"
         from: "Centre for Quantum Technologies"
         title: "A Short Chat with Joseph Fitzsimons"
-#  - venue:
-#    topics:
-#      - speaker:
-#        from:
-#        title:
+  - venue: "The Hangar by NUS Enterprise"
+    topics:
+      - speaker: "Jean-Baptiste Kempf"
+        from: "VideoLAN Organization (VLC Media Player)"
+        title: "VLC, VideoLAN: an original open-source community"
 #  - venue:
 #    topics:
 #      - speaker:
