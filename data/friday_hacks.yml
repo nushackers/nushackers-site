@@ -40,12 +40,14 @@ hacks:
       - speaker: "Johannes Choo"
         from: "NUS Hackers"
         title: "Hello Kube"
-  - venue: "TBC"
+  - venue: "Seminar Room 1, Town Plaza, University Town (UT22-02-04A)"
     topics:
       - speaker: "Omer"
-        title: "WebRTC"
+        from: "Sea Group"
+        title: "Intro to WebRTC"
       - speaker: "Joseph Fitzsimons"
         from: "Centre for Quantum Technologies"
+        title: "A Short Chat with Joseph Fitzsimons"
 #  - venue:
 #    topics:
 #      - speaker:
