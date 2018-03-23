@@ -53,16 +53,12 @@ hacks:
       - speaker: "Jean-Baptiste Kempf"
         from: "VideoLAN Organization (VLC Media Player)"
         title: "VLC, VideoLAN: an original open-source community"
-#  - venue:
-#    topics:
-#      - speaker:
-#        from:
-#        title:
-#  - venue:
-#    topics:
-#      - speaker:
-#        from:
-#        title:
+  - nohack: "Good Friday"
+  - venue: "TBC"
+    topics:
+      - speaker: "Jia Qing"
+        from: "Nurture.AI"
+        title: "Recommender System for AI Research Papers on Nurture.AI platform"
 #  - venue:
 #    topics:
 #      - speaker:
