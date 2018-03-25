@@ -2,6 +2,8 @@
 # To generate some other FH pass in a number as argument
 # e.g python gen_fh.py 1 generates next week's
 # e.g python gen_fh.py 3 generates next next next week's
+# As for numbering, it will take the next number
+# (e.g. if the previous post is FH #1000, the generated one will be FH #1001)
 # Please first update data/friday_hacks.yml before running this
 import yaml
 from datetime import datetime, timedelta
@@ -58,9 +60,10 @@ with open('../data/friday_hacks.yml', 'r') as fin:
 
     num += 1
 
+    # In case you want to skip FH numbers BUT WHYYY!?!?
     # What is abstraction?
-    if len(argv) > 1:
-        num += int(argv[1])
+    # if len(argv) > 1:
+    #     num += int(argv[1])
 
     print "Creating FH post for #" + str(num) + ", at " + str(date)
     # In case you want a different name, BUT WHYYY!?!?
