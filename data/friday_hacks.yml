@@ -54,19 +54,20 @@ hacks:
         from: "VideoLAN Organization (VLC Media Player)"
         title: "VLC, VideoLAN: an original open-source community"
   - nohack: "Good Friday"
+  - venue: "The Hangar by NUS Enterprise"
+    topics:
+      - speaker: "NUS Hackers Coreteam"
+        title: "Chit-chat with Coreteam"
   - venue: "TBC"
     topics:
-      - speaker: "Jia Qing"
+      - speaker: "Yap Jia Qing"
         from: "Nurture.AI"
         title: "Recommender System for AI Research Papers on Nurture.AI platform"
+      - speaker: ""
+        from: "Shopee"
+        title: ""
 #  - venue:
 #    topics:
 #      - speaker:
 #        from:
 #        title:
-#  - venue:
-#    topics:
-#      - speaker:
-#        from:
-#        title:
-#
