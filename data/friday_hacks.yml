@@ -57,10 +57,10 @@ hacks:
   - venue: "The Hangar by NUS Enterprise"
     topics:
       - speaker: "NUS Hackers Coreteam"
-        title: "Chit-chat"
+        title: "Chit-chat with Coreteam"
   - venue: "TBC"
     topics:
-      - speaker: "Jia Qing"
+      - speaker: "Yap Jia Qing"
         from: "Nurture.AI"
         title: "Recommender System for AI Research Papers on Nurture.AI platform"
       - speaker: ""
