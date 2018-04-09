@@ -58,14 +58,14 @@ hacks:
     topics:
       - speaker: "NUS Hackers Coreteam"
         title: "Chit-chat with Coreteam"
-  - venue: "TBC"
+  - venue: "Seminar Room 1, Town Plaza, University Town (UT22-02-04A)"
     topics:
-      - speaker: "Yap Jia Qing"
+      - speaker: "Jia Qing and Il Shan"
         from: "Nurture.AI"
-        title: "Recommender System for AI Research Papers on Nurture.AI platform"
-      - speaker: ""
+        title: "A Deep Learning-based Recommender System for AI Papers"
+      - speaker: "Zhenwei"
         from: "Shopee"
-        title: ""
+        title: "Towards Flexible Granularity Intention Recognition"
 #  - venue:
 #    topics:
 #      - speaker:
