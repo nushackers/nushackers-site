@@ -14,3 +14,7 @@
 <link rel="dns-prefetch" href="{{ $event.url }}"/>
 {{ end }}
 {{ end }}
+
+{{ range .AlternativeOutputFormats -}}
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{ $.Site.Title }}">
+{{ end -}}
