@@ -2,12 +2,13 @@
   <div class="banner col-12 col-sm-4" role="banner">
     <h1 class="banner-text"><a href="/" title="NUS Hackers" rel="home" class="banner-link">NUS Hackers</a></h1>
   </div>
-  <nav class="nav col-12 col-sm-8 col-lg-6">
+  <nav class="nav col-12 col-sm-10 col-lg-8">
     <ul class="nav-menu">
       {{ $currentURL := .URL }}
       {{ range .Site.Menus.main }}
       <li class="nav-menu-item{{ if in $currentURL .URL}} nav-menu-active{{ end }}"><a class="nav-menu-link" href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
+      <li class="nav-menu-item"><a class="nav-menu-link" href="/index.xml">RSS</a></li>
     </ul>
   </nav>
 </header>
