@@ -1,0 +1,74 @@
+start_date: 2017-08-25 18:00:00 +0800
+hacks:
+  - venue: "Seminar Room 1, NUS School of Computing (COM1-0206)"
+    topics:
+      - speaker: Advay Pal
+        from: NUS Hackers
+        title: Welcome Tea
+  - nohack: Hari Raya Haji
+  - venue: "The HANGAR by NUS Enterprise"
+    topics:
+      - speaker: Yonah
+        title: Open Source Aircraft Autopilots in Practice
+      - speaker: Michael Cho and Patrick Cho
+        title: Auto Valuation of Residential Homes in Singapore
+      - speaker: lAyeR Team
+        title: "lAyeR: augmented reality on iOS before ARKit"
+  - venue: "Seminar Room 1, NUS School of Computing (COM1-0206)"
+    topics:
+      - speaker: NUS Hackers Coreteam
+        title: Internships, and How to Get Them
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: Dmitry Martyanov
+        from: Paypal
+        title: Functional Programming
+      - speaker: Herbert Ilhan Tanujaya
+        from: NUS Hackers
+        title: SQL Queries Wizardry
+  - nohack: Recess Week
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: Hongyi
+        from: GovTech
+        title: Digital Parking App
+      - speaker: Mohammad
+        from: TradeGecko
+        title: Asynchronous Processing
+  - venue: "The HANGAR by NUS Enterprise"
+    topics:
+      - speaker: Peter Hoeg
+        title: Functional Systems in a Non-functional World
+      - speaker: Hancong
+        from: Visa
+        title: Getting to Know Containers and Docker
+  - venue: "The HANGAR by NUS Enterprise"
+    topics:
+      - speaker: Feng Yuan
+        from: Govtech
+        title: Data Science for the Public Good
+      - speaker: Mattheus
+        title: C++ Template Metaprogramming
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: Wilbert, Khue, and Wenhao
+        from: NUSGem
+        title: Making Engineering of Customised Kill Switches Easier
+      - speaker: Vaibhav Sagar
+        from: Zalora
+        title: I Haskell A Git
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: E-Liang Tan
+        title: Building Jarvis
+      - speaker: Angad Singh
+        from: Twitter
+        title: Data Engineering at Twitter
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: NUS Hackers Coreteam
+        title: Contributing to Open Source Projects
+  - venue: "SR3, Town Plaza, University Town, NUS"
+    topics:
+      - speaker: NUS Hackers Coreteam
+        title: Code Golf

@@ -1,74 +1,73 @@
-start_date: 2017-08-25 18:00:00 +0800
+start_date: 2018-01-19 18:00:00 +0800
 hacks:
-  - venue: "Seminar Room 1, NUS School of Computing (COM1-0206)"
+  - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
     topics:
-      - speaker: Advay Pal
-        from: NUS Hackers
-        title: Welcome Tea
-  - nohack: Hari Raya Haji
-  - venue: "The HANGAR by NUS Enterprise"
+      - speaker: "Herbert Ilhan Tanujaya"
+        from: "NUS Hackers"
+        title: "Editor War: Vim"
+      - speaker: "Jethro Kuan"
+        from: "NUS Hackers"
+        title: "Editor War: Emacs"
+  - nohack: "Hack & Roll 2018"
+  - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
     topics:
-      - speaker: Yonah
-        title: Open Source Aircraft Autopilots in Practice
-      - speaker: Michael Cho and Patrick Cho
-        title: Auto Valuation of Residential Homes in Singapore
-      - speaker: lAyeR Team
-        title: "lAyeR: augmented reality on iOS before ARKit"
-  - venue: "Seminar Room 1, NUS School of Computing (COM1-0206)"
+      - speaker: "Bunnie Huang and Dr Jie Qi"
+        from: "Chibitronics"
+        title: "Paper Electronic: Better for Electrons, Better for Expression"
+      - speaker: "Prof Tay Yong Chiang"
+        from: "NUS School of Computing"
+        title: "3 Projects on Computer System Performance"
+  - venue: "Seminar Room 1, Town Plaza, University Town (UT22-02-04A)"
     topics:
-      - speaker: NUS Hackers Coreteam
-        title: Internships, and How to Get Them
-  - venue: "SR3, Town Plaza, University Town, NUS"
+      - speaker: "Arun Sivakumar and Xyriz Tan"
+        from: "Circles.Life"
+        title: "Mobile Chatbots"
+      - speaker: "Lu Jia Hui"
+        from: "SAF"
+        title: "Using Recurrent Neural Networks in Anomaly Detection of Failures in UAV"
+  - nohack: "Lunar New Year"
+  - venue: "The Hangar by NUS Enterprise"
     topics:
-      - speaker: Dmitry Martyanov
-        from: Paypal
-        title: Functional Programming
-      - speaker: Herbert Ilhan Tanujaya
-        from: NUS Hackers
-        title: SQL Queries Wizardry
-  - nohack: Recess Week
-  - venue: "SR3, Town Plaza, University Town, NUS"
+      - speaker: "Parth Pokar"
+        from: "Maltem Consulting Group"
+        title: "A Gentle Introduction to Blockchain"
+  - nohack: "Recess Week"
+  - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
     topics:
-      - speaker: Hongyi
-        from: GovTech
-        title: Digital Parking App
-      - speaker: Mohammad
-        from: TradeGecko
-        title: Asynchronous Processing
-  - venue: "The HANGAR by NUS Enterprise"
+      - speaker: "Joaquin Keller"
+        from: "Entrepreneur First"
+        title: "Scaling Virtual Worlds to Millions"
+      - speaker: "Johannes Choo"
+        from: "NUS Hackers"
+        title: "Hello Kube"
+  - venue: "Seminar Room 1, Town Plaza, University Town (UT22-02-04A)"
     topics:
-      - speaker: Peter Hoeg
-        title: Functional Systems in a Non-functional World
-      - speaker: Hancong
-        from: Visa
-        title: Getting to Know Containers and Docker
-  - venue: "The HANGAR by NUS Enterprise"
+      - speaker: "Omer"
+        from: "Sea Group"
+        title: "Intro to WebRTC"
+      - speaker: "Joseph Fitzsimons"
+        from: "Centre for Quantum Technologies"
+        title: "Introduction to Quantum Computing"
+  - venue: "The Hangar by NUS Enterprise"
     topics:
-      - speaker: Feng Yuan
-        from: Govtech
-        title: Data Science for the Public Good
-      - speaker: Mattheus
-        title: C++ Template Metaprogramming
-  - venue: "SR3, Town Plaza, University Town, NUS"
+      - speaker: "Jean-Baptiste Kempf"
+        from: "VideoLAN Organization (VLC Media Player)"
+        title: "VLC, VideoLAN: an original open-source community"
+  - nohack: "Good Friday"
+  - venue: "The Hangar by NUS Enterprise"
     topics:
-      - speaker: Wilbert, Khue, and Wenhao
-        from: NUSGem
-        title: Making Engineering of Customised Kill Switches Easier
-      - speaker: Vaibhav Sagar
-        from: Zalora
-        title: I Haskell A Git
-  - venue: "SR3, Town Plaza, University Town, NUS"
+      - speaker: "NUS Hackers Coreteam"
+        title: "Chit-chat with Coreteam"
+  - venue: "Seminar Room 1, Town Plaza, University Town (UT22-02-04A)"
     topics:
-      - speaker: E-Liang Tan
-        title: Building Jarvis
-      - speaker: Angad Singh
-        from: Twitter
-        title: Data Engineering at Twitter
-  - venue: "SR3, Town Plaza, University Town, NUS"
-    topics:
-      - speaker: NUS Hackers Coreteam
-        title: Contributing to Open Source Projects
-  - venue: "SR3, Town Plaza, University Town, NUS"
-    topics:
-      - speaker: NUS Hackers Coreteam
-        title: Code Golf
+      - speaker: "Jia Qing and Il Shan"
+        from: "Nurture.AI"
+        title: "A Deep Learning-based Recommender System for AI Papers"
+      - speaker: "Zhenwei"
+        from: "Shopee"
+        title: "Towards Flexible Granularity Intention Recognition"
+#  - venue:
+#    topics:
+#      - speaker:
+#        from:
+#        title:

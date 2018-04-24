@@ -2,6 +2,8 @@
 # To generate some other FH pass in a number as argument
 # e.g python gen_fh.py 1 generates next week's
 # e.g python gen_fh.py 3 generates next next next week's
+# As for numbering, it will take the next number
+# (e.g. if the previous post is FH #1000, the generated one will be FH #1001)
 # Please first update data/friday_hacks.yml before running this
 import yaml
 from datetime import datetime, timedelta
@@ -13,13 +15,13 @@ import re
 with open('../data/friday_hacks.yml', 'r') as fin:
     doc = yaml.load(fin)
     start_date = datetime.strptime(doc['start_date'],
-                               '%Y-%m-%d %H:%M:%S +0800')
+                                   '%Y-%m-%d %H:%M:%S +0800')
     # Time delta fixes weird bug
     now = datetime.today() - timedelta(hours=3)
 
     # Sick undocumented feature
     if len(argv) > 1:
-        now += timedelta(days = 7 * int(argv[1]))
+        now += timedelta(days=7 * int(argv[1]))
 
     hacks = doc['hacks']
     cur = start_date
@@ -58,12 +60,14 @@ with open('../data/friday_hacks.yml', 'r') as fin:
 
     num += 1
 
+    # In case you want to skip FH numbers BUT WHYYY!?!?
     # What is abstraction?
-    if len(argv) > 1:
-        num += int(argv[1])
+    # if len(argv) > 1:
+    #     num += int(argv[1])
 
     print "Creating FH post for #" + str(num) + ", at " + str(date)
-    name = raw_input("Your name? ")
+    # In case you want a different name, BUT WHYYY!?!?
+    # name = raw_input("Your name? ")
 
     # now witness templating in raw string
     content = '''\
@@ -71,20 +75,23 @@ with open('../data/friday_hacks.yml', 'r') as fin:
 title: "Friday Hacks #{num}, {month} {day}"
 date: {now}
 author: {author}
-url: /{year}/{month}/friday-hacks-{num}
+url: /{year}/{no_of_month}/friday-hacks-{num}
 ---
 
 --- say something as introduction ---
 
 {{{{% friday_hack_header venue="{venue}" date="{month} {day}" %}}}}
 
-'''.format(num=num,
-           now=datetime.today(),
-           year=next_date.strftime("%Y"),
-           month=next_date.strftime("%B"),
-           day=next_date.day,
-           author=name,
-           venue=next_hack['venue']) + '\n'.join(['''
+'''.format(
+        num=num,
+        now=datetime.today(),
+        year=next_date.strftime("%Y"),
+        month=next_date.strftime("%B"),
+        no_of_month=next_date.strftime('%m'),
+        day=next_date.day,
+        author=name,
+        venue=next_hack['venue']) + '\n'.join([
+            '''
 ### {talk_name}
 
 #### Talk Description:
@@ -95,7 +102,8 @@ url: /{year}/{month}/friday-hacks-{num}
 
 --- describe ----
 
-'''.format(talk_name=topic['title']) for topic in next_hack['topics']])
+'''.format(talk_name=topic['title']) for topic in next_hack['topics']
+        ])
 
     filename = '../content/post/{now}-friday-hacks-{num}.md'.format(
         now=next_date.strftime("%Y-%m-%d"),
