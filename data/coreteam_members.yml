@@ -1,5 +1,11 @@
 ---
 members:
+  - name: Suyash
+    description: |
+      a Computer Science undergraduate student who loves everything tech, from new home automation hacks to new apps.
+      He might be new to the world of making things but has been breaking things his whole life.
+      Feel free to contact him at <a href="mailto:suyash@nushackers.org">suyash@nushackers.org</a>.
+
   - name: Advay
     description: |
       a Computer Science undergraduate. You can find out more about him <a href="http://advaypal.com/">here</a>
@@ -61,12 +67,6 @@ members:
     description: |
       a Computer Science undergraduate that builds websites, then builds some more.
       <a href="http://github.com/li-kai">github.com/li-kai</a>.
-
-  - name: Suyash
-    description: |
-      a Computer Science undergraduate student who loves everything tech, from new home automation hacks to new apps.
-      He might be new to the world of making things but has been breaking things his whole life.
-      Feel free to contact him at <a href="mailto:suyash@nushackers.org">suyash@nushackers.org</a>.
 
   - name: Rachael
     description: |
