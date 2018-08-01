@@ -2,9 +2,6 @@
     <p>
     <strong>
         {{ $person.name }}
-        {{ if eq $index 0 }}
-            [President]
-        {{ end }}
     </strong> was {{ $person.description | markdownify }}
     </p>
 {{ end }}
