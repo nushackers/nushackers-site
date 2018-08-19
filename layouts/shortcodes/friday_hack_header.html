@@ -1,5 +1,5 @@
 <blockquote>
-    <strong>Date/Time</strong>: Friday, {{ .Get "date" }} at 6:30pm <br />
+    <strong>Date/Time</strong>: Friday, {{ .Get "date" }}{{ if not (in (.Get "date") " at ") }} at 6:30pm{{ end }}<br />
     <strong>Venue</strong>: {{ .Get "venue" }} <br />
     <strong>Free pizza is served before the talks.</strong> <br />
 </blockquote>
