@@ -21,7 +21,7 @@ If you want to have a fun, educational weekend at the Start of Recess Week, in w
 (Note that venue will be confirmed in February. Registrants will be informed of the confirmed venue.)</blockquote>
 
 <strong>Registration Link:</strong>
-<a href="http://bit.ly/hacknroll2012">http://bit.ly/hacknroll2012</a>
+<a href="//bit.ly/hacknroll2012">//bit.ly/hacknroll2012</a>
 <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDRZeUhUQXJybHdsa1oySEpxYVRUdWc6MQ">https://docs.google.com/spreadsheet/viewform?formkey=dDRZeUhUQXJybHdsa1oySEpxYVRUdWc6MQ</a>
 
 The 2 top team(s) will get prizes from Blackberry, Microsoft, and others (full list of prizes - <strong>tablets, phones and keyboards</strong> to be won, will be released in February)
@@ -32,7 +32,7 @@ Only a maximum of 80 people can be accommodated for the competition so get in on
 17 Feb 12 - "HTML5/CSS3 Workshop" (by Blackberry/RIM)
 
 <strong>More details coming soon.</strong>
-Stay tuned to http://nushackers.org/hack-and-roll/ for the latest details!
-Rules are found on http://nushackers.org/hack-and-roll/ as well.
+Stay tuned to //nushackers.org/hack-and-roll/ for the latest details!
+Rules are found on //nushackers.org/hack-and-roll/ as well.
 
 PS: This hackathon is only open to NUS students.

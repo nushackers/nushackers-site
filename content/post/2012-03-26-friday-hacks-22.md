@@ -46,7 +46,7 @@ url: /2012/03/friday-hacks-22
 </strong></div>
 <div>
 <div>
-<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="http://bit.ly/wEaPZn" target="_blank">http://bit.ly/wEaPZn</a></strong></div>
+<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="//bit.ly/wEaPZn" target="_blank">//bit.ly/wEaPZn</a></strong></div>
 </div>
 <div></div>
 </div>

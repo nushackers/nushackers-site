@@ -10,6 +10,6 @@ aliases:
   - /2008/02/27/linuxnus-forums-are-up/
 ---
 
-And in the name of more open communication.. linuxNUS brings to you.. the <a href="http://opensource.nus.edu.sg/forums/">linuxNUS Forums</a>!
+And in the name of more open communication.. linuxNUS brings to you.. the <a href="//opensource.nus.edu.sg/forums/">linuxNUS Forums</a>!
 
 Do check it out and let us know if you have any feedback!

@@ -23,7 +23,7 @@ It'll be broken down into three steps:
 
 Analogies from other languages will also be given to make the concept independent from Haskell.
 
-The talk will be based off this paper: http://www.cs.uwyo.edu/~jlc/courses/3015/parser_pearl.pdf
+The talk will be based off this paper: //www.cs.uwyo.edu/~jlc/courses/3015/parser_pearl.pdf
 
 ## Speaker profile
 

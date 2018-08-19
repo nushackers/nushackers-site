@@ -46,7 +46,7 @@ Along with high quality modules for GUI, networking and XML, Nokia Qt C++ framew
 
 ### Installation
 
-1. Please find suitable installation package for your OS &amp; architecture from [http://qt.nokia.com/downloads/](http://qt.nokia.com/downloads/ "Qt Nokia C++ Downloads"). Please pay close attention to whether your OS is 32-bit or 64-bit and make sure you download the version of Qt SDK that suits your OS.
+1. Please find suitable installation package for your OS &amp; architecture from [//qt.nokia.com/downloads/](//qt.nokia.com/downloads/ "Qt Nokia C++ Downloads"). Please pay close attention to whether your OS is 32-bit or 64-bit and make sure you download the version of Qt SDK that suits your OS.
 
 2. Proceed to the installation with the default settings. It is recommended that you stick with the default installation settings. There are very few things to tweak.
 
@@ -74,18 +74,18 @@ Now you are ready to run Qt demos &amp; examples. Enjoy!
 
 ### Conclusion
 
-Nokia might not suit all your needs but it's one of the best options to keep an eye on. Among large users of Nokia Qt C++ framework, there are companies such as [Google, Adobe and Skype](http://qt.nokia.com/qt-in-use/target/desktop/ "[Google, Adobe and Skype"). Qt has found its application in a [breadth of industries](http://qt.nokia.com/qt-in-use/). Your next killer application may be written in Nokia C++ too! Stay tuned with our series of Qt tutorials!
+Nokia might not suit all your needs but it's one of the best options to keep an eye on. Among large users of Nokia Qt C++ framework, there are companies such as [Google, Adobe and Skype](//qt.nokia.com/qt-in-use/target/desktop/ "[Google, Adobe and Skype"). Qt has found its application in a [breadth of industries](//qt.nokia.com/qt-in-use/). Your next killer application may be written in Nokia C++ too! Stay tuned with our series of Qt tutorials!
 
 ***
 
 \* The screenshots are provided at the official Nokia Qt C++ documentation website.
 
-[Qt Nokia C++ Downloads]: http://qt.nokia.com/downloads/ "Qt Nokia C++ Downloads"
+[Qt Nokia C++ Downloads]: //qt.nokia.com/downloads/ "Qt Nokia C++ Downloads"
 
-[Qt Designer]: http://doc.qt.nokia.com/4.6/examples-designer.html "Qt Designer Examples"
+[Qt Designer]: //doc.qt.nokia.com/4.6/examples-designer.html "Qt Designer Examples"
 
-[Qt Network]: http://doc.qt.nokia.com/4.6/examples-network.html "QtNetwork Examples"
+[Qt Network]: //doc.qt.nokia.com/4.6/examples-network.html "QtNetwork Examples"
 
-[Qt Script]: http://doc.qt.nokia.com/4.6/examples-script.html "QtScript Examples"
+[Qt Script]: //doc.qt.nokia.com/4.6/examples-script.html "QtScript Examples"
 
-[Qt Webkit]: http://doc.qt.nokia.com/4.6/examples-webkit.html "QtWebkit Examples"
+[Qt Webkit]: //doc.qt.nokia.com/4.6/examples-webkit.html "QtWebkit Examples"

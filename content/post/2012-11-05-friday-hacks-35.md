@@ -12,15 +12,15 @@ url: /2012/11/friday-hacks-35
 
 This week we have Quora, a Silicon Valley startup, coming to NUS for recruitment purposes, and Winston Teo from {new context} on Software Engineering as a career choice.
 
-To sign up for this talk, and to apply for job opportunities at Quora, please register at this link: <a href="http://bit.ly/quora-tech-talk">http://bit.ly/quora-tech-talk</a> Seats are limited!
+To sign up for this talk, and to apply for job opportunities at Quora, please register at this link: <a href="//bit.ly/quora-tech-talk">//bit.ly/quora-tech-talk</a> Seats are limited!
 
 <strong>Date/Time:</strong> Friday, November 9 at 7.00pm
-<strong>Venue:</strong> <del>SR3 (Level 2), School of Computing, National University of Singapore. Map: <a href="http://goo.gl/maps/KgzPT">http://goo.gl/maps/KgzPT</a></del>
-<strong>Venue changed to LT19, COM2, National University of Singapore</strong>. Map: <a href="http://bit.ly/nus-lt19">http://bit.ly/nus-lt19</a>
+<strong>Venue:</strong> <del>SR3 (Level 2), School of Computing, National University of Singapore. Map: <a href="//goo.gl/maps/KgzPT">//goo.gl/maps/KgzPT</a></del>
+<strong>Venue changed to LT19, COM2, National University of Singapore</strong>. Map: <a href="//bit.ly/nus-lt19">//bit.ly/nus-lt19</a>
 Food is served after the talks.
 
 <strong>Job opportunities</strong>
-Quora is hiring for full-time and internship positions in the US, especially for software engineering and product design roles. If you're interested in opportunities at Quora, do submit your application at <a href="http://www.quora.com/jobs">http://www.quora.com/jobs</a> and definitely drop by for the talk! You can also direct any questions to sg@quora.com.
+Quora is hiring for full-time and internship positions in the US, especially for software engineering and product design roles. If you're interested in opportunities at Quora, do submit your application at <a href="//www.quora.com/jobs">//www.quora.com/jobs</a> and definitely drop by for the talk! You can also direct any questions to sg@quora.com.
 <h3>Talk 1: Engineering at Quora: Building a Real-Time Platform with LiveNode and Webnode (Hongping Lim, Kah Hong Tay, Quora)</h3>
 Hongping Lim, Software Engineer and Kah Hong Tay, Product Designer-- will be talking about Quora's technology stack and engineering challenges.
 
@@ -35,8 +35,8 @@ Winston is an Alumni of NUS School of Computing, class of 2006. He started his c
 
 ==============================
 
-Please sign up at <a href="http://bit.ly/quora-tech-talk">http://bit.ly/quora-tech-talk</a> Seats are limited!
+Please sign up at <a href="//bit.ly/quora-tech-talk">//bit.ly/quora-tech-talk</a> Seats are limited!
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">http://nushackers.org/fridayhacks/</a>
-For more info on NUS Hackers, See: <a href="/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">//nushackers.org/fridayhacks/</a>
+For more info on NUS Hackers, See: <a href="/about">//nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">//nushackers.org/</a>

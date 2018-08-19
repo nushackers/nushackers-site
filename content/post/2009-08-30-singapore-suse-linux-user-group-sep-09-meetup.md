@@ -30,14 +30,14 @@ Date/time:<del datetime="2009-09-02T05:40:59+00:00"> 2 Sep, Wed, 7pm</del> 19 Se
 
 We will talk about what is going to happen. The Hackfest, new releases and rpm packages.
 
-Also this time we will talk about <a href="http://susestudio.com/">SuseStudio</a> we have a presenter.</del>
+Also this time we will talk about <a href="//susestudio.com/">SuseStudio</a> we have a presenter.</del>
 
 The monthly OpenSUSE meetup with all the gossip news and challenges of the OpenSUSE and Linux world.
 
-Because of <a href="http://sfds.foss-alliance.sg/">Software Freedom Day</a> it has been moved to the 19th at the SMU. :-)
+Because of <a href="//sfds.foss-alliance.sg/">Software Freedom Day</a> it has been moved to the 19th at the SMU. :-)
 
 So meet us there and we will do some fun stuff with OpenSUSE.
 
 Mike
 
-Source: <a href="http://www.meetup.com/Singapore-Suse-Linux-User-Group/calendar/11040613/">Meetup.com</a>
+Source: <a href="//www.meetup.com/Singapore-Suse-Linux-User-Group/calendar/11040613/">Meetup.com</a>

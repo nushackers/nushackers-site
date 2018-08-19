@@ -10,7 +10,7 @@ aliases:
   - /2009/12/16/linuxnus-hackerspacesg-christmas-party/
 ---
 
-From <a href="http://http://www.facebook.com/event.php?eid=219542641712&amp;ref=ts">HackerspaceSG Christmas party Facebook page</a>
+From <a href="////www.facebook.com/event.php?eid=219542641712&amp;ref=ts">HackerspaceSG Christmas party Facebook page</a>
 <blockquote><em>We are 1 month old, and we're celebrating it by throwing ourselves a Christmas Party! This event is similar to our open house party!</em>
 
 <em>We'll be catering some halal food from around the area. If you can bring more food, that will be great! Just make sure it is halal, or if not, indicate it isn't.</em>

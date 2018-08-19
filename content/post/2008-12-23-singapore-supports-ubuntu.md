@@ -17,9 +17,9 @@ We all know the ubuntu logo looks like: 3 arcs forming a circle. It looks like a
 
 <div align="center">{{< imglink src="/img/2008/11/logo.jpg" alt="" >}}</div>
 
-Oh let's email them to see if they are using Ubuntu in their workplace. Oh wait, the URL to the site is <a href="http://www.fairemployment.sg/main.aspx">http://www.fairemployment.sg/main.<strong>aspx</strong></a> :s
+Oh let's email them to see if they are using Ubuntu in their workplace. Oh wait, the URL to the site is <a href="//www.fairemployment.sg/main.aspx">//www.fairemployment.sg/main.<strong>aspx</strong></a> :s
 
-And running <code>curl -I http://fairemployment.sg </code> confirms the server type:
+And running <code>curl -I //fairemployment.sg </code> confirms the server type:
 
 
 <blockquote><code>

@@ -76,7 +76,7 @@ So much about security. Let's get to work!
 
 ## Creating our application
 Let's create our app! Assuming you have installed Rails
-([check this out](http://installfest.railsbridge.org/installfest/) if you
+([check this out](//installfest.railsbridge.org/installfest/) if you
 haven't), in your project root, run `rails new simple-auth` (here `simple-auth`
 is the name of my app). After the installation is done, enter your app folder.
 

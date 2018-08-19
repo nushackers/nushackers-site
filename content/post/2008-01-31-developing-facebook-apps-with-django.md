@@ -21,7 +21,7 @@ Slides from Harish's presentation
 
 <p style="width:425px;text-align:center" id="__ss_241834">
 
-<object style="margin:0px" height="355" width="425"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=developing-facebook-apps-1201331361823577-3"/>
-<param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=developing-facebook-apps-1201331361823577-3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object>
+<object style="margin:0px" height="355" width="425"><param name="movie" value="//static.slideshare.net/swf/ssplayer2.swf?doc=developing-facebook-apps-1201331361823577-3"/>
+<param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="//static.slideshare.net/swf/ssplayer2.swf?doc=developing-facebook-apps-1201331361823577-3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object>
 
-<p style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">{{< imglink src="http://static.slideshare.net/swf/logo_embd.png" alt="SlideShare" >}} | <a href="" title="View this slideshow on SlideShare">View</a> | <a href="http://www.slideshare.net/upload">Upload your own</a></p></p>
+<p style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">{{< imglink src="//static.slideshare.net/swf/logo_embd.png" alt="SlideShare" >}} | <a href="" title="View this slideshow on SlideShare">View</a> | <a href="//www.slideshare.net/upload">Upload your own</a></p></p>

@@ -14,11 +14,11 @@ aliases:
 
 Aaron Swartz was my hero. He died two days ago, committing suicide at the age of 26, too early in a colourful and accomplished life, and now, too late.
 
-I won't cover all that he has done; people who know him personally have written extensively about his life and his accomplishments. The best pieces to read about him in the wake of his death, in my opinion, are <a href="http://boingboing.net/2013/01/12/rip-aaron-swartz.html#more-205376">this</a>, <a href="http://lessig.tumblr.com/post/40347463044/prosecutor-as-bully">this</a>, <a href="http://www.quinnnorton.com/said/?p=641">this</a> and <a href="http://www.zephoria.org/thoughts/archives/2013/01/13/aaron-swartz.html">this</a>.
+I won't cover all that he has done; people who know him personally have written extensively about his life and his accomplishments. The best pieces to read about him in the wake of his death, in my opinion, are <a href="//boingboing.net/2013/01/12/rip-aaron-swartz.html#more-205376">this</a>, <a href="//lessig.tumblr.com/post/40347463044/prosecutor-as-bully">this</a>, <a href="//www.quinnnorton.com/said/?p=641">this</a> and <a href="//www.zephoria.org/thoughts/archives/2013/01/13/aaron-swartz.html">this</a>.
 
 (Suffice to say, it's highly unlikely that you've not used something he's touched: he co-wrote the RSS spec at age 14, worked on early Reddit, and created web.py, the design of which later influenced Google's App Engine.)
 
-To me and a few of my friends, however, Aaron was a hero; someone we worshipped who was not too different from us, but smarter, braver, and justifiably more accomplished. His work was proof, I thought, that anyone could - with enough energy, and judicious use of technological leverage - make a significant dent in the world. (Later, at NUS, I shared his <a href="http://www.aaronsw.com/weblog/dweck">essay on Dweck</a> with a few friends. It changed the way we thought of ourselves.)
+To me and a few of my friends, however, Aaron was a hero; someone we worshipped who was not too different from us, but smarter, braver, and justifiably more accomplished. His work was proof, I thought, that anyone could - with enough energy, and judicious use of technological leverage - make a significant dent in the world. (Later, at NUS, I shared his <a href="//www.aaronsw.com/weblog/dweck">essay on Dweck</a> with a few friends. It changed the way we thought of ourselves.)
 
 Most importantly, however, Aaron didn't wait; he had the audaciousness to <em>do</em> things regardless of his circumstances. He had the audaciousness to try.
 
@@ -32,7 +32,7 @@ The results, if Aaron's work is anything to go by, is that you can go pretty far
 
 *
 
-Tim Berners Lee wrote the <a href="http://lists.w3.org/Archives/Public/www-tag/2013Jan/0017.html">most beautiful eulogy I've ever read for Aaron</a>:
+Tim Berners Lee wrote the <a href="//lists.w3.org/Archives/Public/www-tag/2013Jan/0017.html">most beautiful eulogy I've ever read for Aaron</a>:
 
 <blockquote>
 Aaron is dead.

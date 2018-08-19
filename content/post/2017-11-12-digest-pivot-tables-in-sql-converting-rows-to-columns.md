@@ -12,7 +12,7 @@ aliases:
   - /2017/11/12/digest-pivot-tables-in-sql-converting-rows-to-columns
 ---
 
-(This post is cross-posted from http://herbert.id/2017/11/pivot-tables-in-sql/.)
+(This post is cross-posted from //herbert.id/2017/11/pivot-tables-in-sql/.)
 
 A few weeks ago I gave a talk at NUS Hackers's Friday Hacks on some advanced
 tips in using SQL. (It was my first technical talk, btw!) Here, I will elaborate

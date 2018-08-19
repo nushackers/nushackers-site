@@ -10,7 +10,7 @@ url: /2012/09/friday-hacks-29
 
 This week we have Sourabh Rao, an NUS student who programs for fun (and has done some impressive things outside of school!), and Michael Li, a Research Officer from the Data Analytics Department, National Business Analytics Center.
 
-Please sign up at <a href="http://bit.ly/friday-hacks">http://bit.ly/friday-hacks</a>
+Please sign up at <a href="//bit.ly/friday-hacks">//bit.ly/friday-hacks</a>
 <blockquote><strong>Location:</strong> COM1 SR3 [COM1/212]
 <strong>Time:</strong> 7pm - 9pm.
 <strong>Talks start promptly at 7pm. You are welcome to stay and mingle (or hack!) after the talks.</strong></blockquote>
@@ -33,6 +33,6 @@ Michael Li is a research engineer in Institute for Infocomm Research whose work 
 
 He graduated from University of Melbourne with a Biomedical Engineering Degree specializing in Bioinformatics.
 
-Please sign up at <a href="http://bit.ly/friday-hacks">http://bit.ly/friday-hacks</a>
+Please sign up at <a href="//bit.ly/friday-hacks">//bit.ly/friday-hacks</a>
 
 &nbsp;

@@ -3,7 +3,7 @@ title: The Hacker Attitude
 description: The Hacker Attitude
 date: "2014-06-23"
 ---
-<em>Five things. Again taken from Eric S. Raymond's</em> <a href="http://www.catb.org/~esr/faqs/hacker-howto.html#believe1">How To Become a Hacker</a>:
+<em>Five things. Again taken from Eric S. Raymond's</em> <a href="//www.catb.org/~esr/faqs/hacker-howto.html#believe1">How To Become a Hacker</a>:
 
 <strong>1. The world is full of fascinating problems waiting to be solved.</strong>
 

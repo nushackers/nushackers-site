@@ -10,8 +10,8 @@ url: /2013/10/friday-hacks-56
 
 This week we have Nick Jachowski and Lin Zhihao.
 <blockquote><strong>Date/Time:</strong> Friday, October 25 at 6:30pm
-<strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>
-<strong>Sign up here:</strong> <a href="http://bit.ly/fridayhacks2013">http://bit.ly/fridayhacks2013</a>
+<strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
+<strong>Sign up here:</strong> <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>
 <strong>Free pizza is served before the talks.</strong></blockquote>
 <h3>Talk: Big Data, Predictive Modeling, and You (Nick Jachowski - PhD student in Geography)</h3>
 <strong>Talk Description:</strong>
@@ -27,8 +27,8 @@ This talk will also be about big data.
 
 ==============================
 
-Please sign up at <a href="http://bit.ly/fridayhacks2013">http://bit.ly/fridayhacks2013</a>
+Please sign up at <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">http://nushackers.org/fridayhacks/</a>
-For more info on NUS Hackers, See: <a href="/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">//nushackers.org/fridayhacks/</a>
+For more info on NUS Hackers, See: <a href="/about">//nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">//nushackers.org/</a>

@@ -56,7 +56,7 @@ My team runs a weekly sprint system, and the bigger team that we're part of has 
 
 ### Google
 
-Well known for its giant [monorepo](https://www.wired.com/2015/09/google-2-billion-lines-codeand-one-place/), has extremely well thought out tools for developing, building, testing, etc. Main languages used are C++, Java, Python. A lot of internal tools that are slowly being open sourced, build tool [bazel](http://bazel.io), code search [kythe](https://kythe.io/), etc. Uses internal tool for running servers, open sourced as [kubernetes](http://kubernetes.io/).
+Well known for its giant [monorepo](https://www.wired.com/2015/09/google-2-billion-lines-codeand-one-place/), has extremely well thought out tools for developing, building, testing, etc. Main languages used are C++, Java, Python. A lot of internal tools that are slowly being open sourced, build tool [bazel](//bazel.io), code search [kythe](https://kythe.io/), etc. Uses internal tool for running servers, open sourced as [kubernetes](//kubernetes.io/).
 
 ### Stripe
 

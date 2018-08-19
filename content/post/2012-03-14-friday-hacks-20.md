@@ -67,7 +67,7 @@ Applied Cognitive Science was founded to apply new discoveries in the cognitive 
 <div>
 <div>
 <div>
-<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="http://bit.ly/wEaPZn" target="_blank">http://bit.ly/wEaPZn</a></strong>
+<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="//bit.ly/wEaPZn" target="_blank">//bit.ly/wEaPZn</a></strong>
 <span>
 </span><span>
 </span></div>

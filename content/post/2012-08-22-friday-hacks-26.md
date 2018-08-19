@@ -10,7 +10,7 @@ url: /2012/08/friday-hacks-26
 
 This week we have Shaw Chian, co-founder of Flocations, and Ruiwen Chua from Hackerspace.sg with us.
 
-Remember to sign up at <a href="http://bit.ly/friday-hacks">http://bit.ly/friday-hacks</a>
+Remember to sign up at <a href="//bit.ly/friday-hacks">//bit.ly/friday-hacks</a>
 
 <strong>Talk 1: Javascript Without Frameworks: Why we did it, and how painful it was (Shaw Chian, Flocations)</strong>
 
@@ -34,10 +34,10 @@ We first used AngularJS in an HTML5 iPad web app for schools, and I would now li
 <strong>Time:</strong> 6pm - 9pm
 <strong>Free pizza and mingling @ 6pm, talks start at 7pm. People may leave any time after the talks.</strong>
 
-Please sign up at <a href="http://bit.ly/friday-hacks">http://bit.ly/friday-hacks</a>
+Please sign up at <a href="//bit.ly/friday-hacks">//bit.ly/friday-hacks</a>
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">http://nushackers.org/fridayhacks/</a>
-Who is NUS Hackers? See: <a href="/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">//nushackers.org/fridayhacks/</a>
+Who is NUS Hackers? See: <a href="/about">//nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">//nushackers.org/</a>
 
-Update: slides for Ruiwen's talk available here: <a href="http://thoughtmonkeys.com/slides/AngularJS/#/">http://thoughtmonkeys.com/slides/AngularJS/#/</a>
+Update: slides for Ruiwen's talk available here: <a href="//thoughtmonkeys.com/slides/AngularJS/#/">//thoughtmonkeys.com/slides/AngularJS/#/</a>

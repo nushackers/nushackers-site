@@ -45,8 +45,8 @@ We have found that attendance increases when there's a talk announced early in t
 <h3>Hacking</h3>
 Last semester, we found that not many people knew what to hack on. OR that they did homework. That's not completely cool: a big value-add of hacking is that you learn and build things outside the curriculum. Here's what we're doing about that:
 <ul>
-	<li>I spent a week building, and just released Treehouse - a dashboard for NUS Hackers projects. A post may be found <a href="http://treehouse.nushackers.org/project/treehouse-observatory/post/welcome-to-treehouse/ ">here</a>: (I'll do a proper announcement post soon)</li>
-	<li>Check the <a href="http://treehouse.nushackers.org/projects/">project page</a> and the <a href="http://treehouse.nushackers.org/people/">people page out</a>. I'm pushing updates as we go along.</li>
+	<li>I spent a week building, and just released Treehouse - a dashboard for NUS Hackers projects. A post may be found <a href="//treehouse.nushackers.org/project/treehouse-observatory/post/welcome-to-treehouse/ ">here</a>: (I'll do a proper announcement post soon)</li>
+	<li>Check the <a href="//treehouse.nushackers.org/projects/">project page</a> and the <a href="//treehouse.nushackers.org/people/">people page out</a>. I'm pushing updates as we go along.</li>
 	<li>Going forward, we will use Treehouse to keep track of all hacking activity in NUS Hackers. :)</li>
 	<li>The site is capable of parsing git repositories, so as long as you have a publicly available git clone address, it will grab it and parse it and attribute it to the right contributors.</li>
 	<li>It also has social features, and karma, meaning there is some built-in troll-protection. I will moderate and build extra anti-flamewar controls if required.</li>

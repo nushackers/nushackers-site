@@ -20,11 +20,11 @@ After some difficulty finding a recording venue and some hours of figuring out a
 Discussed off the record were plans for future podcasts, format, style, and content. The podcasters plan on future interviews, a much better recording setup, and possibly even super-swoosh transitions and editing. Also, much goofing off ensued.
 
 Editing of the episode is well under way, keep an ear out for the final cut :)
-<div>{{< imglink src="http://inlinethumb33.webshots.com/41632/2438599640101890940S425x425Q85.jpg" alt="dscf2005" >}}
+<div>{{< imglink src="//inlinethumb33.webshots.com/41632/2438599640101890940S425x425Q85.jpg" alt="dscf2005" >}}
 
-{{< imglink src="http://inlinethumb32.webshots.com/18015/2104630560101890940S425x425Q85.jpg" alt="dscf1479" >}}
+{{< imglink src="//inlinethumb32.webshots.com/18015/2104630560101890940S425x425Q85.jpg" alt="dscf1479" >}}
 
-{{< imglink src="http://inlinethumb62.webshots.com/44861/2667992400101890940S425x425Q85.jpg" alt="dscf1487" >}}</div>
-<a href="http://community.webshots.com/album/570716889ecONEu?vhost=community&amp;start=0" target="_blank">p.s. photos of recording session <del datetime="2009-03-28T04:17:01+00:00">to come</del> are here!</a>
+{{< imglink src="//inlinethumb62.webshots.com/44861/2667992400101890940S425x425Q85.jpg" alt="dscf1487" >}}</div>
+<a href="//community.webshots.com/album/570716889ecONEu?vhost=community&amp;start=0" target="_blank">p.s. photos of recording session <del datetime="2009-03-28T04:17:01+00:00">to come</del> are here!</a>
 
 - dwu out

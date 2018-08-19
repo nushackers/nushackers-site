@@ -16,7 +16,7 @@ aliases:
 
 We had mentioned about a workshop series from linuxNUS in a recent blog post and now here we are with something concrete that you can look forward to!
 <br />
-<img src="http://www.comp.nus.edu.sg/~u0909118/hac.jpg" alt="Logo" height = "400px" width="350px" />
+<img src="//www.comp.nus.edu.sg/~u0909118/hac.jpg" alt="Logo" height = "400px" width="350px" />
 
 
 linuxNUS and NUS Entrepreneurship Society bring to you the "Hack Workshop Series".
@@ -36,9 +36,9 @@ Here are a couple of things we're going to focus on:
 
 We will be collaborating with local open source developer groups, entrepreneurs and startups for the workshops. Currently the following organisations are helping us with the workshops
 <ul>
-	<li><a href="http://hackerspace.sg">HackerSpaceSG</a></li>
-	<li><a href="http://garag3.com">Garag3/e27</a></li>
-	<li><a href="http://nocalumni.org">NOC Alumni</a></li>
+	<li><a href="//hackerspace.sg">HackerSpaceSG</a></li>
+	<li><a href="//garag3.com">Garag3/e27</a></li>
+	<li><a href="//nocalumni.org">NOC Alumni</a></li>
 </ul>
 *The Best Time of The Week*
 
@@ -66,11 +66,11 @@ Forming teams with fellow attendees is encouraged, but that's really up to you. 
 
 Here's the catch, though: attendance to each workshop is capped to a limit. Its on a first-come first-serve basis.
 
-You can pre-register for the workshop series and the launch event here - <a href="http://bit.ly/baD3dP">http://bit.ly/baD3dP</a>
+You can pre-register for the workshop series and the launch event here - <a href="//bit.ly/baD3dP">//bit.ly/baD3dP</a>
 
 The launch event is scheduled for 20th August, Friday evening, 6.30pm in SoC. The venue will be confirmed to the registrants soon.
 
-You can also follow the latest news at the Facebook page <a href="http://bit.ly/bM7bvC">http://bit.ly/bM7bvC</a> or follow us on twitter <a href="http://twitter.com/linuxnus">@linuxNUS</a>
+You can also follow the latest news at the Facebook page <a href="//bit.ly/bM7bvC">//bit.ly/bM7bvC</a> or follow us on twitter <a href="//twitter.com/linuxnus">@linuxNUS</a>
 
 
 <em>The Hack Workshop Series, sponsored by IDA Singapore, equips geeks/non-geeks with a good base in development and idea execution.

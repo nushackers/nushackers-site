@@ -11,7 +11,7 @@ url: /2014/03/friday-hacks-66
 This friday, we have a talk by Chia Yuan from DSO National Laboratories. See you there!
 <blockquote><strong>Date/Time</strong>: Friday, March 14th at 6:30pm
 <strong>Venue</strong>: SR2, Education Resource Centre, University Town
-<strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>
+<strong>Map</strong>: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 <strong>Free pizza is served before the talks.</strong></blockquote>
 <h3>Talk: Automated Reasoning: An Emerging Powerful Approach to Find Bugs in Software</h3>
 <strong>Talk Description:</strong>

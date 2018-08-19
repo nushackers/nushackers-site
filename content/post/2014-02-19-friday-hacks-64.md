@@ -10,7 +10,7 @@ url: /2014/02/friday-hacks-64
 
 This Friday, we have a talk by Indra from SimplerCloud. See you!
 <blockquote><strong>Date/Time:</strong> Friday, February 21st at 6:30pm
-<strong>Venue:</strong> SR2, Education Resource Centre, University Town; <strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a><strong>
+<strong>Venue:</strong> SR2, Education Resource Centre, University Town; <strong>Map</strong>: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a><strong>
 </strong>
 
 <strong>Free pizza is served before the talks.</strong></blockquote>

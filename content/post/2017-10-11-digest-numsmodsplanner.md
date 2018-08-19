@@ -18,7 +18,7 @@ Over the summer, we developed NUSMods Planner, an augmented version of NUSMods t
 *Snapshot of our Google Analytics Dashboard, taken in 27th September 2017*
 
 ![](https://i.imgur.com/WBm1NPGl.png)
-*Screenshot of [NUSMods Planner](http://modsplanner.tk/), observe how the generated timetable has no lessons on Tuesday*
+*Screenshot of [NUSMods Planner](//modsplanner.tk/), observe how the generated timetable has no lessons on Tuesday*
 
 
 # How it all started
@@ -81,7 +81,7 @@ Clearly, doing the solving at the server side would not be scalable - there was 
 
 We tried to improve the running time of the solving algorithm by optimizing the problem representation. While we managed to slash the average solving time by half, scalability remained an issue. We had no choice but to push the solving workload to the client.
 
-So we had to find some way to run a SMT solver in the web browser. We came across the project called [ResearchJS](http://jgalenson.github.io/research.js/) that aims to share computer science research by compiling it to JavaScript. One of the shared research projects was [BoolectorJS](https://jgalenson.github.io/research.js/demos/boolector.html), a JavaScript version of [Boolector](http://fmv.jku.at/boolector/) compiled with [Emscripten](https://github.com/kripken/emscripten). The client would now load the BoolectorJS scripts and invoke them to solve our queries.
+So we had to find some way to run a SMT solver in the web browser. We came across the project called [ResearchJS](//jgalenson.github.io/research.js/) that aims to share computer science research by compiling it to JavaScript. One of the shared research projects was [BoolectorJS](https://jgalenson.github.io/research.js/demos/boolector.html), a JavaScript version of [Boolector](//fmv.jku.at/boolector/) compiled with [Emscripten](https://github.com/kripken/emscripten). The client would now load the BoolectorJS scripts and invoke them to solve our queries.
 
 Here we would like to formally thank the above open-source project contributors - our project would not have been possible without them.
 

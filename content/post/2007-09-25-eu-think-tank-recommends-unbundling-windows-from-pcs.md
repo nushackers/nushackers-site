@@ -12,6 +12,6 @@ aliases:
 
 Here's a step forward in the European Union.
 
-In a <a href="http://www.globalisation.eu/briefings/competition-policy/unbundling-microsoft-windows-200709231241">recent submission</a> to the European Commission, an European thinktank claimed that computer operating systems were "not a natual monopoly", and that "Windows monopoly imposes an extra cost on virtually every EU business, as the price of operating systems would drop in a more competitive market".
+In a <a href="//www.globalisation.eu/briefings/competition-policy/unbundling-microsoft-windows-200709231241">recent submission</a> to the European Commission, an European thinktank claimed that computer operating systems were "not a natual monopoly", and that "Windows monopoly imposes an extra cost on virtually every EU business, as the price of operating systems would drop in a more competitive market".
 
 After exploring several alternatives, the paper concludes that the easiest way around these problems would be to unbundle Windows from the hardware, and require all desktop machines and laptops sold within the EU to be sold without operating systems in order to "foster a competitive market, increase consumer choice and reduce prices".

@@ -10,7 +10,7 @@ url: /2014/02/friday-hacks-62
 
 This week, we have a talk by Alex Teo from D'Crypt. Do note the change in venue, it's back at UTown again! See you there
 <blockquote><strong>Date/Time:</strong> Friday, February 7th at 6:30pm
-<strong>Venue:</strong> SR2, Education Resource Centre, University Town; <strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>
+<strong>Venue:</strong> SR2, Education Resource Centre, University Town; <strong>Map</strong>: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 
 <strong style="line-height: 1.5em;">Free pizza is served before the talks.</strong></blockquote>
 <h3>Talk: Bitcoin Mining at D'Crypt</h3>

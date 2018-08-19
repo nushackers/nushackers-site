@@ -15,11 +15,11 @@ aliases:
 
 <div id=":13k">
 <div><span style="font-family: arial, sans-serif; border-collapse: collapse;"><br/>
-The next session in the Hack Workshop series is by <strong>JB Steadman from Pivotal Labs</strong>. He is coming down to speak on <a style="color: #2a5db0; font-size: 13px;" href="http://en.wikipedia.org/wiki/Agile_software_development" target="_blank"><strong>Agile Development Practices</strong></a>. It is a <strong>Non-technical </strong>workshop and would be of great significance for project teams.<br/><br/>
+The next session in the Hack Workshop series is by <strong>JB Steadman from Pivotal Labs</strong>. He is coming down to speak on <a style="color: #2a5db0; font-size: 13px;" href="//en.wikipedia.org/wiki/Agile_software_development" target="_blank"><strong>Agile Development Practices</strong></a>. It is a <strong>Non-technical </strong>workshop and would be of great significance for project teams.<br/><br/>
 
 The agile development process is often followed by many startups and software development labs.
 <br/><br/>
-Register here <a style="color: #2a5db0; font-size: 13px;" href="http://bit.ly/dw9nSN" target="_blank">http://bit.ly/dw9nSN</a>
+Register here <a style="color: #2a5db0; font-size: 13px;" href="//bit.ly/dw9nSN" target="_blank">//bit.ly/dw9nSN</a>
 <br/><br/>
 From the Agile Manifesto :<br/>
 <em>
@@ -38,7 +38,7 @@ This workshop will definitely help you in working in teams and in building softw
 <strong>Date</strong> : 15th October, Friday<br/>
 <strong>Places</strong> only limited for the first 70 registrants<br/><br/>
 
-<strong><span style="font-size: large;">Register</span></strong><span style="font-size: large;"> here : <a style="color: #2a5db0;" href="http://bit.ly/dw9nSN" target="_blank">http://bit.ly/dw9nSN</a></span><br/><br/>
+<strong><span style="font-size: large;">Register</span></strong><span style="font-size: large;"> here : <a style="color: #2a5db0;" href="//bit.ly/dw9nSN" target="_blank">//bit.ly/dw9nSN</a></span><br/><br/>
 <br/>
 </span></div>
 </div>

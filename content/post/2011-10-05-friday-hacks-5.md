@@ -9,7 +9,7 @@ title: 'Friday Hacks #5'
 url: /2011/10/friday-hacks-5
 ---
 
-This week's Friday Hacks would be held at Seminar Room 3, at UTown Education Resource Centre. We don't have a speaker booked, so if you'd like to give an informal talk please leave us a note at the <a href="http://groups.google.com/group/nushackers?hl=en_US">mailing list</a>.
+This week's Friday Hacks would be held at Seminar Room 3, at UTown Education Resource Centre. We don't have a speaker booked, so if you'd like to give an informal talk please leave us a note at the <a href="//groups.google.com/group/nushackers?hl=en_US">mailing list</a>.
 
 <strong>Full Details:</strong>
 

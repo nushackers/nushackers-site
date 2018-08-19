@@ -24,7 +24,7 @@ aliases:
 <blockquote><strong>Location: </strong>COM1 SR3 [COM1/212]
 <strong>Time: </strong>7pm - 9pm.
 <strong>Talks start promptly at 7pm. You are welcome to stay and mingle (or hack!) after the talks.</strong></blockquote>
-<div>Please sign up at <a href="http://bit.ly/friday-hacks" target="_blank">http://bit.ly/friday-hacks</a></div>
+<div>Please sign up at <a href="//bit.ly/friday-hacks" target="_blank">//bit.ly/friday-hacks</a></div>
 <div></div>
 <div><strong>Talk 1: The technology behind the online advertisement machine (Thomas Gorissen, JSCamp organizer)</strong></div>
 <div></div>
@@ -36,7 +36,7 @@ aliases:
 <div></div>
 <div><strong>Speaker profile:</strong></div>
 <div>
-<div>Thomas is a web developer 14 years in the making. He has lived and helped startups in Germany, Panama, Singapore and the US with his experience in technology, architecture and design. Currently he is working for ADZ, the online audience marketplace for Asia (<a href="http://www.adzcentral.com/" target="_blank">http://www.adzcentral.<wbr>com</wbr></a>) as Technologist. As the first employee he helped design and build ADZ advertisement technology stack from the ground up.</div>
+<div>Thomas is a web developer 14 years in the making. He has lived and helped startups in Germany, Panama, Singapore and the US with his experience in technology, architecture and design. Currently he is working for ADZ, the online audience marketplace for Asia (<a href="//www.adzcentral.com/" target="_blank">//www.adzcentral.<wbr>com</wbr></a>) as Technologist. As the first employee he helped design and build ADZ advertisement technology stack from the ground up.</div>
 <div></div>
 <div><strong>Talk 2: Do computers REALLY understand the human language? (Tan Liling</strong><strong>, NTU Graduate Student)</strong></div>
 </div>
@@ -48,8 +48,8 @@ aliases:
 </div>
 <div><strong>Speaker Profile:</strong></div>
 <div>I am a graduate student from NTU working on my thesis on word sense disambiguation. I deal with mostly the "knowledge" side of NLP rather than the "speech" side, so I do know a little from the courses I've taken on speech technology ( voice recognition, synthesizers, speech corpora, and processing) but I know just enough to talk about it generally. What I do is mostly on letting the computer understand grammar and meaning of human language, sometimes it involves applying some machine-learning techniques and statistics but most times, it is to think of novel ways to impart knowledge to computers.</div>
-<div>Please sign up at <a href="http://bit.ly/friday-hacks" target="_blank">http://bit.ly/friday-hacks</a></div>
+<div>Please sign up at <a href="//bit.ly/friday-hacks" target="_blank">//bit.ly/friday-hacks</a></div>
 <div></div>
-<div>For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/" target="_blank">http://nushackers.org/<wbr>fridayhacks/</wbr></a>
-For more info on NUS Hackers, See: <a href="/about" target="_blank">http://nushackers.org/<wbr>about</wbr></a>
-For more Friday Hacks talks: <a href="/" target="_blank">http://nushackers.org/</a></div>
+<div>For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/" target="_blank">//nushackers.org/<wbr>fridayhacks/</wbr></a>
+For more info on NUS Hackers, See: <a href="/about" target="_blank">//nushackers.org/<wbr>about</wbr></a>
+For more Friday Hacks talks: <a href="/" target="_blank">//nushackers.org/</a></div>

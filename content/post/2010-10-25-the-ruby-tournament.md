@@ -20,9 +20,9 @@ We had 27 participants in the Programming Lab 1 in SoC, NUS. It was fun to see t
 The prizes were sponsored by IDA and Garag3. We had Ruby books - "Cloning internet applications with Ruby" by Chang Sau Sheong, thumb drives and memory card readers as prizes.
 
 Here are the pictures from the day and we can see happy prize winners :)
-http://www.flickr.com/photos/41455961@N08/
+//www.flickr.com/photos/41455961@N08/
 
-<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?user_id=41455961@N08" width="500" height="500" frameBorder="0" scrolling="no"></iframe><br /><center><small>Created with <a href="http://www.flickrslideshow.com">flickr slideshow</a> from <a href="http://www.softsea.com">softsea</a>.</small></center>
+<iframe align="center" src="//www.flickr.com/slideShow/index.gne?user_id=41455961@N08" width="500" height="500" frameBorder="0" scrolling="no"></iframe><br /><center><small>Created with <a href="//www.flickrslideshow.com">flickr slideshow</a> from <a href="//www.softsea.com">softsea</a>.</small></center>
 
 
 <em>The Hack Workshop Series, sponsored by IDA Singapore, equips geeks/non-geeks with a good base in development and idea execution.

@@ -20,13 +20,13 @@ This assumption is more pervasive than one would expect: in my short time in the
 
 The idea is wrong on at least two assumptions. The first assumes that technical people have no ideas (or that they have bad ones). The second assumes that technical people <em>need</em> ideas people to do things. Disprove the first assumption, and the second automatically follows as false.
 
-It is easy to show that technical people have some proficiency with ideas: if they were no good at them, they would not have entered a technical course in the first place. Getting a programmer to come up with ideas for startups is no more than one conversion process away: you simply have to <a href="http://www.paulgraham.com/ideas.html">show him how</a>.
+It is easy to show that technical people have some proficiency with ideas: if they were no good at them, they would not have entered a technical course in the first place. Getting a programmer to come up with ideas for startups is no more than one conversion process away: you simply have to <a href="//www.paulgraham.com/ideas.html">show him how</a>.
 
 What is more interesting to ask is this: are business people better at coming up with ideas than technical people?
 
 The answer to that is: not usually. The key difference between programmers and business people is that programmers can <em>test</em> their ideas, and business people can’t (or at least won’t). That testing process is called hacking.
 
-Joshua Schachter said it best in his <em><a href="http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1590597141">Founders At Work</a></em> interview:
+Joshua Schachter said it best in his <em><a href="//www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1590597141">Founders At Work</a></em> interview:
 <blockquote><strong>Livingston</strong>: What do you think about technical founders versus businesspeople founders?
 
 <strong>Schachter</strong>: I have never had a great deal of trust for people who don’t execute on core ideas. I understand the value of needing someone to deal with that kind of stuff — someone’s got to do the VC pitch and there’s got to be a CFO, etc. But the guy who says, “I have a great idea and I’m looking for other people to implement it,” I’m wary of — frequently because I think the process of idea-making relies on executing and failing or succeeding at the ideas, so that you can actually become better at coming up with ideas. It’s something you can learn. It’s a skill, like weightlifting. That failed; that worked; continue. You begin to learn how to make ideas. So if you are someone who can’t execute and all you can do is come up with ideas, how do you know if they are any good? You don’t really know if it’s a good idea until you’ve executed it. You need to understand the cost of execution and so on.</blockquote>
@@ -38,7 +38,7 @@ It is true, however, that you don’t have to be a technical person to test idea
 
 In truth, I suspect that the people in NES don’t <em>really</em> believe that technical people are bad at ideas, or that they are lousier than ‘ideas’ people. I suspect they keep at it because it’s much easier to attract large audiences with the lie (‘come do a startup if you have an idea, it doesn’t matter if you can’t execute on it!’) than it is to convince hackers to do startups.
 
-What is the solution to this? The answer is obvious: grow the community of hackers, and then tell them to start startups.<sup>[1]</sup> Every year, Y Combinator does something called Startup School - an invitation-only event for technical people, designed to inspire them to take the leap into startupdom. The talks are amazing. The effects even more so. (The <a href="http://startupschool.org/index.html">sign-up page</a> states that ‘Many founders have told us that this event was what finally made them take the leap.’) And while business people are allowed to attend, hackers have priority.
+What is the solution to this? The answer is obvious: grow the community of hackers, and then tell them to start startups.<sup>[1]</sup> Every year, Y Combinator does something called Startup School - an invitation-only event for technical people, designed to inspire them to take the leap into startupdom. The talks are amazing. The effects even more so. (The <a href="//startupschool.org/index.html">sign-up page</a> states that ‘Many founders have told us that this event was what finally made them take the leap.’) And while business people are allowed to attend, hackers have priority.
 
 Perhaps it’s time to start focusing on hackers in Singapore. After all, there are already too many ‘ideas’ people out there: attending workshops, sitting in conferences, pitching business plans - and going nowhere.
 

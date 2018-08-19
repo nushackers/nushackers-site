@@ -22,7 +22,7 @@ Planned program :
     * Python Games Development in 60 minutes (as a Mini Sprint) – Mr. Morgan Heijdemann
 
 Pre-requisites : Because this is a mini-sprint, you need to bring your laptop computer for the hands-on.
-Pre-installations :  Please have python 2.5/2.6 and pyglet 1.1.3 installed beforehand. (<a href="http://www.pyglet.org/download.html">http://www.pyglet.org/download.html</a>)
+Pre-installations :  Please have python 2.5/2.6 and pyglet 1.1.3 installed beforehand. (<a href="//www.pyglet.org/download.html">//www.pyglet.org/download.html</a>)
 
     * Python Programming on Your Browser – Dr. Liew Beng Keat
 
@@ -39,4 +39,4 @@ Pre-installations :  Please have python 2.5/2.6 and pyglet 1.1.3 installed befor
     * Lightning talks - Open Invitation.
 
 
-<a href="http://pycon.sit.rp.sg/events/5th-singapore-python-user-group-meeting">More details at the website</a>.
+<a href="//pycon.sit.rp.sg/events/5th-singapore-python-user-group-meeting">More details at the website</a>.

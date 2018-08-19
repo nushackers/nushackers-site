@@ -11,7 +11,7 @@ url: /2014/03/friday-hacks-67
 This friday, we have a talk by Lee Chun Munn from Institute of Systems Science about what's new in Java 8. See you there!
 <blockquote><strong>Date/Time</strong>: Friday, March 21th at 6:30pm
 <strong>Venue</strong>: SR2, Education Resource Centre, University Town
-<strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>
+<strong>Map</strong>: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 <strong>Free pizza is served before the talks.</strong></blockquote>
 <h3>Talk: What's New in Java SE 8</h3>
 <strong>Talk Description:</strong>

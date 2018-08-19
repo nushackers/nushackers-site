@@ -18,7 +18,7 @@ And this is true. We know this is true because musicians, painters and writers s
 
 The difference is this: code projects, the by-product of 'programming practice', are great additions to <em>any</em> resume. Employers will be able to read the code you've written. If they care about the kind of software you will produce for them, knowing how well you code matters.
 
-Computer Science professor Matt Might <a href="http://matt.might.net/articles/what-cs-majors-should-know/">argues</a>:
+Computer Science professor Matt Might <a href="//matt.might.net/articles/what-cs-majors-should-know/">argues</a>:
 
 <blockquote>Having emerged from engineering and mathematics, computer science programs take a resume-based approach to hiring off their graduates.
 
@@ -26,7 +26,7 @@ A resume says nothing of a programmer's ability.
 
 Every computer science major should build a portfolio.
 
-A portfolio could be as simple as a personal blog, with a post for each project or accomplishment. A better portfolio would include per-project pages, and publicly browsable code (hosted perhaps on <a href="http://github.com">github</a> or Google code).
+A portfolio could be as simple as a personal blog, with a post for each project or accomplishment. A better portfolio would include per-project pages, and publicly browsable code (hosted perhaps on <a href="//github.com">github</a> or Google code).
 
 Contributions to open source should be linked and documented.
 
@@ -34,9 +34,9 @@ A code portfolio allows employers to directly judge ability.
 
 GPAs and resumes do not.</blockquote>
 
-Building a portfolio is something we should all be working on. (Matt Might links to MIT student Ed Yang, whose <a href="http://ezyang.com/">personal portfolio</a> is staggering in its impressiveness).
+Building a portfolio is something we should all be working on. (Matt Might links to MIT student Ed Yang, whose <a href="//ezyang.com/">personal portfolio</a> is staggering in its impressiveness).
 
-So the question becomes: what should I practice on? Programming assignments are tedious when done outside class, for no credit. There are only so many <a href="http://projecteuler.net/">Project Euler</a> problems one can solve before getting bored.
+So the question becomes: what should I practice on? Programming assignments are tedious when done outside class, for no credit. There are only so many <a href="//projecteuler.net/">Project Euler</a> problems one can solve before getting bored.
 
 The answer, of course, is to start hacking.
 
@@ -59,7 +59,7 @@ Hacking forces you into situations where you don't know enough to begin building
 Every trivial hack project brings with it a hidden cascade of things to learn. This is a good thing: it means you get to learn more the more hack projects you do.
 
 <h3>Hacking puts you in touch with actual developers</h3>
-One of the quickest ways to learn about the software world is to contribute to an open source project. Many coreteam members contribute to existing OSS codebases, one even <a href="http://rctay.tuletech.com/2011/06/Update-on-port-histogram-diff">implemented a new diff algorithm for Git</a>. SoC provides students with a good Firefox course with which to learn about Open Source. Both approaches to OSS will eventually require us, as students, to meet with and talk to working, breathing developers.
+One of the quickest ways to learn about the software world is to contribute to an open source project. Many coreteam members contribute to existing OSS codebases, one even <a href="//rctay.tuletech.com/2011/06/Update-on-port-histogram-diff">implemented a new diff algorithm for Git</a>. SoC provides students with a good Firefox course with which to learn about Open Source. Both approaches to OSS will eventually require us, as students, to meet with and talk to working, breathing developers.
 
 But hacking on your own projects are also a good way to meet other developers. If you're solving someone else's problem, he or she may find you on GitHub to contribute to your code.
 

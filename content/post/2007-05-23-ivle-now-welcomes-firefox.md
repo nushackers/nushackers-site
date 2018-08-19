@@ -13,7 +13,7 @@ aliases:
 
 <p align="center"><img id="image54" src="/img/2007/05/ff_box1.png" alt="ff_box1.png" />
 
-It seems that the ever increasing popularity of Firefox web browser has caught the attention of Center for Instructional Technology (<a href="http://cit.nus.edu.sg/">CIT</a>). As such, CIT has designed the next rollout of Integrated Virtual Learning Environment (<a href="http://cit.nus.edu.sg/IVLE/">IVLE</a>) Version 8 to support Firefox, in addition to Microsoft Internet Explorer (MSIE).
+It seems that the ever increasing popularity of Firefox web browser has caught the attention of Center for Instructional Technology (<a href="//cit.nus.edu.sg/">CIT</a>). As such, CIT has designed the next rollout of Integrated Virtual Learning Environment (<a href="//cit.nus.edu.sg/IVLE/">IVLE</a>) Version 8 to support Firefox, in addition to Microsoft Internet Explorer (MSIE).
 
 CIT has collaborated with linuxNUS to recruit testers for functional testing of IVLE 8 in non MSIE browsers.
 
