@@ -19,7 +19,7 @@ Yap Neng Giin
 TR6/SOC1
 7pm-8pm</strong>
 
-Ever wonder what Microsoft is doing in the way of an open source project? Yes, Microsoft does open source too. It's called CodePlex, and hosts thousands of open source projects in .NET, C# and Sharepoint, among other Microsoft languages. The community may be relatively new, but it's thrown up quite a few interesting projects like the Vista/XP Virtual Desktop Manager and My Web Pages Starter Kit - look them up at <a href="http://www.codeplex.com">http://www.codeplex.com</a>, or sign up to join the community!
+Ever wonder what Microsoft is doing in the way of an open source project? Yes, Microsoft does open source too. It's called CodePlex, and hosts thousands of open source projects in .NET, C# and Sharepoint, among other Microsoft languages. The community may be relatively new, but it's thrown up quite a few interesting projects like the Vista/XP Virtual Desktop Manager and My Web Pages Starter Kit - look them up at <a href="//www.codeplex.com">//www.codeplex.com</a>, or sign up to join the community!
 
 We've invited Microsoftie Yap Neng Giin - OK, he's an alumnus - to share a little bit about the CodePlex and to take your questions.
 

@@ -33,8 +33,8 @@ and RedDotRubyConf Singapore. He's also an open source contributor working with
 projects like Rails, Elixir, Spree and the Phoenix Framework.
 
 Recently, he has been working on The Little Elixir Guidebook
-(http://www.exotpbook.com), which will be published in the near future. Some of
-his writings can be found at http://www.sitepoint.com/author/btan/.
+(//www.exotpbook.com), which will be published in the near future. Some of
+his writings can be found at //www.sitepoint.com/author/btan/.
 
-More about him can be found at http://benjamintan.io, or on twitter at
+More about him can be found at //benjamintan.io, or on twitter at
 @bentanweihao

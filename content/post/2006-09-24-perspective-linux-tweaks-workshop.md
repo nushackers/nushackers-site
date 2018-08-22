@@ -18,7 +18,7 @@ The screen resolution was pretty small. It was probably around 800 X 600. Darn. 
 
 I quickly made a quick introduction and explained that I didn't have any slides. The objectives of the session was to share and troubleshoot configurations.
 
-You should have seen the -_- look on many faces. Shock. Surprise. Just plain stunned. Think NUS has yet to get used to the idea of <a title="unconferencing" href="http://money.cnn.com/2006/06/05/technology/business2_unconference0606/">unconferencing</a> yet.
+You should have seen the -_- look on many faces. Shock. Surprise. Just plain stunned. Think NUS has yet to get used to the idea of <a title="unconferencing" href="//money.cnn.com/2006/06/05/technology/business2_unconference0606/">unconferencing</a> yet.
 
 Anyway, the room was left with just 3 participants.
 
@@ -36,7 +36,7 @@ I sat next to David who had just entered the room. He is an exchange student fro
 
 I then walked over to Luqman, who was showing Jasir(I hope I got this right) Ubuntu using the livecd. Unfortunately, network was not up since openvpn was not installed. I wanted to install the packages manually. But looking at the list of dependencies, I decided that it was not productive. Besides, it is a livecd.
 
-I then turned to give a hand to Junhao, who was helping Anoj with his ATI 9200 graphics card configuration. While it seems that the display was fine. It gets pixelated when Anoj runs a 3D game. After googling, I directed him to the <a title="ATI Linux driver wiki" href="http://wiki.cchtml.com/index.php/Main_Page">ATI Linux driver wiki</a>.
+I then turned to give a hand to Junhao, who was helping Anoj with his ATI 9200 graphics card configuration. While it seems that the display was fine. It gets pixelated when Anoj runs a 3D game. After googling, I directed him to the <a title="ATI Linux driver wiki" href="//wiki.cchtml.com/index.php/Main_Page">ATI Linux driver wiki</a>.
 
 Anyway, he happens to be running an old version of Red Hat. Nothing wrong except that he had no yum. Junhao immediately recommended Centos, which was basically RHEL of sorts.
 

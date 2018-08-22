@@ -28,7 +28,7 @@ Venue: What's Next Studio, F11, Symbiosis Block, Fusionopolis</span></small><spa
 
 </span></big>
 <div><span style="color: #000000; font-size: small;">Simone looks forward to share with the audience on the latest trends on cloud computing, Amazon Web Services, and intricate details about Amazon S3. He will als</span><span style="color: #000000; font-size: small;">o have an open discussion following his presentation with the participants.</span></div>
-<strong>Registration: </strong><a href="http://apesnap.com/event/simonebrunozzi" target="_blank">http://apesnap.com/event/simonebrunozzi</a>.
+<strong>Registration: </strong><a href="//apesnap.com/event/simonebrunozzi" target="_blank">//apesnap.com/event/simonebrunozzi</a>.
 
 Organised by NUS Linux Users' Group and Azione Capital.</div>
 <div>
@@ -42,6 +42,6 @@ Organised by NUS Linux Users' Group and Azione Capital.</div>
 
 <span style="color: #000000; font-size: x-small;"><em>He joined Amazon.com in March 2008 in the role of Web Services Evangelist, traveling across Europe and vicinity to showcase the innovative new solutions by Amazon Web Services and to help developers build businesses and applications. He is following the “Cloud Computing” paradigm shift since 2006, and believes that it is going to replace the traditional computing model in a few years.</em></span>
 
-<span style="color: #000000; font-size: x-small;"><em>Of Italian origins, Simone loves traveling, meeting people, and connecting with them. He is a Linux and Ubuntu passionate, loves blogging on </em></span><span style="color: #000000;"><a href="http://www.brunozzi.com/" target="_blank"><span style="font-size: x-small;"><em><span style="text-decoration: underline;">www.brunozzi.com</span></em></span></a></span><span style="color: #000000; font-size: x-small;"><em>, and has interests in the environment, clean energies, and technology in general.</em></span>
+<span style="color: #000000; font-size: x-small;"><em>Of Italian origins, Simone loves traveling, meeting people, and connecting with them. He is a Linux and Ubuntu passionate, loves blogging on </em></span><span style="color: #000000;"><a href="//www.brunozzi.com/" target="_blank"><span style="font-size: x-small;"><em><span style="text-decoration: underline;">www.brunozzi.com</span></em></span></a></span><span style="color: #000000; font-size: x-small;"><em>, and has interests in the environment, clean energies, and technology in general.</em></span>
 
 <span style="color: #000000; font-size: x-small;"><em>Prior to joining Amazon, Simone had his own business focusing on web applications. He also served as a professor of Programming Languages and Compilers at Perugia University and worked as a network and system administrator at the University for Foreigners in Perugia. Simone has a Computer Science degree and spent six months at UC Irvine, California, where he studied the American approach to business and science. He gained early programming experience at the Ministry of Aerial Defense in Rome, Italy.</em></span></div>

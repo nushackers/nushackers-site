@@ -29,7 +29,7 @@ You would probably only need an updated modern browser (Chrome or Firefox), pref
 Having your favorite text editor, git and your usual development tools would be a plus.
 
 <strong>Speaker Profile:</strong>
-Among his many interests, he loves creative coding, photography, sports and classical music. He graduated from the school of computing, majored in information systems, and is also an alumni of the NUS Overseas College (SV) and the NUS Symphony Orchestra. After graduating, he joined the teaching staff for the CS3217 (software engineering with iPad). After which he started worked for a silicon valley startup before joining an award winning local startup Zopim (http://zopim.com) to help engineer their live chat product towards perfection. In his spare time, he explores realtime browser based experiments, as well as contributing to the open source community, including three.js.
+Among his many interests, he loves creative coding, photography, sports and classical music. He graduated from the school of computing, majored in information systems, and is also an alumni of the NUS Overseas College (SV) and the NUS Symphony Orchestra. After graduating, he joined the teaching staff for the CS3217 (software engineering with iPad). After which he started worked for a silicon valley startup before joining an award winning local startup Zopim (//zopim.com) to help engineer their live chat product towards perfection. In his spare time, he explores realtime browser based experiments, as well as contributing to the open source community, including three.js.
 
 <h3>Talk 2: Building a Distributed Web Crawler</h3>
 
@@ -44,8 +44,8 @@ Sivamani Varun is the founder of Semantics3. While not dabbling in technical thi
 
 ==============================
 
-Please sign up at <a href="http://bit.ly/friday-hacks">http://bit.ly/friday-hacks</a>
+Please sign up at <a href="//bit.ly/friday-hacks">//bit.ly/friday-hacks</a>
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see http://nushackers.org/fridayhacks/
-For more info on NUS Hackers, See: <a href="/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see //nushackers.org/fridayhacks/
+For more info on NUS Hackers, See: <a href="/about">//nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">//nushackers.org/</a>

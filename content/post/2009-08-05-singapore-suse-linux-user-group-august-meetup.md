@@ -32,4 +32,4 @@ We will talk about what is going to happen. The Hackfest, new releases and rpm p
 
 Also this time we will talk about SuseStudio we have a presenter.
 
-RSVP at <a href="http://www.meetup.com/Singapore-Suse-Linux-User-Group/calendar/10777513/t/nr1o_grp/">http://www.meetup.com/Singapore-Suse-Linux-User-Group/calendar/10777513/t/nr1o_grp/</a>
+RSVP at <a href="//www.meetup.com/Singapore-Suse-Linux-User-Group/calendar/10777513/t/nr1o_grp/">//www.meetup.com/Singapore-Suse-Linux-User-Group/calendar/10777513/t/nr1o_grp/</a>

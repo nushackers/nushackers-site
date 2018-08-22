@@ -12,7 +12,7 @@ aliases:
 
 If you're a team at Hack&amp;Roll, or if you're planning on just dropping by, here's a <a href="/img/2012/01/HackRollBriefing.pdf">participant briefing document</a> that we've prepared so you know what to expect at the event.
 
-You may follow the event on <a href="https://twitter.com/nushackers">Twitter</a>, <a href="http://www.facebook.com/pages/NUS-Hackers/164904410234667">Facebook</a> and <a href="https://plus.google.com/116062151863023912691/posts">Google+</a>, or follow the official hashtag: <a href="https://twitter.com/#!/search/%23hacknroll">#hacknroll</a>, on Twitter.
+You may follow the event on <a href="https://twitter.com/nushackers">Twitter</a>, <a href="//www.facebook.com/pages/NUS-Hackers/164904410234667">Facebook</a> and <a href="https://plus.google.com/116062151863023912691/posts">Google+</a>, or follow the official hashtag: <a href="https://twitter.com/#!/search/%23hacknroll">#hacknroll</a>, on Twitter.
 
 Participants will be getting <strong>Blackberry Door Gifts</strong>, and <strong>$25 AWS credits</strong>. If you're not participating, you're still welcomed to drop by and code - and enjoy the free food and caffeine! See you at <strong>COM1 Basement tomorrow</strong> at 1pm (to Monday 1pm). Non participants may drop in at any time!
 

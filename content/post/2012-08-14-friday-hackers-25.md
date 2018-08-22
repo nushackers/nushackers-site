@@ -24,7 +24,7 @@ This semester, we have weekly tech talks called 'Friday Hacks', as well a small 
 If you're interested in becoming a better programmer or hardware hacker, or if you're a person who already spends too much time programming for fun, we're probably the right place for you.
 
 More information:
-Website: <a href="">http://nushackers.org</a>
+Website: <a href="">//nushackers.org</a>
 Twitter: @nushackers
-Facebook: <a href="http://www.facebook.com/NUSHackers">http://www.facebook.com/NUSHackers</a>
+Facebook: <a href="//www.facebook.com/NUSHackers">//www.facebook.com/NUSHackers</a>
 Google+: <a href="https://plus.google.com/116062151863023912691/posts">https://plus.google.com/116062151863023912691/posts</a>

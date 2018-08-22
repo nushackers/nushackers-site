@@ -12,7 +12,7 @@ aliases:
 This post is about the various ways you can create a `Date` in JavaScript,
 both documented and undocumented, how it works under the hood, and the (maybe surprising) results you get.
 
-I first came across this while working on [NUSMods](http://v3.nusmods.com) and [Flow](https://flowtype.org) warned that passing an array of values to `Date` is not valid.
+I first came across this while working on [NUSMods](//v3.nusmods.com) and [Flow](https://flowtype.org) warned that passing an array of values to `Date` is not valid.
 However if you actually try it, say in `node` interpreter or in your browser's console, it works:
 
 ```
@@ -149,26 +149,26 @@ new Date([0])
 
 ## Arrays, primitive value, and default value
 
-So what's going on? A quick Google search turned up this [StackOverflow result](http://stackoverflow.com/questions/11291206/passing-an-array-to-the-javascript-date-constructor-is-it-standard).
+So what's going on? A quick Google search turned up this [StackOverflow result](//stackoverflow.com/questions/11291206/passing-an-array-to-the-javascript-date-constructor-is-it-standard).
 
 The answer mentions something about converting the argument into a primitive value by calling an internal method called `[[DefaultValue]]`,
 which converts the array into a string.
 
 I like how concise the article is, but I also felt that it will be instructive to dig deeper into the spec and also the source code.
 
-The relevant part of the ES5 spec is section [15.9.3.2](http://es5.github.io/#x15.9.3.2).
+The relevant part of the ES5 spec is section [15.9.3.2](//es5.github.io/#x15.9.3.2).
 It describes what to do when a single argument is passed to the Date constructor.
 
 > 1. Let v be `ToPrimitive(value)`
 
-The first step is to convert the input to a primitive value using `ToPrimitive`, which behavior is detailed in section [9.1](http://es5.github.io/#x9.1) of the same spec.
+The first step is to convert the input to a primitive value using `ToPrimitive`, which behavior is detailed in section [9.1](//es5.github.io/#x9.1) of the same spec.
 
 ![Section 9.1 of ES5 Spec - ToPrimitive Conversions](/img/2017/01/es5-9-1-toprimitive-conversions.png)
 
 Of the 6 types mentioned above, only `Object` is not a primitive value. So it needs be converted.
 
 An `array` in JavaScript is really an `object`, so this falls to the last case in the table, which is to "Return a default value for the Object" by calling `[[DefaultValue]]`.
-This is also detailed in the spec in section [8.12.8](http://es5.github.io/#x8.12.8).
+This is also detailed in the spec in section [8.12.8](//es5.github.io/#x8.12.8).
 
 The description slightly more involved than what we've seen, so in short, the `[[DefaultValue]]` of an `array` is the result of calling `toString()` on the `array`.
 

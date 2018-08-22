@@ -28,7 +28,7 @@ We haven't fully worked out the details of this project, but we <em>are</em> alr
 
 But the best thing about this is that it makes <em>perfect sense</em>. It's in line with <a href="/why">why we're doing all these things</a> at NUS Hackers, and whatever good comes of it will outlive the current coreteam. Plus:
 <ul>
-	<li><strong>You benefit.</strong> Anyone can join up - submit code, or report issues. And managing an open-source project is sure to be an eye-opening experience (one that's just as valid in the real world as the traditional software development cycle taught in the sterile conditions of school). Plus it's fun, plus everyone involved has<a href="http://www.aaronboodman.com/2010/10/wherein-i-help-you-get-good-job.html"> working code that helps when you're looking for a job</a>.</li>
+	<li><strong>You benefit.</strong> Anyone can join up - submit code, or report issues. And managing an open-source project is sure to be an eye-opening experience (one that's just as valid in the real world as the traditional software development cycle taught in the sterile conditions of school). Plus it's fun, plus everyone involved has<a href="//www.aaronboodman.com/2010/10/wherein-i-help-you-get-good-job.html"> working code that helps when you're looking for a job</a>.</li>
 	<li><strong>We benefit.</strong> We're interested in spreading the hacker culture. What better way to do that than to build things together?</li>
 	<li><strong>The world benefits.</strong> Open source code is available to everyone, so it's not just the non-profit organizations that win out. And it makes our lives easier when such organizations come to us for help with setting up their sites for them.</li>
 </ul>

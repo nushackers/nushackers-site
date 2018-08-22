@@ -23,7 +23,7 @@ So next semester, we will be focusing a lot on making applications, websites and
 
 Have a look at this to get what we mean - <a href="https://github.com/nushackers">https://github.com/nushackers</a>
 
-Just to give it a push - we will be closing down the hws@linuxnus.org method of reaching out to you and starting a separate mailing list for the Hack Workshops, discussions and all the cool stuff that we do. Join this mailing list here <a href="http://groups.google.com/group/nushackers">http://groups.google.com/group/nushackers</a> where its not just a one way communication of we guys sending you the details of the workshops etc. You can join in the discussions and get to meet a lot many interested souls who can collaborate on all sorts of interesting projects.
+Just to give it a push - we will be closing down the hws@linuxnus.org method of reaching out to you and starting a separate mailing list for the Hack Workshops, discussions and all the cool stuff that we do. Join this mailing list here <a href="//groups.google.com/group/nushackers">//groups.google.com/group/nushackers</a> where its not just a one way communication of we guys sending you the details of the workshops etc. You can join in the discussions and get to meet a lot many interested souls who can collaborate on all sorts of interesting projects.
 
 Also, we are planning to rename our group from linuxNUS to Hackers@NUS - we realized, we are more than just Linux :) We have lots of cool stuff in the pipeline for next semester. Join the mailing list to be in the loop for the activities. Came across an interesting link? let the CS42 know :P
 

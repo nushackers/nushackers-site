@@ -27,9 +27,9 @@ Hugo also provided a command line tool to migrate from Jekyll to Hugo, which mad
 
 ## Maintainable css
 
-Another feature that was lost was support for [SCSS](http://sass-lang.com/), a superset of CSS, which makes CSS easier to maintain.
+Another feature that was lost was support for [SCSS](//sass-lang.com/), a superset of CSS, which makes CSS easier to maintain.
 
-<img src="/img/2017/09/scss.png" alt="http://sass-lang.com/"/>
+<img src="/img/2017/09/scss.png" alt="//sass-lang.com/"/>
 
 We managed to add it back with a build process which also concurrently spawns the Hugo instance. The build process, written in a javascript library called Gulp, allowed us to work on styling the site where every change would automatically reload the browser to reflect the change. In this build process, we also included libraries Prettier and Stylelint-order, which auto-formatted SCSS. This meant we would never have to worry about how our SCSS code was written, creating stress-free code reviews.
 

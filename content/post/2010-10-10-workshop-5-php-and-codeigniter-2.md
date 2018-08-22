@@ -16,11 +16,11 @@ aliases:
 
 The fifth workshop in the Hack Workshop Series was the introduction to web programming language PHP and its light-weight framework - CodeIgniter.
 
-The slides for the workshop are available here : <a href="http://linuxnus.org/hack/files/PHP_CI.pdf">http://linuxnus.org/hack/files/PHP_CI.pdf</a>
+The slides for the workshop are available here : <a href="//linuxnus.org/hack/files/PHP_CI.pdf">//linuxnus.org/hack/files/PHP_CI.pdf</a>
 
-The notes application example that was shown during the workshop <a href="http://angad.sg/ci/">http://angad.sg/ci/</a>
+The notes application example that was shown during the workshop <a href="//angad.sg/ci/">//angad.sg/ci/</a>
 
-Source Code for it : <a href="http://angad.sg/ci/notes.tar.gz">http://angad.sg/ci/notes.tar.gz</a> github <a href="http://github.com/angad/Notes-webapp">http://github.com/angad/Notes-webapp</a>
+Source Code for it : <a href="//angad.sg/ci/notes.tar.gz">//angad.sg/ci/notes.tar.gz</a> github <a href="//github.com/angad/Notes-webapp">//github.com/angad/Notes-webapp</a>
 
 Do email at angad (d0t) singh (at) linuxnus (dot) org if you find any bugs. If you want to take this project further with AJAX, search and what-not features, go ahead.
 

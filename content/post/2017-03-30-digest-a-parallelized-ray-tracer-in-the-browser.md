@@ -10,7 +10,7 @@ aliases:
   - /2017/03/30/digest-a-parallelized-ray-tracer-in-the-browser/
 ---
 
-*This post was originally published at [staceytay.com](http://staceytay.com/2016/04/20/a-parallelized-ray-tracer-in-the-browser.html).*
+*This post was originally published at [staceytay.com](//staceytay.com/2016/04/20/a-parallelized-ray-tracer-in-the-browser.html).*
 
 This semester, I got a chance to write a ray tracer for my parallel
 programming class. I took this class because I thought it'd be fun to
@@ -30,7 +30,7 @@ particularly useful articles. The first,
 [Ray Tracing: Graphics for the Masses](https://www.cs.unc.edu/~rademach/xroads-RT/RTarticle.html),
 is a very readable and useful introduction to ray tracing's basic
 concepts and terminology. The second, a
-[narrative-style tutorial that implements a ray tracer in JavaScript](http://www.macwright.org/literate-raytracer/),
+[narrative-style tutorial that implements a ray tracer in JavaScript](//www.macwright.org/literate-raytracer/),
 focuses more on implementing an actual ray tracer in JavaScript.  It
 was especially helpful in demonstrating how to generate rays from a
 camera.
@@ -68,7 +68,7 @@ where GPU.js comes in.
 
 ## Parallelizing ray traces using GPU.js
 
-[GPU.js](http://gpu.rocks/) is an in-browser transpiler that
+[GPU.js](//gpu.rocks/) is an in-browser transpiler that
 transpiles a subset of JavaScript into
 [OpenGL Shading Language](https://en.wikipedia.org/wiki/OpenGL_Shading_Language)
 (GLSL). [Shading languages](https://en.wikipedia.org/wiki/Shading_language)
@@ -138,7 +138,7 @@ a surface a "matte" appearance and a mirror-like reflection
 respectively. I also like that the ray tracer runs in a browser, which
 allowed me to make an interactive ray tracer online. I thought Jingwen
 did a really great job in making his
-[ray tracer](http://raytracer.crypt.sg/) more interactive (you can
+[ray tracer](//raytracer.crypt.sg/) more interactive (you can
 move the camera and dynamically add more spheres in it). Additionally,
 when toggling between CPU and GPU mode, the differences in rendering
 speed is notable, so GPU.js was definitely helpful in making tracing
@@ -146,12 +146,12 @@ fast. I don't think it would have been as cool if the ray tracer
 wasn't fast enough to see the animations run smoothly. This has been
 an unexpected and unexpectedly fun assignment.
 
-[![](https://cloud.githubusercontent.com/assets/3874336/14634556/0b0d6102-0655-11e6-97eb-18a9fe1c7bdb.png)](http://staceytay.com/raytracer/)
+[![](https://cloud.githubusercontent.com/assets/3874336/14634556/0b0d6102-0655-11e6-97eb-18a9fe1c7bdb.png)](//staceytay.com/raytracer/)
 _A screenshot of my ray tracer, at
-<a href="http://staceytay.com/raytracer/">http://staceytay.com/raytracer/</a>._
+<a href="//staceytay.com/raytracer/">//staceytay.com/raytracer/</a>._
 
 ## References
 
 1. Ray Tracing: Graphics for the
    Masses. <https://www.cs.unc.edu/~rademach/xroads-RT/RTarticle.html>
-2. Raytracing. <http://www.macwright.org/literate-raytracer/>
+2. Raytracing. <//www.macwright.org/literate-raytracer/>

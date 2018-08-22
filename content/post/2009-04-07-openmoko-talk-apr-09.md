@@ -21,6 +21,6 @@ TR6/SOC1
 
 Before Google Android, there was openMoko. OpenMoko is a mobile phone project dedicated to offering users a complete open source software stack - from a 2.6 Linux kernel at its core to an X11 display at its front. While not many phones running OpenMoko have been released, it remains an exciting avenue for future development, at least to those of us who would like to see phones running almost like Linux desktops.
 
-Visit <a href="http://openmoko.com/">http://openmoko.com/</a> for more details, or come to our event on Apr 8 - this coming Wednesday - at 6.30pm, TR6 at <a href="http://linuxnus.org/locate-us/">SOC1 (just across the road from LT27)</a> to listen to Ole Tange share his experience with the openMoko system.
+Visit <a href="//openmoko.com/">//openmoko.com/</a> for more details, or come to our event on Apr 8 - this coming Wednesday - at 6.30pm, TR6 at <a href="//linuxnus.org/locate-us/">SOC1 (just across the road from LT27)</a> to listen to Ole Tange share his experience with the openMoko system.
 
 Feel free to hang out for dinner or supper afterwards with whoever's there!

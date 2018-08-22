@@ -27,4 +27,4 @@ For those of you who are interested to play a part in making this years Software
 
 Tom
 
-Source: <a href="http://www.meetup.com/sg-linux/calendar/10671131/">http://www.meetup.com/sg-linux/calendar/10671131/</a>
+Source: <a href="//www.meetup.com/sg-linux/calendar/10671131/">//www.meetup.com/sg-linux/calendar/10671131/</a>

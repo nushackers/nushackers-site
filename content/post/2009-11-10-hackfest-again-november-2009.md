@@ -26,7 +26,7 @@ Venue: <strong>RedHat Office</strong>
 8 Shenton Way #10-00, Singapore 068811
 Timing: <strong>1pm to 6pm</strong>
 Please fill out the form below
-<a href="http://tr.im/linuxnushackfest09" target="_blank">http://tr.im/linuxnushackfest09</a>
+<a href="//tr.im/linuxnushackfest09" target="_blank">//tr.im/linuxnushackfest09</a>
 or
 <a href="https://spreadsheets.google.com/viewform?formkey=dFlrY09IYnRCRHlNcTkxalRNeC1YQ3c6MA" target="_blank">https://spreadsheets.google.com/viewform?formkey=dFlrY09IYnRCRHlNcTkxalRNeC1YQ3c6MA</a>
 

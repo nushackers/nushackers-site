@@ -31,12 +31,12 @@ No prerequisites, but I'm happy to distribute the Python source for the hue trac
 <div><strong>Speaker Profile:</strong></div>
 <div>Mike is a news photographer and photo editor from the U.S. based in Singapore. He has previously worked in Hong Kong, Australia and Japan shooting all kinds of news including sport, politics, business, and entertainment. Mike discovered Python and the Arduino a year ago and since then has been making a nuisance of himself at the Hackerspace Singapore.</div>
 
-Remember to sign up at: <a href="http://bit.ly/friday-hacks" target="_blank">http://bit.ly/friday-hacks</a>
+Remember to sign up at: <a href="//bit.ly/friday-hacks" target="_blank">//bit.ly/friday-hacks</a>
 
 <strong>Location</strong>: COM1 SR3 [COM1/212]
 <strong>Time:</strong> 6pm - 9pm
-<strong>Free pizza and mingling @ 6pm, talks start at 7pm. You are welcome to stay and mingle (or hack!) after the talks.</strong>Please sign up at <a href="http://bit.ly/friday-hacks" target="_blank">http://bit.ly/friday-hacks</a>
+<strong>Free pizza and mingling @ 6pm, talks start at 7pm. You are welcome to stay and mingle (or hack!) after the talks.</strong>Please sign up at <a href="//bit.ly/friday-hacks" target="_blank">//bit.ly/friday-hacks</a>
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/" target="_blank">http://nushackers.org/<wbr>fridayhacks/</wbr></a>
-For more info on NUS Hackers? See: <a href="/about" target="_blank">http://nushackers.org/<wbr>about</wbr></a>
-For more Friday Hacks talks: <a href="/" target="_blank">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/" target="_blank">//nushackers.org/<wbr>fridayhacks/</wbr></a>
+For more info on NUS Hackers? See: <a href="/about" target="_blank">//nushackers.org/<wbr>about</wbr></a>
+For more Friday Hacks talks: <a href="/" target="_blank">//nushackers.org/</a>

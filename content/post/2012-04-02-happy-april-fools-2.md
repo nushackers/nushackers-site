@@ -18,7 +18,7 @@ If you'd visited our site yesterday, you would have seen a command line interfac
 
 They are guaranteed fun brainteasers, so give them a try. You might be able to solve them and win an iPad 3!
 
-<a href="/hackywin">http://nushackers.org/hackywin</a></blockquote>
+<a href="/hackywin">//nushackers.org/hackywin</a></blockquote>
 
 We gave three programming questions to people, all of which required solutions that worked under a minute and dealt with <em>all</em> cases to be correct. Here are the questions:
 
@@ -35,7 +35,7 @@ This was, of course, and April Fool's joke. When you clicked submit, you were re
 
 <blockquote><strong>Solution for Problem 2:</strong> Also known as the Bin Packing problem, this problem is combinatorially NP-hard. That said, optimal solutions to very large instances can be produced with sophisticated algorithms, and non-optimal ones also exist, such as the <strong>first fit algorithm</strong>. Because this question demands an optimal solution <em>for all cases</em>, no solution you provide will be correct given a 1 minute constrain and an arbitrary number of items, each of any size. (Well, if you had access to a supercomputer it might, but that's a tad too much ...) Read more at <a href="https://en.wikipedia.org/wiki/Bin_packing_problem">Wikipedia</a>!
 
-<strong>Solution for Problem 3:</strong> This problem, also known as the <a href="https://en.wikipedia.org/wiki/Steiner_tree_problem">Steiner tree problem</a>, is NP-hard for general <em>N</em> (which is exactly what this question was asking for)! In fact, an expression of this problem was among Karp's <strong>original 21 NP-complete problems</strong>. As an interesting aside, computer science folklore has long held that soap film, applied to a series of glass plates may solve this problem where computers may not. <a href="http://www.tjhsst.edu/~rlatimer/techlab06/Students/OuyangPaper06F.pdf">See this paper for more</a>.</blockquote>
+<strong>Solution for Problem 3:</strong> This problem, also known as the <a href="https://en.wikipedia.org/wiki/Steiner_tree_problem">Steiner tree problem</a>, is NP-hard for general <em>N</em> (which is exactly what this question was asking for)! In fact, an expression of this problem was among Karp's <strong>original 21 NP-complete problems</strong>. As an interesting aside, computer science folklore has long held that soap film, applied to a series of glass plates may solve this problem where computers may not. <a href="//www.tjhsst.edu/~rlatimer/techlab06/Students/OuyangPaper06F.pdf">See this paper for more</a>.</blockquote>
 
 We hope that you've spent some time thinking about Computer Science problems you might not have otherwise known of, and ...
 

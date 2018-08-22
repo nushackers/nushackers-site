@@ -27,8 +27,8 @@ We look forward to seeing you there!
 
 ==============================
 
-Please sign up at <a href="http://bit.ly/fridayhacks2013">http://bit.ly/fridayhacks2013</a>
+Please sign up at <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">http://nushackers.org/fridayhacks/</a>
-For more info on NUS Hackers, See: <a href="/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">//nushackers.org/fridayhacks/</a>
+For more info on NUS Hackers, See: <a href="/about">//nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">//nushackers.org/</a>

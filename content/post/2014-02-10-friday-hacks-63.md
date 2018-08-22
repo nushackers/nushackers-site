@@ -10,7 +10,7 @@ url: /2014/02/friday-hacks-63
 
 This Valentine's evening, we have a exciting talk by Hongyi Li about his past work on Google Spanner &amp; Image Search. See you!
 <blockquote><strong>Date/Time:</strong> Friday, February 14th at 6:30pm
-<strong>Venue:</strong> SR2, Education Resource Centre, University Town; <strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M
+<strong>Venue:</strong> SR2, Education Resource Centre, University Town; <strong>Map</strong>: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M
 </a><strong>Signup:</strong> Do <a href="https://docs.google.com/forms/d/1DALSwTkChkkg6TRlu1nTmWR4h3IhrbxxqRPoyQau9I0/viewform">sign up</a> for this week's talk so that we can prepare enough pizzas accordingly
 
 <strong>Free pizza is served before the talks.</strong></blockquote>

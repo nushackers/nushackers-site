@@ -26,9 +26,9 @@ Sayanee Basu is a full stack developer working with emerging web technologies
 at Ricoh Pte. Ltd. in Singapore. Her key interest lies in connecting the web
 and the internet to the physical world through sensors and hence, much of her
 free time is now spent in tinkering with electronics and computer networks. She
-creates [Build Podcast](http://build-podcast.com/), a screencast series on
+creates [Build Podcast](//build-podcast.com/), a screencast series on
 developer tools as well as actively contributes to the Singapore tech community
-through [curation of events, open source projects](http://webuild.sg/) at
-webuild.sg and a [developer focused podcast](http://live.webuild.sg/) with We Build LIVE. She graduated from National University of Singapore in Electrical Engineering.
+through [curation of events, open source projects](//webuild.sg/) at
+webuild.sg and a [developer focused podcast](//live.webuild.sg/) with We Build LIVE. She graduated from National University of Singapore in Electrical Engineering.
 
-You can find out more about her at http://sayan.ee!
+You can find out more about her at //sayan.ee!

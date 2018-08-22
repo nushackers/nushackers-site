@@ -11,19 +11,19 @@ url: /2011/09/friday-hacks-2
 
 Yesterday's Friday Hacks was huge. We had a turnout that stuffed Seminar Room 9, and when we had both the hacking and the speaking going on, people had barely any tables to sit at.
 
-{{< imglink src="http://farm7.static.flickr.com/6062/6132015806_26dc0ffd07.jpg" alt="IMG_1262" >}}
-{{< imglink src="http://farm7.static.flickr.com/6188/6131470651_613b675a79.jpg" alt="IMG_1263" >}}
+{{< imglink src="//farm7.static.flickr.com/6062/6132015806_26dc0ffd07.jpg" alt="IMG_1262" >}}
+{{< imglink src="//farm7.static.flickr.com/6188/6131470651_613b675a79.jpg" alt="IMG_1263" >}}
 
 This week we had James Yong over to give an informal talk on PCB etching for the first hour. The way we did it was that we had people who wanted to hack sit at the back (with earphones, and laptops, and so on), and people who wanted to listen-in sit in the front. A number of electrical engineering students came by just for the talk.
 
-{{< imglink src="http://farm7.static.flickr.com/6081/6131444051_9a8a6fbe21.jpg" alt="IMG_1249" >}}
-{{< imglink src="http://farm7.static.flickr.com/6065/6131455103_4745dbe9ac.jpg" alt="IMG_1253" >}}
-{{< imglink src="http://farm7.static.flickr.com/6072/6132000186_7086055c8d.jpg" alt="IMG_1252" >}}
+{{< imglink src="//farm7.static.flickr.com/6081/6131444051_9a8a6fbe21.jpg" alt="IMG_1249" >}}
+{{< imglink src="//farm7.static.flickr.com/6065/6131455103_4745dbe9ac.jpg" alt="IMG_1253" >}}
+{{< imglink src="//farm7.static.flickr.com/6072/6132000186_7086055c8d.jpg" alt="IMG_1252" >}}
 
-Later on in the session, we had Junhao, a linuxNUS alumni, come down to brief some members on building the cluster (more information <a href="http://nushackers.pbworks.com/w/page/45149434/Cluster%20Building">here</a>)
+Later on in the session, we had Junhao, a linuxNUS alumni, come down to brief some members on building the cluster (more information <a href="//nushackers.pbworks.com/w/page/45149434/Cluster%20Building">here</a>)
 
-{{< imglink src="http://farm7.static.flickr.com/6182/6132026236_2b8c1c2a5b.jpg" alt="IMG_1270" >}}
-{{< imglink src="http://farm7.static.flickr.com/6077/6131480181_44bf0e493a.jpg" alt="IMG_1271" >}}
+{{< imglink src="//farm7.static.flickr.com/6182/6132026236_2b8c1c2a5b.jpg" alt="IMG_1270" >}}
+{{< imglink src="//farm7.static.flickr.com/6077/6131480181_44bf0e493a.jpg" alt="IMG_1271" >}}
 
 <h3>Information about the PCB Talk</h3>
 The slides are available for download <a href="/downloads/pcb.pdf">here</a>, and James says that the following two items are available for purchase from him:
@@ -83,7 +83,7 @@ The rest of the Friday Hacks went smoothly, though with several bugs:
 <li>Informal tech talks are good, though we're still not sure how to reconcile the hacking and the speaking in the same room. Perhaps, with better table and chair placement, things would be better.</li>
 </ul>
 
-{{< imglink src="http://farm7.static.flickr.com/6184/6131460111_f002b8fff0.jpg" alt="IMG_1258" >}}
+{{< imglink src="//farm7.static.flickr.com/6184/6131460111_f002b8fff0.jpg" alt="IMG_1258" >}}
 
 Lastly, while it was good that we could get people passionate about programming together in the same room, what wasn't so cool was the fact that we barely knew the names of the other people, and what each person was working on. For instance, I sat down late in the event only to find myself next to a first year student who was writing a Lisp interpreter. For fun. That's the kind of cool thing we should all share about.
 

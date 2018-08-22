@@ -11,8 +11,8 @@ url: /2013/04/friday-hacks-46
 This week we have Dr Yiqun Hu and Alvin Jiang from PayPal Singapore R&D Lab. Dr Hu will be sharing with us an interesting research done on sound. Following that, Alvin will be sharing with us more about the work done in the R&D Lab in Singapore. Be sure to come down on Friday!
 
 <blockquote><strong>Date/Time:</strong> Friday, April 5 at 6:30pm
-<strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>
-<strong>Sign up here:</strong> <a href="http://bit.ly/fridayhacks2013">http://bit.ly/fridayhacks2013</a>
+<strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
+<strong>Sign up here:</strong> <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>
 <strong>Free pizza is served before the talks.</strong></blockquote>
 <h3>Talk 1: SWCode - A talk you can't hear (Dr Yiqun Hu and Alvin Jiang)</h3>
 
@@ -24,8 +24,8 @@ The PayPal Singapore R&D Lab (previously the Innovation Lab) was founded 5 years
 
 ==============================
 
-Please sign up at <a href="http://bit.ly/fridayhacks2013">http://bit.ly/fridayhacks2013</a>
+Please sign up at <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">http://nushackers.org/fridayhacks/</a>
-For more info on NUS Hackers, See: <a href="/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">//nushackers.org/fridayhacks/</a>
+For more info on NUS Hackers, See: <a href="/about">//nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">//nushackers.org/</a>

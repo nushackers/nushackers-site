@@ -17,7 +17,7 @@ Have you heard of Interoperability Group Singapore?
 
 Don't be surprise if you haven't. The inaugural meetup for this group has just taken place last week, and linuxNUS sent a small contingent to the event.
 
-From the <a href="http://www.meetup.com/Interoperability-Group-Singapore">meetup group</a> and <a href="http://www.facebook.com/group.php?gid=55216374175">facebook group</a>:
+From the <a href="//www.meetup.com/Interoperability-Group-Singapore">meetup group</a> and <a href="//www.facebook.com/group.php?gid=55216374175">facebook group</a>:
 
 <blockquote>This group is created to be a platform with feet in many worlds. In the good old times it used to be that every hard or software platform was unique and had no or badly defined connections with the other platforms. This was ok because it was not important....
 
@@ -33,9 +33,9 @@ If you want to be a part of this, or just want information. Come to us. We have 
 
 Just for the record, this is about technology.. not philosophy. We just want it to work, its business.</blockquote>
 
-Of course, there is always the post event dinner which was necessary to keep give us energy for hacking :) <a href="http://www.facebook.com/photo_search.php?oid=55216374175&view=all">More photos at the facebook album</a>.
+Of course, there is always the post event dinner which was necessary to keep give us energy for hacking :) <a href="//www.facebook.com/photo_search.php?oid=55216374175&view=all">More photos at the facebook album</a>.
 
 <div align="center">
-<img src="http://photos-b.ak.fbcdn.net/photos-ak-sf2p/v651/150/56/646067397/n646067397_1518561_2119408.jpg" width="540" height="405" alt="Dinner!!" />
+<img src="//photos-b.ak.fbcdn.net/photos-ak-sf2p/v651/150/56/646067397/n646067397_1518561_2119408.jpg" width="540" height="405" alt="Dinner!!" />
 
-<img src="http://photos-f.ak.fbcdn.net/photos-ak-sf2p/v651/150/56/646067397/n646067397_1518565_1572899.jpg" width="540" height="405" alt="O.o" />
+<img src="//photos-f.ak.fbcdn.net/photos-ak-sf2p/v651/150/56/646067397/n646067397_1518565_1572899.jpg" width="540" height="405" alt="O.o" />

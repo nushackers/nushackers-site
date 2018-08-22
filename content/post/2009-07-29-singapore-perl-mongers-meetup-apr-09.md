@@ -26,9 +26,9 @@ See you all there!
 cheers,
 Gaurav
 
-[1] <a href="http://www.earshot.com.sg/website/contact.asp">http://www.earshot.com.sg/website/contact.asp</a>
-[2] <a href="http://gothere.sg/directions#arts%20house">http://gothere.sg/directions#arts%20house</a>:
-[3] <a href="http://www.facebook.com/event.php?eid=148139276152">http://www.facebook.com/event.php?eid=148139276152</a>
+[1] <a href="//www.earshot.com.sg/website/contact.asp">//www.earshot.com.sg/website/contact.asp</a>
+[2] <a href="//gothere.sg/directions#arts%20house">//gothere.sg/directions#arts%20house</a>:
+[3] <a href="//www.facebook.com/event.php?eid=148139276152">//www.facebook.com/event.php?eid=148139276152</a>
 
 
-Source: <a href="http://tech.groups.yahoo.com/group/linuxNUS/message/4149">linuxNUS mailing list archives</a>
+Source: <a href="//tech.groups.yahoo.com/group/linuxNUS/message/4149">linuxNUS mailing list archives</a>

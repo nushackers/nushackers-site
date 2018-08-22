@@ -19,30 +19,30 @@ I will keep updating this list by any new I find. Drop me an email, or comment b
 
 <strong>Documentaries</strong>
 
-<a href="http://video.google.com/videoplay?docid=5464925144369700635#">[link]</a> The History of Hacking - Discovery Channel Documentary
+<a href="//video.google.com/videoplay?docid=5464925144369700635#">[link]</a> The History of Hacking - Discovery Channel Documentary
 
-<a href="http://video.google.com/videoplay?docid=-3498228245415745977#">[link]</a> The Code Linux
+<a href="//video.google.com/videoplay?docid=-3498228245415745977#">[link]</a> The Code Linux
 
-<a href="http://video.google.com/videoplay?docid=-327917776230690076#">[link]</a> Hackers: Outlaws and Angels
+<a href="//video.google.com/videoplay?docid=-327917776230690076#">[link]</a> Hackers: Outlaws and Angels
 
-<a href="http://www.youtube.com/watch?v=u404SLJj7ig">[link]</a> CodeRush - The Netscape Mozilla documentary
+<a href="//www.youtube.com/watch?v=u404SLJj7ig">[link]</a> CodeRush - The Netscape Mozilla documentary
 
-<a href="http://video.google.com/videoplay?docid=-6746139755329108302#">[link]</a> Freedom Downtime - The story of Kevin Mitnick
+<a href="//video.google.com/videoplay?docid=-6746139755329108302#">[link]</a> Freedom Downtime - The story of Kevin Mitnick
 
-<a href="http://video.google.com/videoplay?docid=-1508211417393454786#">[link]</a> The Google Documentary
+<a href="//video.google.com/videoplay?docid=-1508211417393454786#">[link]</a> The Google Documentary
 
 [suggested by Darren Teoh]
 
-<a href="http://video.google.com/videoplay?docid=7707585592627775409#">[link]</a> Revolution OS
+<a href="//video.google.com/videoplay?docid=7707585592627775409#">[link]</a> Revolution OS
 
-<a href="http://video.google.com/videoplay?docid=578348807380292081#">[link]</a> The Code Breakers
+<a href="//video.google.com/videoplay?docid=578348807380292081#">[link]</a> The Code Breakers
 
 <strong>Lectures</strong>
 
-<a href="http://www.youtube.com/watch?v=hFSPHfZQpIQ">[link]</a> The Secret History of Silicon Valley - by Steve Blank
+<a href="//www.youtube.com/watch?v=hFSPHfZQpIQ">[link]</a> The Secret History of Silicon Valley - by Steve Blank
 
-<a href="http://video.google.com/videoplay?docid=-1647626314188526128#">[link]</a> Richard Stallman of Free Software Foundation
+<a href="//video.google.com/videoplay?docid=-1647626314188526128#">[link]</a> Richard Stallman of Free Software Foundation
 
 <strong>Movies</strong>
 
-<a href="http://www.youtube.com/watch?v=xflXMZL2stU&amp;feature=related">[link]</a> Pirates of the Silicon Valley - a movie about Apple and Microsoft in their early days.
+<a href="//www.youtube.com/watch?v=xflXMZL2stU&amp;feature=related">[link]</a> Pirates of the Silicon Valley - a movie about Apple and Microsoft in their early days.

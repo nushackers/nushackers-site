@@ -23,7 +23,7 @@ You should find yourself a working electronics lab with a functioning set of too
 - soldering iron
 - oscilloscope
 
-You can access these tools at [Ida Labs @ NLB/NDC](https://www.ida.gov.sg/Programmes-Partnership/Store/IDA-Labs), [HackerspaceSG](https://hackerspace.sg), [Ground Up Intiative](http://groundupinitiative.org/), [One Maker Group](http://onemakergroup.sg) and [NUS Hackerspace](http://www.comp.nus.edu.sg/maps/venues/).
+You can access these tools at [Ida Labs @ NLB/NDC](https://www.ida.gov.sg/Programmes-Partnership/Store/IDA-Labs), [HackerspaceSG](https://hackerspace.sg), [Ground Up Intiative](//groundupinitiative.org/), [One Maker Group](//onemakergroup.sg) and [NUS Hackerspace](//www.comp.nus.edu.sg/maps/venues/).
 
 Try to find some money as electronics don't really come cheap :D
 
@@ -41,7 +41,7 @@ Time: [Couple of weeks - Months]
 
 #### Breadboarding
 
-Unless you're designing [something peculiar](http://electronics.stackexchange.com/questions/2103/when-to-avoid-using-a-breadboard), remember to breadboard your designs while laying the schematics out on the CAD software! This way you
+Unless you're designing [something peculiar](//electronics.stackexchange.com/questions/2103/when-to-avoid-using-a-breadboard), remember to breadboard your designs while laying the schematics out on the CAD software! This way you
 - have an idea of what connections need to be made
 - can iron out potential issues with individual components (incompatiblity, interferences, power requirements)
 
@@ -55,11 +55,11 @@ In terms of which CAD software to use, I'd recommend KiCad because it's
 
 Most PCB vendors ship your designs immediately to the board house. This means that you cannot edit your boards after submission. One of the most common issues with PCB design is alignment errors.
 
-You may want to check your PCBs for these issues with an online tool such as [webGerber](http://mayhewlabs.com/webGerber/).
+You may want to check your PCBs for these issues with an online tool such as [webGerber](//mayhewlabs.com/webGerber/).
 
 #### Sourcing Materials
 
-The best way to get your hands on some scrummy electronics is [Element14](http://sg.element14.com) and [Taobao](https://taobao.com). Google Translate is your best friend! [Aliexpress](https://www.aliexpress.com) too!
+The best way to get your hands on some scrummy electronics is [Element14](//sg.element14.com) and [Taobao](https://taobao.com). Google Translate is your best friend! [Aliexpress](https://www.aliexpress.com) too!
 
 A Bill Of Materials helps to keep track of your project materials and costs. Here's a [sample](https://docs.google.com/spreadsheets/d/1qAbk1U9EDFSMrGZ68tAHjeOSaGbgNGMX1J6-07fJV7c/edit?usp=sharing).
 
@@ -81,13 +81,13 @@ Time: [Month(s)]
 
 #### How many prototyping phases?
 
-Excluding breadboarding, you should have at least 2 prototyping phases. This way you can rectify any [wrinkles](http://twitter.com/zxcvgm/status/741057757533458433/photo/1?ref_src=twsrc%5Etfw) in your design.
+Excluding breadboarding, you should have at least 2 prototyping phases. This way you can rectify any [wrinkles](//twitter.com/zxcvgm/status/741057757533458433/photo/1?ref_src=twsrc%5Etfw) in your design.
 
 #### PCB vendors
 
 Most PCB vendors usually take on the order of a week to a month to fulfill your order. I'd recommend getting the rush option.
 
-You can test a variety of PCB vendors to see which one gives you the best bang for bucks. I'd recommend [OSHPark](https://oshpark.com/), [dirtyPCBs](http://dirtypcbs.com/) and [seeedstudio](https://www.seeedstudio.com/fusion_pcb.html).
+You can test a variety of PCB vendors to see which one gives you the best bang for bucks. I'd recommend [OSHPark](https://oshpark.com/), [dirtyPCBs](//dirtypcbs.com/) and [seeedstudio](https://www.seeedstudio.com/fusion_pcb.html).
 
 #### Making your first board
 
@@ -101,7 +101,7 @@ Understand the [chemistry](https://learn.adafruit.com/adafruit-guide-excellent-s
 
 ### Production/Assembly
 
-You can get away with soldering low component count boards (up to 5 boards). For added ease, you may consider [PCB.NG](http://pcb.ng/index.html).
+You can get away with soldering low component count boards (up to 5 boards). For added ease, you may consider [PCB.NG](//pcb.ng/index.html).
 
 For assemblies of more than 5 boards, I'd recommend getting PCB Assembly services like [seeedstudio's](https://www.seeedstudio.com/fusion_pcb.html) for peace of mind! Test your designs first as they may be hard to interpret at the assembler's side -> you may get parts in the wrong orientation or placement!
 
@@ -121,8 +121,8 @@ Time: [Couple of weeks - Month]
 
 ### Other resources
 
-There are many writeups of people in similar positions. Particularly from [Darell](http://irq5.io), [Sudharshan](https://makerforce.io/author/sudharshan/), [Bunnie](https://www.bunniestudios.com) and [vonger](http://vonger.cn).
+There are many writeups of people in similar positions. Particularly from [Darell](//irq5.io), [Sudharshan](https://makerforce.io/author/sudharshan/), [Bunnie](https://www.bunniestudios.com) and [vonger](//vonger.cn).
 
 Conorpp has a great [article](https://conorpp.com/2016/09/23/designing-and-producing-2fa-tokens-to-sell-on-amazon/) on producing a [USB authentication token](https://github.com/conorpp/u2f-zero) for the masses.
 
-[Andrew Yong](http://ndoo.sg) had great experiences building an [energy monitor](https://github.com/ndoo/Energy-Monitor-FeatherWing) using seedstudio's PCBA. Enclosures can be found [here](https://www.tinkercad.com/users/k08lOzHl3DM-andr3wyong).
+[Andrew Yong](//ndoo.sg) had great experiences building an [energy monitor](https://github.com/ndoo/Energy-Monitor-FeatherWing) using seedstudio's PCBA. Enclosures can be found [here](https://www.tinkercad.com/users/k08lOzHl3DM-andr3wyong).

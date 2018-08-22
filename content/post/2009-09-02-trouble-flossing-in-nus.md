@@ -14,7 +14,7 @@ All right, I'll cut right to the chase with this one, and won't pull any punches
 
 There. I've said it. Now I await the pitchforks.
 
-Before you toss me into the vat of boiling oil for heresy, however, hear me out. We've all been in this fix before. We <em>really, really,</em> want to use only open source software, but there are just so many things that stand in our way.  That YouTube video your friends are laughing over? That's proprietary Flash all right. That cool new game everyone's been playing? Chances are (<a href="http://linuxnus.org/2009/08/15/a-hon-y-night/">but not quite</a>),  that it runs only on Windows.
+Before you toss me into the vat of boiling oil for heresy, however, hear me out. We've all been in this fix before. We <em>really, really,</em> want to use only open source software, but there are just so many things that stand in our way.  That YouTube video your friends are laughing over? That's proprietary Flash all right. That cool new game everyone's been playing? Chances are (<a href="//linuxnus.org/2009/08/15/a-hon-y-night/">but not quite</a>),  that it runs only on Windows.
 
 Things get worse when you're put into situations that are completely out of your control. In NUS, we most often run into such situations in the courses that we take. Perhaps the lecturer wants the class to use some software that only available on a closed platform. Or he wants you to develop code in a proprietary language. Or perhaps he just <em>insists</em> on sending out <em>.pptx</em> files. <em>Every. Single. Time.</em>
 

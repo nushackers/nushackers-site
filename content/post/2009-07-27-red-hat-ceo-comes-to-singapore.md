@@ -30,4 +30,4 @@ Date: 31 July 2009 (Fri)
 Time: 6:30pm to 9:30pm
 Venue: Ngee Ann Auditorium, Asian Civilisations Museum, 1 Empress Place, Singapore 179555
 
-More details at <a href="http://opentalkwithjim.eventbrite.com">http://opentalkwithjim.eventbrite.com</a>/ and <a href="http://tdm.sg/events/infocommlive">http://tdm.sg/events/infocommlive</a>
+More details at <a href="//opentalkwithjim.eventbrite.com">//opentalkwithjim.eventbrite.com</a>/ and <a href="//tdm.sg/events/infocommlive">//tdm.sg/events/infocommlive</a>

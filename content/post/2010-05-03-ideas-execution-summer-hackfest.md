@@ -15,7 +15,7 @@ aliases:
 
 <strong>l</strong><strong>inuxNUS and HackerSpaceSG</strong> bring to you the Summer Hackfest  and this time we have bigger ideas in mind!
 
-<img src="http://www.comp.nus.edu.sg/~u0909118/9th_may.jpg" alt="Hackfest" />
+<img src="//www.comp.nus.edu.sg/~u0909118/9th_may.jpg" alt="Hackfest" />
 
 This time great ideas come together at a single place. You have 12hrs to develop anything, either with a team or individually. Share your ideas with others, form great teams and meet different people. You are free to develop anything, any idea that you have in mind - Android, iPhone, Web2.0, linux etc.
 
@@ -35,6 +35,6 @@ The event starts at 9am and ends at 9pm.
 
 Please register here. Please note that places are limited for the first 30 registrants. You will be informed by email :)
 
-<a href="http://bit.ly/9FNeyq">http://bit.ly/9FNeyq</a>
+<a href="//bit.ly/9FNeyq">//bit.ly/9FNeyq</a>
 
 Please feel free to drop by the IRC Channel or email us at contact@linuxnus.org

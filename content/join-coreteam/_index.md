@@ -10,10 +10,10 @@ NUS Hackers is run by a group of student volunteers - the coreteam. Our long ter
 
 Here's a brief overview of everything we run:
 
-- [Friday Hacks](http://nushackers.org)
-- [hackerschool](http://school.nushackers.org)
-- [Hack&Roll](http://hacknroll.nushackers.org)
-- [Code@NUS](http://code.nushackers.org)
+- [Friday Hacks](//nushackers.org)
+- [hackerschool](//school.nushackers.org)
+- [Hack&Roll](//hacknroll.nushackers.org)
+- [Code@NUS](//code.nushackers.org)
 - [Download@NUS](https://download.nus.edu.sg)
 - NUS Hackerspace
 

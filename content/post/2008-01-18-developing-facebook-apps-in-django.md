@@ -16,7 +16,7 @@ Details as follows:
 
 Date: 25 Jan, Friday
 Time: 630pm
-Venue: NUS, School of Computing 1, #03-17 [<a href="http://tinyurl.com/yopqdq" title="NUS School of Computing, Map">map</a>]
+Venue: NUS, School of Computing 1, #03-17 [<a href="//tinyurl.com/yopqdq" title="NUS School of Computing, Map">map</a>]
 
 Topic: Facebook Application Development with Django
 
@@ -28,11 +28,11 @@ One of our very own linuxNUS alumni, Harish will speak about developing Facebook
 
 Links:
 Django:
-<a href="http://djangoproject.org/" target="_blank" rel="nofollow">http://djangoproject.org</a>
+<a href="//djangoproject.org/" target="_blank" rel="nofollow">//djangoproject.org</a>
 
-Circos:<a href="http://circos.com/" target="_blank" rel="nofollow">
-http://circos.com</a>
+Circos:<a href="//circos.com/" target="_blank" rel="nofollow">
+//circos.com</a>
 
-<a href="http://nus.facebook.com/event.php?eid=9683633473" title="[linuxNUS] Developing Facebook Apps in Django">RSVP</a> (Facebook)
+<a href="//nus.facebook.com/event.php?eid=9683633473" title="[linuxNUS] Developing Facebook Apps in Django">RSVP</a> (Facebook)
 
 See you there!

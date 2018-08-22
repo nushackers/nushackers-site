@@ -16,7 +16,7 @@ aliases:
 
 <img class="alignleft size-full wp-image-992" title="FOSS Books" src="/img/2010/02/thumbDSC086971.JPG" alt="FOSS Books" width="300" height="225" />
 
-My favorite sections in the NUS Central Library is the TK5I05.885 and QA76.76 - all catering to the latest and old books on various Computer technologies. Last semester, I had to write an essay for the USP application on a topic that talks about my interest. And guess what, I wrote about  <a href="http://angad-sing.blogspot.com/2009/11/my-essay-for-usp-2nd-intake.html" target="_blank">Open Source</a>. I had to keep it non-technical as mainly Arts Professors would evaluate that. (Disclaimer : I did not get through USP :) ).
+My favorite sections in the NUS Central Library is the TK5I05.885 and QA76.76 - all catering to the latest and old books on various Computer technologies. Last semester, I had to write an essay for the USP application on a topic that talks about my interest. And guess what, I wrote about  <a href="//angad-sing.blogspot.com/2009/11/my-essay-for-usp-2nd-intake.html" target="_blank">Open Source</a>. I had to keep it non-technical as mainly Arts Professors would evaluate that. (Disclaimer : I did not get through USP :) ).
 
 So I looked up some books regarding the topics, and for that I had to look up in the above shelves of QA76.76. And there, sitting on the old shelves were the immense bundles of knowledge talking about the various aspects of Free and Open Source Software. I will be providing a list of books and locations at the end of this post so that any geek, passing the library can have a look at the areas.
 
@@ -30,7 +30,7 @@ I think its better to read the books altogether, rather me giving brief reviews 
 
 You can get a simple list of all the books with the Keyword - "Open Source" at LincNUS -
 
-<a href="http://linc.nus.edu.sg/search/Y?SEARCH=open+source&amp;searchscope=16&amp;SORT=D&amp;submit=Submit">http://linc.nus.edu.sg/search/Y?SEARCH=open+source&amp;searchscope=16&amp;SORT=D&amp;submit=Submit</a>
+<a href="//linc.nus.edu.sg/search/Y?SEARCH=open+source&amp;searchscope=16&amp;SORT=D&amp;submit=Submit">//linc.nus.edu.sg/search/Y?SEARCH=open+source&amp;searchscope=16&amp;SORT=D&amp;submit=Submit</a>
 
 Other Books, pertaining to FOSS, I will list :  There are even more in the above link, and more that I am looking out for. Will update the list soon.
 <table border="1" cellspacing="0" cellpadding="0" width="631">

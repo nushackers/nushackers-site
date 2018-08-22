@@ -128,9 +128,9 @@ accents, contextual alternatives, etc., all in a single,
 customer-friendly font file. Hence typographers have embraced
 OpenType. My favorite examples of the versatility of OpenType comes
 from
-[Kazuraki](http://www.imug.org/presentations/imug-lunde-09162010.pdf)
+[Kazuraki](//www.imug.org/presentations/imug-lunde-09162010.pdf)
 and
-[Zapfino Arabic](http://ilovetypography.com/2015/02/22/making-arabic-fonts-climbing-everest/).
+[Zapfino Arabic](//ilovetypography.com/2015/02/22/making-arabic-fonts-climbing-everest/).
 
 The XeTeX engine introduced compatibility with OpenType fonts.
 

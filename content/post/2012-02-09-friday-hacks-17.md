@@ -26,4 +26,4 @@ We're sorry to report that registration has closed for this talk, as we are over
 
 For those who have registered, see you there!
 
-<strong>Update</strong>: here are the <a href="https://docs.google.com/presentation/d/1iV7m06ojm6vEe2BYbROeYSS8O6irBdbkFHK7SwdklxM/edit?pli=1&ndplr=1#slide=id.p18">slides</a> for Kailash's Go talk, and the <a href="http://speakerdeck.com/u/andycroll/p/tdd-for-nus-hackers">slides</a> for Andy's TDD talk.
+<strong>Update</strong>: here are the <a href="https://docs.google.com/presentation/d/1iV7m06ojm6vEe2BYbROeYSS8O6irBdbkFHK7SwdklxM/edit?pli=1&ndplr=1#slide=id.p18">slides</a> for Kailash's Go talk, and the <a href="//speakerdeck.com/u/andycroll/p/tdd-for-nus-hackers">slides</a> for Andy's TDD talk.

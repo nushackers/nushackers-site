@@ -38,11 +38,11 @@ aliases:
 
 <p>You wouldn’t be done if you solved this problem, however. To truly protect Freedoms, you’d still have to come up with a protocol for importing and exporting friendships, and photos, and personal information. Ideally, you should find a way to convince Facebook to implement this protocol — something that’s going to be hard to do. And on top of that you’ll want to write a distributed social network that’s as bug-free as is feasibly possible.</p>
 
-<p>The good news is that hackers are already making some headway on this problem. The open alternative to Twitter is <a href="http://identi.ca/">Identi.ca</a>. The open alternative to Facebook is <a href="https://joindiaspora.com/">Diaspora</a>. If you are a hacker who cares about such things, you should probably consider contributing to both projects.</p>
+<p>The good news is that hackers are already making some headway on this problem. The open alternative to Twitter is <a href="//identi.ca/">Identi.ca</a>. The open alternative to Facebook is <a href="https://joindiaspora.com/">Diaspora</a>. If you are a hacker who cares about such things, you should probably consider contributing to both projects.</p>
 
 <p>The bad news, however, is that neither have figured out a way to solve the network problem. While they are still busy building out their platforms, Facebook and Twitter are growing at tremendous rates. Every new user they add to their site increases the overall value of their network; making it harder for new social networks to challenge existing giants.</p>
 
-<p>So the network problem is a big one. But I don’t think it’s impossible to solve. Paul Graham <a href="http://paulgraham.com/ambitious.html">suggests</a> that the right way to solve a big problem is to approach it indirectly. The way to create an alternative social network probably <em>isn’t</em> to say that you’ll create an alternative social network. The right way is to probably say that you’re building an <a href="https://about.me/">about.me</a>.</p>
+<p>So the network problem is a big one. But I don’t think it’s impossible to solve. Paul Graham <a href="//paulgraham.com/ambitious.html">suggests</a> that the right way to solve a big problem is to approach it indirectly. The way to create an alternative social network probably <em>isn’t</em> to say that you’ll create an alternative social network. The right way is to probably say that you’re building an <a href="https://about.me/">about.me</a>.</p>
 
 <p><strong>A Stallman For The Internet</strong></p>
 

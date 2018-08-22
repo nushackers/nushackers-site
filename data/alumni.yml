@@ -3,16 +3,16 @@ members:
   - name: Eli James/Cedric
     description: |
       a Computer Science undergraduate, and is responsible for <a
-      href="http://novelr.com">Novelr</a> and Pandamian. He loves ebook formats,
+      href="//novelr.com">Novelr</a> and Pandamian. He loves ebook formats,
       Python, and cats. (Well, and tea. Lots of tea.) <em>More about him at</em> <a
-      href="http://elijames.org">elijames.org</a>.
+      href="//elijames.org">elijames.org</a>.
 
   - name: Tay Ray Chuan
     description: |
       a software enthusiast and student, with interests as disparate as history
       and philosophy. In between ploughing through his tutorials, he hacks
       randomly, mainly in Python and JavaScript. In addition to <a
-      href="http://github.com/rctay">working on open-source</a>, he hopes to give
+      href="//github.com/rctay">working on open-source</a>, he hopes to give
       back to the community through his involvement in NUS Hackers.
 
   - name:  Omer Iqbal
@@ -26,7 +26,7 @@ members:
       a Computer Science undergraduate at NUS. His time is mostly split among web
       development, linux sys administration, and random hacks. Oh, and reading
       <em>interesting</em> books. <em>More about him at</em> <a title="Or, a
-      -really-long-domain-name.com" href="http://www.darora.com">darora.com</a>.
+      -really-long-domain-name.com" href="//www.darora.com">darora.com</a>.
 
   - name: Angad Singh
     description: |
@@ -34,7 +34,7 @@ members:
       in NUS and has been with it ever since. He codes to scratch itches, here and
       there. He also specializes in Embedded Systems with a varied interest in
       micro-controllers. He started the HackDay Series with the help of his team
-      in NUS. <em>More about him at</em> <a href="http://angad.sg">angad.sg</a>.
+      in NUS. <em>More about him at</em> <a href="//angad.sg">angad.sg</a>.
 
   - name: Shan
     description: |
@@ -55,7 +55,7 @@ members:
       a Computer Science undergraduate. He supports the idea of open source
       software, and is interested in learning more about anything <em>cool</em>.
       He is now into developing his first Android app. <em>More about him at</em>
-      <a href="http://about.me/lwheng">about.me/lwheng</a>
+      <a href="//about.me/lwheng">about.me/lwheng</a>
 
   - name: Shawn Tan
     description: |
@@ -67,23 +67,23 @@ members:
       a Computer Science undergraduate, and focuses mainly in the area of
       distributed systems and computer security. He is quite active in the
       Singaporean geek scene, and is one of the organisers of <a
-      href="http://geekcamp.sg">Geekcamp</a>. <em>More about him at</em> <a
-      href="http://www.geeksphere.net">geeksphere.net</a>.
+      href="//geekcamp.sg">Geekcamp</a>. <em>More about him at</em> <a
+      href="//www.geeksphere.net">geeksphere.net</a>.
 
   - name: Michael
     description: |
       a Computer Science undergraduate. <em>More about him at</em> <a
-      href="http://ymichael.com">ymichael.com</a>.
+      href="//ymichael.com">ymichael.com</a>.
 
   - name: Jerome
     description: |
       a Computer Science undergraduate. <em>More about him at</em> <a
-      href="http://www.ayulin.net" target="_blank">ayulin.net</a>.
+      href="//www.ayulin.net" target="_blank">ayulin.net</a>.
 
   - name: Camillus
     description: |
       a Computer Science undergraduate interested in information security.
-      <em>More about him at</em> <a href="http://www.qxcg.net/">qxcg.net</a>.
+      <em>More about him at</em> <a href="//www.qxcg.net/">qxcg.net</a>.
 
   - name: Benedict
     description: |
@@ -101,14 +101,14 @@ members:
       a Computer Science undergraduate who likes reading, mathematics, computer
       science, technology and Spongebob. He also likes to try out new stuff when
       he's free. <em>More about him at</em> <a
-      href="http://yjyao.com">yjyao.com</a>.
+      href="//yjyao.com">yjyao.com</a>.
 
   - name: Zhi An
     description: |
       a Computer Science undergraduate and also goes by Anzai. When he's not doing
       school work, he loves reading technology news (Hacker News is his favourite)
       and trying out new Linux distributions. <em>More about him at</em> <a
-      href="http://ngzhian.com/">ngzhian.com</a>.
+      href="//ngzhian.com/">ngzhian.com</a>.
 
   - name: Joey
     description: |
@@ -118,14 +118,14 @@ members:
     description: |
       a Computer Science undergraduate who loves trekking, philosophy, and tea.
       <em>More about him at </em><a
-      href="http://staceytay.com">staceytay.com</a><em>.</em>
+      href="//staceytay.com">staceytay.com</a><em>.</em>
 
   - name: Vishnu
     description: |
       a CS student who's interested in too many things at once. You can learn
       absolutely nothing more about him at his website <a
-      href="http://vishnuprem.com">vishnuprem.com</a>, but you can follow him
-      on <a href="http://twitter.com/burnflare">twitter</a>. He's contactable at
+      href="//vishnuprem.com">vishnuprem.com</a>, but you can follow him
+      on <a href="//twitter.com/burnflare">twitter</a>. He's contactable at
       <a href="mailto:vishnu@nushackers.org">vishnu@nushackers.org</a>.
 
   - name: Jeremias
@@ -135,14 +135,14 @@ members:
   - name: Chu-Ming
     description: |
       an Electrical Engineering undergraduate with an interest in Computer Science.
-      <em>More about him at</em> <a href="http://changchuming.github.io">changchuming.github.io</a>.
+      <em>More about him at</em> <a href="//changchuming.github.io">changchuming.github.io</a>.
 
   - name: Jingwen
     description: |
-      a Computer Science undergraduate. He’s interested in software engineering, programming languages, scalability, vim and techno. <em>He is on <a href="http://twitter.com/jin_">Twitter</a> and his personal site is at <a href="http://jin.crypt.sg">jin.crypt.sg</a></em>.
+      a Computer Science undergraduate. He’s interested in software engineering, programming languages, scalability, vim and techno. <em>He is on <a href="//twitter.com/jin_">Twitter</a> and his personal site is at <a href="//jin.crypt.sg">jin.crypt.sg</a></em>.
 
   - name: Harish V
     description: |
       a Computer Engineering undergraduate and tech enthusiast. Loves to explore the realms of software engineering and music.
-      <em>More information about him here: </em> <a href="http://harishv7.github.io">harishv7.github.io</a>.
+      <em>More information about him here: </em> <a href="//harishv7.github.io">harishv7.github.io</a>.
 

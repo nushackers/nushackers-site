@@ -22,6 +22,6 @@ Data Scientist Linus Lee will be speaking about tackling big data at one of the 
 <blockquote><strong>Date:</strong> Jan 24 2013
 <strong>Time:</strong> 6pm - 8pm
 <strong>Venue:</strong> Plugin@Blk71
-<strong>Sign up here:</strong> <a href="http://twitterdatascience.eventbrite.com/">http://twitterdatascience.eventbrite.com/</a></blockquote>
+<strong>Sign up here:</strong> <a href="//twitterdatascience.eventbrite.com/">//twitterdatascience.eventbrite.com/</a></blockquote>
 
 This event is co-organized by Plugin@Blk71, NUS Hackers and Infocomm Investments. We'll be hosting!

@@ -18,7 +18,7 @@ It reads like a good motto to me. Let’s break it apart to see what it means:
 
 2) Building stuff for fun is important because programming <em>should</em> be fun. (If it isn’t fun and you’re in Computing then you <em>might</em> have a problem.)
 
-3) Building stuff for experience is equivalent to ‘practice makes perfect’. We are told in school that the best way to become good at programming is to do lots of it. But building personal projects is also a rather useful trick to learning new things - for starters, you’ll bump against a lot of production-ready tools that you might not otherwise need when solving school-created problems. Also, building stuff is sometimes a good excuse <em>in itself</em> for learning new tools - e.g. the <a href="http://api.nushackers.org">unofficial CORS API</a> was used as an excuse to learn and deploy MongoDB.
+3) Building stuff for experience is equivalent to ‘practice makes perfect’. We are told in school that the best way to become good at programming is to do lots of it. But building personal projects is also a rather useful trick to learning new things - for starters, you’ll bump against a lot of production-ready tools that you might not otherwise need when solving school-created problems. Also, building stuff is sometimes a good excuse <em>in itself</em> for learning new tools - e.g. the <a href="//api.nushackers.org">unofficial CORS API</a> was used as an excuse to learn and deploy MongoDB.
 
 4) Doing it for glory is a raison d’être for NUS Hackers. The respect and attention of a close community is a powerful motivator for any student programmer. If we succeed in creating such a community, we will give our peers a reason to build things for their own benefit. Everyone wins in that scenario.
 

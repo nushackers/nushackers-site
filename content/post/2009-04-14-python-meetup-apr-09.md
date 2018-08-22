@@ -20,16 +20,16 @@ Location: SMU, SIS (School of Information System) NSR 2.2 (slight change in venu
 Agenda:
 
 <ul>
-	<li><a href="http://ipython.scipy.org/moin/">iPython</a> – Andrew Hadinyoto</li>
+	<li><a href="//ipython.scipy.org/moin/">iPython</a> – Andrew Hadinyoto</li>
 
-	<li><a href="http://us.pycon.org/">PyCon Chicago 2009</a> – Sharing – Liew Beng Keat, Morgan Heijdemann</li>
+	<li><a href="//us.pycon.org/">PyCon Chicago 2009</a> – Sharing – Liew Beng Keat, Morgan Heijdemann</li>
 
-	<li>An Ajax <a href="http://www.djangoproject.com/">Django</a> App with Revision Control Features using Myer's Algorithm - Calvin Cheng</li>
+	<li>An Ajax <a href="//www.djangoproject.com/">Django</a> App with Revision Control Features using Myer's Algorithm - Calvin Cheng</li>
 
 	<li>Lightning talks - Open Invitation</li>
 
 	<li>Snacks and Tea </li>
 
 </ul>
-<a href="http://www.facebook.com/board.php?uid=18063885304#/event.php?eid=71969819960&ref=ts">
+<a href="//www.facebook.com/board.php?uid=18063885304#/event.php?eid=71969819960&ref=ts">
 You can rsvp here</a>.

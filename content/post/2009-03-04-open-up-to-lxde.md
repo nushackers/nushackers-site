@@ -18,11 +18,11 @@ aliases:
 
 Hello friends of Open Source, and strangers round the world!
 
-You're all invited to NUS to listen to Mario Behling talk about <a href = "http://lxde.org/">LXDE</a> next Wednesday, 11 March! The talk will be held at the SOC1 building, in SR4 on the 6th level. Registration starts at 6.30pm; the event proper commences at 7. However, do leave us your particulars at <a href = "https://spreadsheets.google.com/viewform?formkey=cElNNV9yTk0xaS1sSDFtZW55TVJ6QWc6MA">http://linuxnus.org/registration/lxde</a> first!
+You're all invited to NUS to listen to Mario Behling talk about <a href = "//lxde.org/">LXDE</a> next Wednesday, 11 March! The talk will be held at the SOC1 building, in SR4 on the 6th level. Registration starts at 6.30pm; the event proper commences at 7. However, do leave us your particulars at <a href = "https://spreadsheets.google.com/viewform?formkey=cElNNV9yTk0xaS1sSDFtZW55TVJ6QWc6MA">//linuxnus.org/registration/lxde</a> first!
 
 <div align="center"><img src="/img/2009/03/lxde-logo.png" alt="lxde-logo" title="lxde-logo" width="150" height="150" class="aligncenter size-thumbnail wp-image-149" /></div>
 
-If you're on Facebook, there are more details <a href = "http://www.facebook.com/event.php?eid=66992256136">here!</a> ... Well, maybe you shouldn't come if you're a bit too strange... but who are we to judge, right? ;)
+If you're on Facebook, there are more details <a href = "//www.facebook.com/event.php?eid=66992256136">here!</a> ... Well, maybe you shouldn't come if you're a bit too strange... but who are we to judge, right? ;)
 
 ==============================================================
 Every Linux user would have heard of Gnome or KDE. But there are a lot of other desktop environments too! Why don't you try out LXDE?
@@ -46,18 +46,18 @@ Outline
 - News about LXDE
 - Google Summer of Code LXDE Projects
 - How to get involved in GSOC + LXDE
-- Wiki:<a href=" http://wiki.lxde.org/en/Google_Summer_of_Code_2009"> http://wiki.lxde.org/en/Google_Summer_of_Code_2009</a>
+- Wiki:<a href=" //wiki.lxde.org/en/Google_Summer_of_Code_2009"> //wiki.lxde.org/en/Google_Summer_of_Code_2009</a>
 - LXDE and Android
 - Other development opportunities in other FOSS projects
 
 
 About Mario Behling
-Mario Behling is a FOSS advocate known in the international FOSS community through his work for FOSS Bridge, Freifunk and LXDE. Mario, originally from Berlin, has lived in different countries in Asia, Europe and in Australia. He works with business and educational projects like the OLPC project in Afghanistan or FOSS Bridge in Vietnam, where he advises companies on open source business and internationalization strategies and organizes matchmaking events for SMEs. Mario was elected as the president of the LXDE Foundation in 2008. As an active community manager he promotes the LXDE community and coordinates the work of projects like the LXDE Translation Project. As part of his engagement in the free wireless freifunk community he maintains freifunk websites like the wiki (<a href="http://wiki.freifunk.net">wiki.freifunk.net</a>) and the global free wireless newswire (<a href="http://global.freifunk.net">global.freifunk.net</a>).
+Mario Behling is a FOSS advocate known in the international FOSS community through his work for FOSS Bridge, Freifunk and LXDE. Mario, originally from Berlin, has lived in different countries in Asia, Europe and in Australia. He works with business and educational projects like the OLPC project in Afghanistan or FOSS Bridge in Vietnam, where he advises companies on open source business and internationalization strategies and organizes matchmaking events for SMEs. Mario was elected as the president of the LXDE Foundation in 2008. As an active community manager he promotes the LXDE community and coordinates the work of projects like the LXDE Translation Project. As part of his engagement in the free wireless freifunk community he maintains freifunk websites like the wiki (<a href="//wiki.freifunk.net">wiki.freifunk.net</a>) and the global free wireless newswire (<a href="//global.freifunk.net">global.freifunk.net</a>).
 
 How to get to the venue:
 
-<a href="http://www.comp.nus.edu.sg/aboutsoc/location-cluster.shtml">http://www.comp.nus.edu.sg/aboutsoc/location-cluster.shtml</a>
+<a href="//www.comp.nus.edu.sg/aboutsoc/location-cluster.shtml">//www.comp.nus.edu.sg/aboutsoc/location-cluster.shtml</a>
 
-<a href="http://www.comp.nus.edu.sg/aboutsoc/map_photos/soc1.gif">http://www.comp.nus.edu.sg/aboutsoc/map_photos/soc1.gif</a>
+<a href="//www.comp.nus.edu.sg/aboutsoc/map_photos/soc1.gif">//www.comp.nus.edu.sg/aboutsoc/map_photos/soc1.gif</a>
 
-Update: <a href="http://linuxnus.org/2009/03/12/lxde-talk-mar-09-aftermath/">Photos and post talk dinner</a>
+Update: <a href="//linuxnus.org/2009/03/12/lxde-talk-mar-09-aftermath/">Photos and post talk dinner</a>

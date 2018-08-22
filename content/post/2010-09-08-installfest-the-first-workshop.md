@@ -22,7 +22,7 @@ Next topic was package installation through Synaptics Package Manager and throug
 
 The main aim of the workshop was to introduce to the look and feel of Ubuntu Linux and some basic Terminal commands. Those who are starting programming in the Linux environment for web applications would find it really helpful to practice some commands, google errors (if any) and try and find the solution of the problems they face. Otherwise we are always there to help.
 
-<a href="http://hack.linuxnus.org/files/Workshop_1.pdf">Here</a> is the material for the workshop.
+<a href="//hack.linuxnus.org/files/Workshop_1.pdf">Here</a> is the material for the workshop.
 
 You can ping us anytime coreteam (at) linuxnus (dot) org if you face any problem with setting up your Linux or any issue with drivers etc.
 

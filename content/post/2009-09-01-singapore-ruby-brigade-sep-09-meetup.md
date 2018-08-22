@@ -42,11 +42,11 @@ How to get there: From Cityhall MRT walk through City Link till the end and emer
 53B Boat Quay
 Singapore 049842
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=53+boat+quay+singapore&amp;sll=1.28711,103.849427&amp;sspn=0.007766,0.00912&amp;ie=UTF8&amp;ll=1.298679,103.853674&amp;spn=0.008034,0.00912&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=53+boat+quay+singapore&amp;sll=1.28711,103.849427&amp;sspn=0.007766,0.00912&amp;ie=UTF8&amp;ll=1.298679,103.853674&amp;spn=0.008034,0.00912&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=53+boat+quay+singapore&amp;sll=1.28711,103.849427&amp;sspn=0.007766,0.00912&amp;ie=UTF8&amp;ll=1.298679,103.853674&amp;spn=0.008034,0.00912&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="//maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=53+boat+quay+singapore&amp;sll=1.28711,103.849427&amp;sspn=0.007766,0.00912&amp;ie=UTF8&amp;ll=1.298679,103.853674&amp;spn=0.008034,0.00912&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 - Dress code -
 Whatever. Laptops as clothing accessories are welcomed.
 
 Please forward this to any geek friends who may benefit! Thanks!
 
-<a href="http://singaporerubybrigade.pbworks.com/FrontPage">Source</a>
+<a href="//singaporerubybrigade.pbworks.com/FrontPage">Source</a>

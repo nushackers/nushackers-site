@@ -28,9 +28,9 @@ Hackfest @ HackerspaceSG
 Date - 7th February, Sunday
 Time - 1.30pm to - 6pm
 Venue - HackerspaceSG, 70A Bussorah Street [3]</em></div>
-<div><em>[1] http://www.crisiscommons.org/</em></div>
-<div><em>[2] http://wiki.crisiscommons.org/wiki/Projects</em></div>
-<div><em>[3] http://hackerspace.sg/</em></div>
+<div><em>[1] //www.crisiscommons.org/</em></div>
+<div><em>[2] //wiki.crisiscommons.org/wiki/Projects</em></div>
+<div><em>[3] //hackerspace.sg/</em></div>
 <div></div>
-<div><em>You may want to register here :<a href="http://tinyurl.com/FebHackfest"> </a></em><a href="http://tinyurl.com/FebHackfest"><strong>http://tinyurl.com/FebHackfest</strong></a></div>
+<div><em>You may want to register here :<a href="//tinyurl.com/FebHackfest"> </a></em><a href="//tinyurl.com/FebHackfest"><strong>//tinyurl.com/FebHackfest</strong></a></div>
 </span></div>
