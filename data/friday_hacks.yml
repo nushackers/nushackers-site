@@ -1,73 +1,44 @@
-start_date: 2018-01-19 18:00:00 +0800
+start_date: 2018-08-24 18:00:00 +0800
 hacks:
-  - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
+  - venue: i-Cube Auditorium
     topics:
-      - speaker: "Herbert Ilhan Tanujaya"
-        from: "NUS Hackers"
-        title: "Editor War: Vim"
-      - speaker: "Jethro Kuan"
-        from: "NUS Hackers"
-        title: "Editor War: Emacs"
-  - nohack: "Hack & Roll 2018"
-  - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
+      - speaker: NUS Hackers
+        title: Welcome Tea
+  - venue: The HANGAR by NUS Enterprise
     topics:
-      - speaker: "Bunnie Huang and Dr Jie Qi"
-        from: "Chibitronics"
-        title: "Paper Electronic: Better for Electrons, Better for Expression"
-      - speaker: "Prof Tay Yong Chiang"
-        from: "NUS School of Computing"
-        title: "3 Projects on Computer System Performance"
-  - venue: "Seminar Room 1, Town Plaza, University Town (UT22-02-04A)"
+      - speaker: Jane Street
+        title: TBC
+  - venue: TBC
     topics:
-      - speaker: "Arun Sivakumar and Xyriz Tan"
-        from: "Circles.Life"
-        title: "Mobile Chatbots"
-      - speaker: "Lu Jia Hui"
-        from: "SAF"
-        title: "Using Recurrent Neural Networks in Anomaly Detection of Failures in UAV"
-  - nohack: "Lunar New Year"
-  - venue: "The Hangar by NUS Enterprise"
+      - speaker: Yi Li
+        from: GIC
+        title: Explore FinTech – A Practical Introduction to Systematic Investing
+      - speaker: Preston Lim, Joel Choo, Loh Liwei
+        from: GovTech
+        title: Project traintraintrain
+  - venue: TBC
     topics:
-      - speaker: "Parth Pokar"
-        from: "Maltem Consulting Group"
-        title: "A Gentle Introduction to Blockchain"
-  - nohack: "Recess Week"
-  - venue: "Seminar Room 3, NUS School of Computing (COM1-0212)"
+      - speaker: NUS Hackers Coreteam
+        title: Internships, and How to Get Them
+  - venue: TBC
     topics:
-      - speaker: "Joaquin Keller"
-        from: "Entrepreneur First"
-        title: "Scaling Virtual Worlds to Millions"
-      - speaker: "Johannes Choo"
-        from: "NUS Hackers"
-        title: "Hello Kube"
-  - venue: "Seminar Room 1, Town Plaza, University Town (UT22-02-04A)"
+      - speaker: Jack Ong, Wei Jian
+        from: Carousell
+        title: Carousell Data Science
+  - nohack: Recess Week
+  - nohack: Exam Week
+  - venue: The HANGAR by NUS Enterprise
     topics:
-      - speaker: "Omer"
-        from: "Sea Group"
-        title: "Intro to WebRTC"
-      - speaker: "Joseph Fitzsimons"
-        from: "Centre for Quantum Technologies"
-        title: "Introduction to Quantum Computing"
-  - venue: "The Hangar by NUS Enterprise"
+      - speaker: Jason Pitt
+        from: Cancer Science Institute
+        title: Cancer Genome Analysis at Scale
+  - venue: TBC
     topics:
-      - speaker: "Jean-Baptiste Kempf"
-        from: "VideoLAN Organization (VLC Media Player)"
-        title: "VLC, VideoLAN: an original open-source community"
-  - nohack: "Good Friday"
-  - venue: "The Hangar by NUS Enterprise"
+  - venue: TBC
     topics:
-      - speaker: "NUS Hackers Coreteam"
-        title: "Chit-chat with Coreteam"
-  - venue: "Seminar Room 1, Town Plaza, University Town (UT22-02-04A)"
+  - venue: TBC
     topics:
-      - speaker: "Jia Qing and Il Shan"
-        from: "Nurture.AI"
-        title: "A Deep Learning-based Recommender System for AI Papers"
-      - speaker: "Zhenwei"
-        from: "Shopee"
-        title: "Towards Flexible Granularity Intention Recognition"
-#  - venue:
-#    topics:
-#      - speaker:
-#        from:
-#        title:
+  - venue: "The HANGAR by NUS Enterprise"
+    topics:
+  - venue: TBC
+    topics:
