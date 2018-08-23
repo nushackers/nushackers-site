@@ -61,7 +61,7 @@ Here are some implementations online of Markov Models:
 
 1. [A Donald Trump tweet generator](https://filiph.github.io/markov/)
 
-2. [A generic text generator](http://projects.haykranen.nl/markov/demo/)
+2. [A generic text generator](//projects.haykranen.nl/markov/demo/)
 
 
 On a final note, text generation is just one application of Markov Models, they find applications in a large variety of spheres, such as the GeneMark algorithm for gene prediction, the Metropolis algorithm for measuring thermodynamical properties, and Google's PageRank algorithm.
@@ -69,12 +69,12 @@ On a final note, text generation is just one application of Markov Models, they 
 ## Sources
 
 1. NUS CS 2020 Problem Set
-2. [Princeton COS 126 Markov Model Assignment](http://www.cs.princeton.edu/courses/archive/spr05/cos126/assignments/markov.html)
+2. [Princeton COS 126 Markov Model Assignment](//www.cs.princeton.edu/courses/archive/spr05/cos126/assignments/markov.html)
 3. [Markov Chains - Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
-4. [Markov Chains explained visually](http://setosa.io/ev/markov-chains/)
+4. [Markov Chains explained visually](//setosa.io/ev/markov-chains/)
 
 
 [Markov Model]: https://en.wikipedia.org/wiki/Markov_model
 [stochastic process]: https://en.wikipedia.org/wiki/Stochastic_process
 [Markov Chain]: https://en.wikipedia.org/wiki/Markov_chain
-[A Mathematical Theory of Communication]: http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf
+[A Mathematical Theory of Communication]: //worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf

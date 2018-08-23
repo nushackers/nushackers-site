@@ -12,7 +12,7 @@ aliases:
 
 This week we have Andy Marks from ThoughtWorks on Continuous Delivery, and Calvin Cheng, from the robotics startup CtrlWorks on building a telepresence robot.
 
-Please sign up at <a href="http://bit.ly/friday-hacks">http://bit.ly/friday-hacks</a>
+Please sign up at <a href="//bit.ly/friday-hacks">//bit.ly/friday-hacks</a>
 <blockquote><strong>Location</strong>: COM1 SR3 [COM1/212]
 <strong>Time</strong>: 7pm - 9pm.
 <strong>Talks start promptly at 7pm. You are welcome to stay and mingle (or hack!) after the talks.</strong></blockquote>
@@ -35,8 +35,8 @@ Calvin has more than 15 years experience working on large scale software systems
 
 ==============================
 
-Please sign up at <a href="http://bit.ly/friday-hacks">http://bit.ly/friday-hacks</a>
+Please sign up at <a href="//bit.ly/friday-hacks">//bit.ly/friday-hacks</a>
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">http://nushackers.org/fridayhacks/</a>
-For more info on NUS Hackers, See: <a href="/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">//nushackers.org/fridayhacks/</a>
+For more info on NUS Hackers, See: <a href="/about">//nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">//nushackers.org/</a>

@@ -22,7 +22,7 @@ One of the good practices shared was the used of sanitised error pages, in which
 
 There was also a short discussion about the lack of data privacy law in Singapore. Meanwhile if one wishes to get personal information off the internet, a shared anecdote says that the best way is to "complain till the organisation can't take it anymore" :p
 
-Amongst the attendees, there was a student from Temasek Polytechnic who shared an upcoming security seminar in TP: <a href="http://allboutsecurity.wordpress.com">http://allboutsecurity.wordpress.com</a>
+Amongst the attendees, there was a student from Temasek Polytechnic who shared an upcoming security seminar in TP: <a href="//allboutsecurity.wordpress.com">//allboutsecurity.wordpress.com</a>
 
 Do post a reply if you are interested to go for the seminar and /or the next security meetup!
 

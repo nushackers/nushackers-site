@@ -14,7 +14,7 @@ url: /2013/01/friday-hacks-37
 <div>
 <div>
 <div><b>Date/Time:</b> Friday, January 16 at 6:30pm</div>
-<div><b>Venue:</b> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M" target="_blank">http://goo.gl/maps/2Zy3M</a></div>
+<div><b>Venue:</b> SR2, Education Resource Centre, University Town. Map: <a href="//goo.gl/maps/2Zy3M" target="_blank">//goo.gl/maps/2Zy3M</a></div>
 </div>
 <div><b>Free pizza is served before the talks.</b></div><br>
 </div>
@@ -22,7 +22,7 @@ url: /2013/01/friday-hacks-37
 <p><b>Talk 1: Coderippa, or how I built my first Ruby gem (Benjamin Tan, NUS Alumni)</b></p>
 <div></div>
 <div><b>Talk Description:</b></div>
-<p>Coderippa (<a href="http://code-rippa.heroku.com/" target="_blank">http://code-rippa.heroku.com/</a><wbr />) is a gem that turns any file or code directory into a beautiful, readable PDF ebook. Why did I built it? Well, we don't take the time to study the code written by the masters. I have absolutely no idea how vim works, neither do I know all the magic that goes behind Rails, or how Coffeescript is written in Coffeescript and Rubinus is written in Ruby ... You get the idea.</p>
+<p>Coderippa (<a href="//code-rippa.heroku.com/" target="_blank">//code-rippa.heroku.com/</a><wbr />) is a gem that turns any file or code directory into a beautiful, readable PDF ebook. Why did I built it? Well, we don't take the time to study the code written by the masters. I have absolutely no idea how vim works, neither do I know all the magic that goes behind Rails, or how Coffeescript is written in Coffeescript and Rubinus is written in Ruby ... You get the idea.</p>
 <p>CodeRippa is my attempt to make source code reading a more pleasurable experience, and help programmers get better at their craft. This talk covers the things I've learnt from building it.</p>
 <div></div>
 <div><b>Speaker Profile: </b></div>
@@ -33,14 +33,14 @@ url: /2013/01/friday-hacks-37
 <div><b>Speaker Profile:</b></div>
 <p>Cedric was formerly President of NUS Hackers, and considers himself a web developer. He likes green tea, Python, and cats.</p>
 <div>==============================</div>
-<div> Please sign up at <a href="http://bit.ly/fridayhacks2013" target="_blank">http://bit.ly/<wbr />fridayhacks2013</a></div>
+<div> Please sign up at <a href="//bit.ly/fridayhacks2013" target="_blank">//bit.ly/<wbr />fridayhacks2013</a></div>
 <div></div>
 <div>
 <div>
 <div dir="ltr">
 <div>
-<div>For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/" target="_blank">http://nushackers.org/<wbr />fridayhacks/</a></div>
-<div>For more info on NUS Hackers, See: <a href="/about" target="_blank">http://nushackers.org/<wbr />about</a></div>
+<div>For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/" target="_blank">//nushackers.org/<wbr />fridayhacks/</a></div>
+<div>For more info on NUS Hackers, See: <a href="/about" target="_blank">//nushackers.org/<wbr />about</a></div>
 <div>For more Friday Hacks talks: <a href="/" target="_blank">http:<wbr />//nushackers.org/</a></div>
 &nbsp;
 

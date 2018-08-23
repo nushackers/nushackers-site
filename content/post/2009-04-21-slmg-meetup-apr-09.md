@@ -33,4 +33,4 @@ More information to come, so please monitor this event for updates.
 
 Brought to you in co-operation with Open Source Software Society (OS3) of SMU
 
-<a href="http://www.meetup.com/sg-linux/calendar/10093898/?a=nr1p_grp">RSVP at the SLMG webpage</a>.
+<a href="//www.meetup.com/sg-linux/calendar/10093898/?a=nr1p_grp">RSVP at the SLMG webpage</a>.

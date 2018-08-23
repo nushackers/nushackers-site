@@ -10,7 +10,7 @@ aliases:
   - /2014/01/20/how-to-win-a-hackathon/
 ---
 
-<em>Camillus Cai was part of the 3 person team that won Hack&amp;Roll 2013, and later a part of the 4 person team that won 3rd place in PenApps Fall 2013, the largest student hackathon in the US (and possibly the world). He's now one of the organisers for <a href="http://hacknroll.nushackers.org/">Hack&amp;Roll 2014</a>.</em>
+<em>Camillus Cai was part of the 3 person team that won Hack&amp;Roll 2013, and later a part of the 4 person team that won 3rd place in PenApps Fall 2013, the largest student hackathon in the US (and possibly the world). He's now one of the organisers for <a href="//hacknroll.nushackers.org/">Hack&amp;Roll 2014</a>.</em>
 <p style="text-align: center;">{{< imglink src="/img/2014/01/417309_10150631790541726_697811725_9285897_1030864859_n.jpg" alt="Prizes, Hack&amp;Roll 2012" >}}</p>
 Are you dead serious about winning?
 
@@ -24,7 +24,7 @@ One corollary of this observation is that a highly detailed architecture-level a
 
 Time management is especially important in a hackathon because you have to get a lot of work done in very little time. One way of organising time is to divide the competition period into discreet phases of development like "setting up the stack", "prototyping", or "achieving a Minimum Viable Product". This is not dissimilar to the concept of code sprints, except that each sprint is as atomic as possible.
 
-Each phase should have a set of deliverables, and a reasonably accurate time frame for achieving them. At any point in time, you should be keenly aware of how your current phase is progressing, and not get distracted by additional details that you can only decisively deal with at a later time (the oft-quoted example of such a distraction is <a href="http://en.wikipedia.org/wiki/Program_optimization#When_to_optimize">premature optimisation</a>). When transitioning between phases, the entire team should stop to reevaluate the progress made so far in relation to the high level plan, making changes to the plan going forward as necessary.
+Each phase should have a set of deliverables, and a reasonably accurate time frame for achieving them. At any point in time, you should be keenly aware of how your current phase is progressing, and not get distracted by additional details that you can only decisively deal with at a later time (the oft-quoted example of such a distraction is <a href="//en.wikipedia.org/wiki/Program_optimization#When_to_optimize">premature optimisation</a>). When transitioning between phases, the entire team should stop to reevaluate the progress made so far in relation to the high level plan, making changes to the plan going forward as necessary.
 
 Polish in a hackathon product is unexpected, and if present in yours, scores an inordinate number of bonus points. If development is moving faster than expected, consider continuing by touching up on the look and feel of your product, rather than trying to extend its feature set. On the other hand, consider pivoting or rehashing the problem if you find that the team is consistently falling behind on the development schedule: the end state of a hackathon product is not immutable, and a simpler (or even different) product that works well will do far better in judging than a grandiose idea with a failed execution.
 <h2>Have a concept of operations</h2>
@@ -52,4 +52,4 @@ Remember that hackathons are supposed to be fun, and that each team is there for
 
 You are free to play this meta-game with other people dead serious about winning, but always be considerate and do not ruin the event experience for everyone else. Above all else, do not discourage people there to learn.
 
-<em>Whether you're <a href="/2014/01/tips-for-attending-a-hackathon-as-a-programming-newbie/">in it for learning</a>, or in it to win, you may find out more about Hack&amp;Roll 2014 at the following link: <a href="http://hacknroll.nushackers.org/">hacknroll.nushackers.org</a></em>
+<em>Whether you're <a href="/2014/01/tips-for-attending-a-hackathon-as-a-programming-newbie/">in it for learning</a>, or in it to win, you may find out more about Hack&amp;Roll 2014 at the following link: <a href="//hacknroll.nushackers.org/">hacknroll.nushackers.org</a></em>

@@ -42,7 +42,7 @@ url: /2012/03/friday-hacks-21
 </span>
 <div>
 <div>
-<div>Benjamin Scherrey (@proteusguy) is founder &amp; Chief Systems Architect of Proteus Technologies (<a href="http://proteus-tech.com/" target="_blank">http://proteus-tech.com/</a>), a company founded to demonstrate how one can create innovative software in Asia by Asians. By providing true technical career paths (which are practically non-existent in Asia) and implementing Agile concepts throughout every aspect of the company he did just that and now works diligently to help foster the technical startup scene in SEAsia. (<a href="http://bootcamp.jfdi.asia/mentors/benjamin-scherrey/">Read more...</a>)</div>
+<div>Benjamin Scherrey (@proteusguy) is founder &amp; Chief Systems Architect of Proteus Technologies (<a href="//proteus-tech.com/" target="_blank">//proteus-tech.com/</a>), a company founded to demonstrate how one can create innovative software in Asia by Asians. By providing true technical career paths (which are practically non-existent in Asia) and implementing Agile concepts throughout every aspect of the company he did just that and now works diligently to help foster the technical startup scene in SEAsia. (<a href="//bootcamp.jfdi.asia/mentors/benjamin-scherrey/">Read more...</a>)</div>
 <div></div>
 <div></div>
 </div><p>
@@ -92,7 +92,7 @@ url: /2012/03/friday-hacks-21
 </strong></div>
 <div>
 <div>
-<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="http://bit.ly/wEaPZn" target="_blank">http://bit.ly/wEaPZn</a></strong><p></div>
+<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="//bit.ly/wEaPZn" target="_blank">//bit.ly/wEaPZn</a></strong><p></div>
 </div>
 </div>
 </div>

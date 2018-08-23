@@ -1,6 +1,6 @@
 ---
 author: yujian
-author_link: 'http://yjyao.com'
+author_link: '//yjyao.com'
 categories:
   - Digest
 comments: true
@@ -78,12 +78,12 @@ That being said, this technique is still a hot research area, so it's not as mat
 ### Math and proof for static filters:
 
 <p>Akyildiz, Ian F, Weilian Su, Yogesh Sankarasubramaniam, and Erdal Cayirci. 2002. “A Survey on Sensor Networks.” <em>Communications Magazine, IEEE</em> 40 (8): 102–114.</p>
-<p>Olfati-Saber, R., J.A. Fax, and R.M. Murray. 2007. “Consensus and Cooperation in Networked Multi-Agent Systems.” <em>Proceedings of the IEEE</em> 95 (1): 215–233. doi:<a href="http://dx.doi.org/10.1109/JPROC.2006.887293">10.1109/JPROC.2006.887293</a>.</p>
+<p>Olfati-Saber, R., J.A. Fax, and R.M. Murray. 2007. “Consensus and Cooperation in Networked Multi-Agent Systems.” <em>Proceedings of the IEEE</em> 95 (1): 215–233. doi:<a href="//dx.doi.org/10.1109/JPROC.2006.887293">10.1109/JPROC.2006.887293</a>.</p>
 
 ### Consensus filter applying to Kalman Filter
 
-<p>Olfati-Saber, Reza. 2005. “Distributed Kalman Filter with Embedded Consensus Filters.” In <em>Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC ’05. 44th IEEE Conference on</em>, 8179–8184. doi:<a href="http://dx.doi.org/10.1109/CDC.2005.1583486">10.1109/CDC.2005.1583486</a>.</p>
+<p>Olfati-Saber, Reza. 2005. “Distributed Kalman Filter with Embedded Consensus Filters.” In <em>Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC ’05. 44th IEEE Conference on</em>, 8179–8184. doi:<a href="//dx.doi.org/10.1109/CDC.2005.1583486">10.1109/CDC.2005.1583486</a>.</p>
 
 ### Other dynamic filters:
-<p>Freeman, R.A., Peng Yang, and K.M. Lynch. 2006. “Stability and Convergence Properties of Dynamic Average Consensus Estimators.” In <em>Decision and Control, 2006 45th IEEE Conference on</em>, 338–343. doi:<a href="http://dx.doi.org/10.1109/CDC.2006.377078">10.1109/CDC.2006.377078</a>.</p>
+<p>Freeman, R.A., Peng Yang, and K.M. Lynch. 2006. “Stability and Convergence Properties of Dynamic Average Consensus Estimators.” In <em>Decision and Control, 2006 45th IEEE Conference on</em>, 338–343. doi:<a href="//dx.doi.org/10.1109/CDC.2006.377078">10.1109/CDC.2006.377078</a>.</p>
 <p>Spanos, D. P., R. Olfati-saber, and R. M. Murray. 2005. “Dynamic Consensus for Mobile Networks.”</p>

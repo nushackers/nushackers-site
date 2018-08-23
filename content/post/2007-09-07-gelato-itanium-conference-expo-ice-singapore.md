@@ -24,7 +24,7 @@ Date: 1-2 October 2007
 Time: 9:00 to 18:00
 Venue: The Matrix, Biopolis
 
-Additional conference information can be found at: <a href="http://www.ice.gelato.org/" target="_blank">http://www.ice.gelato.org</a>
+Additional conference information can be found at: <a href="//www.ice.gelato.org/" target="_blank">//www.ice.gelato.org</a>
 
 Organizers: The Gelato Federation
 
@@ -47,11 +47,11 @@ Xinmin Tian, Intel
 
 Registration:
 Registration for Gelato ICE Singapore 2007 is now open. Please use the form
-at <a href="http://www.ice.gelato.org/registration/index.php" target="_blank">http://www.ice.gelato.org/registration/index.php</a> to register. Early Bird
+at <a href="//www.ice.gelato.org/registration/index.php" target="_blank">//www.ice.gelato.org/registration/index.php</a> to register. Early Bird
 conference registration until Sept 7, 2007.
 
 Conference Agenda:
 The conference agenda is available at:
-<a href="http://www.ice.gelato.org/program/program.php" target="_blank">http://www.ice.gelato.org/program/program.php</a>
+<a href="//www.ice.gelato.org/program/program.php" target="_blank">//www.ice.gelato.org/program/program.php</a>
 
 Students get about 50% off the registration fees.

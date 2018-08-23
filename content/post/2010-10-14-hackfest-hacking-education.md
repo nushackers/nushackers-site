@@ -20,7 +20,7 @@ The theme of this Hackfest is <strong>"Hacking Education"</strong>. We're intere
 
 You're also welcomed to work on other ideas, of course, that aren't related to education. Or maybe carry forward a project from the workshops. We'll be happy to help you out with your execution, and we welcome team formation/participation.
 
-Register here for the Hackfest : <a href="http://bit.ly/cus6RD">http://bit.ly/cus6RD</a>
+Register here for the Hackfest : <a href="//bit.ly/cus6RD">//bit.ly/cus6RD</a>
 
 Venue : Hackerspace.SG 70A Bussorah Street Singapore
 Time : 10am to 6pm (drop in and out as you wish - it's up to you!)

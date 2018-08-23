@@ -10,7 +10,7 @@ url: /2013/08/friday-hacks-50
 
 This week we have a talk by Fazli Sapuan followed by a series of ad-hoc lightning talks by members of the community.
 <p style="padding-left: 30px;"><strong>Date/Time:</strong> Friday, Aug 30 at 6:30pm
-<strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>
+<strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 <strong>Free pizza is served before the talks.</strong></p>
 
 <h3>Talk: How I am stalking you – the NUS LDAP directory (Fazli Sapuan – Student)</h3>

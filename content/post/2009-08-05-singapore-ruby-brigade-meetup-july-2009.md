@@ -12,7 +12,7 @@ aliases:
   - /2009/08/05/singapore-ruby-brigade-meetup-july-2009/
 ---
 
-From the <a href="http://groups.google.com/group/singapore-rb/t/51a49c83931d34ad">mailing list of Singapore Ruby Brigade</a>:
+From the <a href="//groups.google.com/group/singapore-rb/t/51a49c83931d34ad">mailing list of Singapore Ruby Brigade</a>:
 
 -------------------------------------------------------------------------------
 SINGAPORE RUBY BRIGADE AUGUST 2009 MEETUP

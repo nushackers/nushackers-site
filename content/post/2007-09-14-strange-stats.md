@@ -10,7 +10,7 @@ aliases:
   - /2007/09/14/strange-stats/
 ---
 
-Was just checking out our Google Analytics stats the other day and found a very interesting trend. Second to Singapore (of course), the highest number of incoming visitors to our <a href="http://opensource.nus.edu.sg">Opensource Wiki</a> are from.... USA!
+Was just checking out our Google Analytics stats the other day and found a very interesting trend. Second to Singapore (of course), the highest number of incoming visitors to our <a href="//opensource.nus.edu.sg">Opensource Wiki</a> are from.... USA!
 
 The proof (darker areas show higher hits)
 

@@ -21,4 +21,4 @@ Let's all do something meaningful and help the less fortunate this Christmas! If
 
 All it takes from you is an email to contact @ linuxnus.org to register your interest to attend or donate! Include your contact number in the email. Do register your interest early because we have only 2 days left!
 
-More details can be found at the <a href="http://www.bbsgb.org.sg/ful.html">Boys Brigade Sharity Gift Box</a>
+More details can be found at the <a href="//www.bbsgb.org.sg/ful.html">Boys Brigade Sharity Gift Box</a>

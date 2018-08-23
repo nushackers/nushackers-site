@@ -1,6 +1,6 @@
 ---
 author: ymichael
-author_link: 'http://ymichael.com'
+author_link: '//ymichael.com'
 categories:
   - Digest
 comments: true
@@ -69,11 +69,11 @@ For instance, the distribution of keys might not be uniform among all machines (
 Another interesting approach is using 'Virtual Nodes', as described in Amazon's [Dynamo][] paper to overcome this problem.
 
 
-[Hash Table]: http://en.wikipedia.org/wiki/Hash_table
-[amortized]: http://en.wikipedia.org/wiki/Amortized_analysis
-[cache]: http://en.wikipedia.org/wiki/Cache_(computing)
-[DHT]: http://en.wikipedia.org/wiki/Distributed_hash_table
-[modulo]: http://en.wikipedia.org/wiki/Modulo_operation
-[Consistent Hashing]: http://en.wikipedia.org/wiki/Consistent_hashing
-[Cassandra]: http://cassandra.apache.org/
-[Dynamo]: http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html
+[Hash Table]: //en.wikipedia.org/wiki/Hash_table
+[amortized]: //en.wikipedia.org/wiki/Amortized_analysis
+[cache]: //en.wikipedia.org/wiki/Cache_(computing)
+[DHT]: //en.wikipedia.org/wiki/Distributed_hash_table
+[modulo]: //en.wikipedia.org/wiki/Modulo_operation
+[Consistent Hashing]: //en.wikipedia.org/wiki/Consistent_hashing
+[Cassandra]: //cassandra.apache.org/
+[Dynamo]: //www.allthingsdistributed.com/2007/10/amazons_dynamo.html

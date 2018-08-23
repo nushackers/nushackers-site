@@ -10,7 +10,7 @@ aliases:
   - /2013/01/22/hackerschool-by-nus-hackers/
 ---
 
-Following the success of last semester's workshops, we're happy to announce the return of <a title="hackerschool" href="http://school.nushackers.org"><b>hackerschool</b></a> this semester. The goal is the same: to teach tech skills in an easy manner, that will get people past the initial hurdle and give them the much-needed "push" into the world of hacking. This time round, we'll be running four workshops:
+Following the success of last semester's workshops, we're happy to announce the return of <a title="hackerschool" href="//school.nushackers.org"><b>hackerschool</b></a> this semester. The goal is the same: to teach tech skills in an easy manner, that will get people past the initial hurdle and give them the much-needed "push" into the world of hacking. This time round, we'll be running four workshops:
 <div></div>
 <div><b>1. Introduction to HTML5/CSS3</b>
 When: Saturday, 26 January 2013, 10am - 1pm
@@ -41,4 +41,4 @@ Where: Global Learning Room, Education Resource Centre, University TownWho: Begi
 <div>Details TBA</div>
 <div></div>
 </div>
-<div>Sign up now at <a href="http://school.nushackers.org/" target="_blank">http://school.nushackers.<wbr />org/</a></div>
+<div>Sign up now at <a href="//school.nushackers.org/" target="_blank">//school.nushackers.<wbr />org/</a></div>

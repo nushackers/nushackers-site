@@ -25,4 +25,4 @@ Here are some tips to ensure your recruiting ad passes a minimum standard of qua
 </ul>
 Thank you for reading this. Spending more time on your recruiting email helps us save time, which in turn helps you get the right kind of reactions you want for your recruitment ads.
 
-(revised with permission from <a href="http://alexeymk.com/recruiting-penn-engineers-intro-emails-that-d/"><em>Recruiting Penn Engineers: Getting Intro Emails Right</em></a> by Alexey Komissarouk)
+(revised with permission from <a href="//alexeymk.com/recruiting-penn-engineers-intro-emails-that-d/"><em>Recruiting Penn Engineers: Getting Intro Emails Right</em></a> by Alexey Komissarouk)

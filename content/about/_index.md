@@ -10,11 +10,11 @@ In the jargon of the computer programmer, a hacker is someone who strives to sol
 
 We have weekly meetups every Friday called [Friday Hacks](/fridayhacks/). They include one or two technical talks, followed by a hacking session.
 
-Every semester, we run a series of technical workshops called [hackerschool](http://school.nushackers.org/). We also run the Hack&amp;Roll hackathon in the second semester of the academic year. Our coreteam members contribute to events like LadyPy and Software Freedom Day.
+Every semester, we run a series of technical workshops called [hackerschool](//school.nushackers.org/). We also run the Hack&amp;Roll hackathon in the second semester of the academic year. Our coreteam members contribute to events like LadyPy and Software Freedom Day.
 
 We maintain and release open source code for the NUS community (see: our [code page](/code/)). Students and staff who have built NUS-specific projects and can no longer maintain them may come to us to host and maintain their code.
 
-We currently maintain [Download@NUS](http://download.nus.edu.sg/) We have a team working with the NUS Computer Centre to host linux mirrors.
+We currently maintain [Download@NUS](//download.nus.edu.sg/) We have a team working with the NUS Computer Centre to host linux mirrors.
 
 ## Philosophy
 

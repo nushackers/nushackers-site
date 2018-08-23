@@ -17,7 +17,7 @@ We’ll have a talk by Rahij on the work he did while at Groupon, followed by a 
 See you there!
 <blockquote><strong>Date/Time</strong>: Friday, March 7th at 6:30pm
 <strong>Venue</strong>: SR2, Education Resource Centre, University Town
-<strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>
+<strong>Map</strong>: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 <strong>Free pizza is served before the talks.</strong></blockquote>
 <h3>Talk 1: Designing and building out software architecture that scales.</h3>
 <strong>Talk Description:</strong>

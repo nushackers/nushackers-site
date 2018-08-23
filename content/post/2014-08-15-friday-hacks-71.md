@@ -30,8 +30,8 @@ Beng and Yang Shun will be sharing pointers and strategies on growing as a devel
 
 #### Speakers' Profile
 
-Eu Beng Hee (more commonly just known as Beng) and Tay Yang Shun are the developers behind [NUSMods](http://nusmods.com/).
+Eu Beng Hee (more commonly just known as Beng) and Tay Yang Shun are the developers behind [NUSMods](//nusmods.com/).
 
-Beng just graduated with a B.Comp. (Hons.) in Computer Science from NUS School of Computing and will be joining Google in August. He actually started university life with a double degree in Business and Computing in NTU, but transferred to NUS to concentrate solely on Computing. Beng founded NUSMods in 2012. More about him at [benghee.eu](http://benghee.eu).
+Beng just graduated with a B.Comp. (Hons.) in Computer Science from NUS School of Computing and will be joining Google in August. He actually started university life with a double degree in Business and Computing in NTU, but transferred to NUS to concentrate solely on Computing. Beng founded NUSMods in 2012. More about him at [benghee.eu](//benghee.eu).
 
 Yang Shun started university life as a mechanical engineer. He got turned off by mechanical engineering modules and jumped ship after semester 1 of his second year. The turning point came when he took CS3217 in the semester after. He then went to Silicon Valley for a year as part of NOC, starting out as an iOS developer before becoming a front end web developer. Yang Shun later took CS3216 in semester 1 of his fourth year and served as Head Tutor for CS1010S. He joined NUSMods in 2014.

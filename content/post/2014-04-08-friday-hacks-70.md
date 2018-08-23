@@ -19,7 +19,7 @@ The current system is capable of supporting a variety of business and product ne
 
 Technology stack: Ruby, Python, R, NodeJS, Golang, PostgreSQL, Java, Storm, Hadoop with Apache Hive.
 
-We are also looking for summer interns - http://bit.ly/viki-summer-internship .
+We are also looking for summer interns - //bit.ly/viki-summer-internship .
 
 We will talk more about our summer internship offers for students, what a typical intern’s life looks like and what works our past interns have done at the end of the talk.
 
@@ -33,8 +33,8 @@ Jason Grendus is Director of Analytics at Viki (a Rakuten company), a global TV 
 
 Harness the power of the cloud and ElasticSearch to create a flexible and scalable distributed infrastructure to store, analyze, and visualize large amounts of data! I will share my experience working with ElasticSearch and discuss various setup and configuration options. This talk will be useful for people who are relatively new to ElasticSearch and are interested in visualizing their application logs.
 
-Visit http://www.elasticsearch.org/ and get familiarized with elasticsearch, kibana, and logstash. Download these packages if you wish to setup your own installation, along with a recent Java Runtime and any web server (nginx, or node http-server)
+Visit //www.elasticsearch.org/ and get familiarized with elasticsearch, kibana, and logstash. Download these packages if you wish to setup your own installation, along with a recent Java Runtime and any web server (nginx, or node http-server)
 
 #### Speaker Profile
 
-Kok Hong has been with PayPal since 2011, working on analyzing and improving the performance of mid-tier services to read and manage users’ financial instrument information. He's been working with Linux systems since 1997! More information is available at his LinkedIn profile: http://www.linkedin.com/pub/kokhong-cheng/4/973/411
+Kok Hong has been with PayPal since 2011, working on analyzing and improving the performance of mid-tier services to read and manage users’ financial instrument information. He's been working with Linux systems since 1997! More information is available at his LinkedIn profile: //www.linkedin.com/pub/kokhong-cheng/4/973/411

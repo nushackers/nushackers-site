@@ -16,7 +16,7 @@ This week's Friday Hacks will be held at the Global Learning Room at the Educati
 Agenda: Informal talk by Vinnie Lauria (he says he'd love it if it were mostly QnA), and informal hacking.
 </blockquote>
 
-We'll be having Vinnie Lauria (@vlauria) from SV (Silicon Valley) speaking on the upcoming <a href="http://superhappydevhouse.sg/">SuperHappyDevHouse</a> that he's helped to bring from SV, as well as on hacking and entrepreneurship. Vinnie sold his startup Lefora.com not too long ago, and is now touring Asia (as well as checking Singapore's startup scene).
+We'll be having Vinnie Lauria (@vlauria) from SV (Silicon Valley) speaking on the upcoming <a href="//superhappydevhouse.sg/">SuperHappyDevHouse</a> that he's helped to bring from SV, as well as on hacking and entrepreneurship. Vinnie sold his startup Lefora.com not too long ago, and is now touring Asia (as well as checking Singapore's startup scene).
 
 Like James' talk on PCB fab last week, it'll be an informal session, so people who want to hack may do so at the back of the room.
 

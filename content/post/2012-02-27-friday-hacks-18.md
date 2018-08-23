@@ -16,8 +16,8 @@ url: /2012/02/friday-hacks-18
 <strong>- </strong><strong>Free pizza and mingling @ 6pm</strong>
 <strong>- </strong><strong>General hacking</strong> commences <strong>after talk</strong> - you're free to work on homework or personal projects, or ask for assistance from fellow programmers in attendance.</div>
 <p>
-<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="http://bit.ly/wEaPZn" target="_blank">http://bit.ly/wEaPZn</a></strong>
-<span>For </span><span>map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="../fridayhacks/" target="_blank">http://nushackers.org/<wbr>fridayhacks/</wbr></a></span></div>
+<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="//bit.ly/wEaPZn" target="_blank">//bit.ly/wEaPZn</a></strong>
+<span>For </span><span>map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="../fridayhacks/" target="_blank">//nushackers.org/<wbr>fridayhacks/</wbr></a></span></div>
 <div></div>
 <div><span>
 </span></div>
@@ -31,7 +31,7 @@ It's very easy and tempting, when working on javascript web apps, to come up wit
 <div></div>
 <p><div>Restore your sanity by giving your webapp a backbone to rest on with backbone.js (ohhh the puns, if you see them), a small 600-loc library that provides a basic model/view/router foundation to build upon. I'll be giving a quick walk-through of most of these features.</div>
 <div></div>
-<p><div>Take a look at some amazing real world use cases like <a href="http://www.linkedin.com/static?key=mobile">LinkedIn mobile</a>, <a href="http://www.documentcloud.org/public/search/">DocumentCloud</a>, <a href="http://www.getflow.com/">Flow</a> and more at http://backbonejs.org/#examples.</div>
+<p><div>Take a look at some amazing real world use cases like <a href="//www.linkedin.com/static?key=mobile">LinkedIn mobile</a>, <a href="//www.documentcloud.org/public/search/">DocumentCloud</a>, <a href="//www.getflow.com/">Flow</a> and more at //backbonejs.org/#examples.</div>
 </div>
 </div>
 </div>
@@ -42,7 +42,7 @@ It's very easy and tempting, when working on javascript web apps, to come up wit
 <span><span style="text-decoration: underline;"><strong><span>Pre-talk Prep:</span></strong></span></span>
 <div>
 <div><span><span>You should be able to understand basic Javascript. Recommended resource-'Javascript: The Good Parts' by Douglas Crockford.
-Bonus points if you understand <a href="http://coffeescript.org/">Coffeescript</a></span></span></div>
+Bonus points if you understand <a href="//coffeescript.org/">Coffeescript</a></span></span></div>
 <div></div><p>
 <span><strong><span style="text-decoration: underline;"><span>Speaker Profile:</span></span></strong>
 </span>

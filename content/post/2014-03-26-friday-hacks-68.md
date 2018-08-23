@@ -11,7 +11,7 @@ url: /2014/03/friday-hacks-68
 This friday, we have a talk by the awesome Beng Eu about he built NUSMods. See you there! (Also, a little birdie tells us that Jeff Moss <em>might</em> be attending FH this week :))
 <blockquote><strong>Date/Time</strong>: Friday, March 28th at 6:30pm
 <strong>Venue</strong>: SR2, Education Resource Centre, University Town
-<strong>Map</strong>: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>
+<strong>Map</strong>: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 <strong>Free pizza is served before the talks.</strong></blockquote>
 <h3>Talk: Lessons from Building NUSMods 2.0</h3>
 <strong>Talk Description:</strong>

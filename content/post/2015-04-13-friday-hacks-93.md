@@ -46,10 +46,10 @@ programming language. It has the following syntax:
 ```<exp> ::= <var> | (\<var> <exp>) | (<exp> <exp>)```
 
 In this talk, we will explore Church's Lambda Calculus via a series of demos
-based on Tromp's 2012 IOCCC winning entry: http://www.ioccc.org/2012/tromp/hint.html
+based on Tromp's 2012 IOCCC winning entry: //www.ioccc.org/2012/tromp/hint.html
 An unobfuscated version of the above is available at https://github.com/melvinzhang/binary-lambda-calculus and will be used for the demos in this talk.
 
 #### Speaker profile
 
 Melvin is an avid programmer who enjoys designing and implementing novel
-algorithms.  As the lead architect of [Cosmiqo](http://cosmiqo.com/), Melvin is in charge of developing its sensor data aggregation and analytics platform. In his spare time, Melvin works on the AI for [Magarena](https://magarena.github.io/), an open source card game project.  Melvin received his B. Comp (Hons) and Ph.D. degrees from NUS School of Computing.
+algorithms.  As the lead architect of [Cosmiqo](//cosmiqo.com/), Melvin is in charge of developing its sensor data aggregation and analytics platform. In his spare time, Melvin works on the AI for [Magarena](https://magarena.github.io/), an open source card game project.  Melvin received his B. Comp (Hons) and Ph.D. degrees from NUS School of Computing.

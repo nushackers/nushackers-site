@@ -37,7 +37,7 @@ I hope to see you there!
 Warmly,
 Ced
 
-PS: Our goal in this scenario is to build up to a stage where we can do Startup School, similar to what YCombinator does in the Valley - <a href="http://startupschool.org/">http://startupschool.org/</a>
+PS: Our goal in this scenario is to build up to a stage where we can do Startup School, similar to what YCombinator does in the Valley - <a href="//startupschool.org/">//startupschool.org/</a>
 
 We're not sure if this is a good idea yet, so we're doing this small-scale event as a data gathering exercise. If you like free food, TED-style inspiring talks and some mingling with hackers who have started companies, do drop by and support this. :)
 

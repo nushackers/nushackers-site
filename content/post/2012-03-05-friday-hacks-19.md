@@ -42,7 +42,7 @@ Mani Krishnamurthy: "My talk will be an introduction to development on the Wind
 <div>
 <div>
 <div>
-<div><span><span>Mohit shall be talking about his contribution to the Mozilla Open Source project, specifically towards Thunderbird, the email client which happens to be now the default email client on Ubuntu Unity :) and the mozilla calendar project. He will discuss about issues related to syncing which was the functionality added to Lightning 1.0  official release of the Mozilla Calendar extension. He will be covering issues to look out for when writing for client server syncing services. Also he will consider the syncing issues encountered during a project to port dropbox like syncing service for IVLE.</span></span><p><span style="text-decoration: underline;"><strong>Pre-talk Prep Tips:</strong></span><br>More details here <a href="https://github.com/creativepsyco/unofficial-dropbox/" target="_blank">https://github.com/<wbr>creativepsyco/unofficial-<wbr>dropbox/</wbr></wbr></a> and <a href="http://wiki.nus.edu.sg/display/ivlefilesync/" target="_blank">http://wiki.nus.<wbr>edu.sg/display/ivlefilesync/</wbr></a>
+<div><span><span>Mohit shall be talking about his contribution to the Mozilla Open Source project, specifically towards Thunderbird, the email client which happens to be now the default email client on Ubuntu Unity :) and the mozilla calendar project. He will discuss about issues related to syncing which was the functionality added to Lightning 1.0  official release of the Mozilla Calendar extension. He will be covering issues to look out for when writing for client server syncing services. Also he will consider the syncing issues encountered during a project to port dropbox like syncing service for IVLE.</span></span><p><span style="text-decoration: underline;"><strong>Pre-talk Prep Tips:</strong></span><br>More details here <a href="https://github.com/creativepsyco/unofficial-dropbox/" target="_blank">https://github.com/<wbr>creativepsyco/unofficial-<wbr>dropbox/</wbr></wbr></a> and <a href="//wiki.nus.edu.sg/display/ivlefilesync/" target="_blank">//wiki.nus.<wbr>edu.sg/display/ivlefilesync/</wbr></a>
 <span>
 </span>
 
@@ -65,7 +65,7 @@ Mani Krishnamurthy: "My talk will be an introduction to development on the Wind
 </strong></div>
 <div>
 <div>
-<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="http://bit.ly/wEaPZn" target="_blank">http://bit.ly/wEaPZn</a></strong></div>
+<div><strong>Do let us know if you are coming so that we can prepare enough food and space for everyone: <a href="//bit.ly/wEaPZn" target="_blank">//bit.ly/wEaPZn</a></strong></div>
 </div>
 </div>
 </div>

@@ -55,6 +55,6 @@ Here is a list of Workshop topics (stay tuned for updates on the Workshop schedu
 	<li><span style="font-size: small;">Designing with GIMP/Photoshop</span></li>
 </ul>
 <span style="font-size: small;">
-You can preregister with us for the workshops here and more news -<a href="http://bit.ly/baD3dP" target="_blank"> http://bit.ly/baD3dP</a></span>
+You can preregister with us for the workshops here and more news -<a href="//bit.ly/baD3dP" target="_blank"> //bit.ly/baD3dP</a></span>
 
 If you think you can contribute to the initiative you can contact us at coreteam(at)linuxNUS(dot)org with suggestions for topics or speakers.

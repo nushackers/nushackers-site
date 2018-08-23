@@ -10,7 +10,7 @@ aliases:
   - /2009/04/23/codeandroid-is-up/
 ---
 
-The <a href="http://www.codeandroid.org/">codeandroid</a> guys now have their very own IRC channel on Freenode. linuxNUS is pleased to be <a href="http://opensource.nus.edu.sg/ca_irc/logs/">hosting the logs for #codeandroid.</a>
+The <a href="//www.codeandroid.org/">codeandroid</a> guys now have their very own IRC channel on Freenode. linuxNUS is pleased to be <a href="//opensource.nus.edu.sg/ca_irc/logs/">hosting the logs for #codeandroid.</a>
 
 The following is a message from their FB group:
 
@@ -21,7 +21,7 @@ We have set up our IRC channel at #CodeAndroid on irc.freenode.net where develop
 Cheers
 From CodeAndroid Team
 
-If you do not have an IRC client, you can log in at http://www.codeandroid.org/chat-on-codeandroid/
+If you do not have an IRC client, you can log in at //www.codeandroid.org/chat-on-codeandroid/
 
 IRC Settings:
 Channel: #CodeAndroid

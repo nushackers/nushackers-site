@@ -10,8 +10,8 @@ url: /2013/02/friday-hacks-40
 
 This week we have Michael Rawlinson, who will share with us the job prospects in the UK. Those interested in the Interactive Entertainment Industry should definitely come for the talk!
 <blockquote><strong>Date/Time:</strong> Friday, February 8 at 6:30pm
-<strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="http://goo.gl/maps/2Zy3M">http://goo.gl/maps/2Zy3M</a>
-<strong>Sign up here:</strong> <a href="http://bit.ly/fridayhacks2013">http://bit.ly/fridayhacks2013</a>
+<strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
+<strong>Sign up here:</strong> <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>
 <strong>Free pizza is served before the talks.</strong></blockquote>
 <h3>Talk 1: Interactive entertainment is a worldwide market; hear a perspective from
 the other side of the world – the UK. (Michael Rawlinson, Founder of "Grad in Games", ex-CEO of UKIE)</h3>
@@ -33,7 +33,7 @@ Other highlights include:
 the creation of the first Pan-European content classification system – PEGI (www.pegi.info ),
 </li>
 <li>
-establishing an accreditation scheme for undergraduate degree courses in video games programming and video games art and animation via Creative Skillset, (http://www.creativeskillset.org/games/accreditation/ ),
+establishing an accreditation scheme for undergraduate degree courses in video games programming and video games art and animation via Creative Skillset, (//www.creativeskillset.org/games/accreditation/ ),
 </li>
 <li>
 establishing PEGI as the legal system for video games classification in the UK
@@ -48,8 +48,8 @@ Michael is currently working on a new business venture, Grads In Games with the 
 
 ==============================
 
-Please sign up at <a href="http://bit.ly/fridayhacks2013">http://bit.ly/fridayhacks2013</a>
+Please sign up at <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>
 
-For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">http://nushackers.org/fridayhacks/</a>
-For more info on NUS Hackers, See: <a href="/about">http://nushackers.org/about</a>
-For more Friday Hacks talks: <a href="/">http://nushackers.org/</a>
+For a map, more details, as well as guidelines on giving a talk on Friday Hacks, see <a href="/fridayhacks/">//nushackers.org/fridayhacks/</a>
+For more info on NUS Hackers, See: <a href="/about">//nushackers.org/about</a>
+For more Friday Hacks talks: <a href="/">//nushackers.org/</a>

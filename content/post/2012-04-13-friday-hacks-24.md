@@ -10,7 +10,7 @@ url: /2012/04/friday-hacks-24
 
 We have talks by<strong> Owen Jones</strong> (from Google) and <strong>Andras Kristof</strong> on the 13th of April 2012. Feel free to spread the word—and the email—to hackers, coders, and anyone who might be interested but isn't in the mailing list. Please note that registration is required.
 
-<img class="aligncenter" title="Google_Logo" src="http://upload.wikimedia.org/wikipedia/commons/3/30/Googlelogo.png" alt="Googol" width="330" height="112" />
+<img class="aligncenter" title="Google_Logo" src="//upload.wikimedia.org/wikipedia/commons/3/30/Googlelogo.png" alt="Googol" width="330" height="112" />
 
 <strong>Talk 1 : The Python Programming Language</strong>
 
@@ -30,16 +30,16 @@ building websites and web applications using technologies such as
 Python, JavaScript and HTML/CSS.
 
 <strong>Andras Kristof</strong> is the VP of Engineering at Viki
-More: http://sg.linkedin.com/in/andraskristof
+More: //sg.linkedin.com/in/andraskristof
 
 <strong>Date</strong>: 13th April 2012
 <strong>Time</strong>: 6pm
-<strong>Venue</strong>: Seminar room 2 @ University Town. map: <a title="http://bit.ly/HoKFBW" href="http://bit.ly/HoKFBW" target="_blank">http://bit.ly/HoKFBW</a>
+<strong>Venue</strong>: Seminar room 2 @ University Town. map: <a title="//bit.ly/HoKFBW" href="//bit.ly/HoKFBW" target="_blank">//bit.ly/HoKFBW</a>
 
 Our regular Friday Hacks will commence after the talks. During the hacking session, you are free to work on your personal projects — or even homework — with fellow programmers around to help if you need an extra pair of eyes
 
 Registration
 
-Registration link : <a title="http://bit.ly/HoKRBa" href="http://bit.ly/HoKRBa" target="_blank">http://bit.ly/HoKRBa</a>
+Registration link : <a title="//bit.ly/HoKRBa" href="//bit.ly/HoKRBa" target="_blank">//bit.ly/HoKRBa</a>
 
 Registration is required so that we may tailor the talk to the expected audience, as well as prepare the necessary logistics. Refreshments will be served at 6pm to all registered attendees.
