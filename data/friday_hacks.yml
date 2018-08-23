@@ -1,10 +1,10 @@
 start_date: 2018-08-24 18:00:00 +0800
 hacks:
-  - venue: TBC
+  - venue: i-Cube Auditorium
     topics:
       - speaker: NUS Hackers
         title: Welcome Tea
-  - venue: "The HANGAR by NUS Enterprise"
+  - venue: The HANGAR by NUS Enterprise
     topics:
       - speaker: Jane Street
         title: TBC
@@ -27,7 +27,7 @@ hacks:
         title: Carousell Data Science
   - nohack: Recess Week
   - nohack: Exam Week
-  - venue: "The HANGAR by NUS Enterprise"
+  - venue: The HANGAR by NUS Enterprise
     topics:
       - speaker: Jason Pitt
         from: Cancer Science Institute
