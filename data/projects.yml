@@ -1,7 +1,7 @@
 projects:
   - name: Friday Hacks
     description: Interesting talks for hackers from all walks of life
-    url: //www.nushackers.org/fridayhacks
+    url: /fridayhacks
     logo: static/img/friday-hacks-logo.svg
   - name: hackerschool
     description: Hacking workshops for everyone
