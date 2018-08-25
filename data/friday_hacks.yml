@@ -6,7 +6,10 @@ hacks:
         title: Welcome Tea
   - venue: The HANGAR by NUS Enterprise
     topics:
-      - speaker: Jane Street
+      - speaker: Max Wolter
+        from: Jane Street
+        title: Intro to concurrent functional programming with Async
+      - speaker: Eliot Lim
         title: TBC
   - venue: TBC
     topics:
