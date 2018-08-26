@@ -10,7 +10,7 @@ hacks:
         from: Jane Street
         title: Intro to concurrent functional programming with Async
       - speaker: Eliot Lim
-        title: TBC
+        title: A month with the D language
   - venue: TBC
     topics:
       - speaker: Yi Li
@@ -25,6 +25,8 @@ hacks:
         title: Internships, and How to Get Them
   - venue: TBC
     topics:
+      - speaker: PayPal
+        title: TBC
       - speaker: Jack Ong, Wei Jian
         from: Carousell
         title: Carousell Data Science
@@ -39,6 +41,9 @@ hacks:
     topics:
   - venue: TBC
     topics:
+      - speaker: Julius Putra Tanu Setiaji
+        from: NUS Hackers
+        title: Functional Reactive Programming
   - venue: TBC
     topics:
   - venue: "The HANGAR by NUS Enterprise"
