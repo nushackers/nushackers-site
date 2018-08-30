@@ -1,4 +1,7 @@
 events:
+- topic: Introduction to HTML/CSS
+  venue: LT15 COM1, School of Computing, National University of Singapore
+  date: 2018-09-01T13:00:00
 - topic: How to Git Gud (Introduction to Git)
   venue: Seminar Room 3 COM1, School of Computing, National University of Singapore
   date: 2017-09-14T13:00:00
