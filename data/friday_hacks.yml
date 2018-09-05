@@ -11,7 +11,7 @@ hacks:
         title: Intro to concurrent functional programming with Async
       - speaker: Eliot Lim
         title: A month with the D language
-  - venue: TBC
+  - venue: "SR3, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: Yi Li
         from: GIC
@@ -19,7 +19,7 @@ hacks:
       - speaker: Preston Lim, Joel Choo, Loh Liwei
         from: GovTech
         title: Project traintraintrain
-  - venue: TBC
+  - venue: <a href="https://goo.gl/maps/VLTkyW6QzKp">i-Cube Auditorium</a>
     topics:
       - speaker: NUS Hackers Coreteam
         title: Internships, and How to Get Them
@@ -27,7 +27,7 @@ hacks:
     topics:
       - speaker: PayPal
         title: TBC
-      - speaker: Jack Ong, Wei Jian
+      - speaker: Avadhoot
         from: Carousell
         title: Carousell Data Science
   - nohack: Recess Week
@@ -44,9 +44,11 @@ hacks:
       - speaker: Julius Putra Tanu Setiaji
         from: NUS Hackers
         title: Functional Reactive Programming
+      - speaker: Melvin Zhang
+        title: TBC
   - venue: TBC
     topics:
-  - venue: "The HANGAR by NUS Enterprise"
+  - venue: The HANGAR by NUS Enterprise
     topics:
   - venue: TBC
     topics:
