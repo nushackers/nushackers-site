@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # Generate this week's friday hack
 # To generate some other FH pass in a number as argument
 # e.g python gen_fh.py 1 generates next week's
@@ -102,7 +105,7 @@ url: /{year}/{no_of_month}/friday-hacks-{num}
 
 --- describe ----
 
-'''.format(talk_name=topic['title']) for topic in next_hack['topics']
+'''.format(talk_name=topic['title'].encode('utf-8')) for topic in next_hack['topics']
         ])
 
     filename = '../content/post/{now}-friday-hacks-{num}.md'.format(
