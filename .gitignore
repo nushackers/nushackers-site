@@ -69,3 +69,6 @@ typings/
 
 # Mac stuff
 .DS_Store
+
+# Vim stuff
+*.swp
