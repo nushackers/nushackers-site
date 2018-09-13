@@ -21,6 +21,8 @@ hacks:
         title: Project traintraintrain
   - venue: <a href="https://goo.gl/maps/VLTkyW6QzKp">i-Cube Auditorium</a>
     topics:
+      - speaker: Sergei Markoff
+        title: "Homo ex Machina: Uploading man on hard drive"
       - speaker: NUS Hackers Coreteam
         title: Internships, and How to Get Them
   - venue: TBC
