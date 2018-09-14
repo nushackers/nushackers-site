@@ -21,13 +21,16 @@ hacks:
         title: Project traintraintrain
   - venue: <a href="https://goo.gl/maps/VLTkyW6QzKp">i-Cube Auditorium</a>
     topics:
+      - speaker: Sergei Markoff
+        title: "Homo ex Machina: Uploading man on hard drive"
       - speaker: NUS Hackers Coreteam
         title: Internships, and How to Get Them
-  - venue: TBC
+  - venue: "SR5, Town Plaza Level 2, University Town, NUS"
     topics:
-      - speaker: PayPal
-        title: TBC
-      - speaker: Avadhoot
+      - speaker: Avadhoot Pitambare
+        from: PayPal
+        title: So you want to work in FinTech?
+      - speaker: Jack Ong, Poh Wei Jian
         from: Carousell
         title: Carousell Data Science
   - nohack: Recess Week
@@ -37,18 +40,20 @@ hacks:
       - speaker: Jason Pitt
         from: Cancer Science Institute
         title: Cancer Genome Analysis at Scale
-  - venue: TBC
+  - venue: "SR1, Town Plaza Level 2, University Town, NUS"
     topics:
-  - venue: TBC
+  - venue: "SR1, Town Plaza Level 2, University Town, NUS"
+    topics:
+      - speaker: EF
+        title: TBC
+      - speaker: Melvin Zhang
+        title: TBC
+  - venue: "SR1, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: Julius Putra Tanu Setiaji
         from: NUS Hackers
         title: Functional Reactive Programming
-      - speaker: Melvin Zhang
-        title: TBC
-  - venue: TBC
-    topics:
   - venue: The HANGAR by NUS Enterprise
     topics:
-  - venue: TBC
+  - venue: "SR1, Town Plaza Level 2, University Town, NUS"
     topics:
