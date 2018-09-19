@@ -29,19 +29,25 @@ hacks:
     topics:
       - speaker: Avadhoot Pitambare
         from: PayPal
-        title: So you want to work in FinTech?
+        title: The Reactive Mindset
       - speaker: Jack Ong, Poh Wei Jian
         from: Carousell
-        title: Carousell Data Science
+        title: Automate! Lazy is not bad.
   - nohack: Recess Week
   - nohack: Exam Week
   - venue: The HANGAR by NUS Enterprise
     topics:
+      - speaker: Michael Ran
+        from: Interstellar
+        title: TBC
       - speaker: Jason Pitt
         from: Cancer Science Institute
         title: Cancer Genome Analysis at Scale
   - venue: "SR1, Town Plaza Level 2, University Town, NUS"
     topics:
+      - speaker: Jia Yee and David
+        from: NUS Hackers
+        title: Visa Internship Experience
   - venue: "SR1, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: EF
