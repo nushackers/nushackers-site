@@ -42,13 +42,19 @@ It also contains a field `start_date` which should be the date-time of the first
 
 About writing posts: https://gohugo.io/content/
 
-If you are write those generic posts about Friday hacks, please use the script  `scripts/gen_fh.py` - yep, it's in Python yay! So install Python first. You can then use pip to install the packages in requirements.txt.
+If you are write those generic posts about Friday hacks, please use the script  `scripts/gen_fh.py` - yep, it's in Python yay! So install Python and [Pipenv](https://pipenv.readthedocs.io/en/latest/install/) first.
+
+Before running the script for the first time, use Pipenv to install our dependencies.
+
+```bash
+$ pipenv install
+```
 
 To use the script, first make sure you have filled up the Friday hacks entry in `data/friday_hacks.yml`, then just run it.
 
 ```bash
 $ cd scripts
-$ python gen_fh.py
+$ pipenv run python gen_fh.py
 ```
 
 It will ask for you name (as the author), and generates the md file in `post/content`. Now go ahead and add in more details to the post.
