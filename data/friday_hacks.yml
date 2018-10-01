@@ -43,15 +43,16 @@ hacks:
       - speaker: Jason Pitt
         from: Cancer Science Institute
         title: Cancer Genome Analysis at Scale
-  - venue: "SR1, Town Plaza Level 2, University Town, NUS"
+  - venue: "SR5-8, Town Plaza Level 2, University Town, NUS"
     topics:
-      - speaker: Jia Yee and David
-        from: NUS Hackers
-        title: Visa Internship Experience
-  - venue: "SR1, Town Plaza Level 2, University Town, NUS"
+      - speaker: John Zwinck
+        from: Senior Software Developer, DRW
+        title: High Performance... Python?
+  - venue: "SR5-8, Town Plaza Level 2, University Town, NUS"
     topics:
-      - speaker: EF
-        title: TBC
+      - speaker: Sai and Max
+        from: SensorFlow
+        title: Full Stack IoT Prototyping by SensorFlow
       - speaker: Melvin Zhang
         title: TBC
   - venue: "SR1, Town Plaza Level 2, University Town, NUS"
