@@ -38,8 +38,8 @@ hacks:
   - venue: The HANGAR by NUS Enterprise
     topics:
       - speaker: Michael Ran
-        from: Interstellar
-        title: TBC
+        from: Engineer, Stellar
+        title: How Stellar Built a Universal Value Exchange Protocol
       - speaker: Jason Pitt
         from: Cancer Science Institute
         title: Cancer Genome Analysis at Scale
@@ -60,7 +60,12 @@ hacks:
       - speaker: Julius Putra Tanu Setiaji
         from: NUS Hackers
         title: Functional Reactive Programming
+      - speaker: Varun Patro
+        from: NUS Hackers
+        title: TBC
   - venue: The HANGAR by NUS Enterprise
     topics:
+      - speaker: PayPal
+        title: TBC
   - venue: "SR1, Town Plaza Level 2, University Town, NUS"
     topics:
