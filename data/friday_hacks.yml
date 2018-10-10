@@ -48,6 +48,8 @@ hacks:
       - speaker: John Zwinck
         from: Senior Software Developer, DRW
         title: High Performance... Python?
+      - speaker: Tee Hao Wei
+        title: TBC
   - venue: "SR5-8, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: Sai and Max
@@ -69,3 +71,5 @@ hacks:
         title: TBC
   - venue: "SR1, Town Plaza Level 2, University Town, NUS"
     topics:
+      - speaker: NUS Hackers Coreteam
+        title: Code Golf
