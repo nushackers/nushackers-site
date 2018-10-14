@@ -49,14 +49,14 @@ hacks:
         from: Senior Software Developer, DRW
         title: High Performance... Python?
       - speaker: Tee Hao Wei
-        title: TBC
+        title: 7 Years of 3DS Hacking
   - venue: "SR7, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: Sai and Max
         from: SensorFlow
         title: Full Stack IoT Prototyping by SensorFlow
       - speaker: Melvin Zhang
-        title: TBC
+        title: Solving the Travelling Salesman Problem for Warehouses
   - venue: "SR1, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: Julius Putra Tanu Setiaji
