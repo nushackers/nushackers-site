@@ -57,7 +57,7 @@ hacks:
         title: Full Stack IoT Prototyping by SensorFlow
       - speaker: Melvin Zhang
         title: Solving the Travelling Salesman Problem for Warehouses
-  - venue: "SR1, Town Plaza Level 2, University Town, NUS"
+  - venue: "SR7, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: Julius Putra Tanu Setiaji
         from: NUS Hackers
@@ -69,7 +69,7 @@ hacks:
     topics:
       - speaker: PayPal
         title: TBC
-  - venue: "SR1, Town Plaza Level 2, University Town, NUS"
+  - venue: "SR7, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: NUS Hackers Coreteam
         title: Code Golf
