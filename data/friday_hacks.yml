@@ -50,26 +50,28 @@ hacks:
         title: High Performance... Python?
       - speaker: Tee Hao Wei
         title: 7 Years of 3DS Hacking
-  - venue: "SR7, Town Plaza Level 2, University Town, NUS"
+  - venue: "SR5, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: Sai and Max
         from: SensorFlow
         title: Full Stack IoT Prototyping by SensorFlow
       - speaker: Melvin Zhang
         title: Solving the Travelling Salesman Problem for Warehouses
-  - venue: "SR7, Town Plaza Level 2, University Town, NUS"
+  - venue: "SR5, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: Julius Putra Tanu Setiaji
         from: NUS Hackers
-        title: TBC
+        title: "MIFARE Classic Exploits: What's inside your matriculation card?"
       - speaker: Varun Patro
         from: NUS Hackers
-        title: TBC
+        title: Making Binary Search Fast Again
   - venue: The HANGAR by NUS Enterprise
     topics:
       - speaker: PayPal
         title: TBC
-  - venue: "SR7, Town Plaza Level 2, University Town, NUS"
+      - speaker: Kyle Ng
+        title: Spiking Neural Networks
+  - venue: "SR5, Town Plaza Level 2, University Town, NUS"
     topics:
       - speaker: NUS Hackers Coreteam
         title: Code Golf
