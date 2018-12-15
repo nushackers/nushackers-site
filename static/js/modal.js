@@ -16,4 +16,4 @@ window.onclick = function (event) {
   }
 }
 
-btn.onclick = open;
+// btn.onclick = open;
