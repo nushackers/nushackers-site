@@ -1,5 +1,23 @@
 {{ define "main" }}
 <main class="row front-page main">
+  <div class="hacknroll-row">
+      <img class="fh-sponsor" src="/img/hnr2019-dark.svg" alt="Hack&Roll 2019" />
+      <h1 class="centered">Join us for our largest ever Hack&Roll! Register <a href="https://hacknroll.nushackers.org"><span id="myBtn">here</span></a>!</h1>
+  </div>
+
+  <!-- The Modal -->
+  <div id="myModal" class="modal">
+    <!-- Modal content -->
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div id="hnr-info">
+      
+        <img id="in-modal-logo" src="/img/hnr2019-light.svg" alt="Hack&Roll 2019" />
+        <p class="centered modal-text">Join us for our largest ever Hack&Roll! Register <a href="https://hacknroll.nushackers.org">here</a>!</p>
+      </div>
+    </div>
+  </div>
+
   <section class="section col-12 hero">
     <h1 class="hero-title">
       Spreading the <a href="/hackerdefined/" class="hero-hacker">hacker</a> culture
@@ -103,4 +121,5 @@
 {{ end }}
 {{ define "scripts" }}
 <script>{{ readFile "static/js/toggleShowMore.js" | safeJS }}</script>
+<script>{{ readFile "static/js/modal.js" | safeJS }}</script>
 {{ end }}
