@@ -1,77 +1,27 @@
-start_date: 2018-08-24 18:00:00 +0800
+start_date: 2019-01-25 18:00:00 +0800
 hacks:
-  - venue: <a href="https://goo.gl/maps/VLTkyW6QzKp">i-Cube Auditorium</a>
+  - venue: <a href="https://goo.gl/maps/xzCo9XgMn4w">LT15, AS6, NUS</a>
     topics:
-      - speaker: NUS Hackers
-        title: Welcome Tea
+      - speaker: Nagendra Bangalore
+        from: Autodesk
+        title: Methods and Process in Building Experiential Features
+      - speaker: Uriel Tan
+        title: Encoding Images in Source 1 with Minimal Tokens
   - venue: The HANGAR by NUS Enterprise
     topics:
-      - speaker: Max Wolter
-        from: Jane Street
-        title: Intro to concurrent functional programming with Async
-      - speaker: Eliot Lim
-        title: A month with the D language
-  - venue: "SR3, Town Plaza Level 2, University Town, NUS"
+#      - speaker: TBC
+#        title: TBC
+      - speaker: Herbert Ilhan Tanujaya
+        title: Introduction to Modern Programming Languages
+  - nohack: Chinese New Year
+  - venue: The HANGAR by NUS Enterprise
     topics:
-      - speaker: Yi Li
-        from: GIC
-        title: Explore FinTech – A Practical Introduction to Systematic Investing
-      - speaker: Preston Lim, Joel Choo, Loh Liwei
-        from: GovTech
-        title: Project traintraintrain
-  - venue: <a href="https://goo.gl/maps/VLTkyW6QzKp">i-Cube Auditorium</a>
-    topics:
-      - speaker: Sergei Markoff
-        title: "Homo ex Machina: Uploading man on hard drive"
-      - speaker: NUS Hackers Coreteam
-        title: Internships, and How to Get Them
-  - venue: "SR5, Town Plaza Level 2, University Town, NUS"
-    topics:
-      - speaker: Avadhoot Pitambare
-        from: PayPal
-        title: The Reactive Mindset
-      - speaker: Jack Ong, Poh Wei Jian
-        from: Carousell
-        title: Automate! Lazy is not bad.
+      - speaker: Alexandre Gouaillard
+        from: CoSMo Software
+        title: "WebRTC: Real Time Media Revolution"
+      - speaker: Louay Mohamed and Vladimir Dimitrov
+        from: TransferWise
+        title: "Microservices Monitoring - Introduction to monitoring pillars: logging, tracing and metrics"
+  - venue: TBC
   - nohack: Recess Week
   - nohack: Exam Week
-  - venue: The HANGAR by NUS Enterprise
-    topics:
-      - speaker: Michael Ran
-        from: Engineer, Stellar
-        title: How Stellar Built a Universal Value Exchange Protocol
-      - speaker: Jason Pitt
-        from: Cancer Science Institute
-        title: Cancer Genome Analysis at Scale
-  - venue: "SR7, Town Plaza Level 2, University Town, NUS"
-    topics:
-      - speaker: John Zwinck
-        from: Senior Software Developer, DRW
-        title: High Performance... Python?
-      - speaker: Tee Hao Wei
-        title: 7 Years of 3DS Hacking
-  - venue: "SR5, Town Plaza Level 2, University Town, NUS"
-    topics:
-      - speaker: Sai and Max
-        from: SensorFlow
-        title: Full Stack IoT Prototyping by SensorFlow
-      - speaker: Melvin Zhang
-        title: Solving the Travelling Salesman Problem for Warehouses
-  - venue: "SR5, Town Plaza Level 2, University Town, NUS"
-    topics:
-      - speaker: Julius Putra Tanu Setiaji
-        from: NUS Hackers
-        title: "MIFARE Classic Exploits: What's inside your matriculation card?"
-      - speaker: Varun Patro
-        from: NUS Hackers
-        title: Making Binary Search Fast Again
-  - venue: The HANGAR by NUS Enterprise
-    topics:
-      - speaker: PayPal
-        title: AI in FinTech
-      - speaker: Kyle Ng
-        title: Spiking Neural Networks
-  - venue: "SR5, Town Plaza Level 2, University Town, NUS"
-    topics:
-      - speaker: NUS Hackers Coreteam
-        title: Code Golf
