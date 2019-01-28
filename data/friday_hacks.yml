@@ -9,8 +9,6 @@ hacks:
         title: Encoding Images in Source 1 with Minimal Tokens
   - venue: The HANGAR by NUS Enterprise
     topics:
-#      - speaker: TBC
-#        title: TBC
       - speaker: Herbert Ilhan Tanujaya
         title: Introduction to Modern Programming Languages
   - nohack: Chinese New Year
