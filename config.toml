@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "//www.nushackers.org/"
 languageCode = "en-us"
 title = "NUSHackers"
 copyright = "NUS Hackers"
