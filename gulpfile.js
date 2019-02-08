@@ -147,7 +147,7 @@ const sortPlugin = sorting({
     'animation',
   ],
 });
-
+spawn
 const errorPlugin = () =>
   plumber(function(error) {
     if (IS_DEVELOPMENT) {
@@ -217,6 +217,14 @@ gulp.task('hugo', ['scss:compile'], () => {
   if (IS_DEVELOPMENT) {
     flags.push('server'); // watch and serve
     flags.push('--navigateToChanged'); // navigate to changed file
+  }
+
+  if (process.env['CONTEXT']
+      && process.env['CONTEXT'] !== 'production'
+      && process.env['DEPLOY_PRIME_URL']) {
+    gutil.log('Setting baseURL: ' + process.env['DEPLOY_PRIME_URL']);
+    flags.push('-b');
+    flags.push(process.env['DEPLOY_PRIME_URL']);
   }
   const child = spawn('hugo', flags);
 
