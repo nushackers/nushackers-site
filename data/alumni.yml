@@ -146,3 +146,18 @@ members:
       a Computer Engineering undergraduate and tech enthusiast. Loves to explore the realms of software engineering and music.
       <em>More information about him here: </em> <a href="//harishv7.github.io">harishv7.github.io</a>.
 
+  - name: David
+    description: |
+      a Computer Science undergraduate who loves learning and learning how to
+      learn. You can reach him at <a href="mailto:david@nushackers.org">david@nushackers.org</a>.
+
+  - name: Deshun
+    description: |
+      a Computer Science undergraduate. He likes chocolate.
+
+  - name: Li Kai
+    description: |
+      a Computer Science undergraduate who builds websites, then builds some more.
+      <a href="//github.com/li-kai">github.com/li-kai</a>.
+
+
