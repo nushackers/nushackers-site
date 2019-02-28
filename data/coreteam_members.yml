@@ -91,3 +91,10 @@ members:
     description: |
       a Computer Science undergraduate with a current interest in full-stack stuff. He enjoys watching football in his free time.
       He can be reached at <a href="mailto:joshua@nushackers.org">joshua@nushackers.org</a>.
+
+  - name: Wee Han
+    description: |
+      a Computer Science undergraduate with a passion for trying out new things.
+      Currently occupied with full-stack web development, data analytics/visualization and cancer genomics research.
+      Reach him at <a href="mailto:weehan@nushackers.org">weehan@nushackers.org</a>!
+      
