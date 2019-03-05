@@ -38,3 +38,6 @@ events:
 - topic: Introduction to Javascript
   venue: LT15, School of Computing, National University of Singapore
   date: 2019-02-23T13:00:00
+- topic: Advanced JavaScript + Node.JS
+  venue: LT15, School of Computing, National University of Singapore
+  date: 2019-03-09T13:00:00
