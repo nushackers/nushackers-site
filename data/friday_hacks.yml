@@ -1,6 +1,8 @@
 start_date: 2019-01-25 18:00:00 +0800
+start_nr: 166
 hacks:
   - venue: <a href="https://goo.gl/maps/xzCo9XgMn4w">LT15, AS6, NUS</a>
+    blog_post: /2019/01/friday-hacks-166/
     topics:
       - speaker: Nagendra Bangalore
         from: Autodesk
@@ -8,11 +10,13 @@ hacks:
       - speaker: Uriel Tan
         title: Encoding Images in Source 1 with Minimal Tokens
   - venue: The HANGAR by NUS Enterprise
+    blog_post: /2019/02/friday-hacks-167/
     topics:
       - speaker: Herbert Ilhan Tanujaya
         title: Introduction to Modern Programming Languages
   - nohack: Chinese New Year
   - venue: The HANGAR by NUS Enterprise
+    blog_post: /2019/02/friday-hacks-168/
     topics:
       - speaker: Alexandre Gouaillard
         from: CoSMo Software
@@ -20,7 +24,8 @@ hacks:
       - speaker: Louay Mohamed and Vladimir Dimitrov
         from: TransferWise
         title: "Microservices Monitoring"
-  - venue: Seminar Room 5, Level 2, Town Plaza, University Town, NUS
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/02/friday-hacks-169/
     topics:
       - speaker: Amy Nguyen
         from: Stripe
@@ -29,3 +34,40 @@ hacks:
         title: Productivity with Free Software
   - nohack: Recess Week
   - nohack: Exam Week
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/03/friday-hacks-170/
+    topics:
+      - speaker: Jonathan Chow
+        title: A Markov Chain Model for Hockey Playoff Gambling
+      - speaker: Suraj Narwade
+        from: Red Hat
+        title: Unleashing the power of kubectl
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    topics:
+      - speaker: Junaik Sakib and Arun Sivakumar
+        from: Circles.Life
+        title: TBC
+      - speaker: Tan Quang Ngo
+        from: Viki
+        title: TBC
+  - venue: The HANGAR by NUS Enterprise
+    topics:
+      - speaker: TBC
+        from: Indeed
+        title: TBC
+      - speaker: Noel Kwan
+        title: TBC
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    topics:
+      - speaker: Liu Weiyuan
+        from: Viki
+        title: TBC
+      - speaker: Zhang Yuankun
+        title: Introduction to Modern CI/CD Pipelines
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    topics:
+      - speaker: Omer Iqbal
+        title: TBC
+      - speaker: Tee Hao Wei
+        from: NUS Hackers
+        title: Hacking on the Linux kernel
