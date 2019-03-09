@@ -1,6 +1,7 @@
 {{ $weekInSeconds := 604800 }}
 {{ $date := $.Site.Data.friday_hacks.start_date }}
-{{ $nr := $.Site.Data.friday_hacks.start_nr }}
+{{ $s := .Scratch }}
+{{ $s.Set "nr" $.Site.Data.friday_hacks.start_nr }}
 {{ $dateUnix := (time $date).Unix }}
 {{ range $index, $hack := $.Site.Data.friday_hacks.hacks }}
   <li class="fh-item events-item item">
@@ -9,8 +10,8 @@
       <a href="{{ $hack.blog_post }}">
     {{ end }}
       {{ if eq $hack.nohack nil }}
-        <span>#{{ $nr }}:</span>
-        {{ $nr = add $nr 1 }}
+        <span>#{{ $s.Get "nr" }}:</span>
+        {{ $s.Add "nr" 1 }}
       {{ end }}
       <time class="events-time" datetime={{ dateFormat "2006-01-02T15:04:05-0700" $hackDate}}>
         {{ dateFormat "Jan 2" $hackDate }}
