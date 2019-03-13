@@ -39,9 +39,6 @@ hacks:
     topics:
       - speaker: Jonathan Chow
         title: A Markov Chain Model for Hockey Playoff Gambling
-      - speaker: Suraj Narwade
-        from: Red Hat
-        title: Unleashing the power of kubectl
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - speaker: Junaik Sakib and Arun Sivakumar
