@@ -40,10 +40,11 @@ hacks:
       - speaker: Jonathan Chow
         title: A Markov Chain Model for Hockey Playoff Gambling
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/03/friday-hacks-171/
     topics:
       - speaker: Junaik Sakib and Arun Sivakumar
         from: Circles.Life
-        title: TBC
+        title: "RX Java: Reactive extensions for the JVM"
       - speaker: Tan Quang Ngo
         from: Viki
         title: Reliable and scalable workflows with AWS Step Functions
