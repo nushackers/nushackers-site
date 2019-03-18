@@ -30,20 +30,11 @@ members:
       (then website) which she can call her own.
       <em>Current attempts here: </em><a href="//GlacieReiN.blogspot.sg/">GlacieReiN</a><em>.</em>
 
-  - name: David
-    description: |
-      a Computer Science undergraduate who loves learning and learning how to
-      learn. You can reach him at <a href="mailto:david@nushackers.org">david@nushackers.org</a>.
-
   - name: Ramu
     description: |
       an EE undergrad who likes to exercise his imagination and toy with
       unconventional ideas. He's into puzzling, tinkering, making and programming.
       Engage Ramu at <a href="mailto:ramu@nushackers.org">ramu@nushackers.org</a>.
-
-  - name: Deshun
-    description: |
-      a Computer Science undergraduate. He likes chocolate.
 
   - name: Herbert
     description: |
@@ -57,11 +48,6 @@ members:
       a Computer Science undergraduate, who hacks all things hackable.
       He organizes an <a href="https://www.meetup.com/Emacs-SG/">Emacs meetup</a>
       and would love to see you there! You can stalk him <a href="//www.jethrokuan.com/">here</a>.
-
-  - name: Li Kai
-    description: |
-      a Computer Science undergraduate that builds websites, then builds some more.
-      <a href="//github.com/li-kai">github.com/li-kai</a>.
 
   - name: Rachael
     description: |
@@ -105,3 +91,10 @@ members:
     description: |
       a Computer Science undergraduate with a current interest in full-stack stuff. He enjoys watching football in his free time.
       He can be reached at <a href="mailto:joshua@nushackers.org">joshua@nushackers.org</a>.
+
+  - name: Wee Han
+    description: |
+      a Computer Science undergraduate with a passion for trying out new things.
+      Currently occupied with full-stack web development, data analytics/visualization and cancer genomics research.
+      Reach him at <a href="mailto:weehan@nushackers.org">weehan@nushackers.org</a>!
+      

@@ -83,9 +83,10 @@ url: /{year}/{no_of_month}/friday-hacks-{num}
 
 --- say something as introduction ---
 
-{{% friday_hack_header
+{{{{% friday_hack_header
     venue="{venue}"
-    date="{month} {day}" %}}
+    date="{month} {day}"
+    fb_event="#" %}}}}
 
 '''.format(
         num=num,

@@ -1,0 +1,42 @@
+{{ $weekInSeconds := 604800 }}
+{{ $date := $.Site.Data.friday_hacks.start_date }}
+{{ $s := .Scratch }}
+{{ $s.Set "nr" $.Site.Data.friday_hacks.start_nr }}
+{{ $dateUnix := (time $date).Unix }}
+{{ range $index, $hack := $.Site.Data.friday_hacks.hacks }}
+  <li class="fh-item events-item item">
+    {{ $hackDate := add $dateUnix (mul $index $weekInSeconds) }}
+    {{- if ne $hack.blog_post nil -}}
+      <a href="{{ $hack.blog_post }}">
+    {{- end -}}
+      {{- if eq $hack.nohack nil -}}
+        <span>#{{- $s.Get "nr" -}}: </span>
+        {{- $s.Add "nr" 1 -}}
+      {{- end -}}
+      <time class="events-time" datetime={{ dateFormat "2006-01-02T15:04:05-0700" $hackDate}}>
+        {{- dateFormat "Jan 2" $hackDate -}}
+      </time>
+    {{- if ne $hack.blog_post nil -}}
+    </a>
+    {{- end -}}
+    {{ if eq $hack.nohack nil }}
+      <address class="events-address">{{ $hack.venue | safeHTML }}</address>
+      <ul class="fh-topics">
+        {{ range $topicIndex, $topic := $hack.topics }}
+        <li class="fh-topic">
+          <h3 class="topic-title">{{ $topic.title }}</h3>
+          <div class="topic-speaker">
+            {{ if eq $topic.from nil }}
+              {{ $topic.speaker }}
+            {{ else }}
+              {{ $topic.speaker }} <span>({{ $topic.from }})</span>
+            {{ end }}
+          </div>
+        </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <em class="fh-span">{{ $hack.nohack }}, no Friday Hacks</em>
+    {{ end }}
+  </li>
+{{ end }}
