@@ -49,12 +49,13 @@ hacks:
         from: Viki
         title: Reliable and scalable workflows with AWS Step Functions
   - venue: The HANGAR by NUS Enterprise
+    blog_post: /2019/03/friday-hacks-172/
     topics:
-      - speaker: TBC
+      - speaker: Max Tan
         from: Indeed
-        title: TBC
+        title: "So.. you want to be an Engineering Manager?"
       - speaker: Noel Kwan
-        title: TBC
+        title: "Structuring and working with data in Haskell"
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - speaker: Liu Weiyuan
