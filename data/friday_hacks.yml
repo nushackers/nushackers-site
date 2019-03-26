@@ -51,11 +51,10 @@ hacks:
   - venue: The HANGAR by NUS Enterprise
     blog_post: /2019/03/friday-hacks-172/
     topics:
-      - speaker: Max Tan
-        from: Indeed
-        title: "So.. you want to be an Engineering Manager?"
       - speaker: Noel Kwan
         title: "Structuring and working with data in Haskell"
+      - speaker: TBC
+        title: TBC
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - speaker: Liu Weiyuan
