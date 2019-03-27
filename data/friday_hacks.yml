@@ -54,6 +54,7 @@ hacks:
       - speaker: Noel Kwan
         title: "Structuring and working with data in Haskell"
       - speaker: Tee Hao Wei
+        from: NUS Hackers
         title: "Lightning Talk: A Telegram code evaluator"
       - speaker: TBC
         title: "Lightning Talk: TBC"
