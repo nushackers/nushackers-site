@@ -53,8 +53,10 @@ hacks:
     topics:
       - speaker: Noel Kwan
         title: "Structuring and working with data in Haskell"
+      - speaker: Tee Hao Wei
+        title: "Lightning Talk: A Telegram code evaluator"
       - speaker: TBC
-        title: TBC
+        title: "Lightning Talk: TBC"
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - speaker: Liu Weiyuan
