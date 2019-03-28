@@ -7,7 +7,7 @@
         <time>{{ .Date.Format "Jan 2" }}</time> by {{ .Params.author }}
       </h2>
       {{ .Content }}
-      {{ if eq (substr .Title 0 14) "Friday Hacks #" }}
+      {{ if and (eq (substr .Title 0 14) "Friday Hacks #") (not .Params.nofh) }}
         {{ partial "friday_hack_footer.html" . }}
       {{ end}}
     </article>
