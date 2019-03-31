@@ -1,4 +1,4 @@
 ---
-title: nushackers
-description: nushackers
+title: NUS Hackers
+description: Home page
 ---

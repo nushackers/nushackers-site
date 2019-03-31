@@ -10,6 +10,9 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "emacs"
 ignoreFiles = ["\\.scss$"]
 
+[params]
+  description = "NUS Hackers"
+
 [permalinks]
   post = "/:year/:month/:slug/"
 
