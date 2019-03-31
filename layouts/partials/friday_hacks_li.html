@@ -13,7 +13,7 @@
         <span>#{{- $s.Get "nr" -}}: </span>
         {{- $s.Add "nr" 1 -}}
       {{- end -}}
-      <time class="events-time" datetime={{ dateFormat "2006-01-02T15:04:05-0700" $hackDate}}>
+      <time class="events-time" datetime={{ dateFormat "2006-01-02T15:04:05-07:00" $hackDate}}>
         {{- dateFormat "Jan 2" $hackDate -}}
       </time>
     {{- if ne $hack.blog_post nil -}}
