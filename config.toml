@@ -1,6 +1,6 @@
 baseURL = "https://www.nushackers.org/"
 languageCode = "en-us"
-title = "NUSHackers"
+title = "NUS Hackers"
 copyright = "NUS Hackers"
 buildFuture = true
 disqusShortname = "nushackers"
