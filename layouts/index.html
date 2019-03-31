@@ -2,7 +2,7 @@
 <main class="row front-page main">
   <section class="section col-12 hero">
     <h1 class="hero-title">
-      Spreading the <a href="/hackerdefined/" class="hero-hacker">hacker</a> culture
+      <span id="slogan-1">Spreading</span> <span id="slogan-2">the</span> <a href="/hackerdefined/" class="hero-hacker" id="slogan-3">hacker</a> <span id="slogan-4">culture</span>
     </h1>
     <ul class="list row justify-content-around">
       {{ range $event := $.Site.Data.projects.projects }}
@@ -74,4 +74,5 @@
 {{ end }}
 {{ define "scripts" }}
 <script>{{ readFile "static/js/toggleShowMore.js" | safeJS }}</script>
+<script>{{ readFile "static/js/thesauriser.js" | safeJS }}</script>
 {{ end }}
