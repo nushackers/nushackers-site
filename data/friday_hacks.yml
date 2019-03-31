@@ -57,12 +57,13 @@ hacks:
         from: NUS Hackers
         title: "Lightning Talk: A Telegram code evaluator"
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/04/friday-hacks-173/
     topics:
       - speaker: Liu Weiyuan
         from: Viki
-        title: TBC
-      - speaker: Zhang Yuankun
-        title: Introduction to Modern CI/CD Pipelines
+        title: "From a monolith, rewriting Soompi's backend"
+      - speaker: Dexter Leng
+        title: "Scraping Carousell: A less fragile approach to scraping React apps"
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - speaker: Omer Iqbal
