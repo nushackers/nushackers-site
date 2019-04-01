@@ -107,5 +107,6 @@ members:
   - name: Chaitanya
     description: |
       a CS undergrad who enjoys learning new stuff, but is yet to discover what 
-      part of technology truly interests him. You can find out more about him here, 
-      or reach him at chaitanya@nushackers.org! 
+      part of technology truly interests him. You can find out more about him 
+      <a href="https://chaitanyabaranwal.netlify.com/">here</a>, or reach him at
+      <a href="mailto:chaitanya@nushackers.org">chaitanya@nushackers.org</a>! 
