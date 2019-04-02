@@ -67,7 +67,8 @@ hacks:
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - speaker: Omer Iqbal
-        title: TBC
+        title: Introduction to GPU programming with Metal
       - speaker: Tee Hao Wei
         from: NUS Hackers
         title: Hacking on the Linux kernel
+  - nohack: Good Friday
