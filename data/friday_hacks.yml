@@ -65,6 +65,7 @@ hacks:
       - speaker: Dexter Leng
         title: "Scraping Carousell: A less fragile approach to scraping React apps"
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/04/friday-hacks-174
     topics:
       - speaker: Omer Iqbal
         title: Introduction to GPU programming with Metal
