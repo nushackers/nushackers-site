@@ -63,7 +63,7 @@ hacks:
         from: Viki
         title: "From a monolith, rewriting Soompi's backend"
       - speaker: Dexter Leng
-        title: "Scraping Carousell: A less fragile approach to scraping React apps"
+        title: "Scraping Carousell: Scraping Server-Side Rendered React apps"
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     blog_post: /2019/04/friday-hacks-174
     topics:
