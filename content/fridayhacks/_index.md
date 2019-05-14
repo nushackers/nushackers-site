@@ -9,6 +9,8 @@ Our weekly Friday meetups are called Friday Hacks. They include one or two techn
 
 We have up to 2 talks at each session, talks are usually 30-45 minutes long. Dinner is always served (usually pizza). Food is served at 6:30pm, talks start at 7pm.
 
+We also record the talks if the speaker consents. Find our recordings [here](/recordings). 
+
 ![Friday Hacks #71](//i.imgur.com/sEBVHCx.jpg)
 
 ## Speaker FAQ
