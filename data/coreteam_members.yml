@@ -1,35 +1,17 @@
 ---
 members:
+  - name: Hao Wei
+    description: |
+      a computer science undergraduate with an interest in operating systems,
+      systems programming, programming languages, and free software. Find him
+      on <a href="https://github.com/angelsl">GitHub</a>.
+
   - name: Suyash
     description: |
       a computer science undergraduate student who loves everything tech, from new home automation hacks to new apps.
       He might be new to the world of making things but has been breaking things his whole life.
       Feel free to contact him at <a href="mailto:suyash@nushackers.org">suyash@nushackers.org</a>.
-
-  - name: Advay
-    description: |
-      a computer science undergraduate. You can find out more about him <a href="//advaypal.com/">here</a>
-
-  - name: Varun
-    description: |
-      a CS undergrad interested in Programming Languages and Algorithms.
-      He frequents hackathons and keeps busy with his startup.
-      He's a varsity Ultimate Frisbee player and cycles around Singapore on weekends.
-      He's reachable at <a href="mailto:varun@nushackers.org">varun@nushackers.org</a>
-
-  - name: Johannes Choo
-    description: |
-      a computer science undergraduate. His secondary interests include classical
-      languages and philosophy. You can find his code at
-      <a href="//github.com/jhanschoo">github.com/jhanschoo</a> and his blog at
-      <a href="//jhanschoo.github.io">jhanschoo.github.io</a>.
-
-  - name: Jiayee
-    description: |
-      a computer science undergraduate trying to build a webpage
-      (then website) which she can call her own.
-      <em>Current attempts here: </em><a href="//GlacieReiN.blogspot.sg/">GlacieReiN</a><em>.</em>
-
+      
   - name: Ramu
     description: |
       an EE undergrad who likes to exercise his imagination and toy with
@@ -80,12 +62,6 @@ members:
       engineering, and a current love for developing full-stack web
       applications. <a href="https://github.com/taneliang">Star his repos
       here</a>.
-
-  - name: Hao Wei
-    description: |
-      a computer science undergraduate with an interest in operating systems,
-      systems programming, programming languages, and free software. Find him
-      on <a href="https://github.com/angelsl">GitHub</a>.
 
   - name: Joshua
     description: |

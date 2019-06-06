@@ -160,4 +160,26 @@ members:
       a Computer Science undergraduate who builds websites, then builds some more.
       <a href="//github.com/li-kai">github.com/li-kai</a>.
 
+  - name: Advay
+    description: |
+      a computer science undergraduate. You can find out more about him <a href="//advaypal.com/">here</a>
 
+  - name: Varun
+    description: |
+      a CS undergrad interested in Programming Languages and Algorithms.
+      He frequents hackathons and keeps busy with his startup.
+      He's a varsity Ultimate Frisbee player and cycles around Singapore on weekends.
+      He's reachable at <a href="mailto:varun@nushackers.org">varun@nushackers.org</a>
+
+  - name: Johannes Choo
+    description: |
+      a computer science undergraduate. His secondary interests include classical
+      languages and philosophy. You can find his code at
+      <a href="//github.com/jhanschoo">github.com/jhanschoo</a> and his blog at
+      <a href="//jhanschoo.github.io">jhanschoo.github.io</a>.
+
+  - name: Jiayee
+    description: |
+      a computer science undergraduate trying to build a webpage
+      (then website) which she can call her own.
+      <em>Current attempts here: </em><a href="//GlacieReiN.blogspot.sg/">GlacieReiN</a><em>.</em>
