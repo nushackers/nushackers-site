@@ -1,0 +1,6 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+https://nushackers.org/* https://www.nushackers.org/:splat 301!
+https://linuxnus.org/* https://www.nushackers.org/:splat 301!
+https://www.linuxnus.org/* https://www.nushackers.org/:splat 301!
+https://nushackers.netlify.com/* https://www.nushackers.org/:splat 301!
