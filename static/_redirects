@@ -1,5 +1,7 @@
 # Redirect domain aliases to primary domain
-https://nushackers.com/* https://www.nushackers.org/:splat 301!
+https://nushackers.org/* https://www.nushackers.org/:splat 301!
+https://linuxnus.org/* https://www.nushackers.org/:splat 301!
+https://www.linuxnus.org/* https://www.nushackers.org/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://nushackers.netlify.com/* https://www.nushackers.org/:splat 301!
