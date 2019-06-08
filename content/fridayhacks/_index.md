@@ -34,7 +34,7 @@ We've had speakers from Google, Quora, Palantir, Thought Works, Pivotal Labs, No
 People start streaming in at 6pm, but Friday Hacks are informal, so anytime between 6pm-7pm is okay. The actual event starts at 7pm.
 
 **What topic should I talk about?**
-Technical topics, of course! Talking about a weekend hack project, your research, or some ideas you recently had about tech are all great topics for a Friday Hacks talk. _The more code you show, the better!_ Note though that you should **not** give a recruiting pitch. Focus on the technology, and you'll find that people will be more receptive to any pitch you may give at the tail end of your talk.
+Technical topics, of course! Talking about a weekend hack project, your research, or some ideas you recently had about tech are all great topics for a Friday Hacks talk. _The more code you show, the better!_ Note though that you should **not** give a recruiting pitch. We find that people are more receptive to pitches given at the tail end of technical talks.
 
 **What's the audience like?**
 Anyone is welcomed to attend Friday Hacks, though the audience would be primarily NUS School of Computing students. From experience, we expect 30-50 students on average at every weekly meeting.
