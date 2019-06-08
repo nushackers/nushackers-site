@@ -13,5 +13,3 @@ or to interact with community members, we recommend you go to our [Discussion pa
 __Note: If you’re about to contact us to ‘hack’ into a system, don’t bother:__ we’ll
 report you to the relevant authorities, and may choose to shame you on our blog.
 We’re a hacker organization, not a cracker organization. Know the [difference](/hackerdefined/).
-
-__If you’d like to recruit engineers from NUS Hackers, please read [this guide](/tips-on-nus-engineers/).__ It will greatly increase the chances of your ad being approved.
