@@ -9,6 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "emacs"
 ignoreFiles = ["\\.scss$"]
+googleAnalytics = "UA-141681743-1"
 
 [params]
   description = "NUS Hackers"
