@@ -11,12 +11,6 @@ members:
       a computer science undergraduate student who loves everything tech, from new home automation hacks to new apps.
       He might be new to the world of making things but has been breaking things his whole life.
       Feel free to contact him at <a href="mailto:suyash@nushackers.org">suyash@nushackers.org</a>.
-      
-  - name: Ramu
-    description: |
-      an EE undergrad who likes to exercise his imagination and toy with
-      unconventional ideas. He's into puzzling, tinkering, making and programming.
-      Engage Ramu at <a href="mailto:ramu@nushackers.org">ramu@nushackers.org</a>.
 
   - name: Herbert
     description: |
@@ -73,17 +67,17 @@ members:
       a computer science undergraduate with a passion for trying out new things.
       Currently occupied with full-stack web development, data analytics/visualization and cancer genomics research.
       Reach him at <a href="mailto:weehan@nushackers.org">weehan@nushackers.org</a>!
-      
+
   - name: Daryl
     description: |
-      a computer science undergraduate and an aspiring full-stack developer. 
-      He's passionate about software engineering, good design and music curation. 
-      View his work on <a href="https://github.com/dvrylc">GitHub</a> and on his <a href="https://dvrylc.com">website</a>. 
+      a computer science undergraduate and an aspiring full-stack developer.
+      He's passionate about software engineering, good design and music curation.
+      View his work on <a href="https://github.com/dvrylc">GitHub</a> and on his <a href="https://dvrylc.com">website</a>.
 
   - name: Chaitanya
     description: |
-      a CS undergrad who enjoys learning new stuff, but is yet to discover what 
-      part of technology truly interests him. You can find out more about him 
+      a CS undergrad who enjoys learning new stuff, but is yet to discover what
+      part of technology truly interests him. You can find out more about him
       <a href="https://chaitanyabaranwal.netlify.com/">here</a>, or reach him at
       <a href="mailto:chaitanya@nushackers.org">chaitanya@nushackers.org</a>!
 
