@@ -1,6 +1,5 @@
 const spawn = require('child_process').spawn;
 const gulp = require('gulp');
-const gutil = require('gulp-util');
 const changedInPlace = require('gulp-changed-in-place');
 const sass = require('gulp-sass');
 const notify = require('gulp-notify');
@@ -8,11 +7,14 @@ const plumber = require('gulp-plumber');
 const postcss = require('gulp-postcss');
 const assets  = require('postcss-assets');
 const sorting = require('postcss-sorting');
-const prettier = require('gulp-prettiest');
+const prettier = require('gulp-prettier');
 const autoprefixer = require('autoprefixer');
 const flexbugs = require('postcss-flexbugs-fixes');
+const PluginError = require('plugin-error');
+const argv = require('minimist')(process.argv.slice(2));
+const log = require('fancy-log');
 
-const IS_PRODUCTION = !!gutil.env.production;
+const IS_PRODUCTION = !!argv.production;
 const IS_DEVELOPMENT = !IS_PRODUCTION;
 const SCSS_GLOB = './static/scss/**/*.scss';
 const SCSS_ENTRY = './static/scss/main.scss';
@@ -147,7 +149,7 @@ const sortPlugin = sorting({
     'animation',
   ],
 });
-spawn
+
 const errorPlugin = () =>
   plumber(function(error) {
     if (IS_DEVELOPMENT) {
@@ -163,9 +165,9 @@ const errorPlugin = () =>
   });
 
 // Lints and fixes scss
-gulp.task('scss:fix', () => {
+function scss_fix() {
   if (IS_PRODUCTION) {
-    return;
+    return Promise.resolve();
   }
   return gulp
     .src(SCSS_GLOB)
@@ -178,10 +180,10 @@ gulp.task('scss:fix', () => {
       })
     )
     .pipe(gulp.dest(SCSS_PATH));
-});
+}
 
 // Compiles to css and autoprefixes it
-gulp.task('scss:compile', ['scss:fix'], () => {
+function scss_compile() {
   return gulp
     .src(SCSS_ENTRY)
     .pipe(errorPlugin())
@@ -201,18 +203,19 @@ gulp.task('scss:compile', ['scss:fix'], () => {
       ])
     )
     .pipe(gulp.dest(CSS_PATH));
-});
+}
 
 // Configures styles
-gulp.task('styles', () => {
+function styles() {
   // Watch style folder for changes
   if (IS_DEVELOPMENT) {
-    gulp.watch(SCSS_GLOB, { awaitWriteFinish: true }, ['scss:compile']);
+    return gulp.watch(SCSS_GLOB, { awaitWriteFinish: true }, scss_compile);
   }
-});
+  return Promise.resolve();
+}
 
 // Runs Hugo
-gulp.task('hugo', ['scss:compile'], () => {
+function hugo() {
   const flags = [];
   if (IS_DEVELOPMENT) {
     flags.push('server'); // watch and serve
@@ -222,7 +225,7 @@ gulp.task('hugo', ['scss:compile'], () => {
   if (process.env['CONTEXT']
       && process.env['CONTEXT'] !== 'production'
       && process.env['DEPLOY_PRIME_URL']) {
-    gutil.log('Setting baseURL: ' + process.env['DEPLOY_PRIME_URL']);
+    log('Setting baseURL: ' + process.env['DEPLOY_PRIME_URL']);
     flags.push('-b');
     flags.push(process.env['DEPLOY_PRIME_URL']);
   }
@@ -236,13 +239,13 @@ gulp.task('hugo', ['scss:compile'], () => {
         return line.length;
       })
       .forEach(line => {
-        gutil.log(line.replace(/\d{4}-.+/, ''));
+        log(line.replace(/\d{4}-.+/, ''));
       });
   });
 
   child.stderr.setEncoding('utf8');
   child.stderr.on('data', data => {
-    const error = new gutil.PluginError({
+    const error = new PluginError({
       plugin: 'Hugo',
       message: data,
     });
@@ -256,14 +259,17 @@ gulp.task('hugo', ['scss:compile'], () => {
       throw error;
     }
   });
-});
+  return Promise.resolve();
+}
 
-gutil.log(
+log(
   'Running in',
   IS_PRODUCTION
-    ? gutil.colors.magenta('production')
-    : gutil.colors.cyan('development'),
+    ? 'production'
+    : 'development',
   'mode'
 );
 
-gulp.task('default', ['hugo', 'styles']);
+exports.default = gulp.series(
+    gulp.parallel(gulp.series(scss_fix, scss_compile), hugo),
+    styles);
