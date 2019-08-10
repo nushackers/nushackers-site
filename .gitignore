@@ -1,6 +1,7 @@
 # Production folder
 dist
 public
+resources
 
 # Compiled css
 *.css

@@ -9,16 +9,16 @@ This website is built with hugo, so if you want to make changes to the templates
 
 ## Getting started
 
-It's recommended that you test the site locally before doing any push. To do so, first install [hugo v0.30.2]("https://github.com/gohugoio/hugo/releases"), [node lts](https://nodejs.org/en/), and yarn (`npm install -g yarn`).
+It's recommended that you test the site locally before doing any push. To do so, first install [hugo v0.56.3]("https://github.com/gohugoio/hugo/releases"), [node lts](https://nodejs.org/en/), and yarn (`npm install -g yarn`).
 
 Then enter this folder and run
 
 ```bash
 yarn install
-yarn start
+hugo serve
 ```
 
-Hugo will now generate the site and watch the directory and update the site when any changes are made. You can access the site at `http://localhost:4000`
+Hugo will now generate the site and watch the directory and update the site when any changes are made. You can access the site at `http://localhost:1313`
 
 ## Updating data
 
@@ -47,13 +47,13 @@ If you are write those generic posts about Friday hacks, please use the script  
 Before running the script for the first time, use Pipenv to install our dependencies.
 
 ```bash
+$ cd scripts
 $ pipenv install
 ```
 
 To use the script, first make sure you have filled up the Friday hacks entry in `data/friday_hacks.yml`, then just run it.
 
 ```bash
-$ cd scripts
 $ pipenv run python gen_fh.py
 ```
 
