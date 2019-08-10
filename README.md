@@ -47,13 +47,13 @@ If you are write those generic posts about Friday hacks, please use the script  
 Before running the script for the first time, use Pipenv to install our dependencies.
 
 ```bash
+$ cd scripts
 $ pipenv install
 ```
 
 To use the script, first make sure you have filled up the Friday hacks entry in `data/friday_hacks.yml`, then just run it.
 
 ```bash
-$ cd scripts
 $ pipenv run python gen_fh.py
 ```
 
