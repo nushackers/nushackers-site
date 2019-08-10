@@ -16,9 +16,9 @@ const log = require('fancy-log');
 
 const IS_PRODUCTION = !!argv.production;
 const IS_DEVELOPMENT = !IS_PRODUCTION;
-const SCSS_GLOB = './static/scss/**/*.scss';
-const SCSS_ENTRY = './static/scss/main.scss';
-const SCSS_PATH = './static/scss';
+const SCSS_GLOB = './assets/scss/**/*.scss';
+const SCSS_ENTRY = './assets/scss/main.scss';
+const SCSS_PATH = './assets/scss';
 const CSS_PATH = './static/css';
 
 const sortPlugin = sorting({
