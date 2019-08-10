@@ -270,6 +270,4 @@ log(
   'mode'
 );
 
-exports.default = gulp.series(
-    gulp.parallel(gulp.series(scss_fix, scss_compile), hugo),
-    styles);
+exports.default = gulp.series(scss_fix, scss_compile, hugo, styles);
