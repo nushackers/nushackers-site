@@ -2,42 +2,42 @@
 title: About Friday Hacks
 description: About Friday Hacks
 date: "2014-06-23"
-notes: |
-
 ---
-Our weekly Friday meetups are called Friday Hacks. They include one or two technical talks, followed by a hacking session. The idea is simple: get people to come share their hacks, research, or technical knowledge with the technical community in NUS.
 
-We have up to 2 talks at each session, talks are usually 30-45 minutes long. Dinner is always served (usually pizza). Food is served at 6:30pm, talks start at 7pm.
+Our weekly Friday meetups are called Friday Hacks. They include one or two technical talks, sometimes followed by a hacking session. Through Friday Hacks, we hope to get people to come share their hacks, research, or technical knowledge with the technical community in NUS.
 
-We also record the talks if the speaker consents. Find our recordings [here](/recordings). 
+We have up to 2 talks at each session, with each talks being about 30&ndash;45 minutes long. Dinner is always served (usually pizza). Food is served at 6:30pm and talks start at 7pm.
 
-![Friday Hacks #71](//i.imgur.com/sEBVHCx.jpg)
+We also record the talks if the speaker consents. Find our recordings [here]({{< ref "/recordings" >}}).
+
+![Friday Hacks #71](/img/fh.jpg)
 
 ## Speaker FAQ
 
 **When and where do Friday Hacks happen?**
-Friday Hacks happen every Friday at 6:30pm, at Seminar Room 3, level 2 of Town Plaza, University Town, National University of Singapore unless otherwise stated.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.391669932642!2d103.77345183769684!3d1.3050782076378924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1af5ddd373f5%3A0x2b75d563936352f2!2sCREATE+Tower%2C+Create+Way%2C+Singapore!5e0!3m2!1sen!2sus!4v1407857937047" style="width: 100%; min-height: 24rem;" frameborder="0"></iframe>
+Friday Hacks happen every Friday at 6:30pm, at [Seminar Room 5, Level 2, Town Plaza, University Town, National University of Singapore](https://goo.gl/maps/6GCDZN32Q4gPa49b8) unless otherwise stated.
 
-<small>[View Larger Map](https://goo.gl/maps/PYzUn)</small>
+**How do I get there from outside campus, and where can I park?**
+The closest MRT station is at Clementi. Take either 96 from the bus interchange towards Singapore Polytechnic, and get off 3 bus stops later. (You may also take bus 183 from the MRT station, but the bus frequency for 183 is low).
 
-**How do I get there from outside campus/Where can I park?**
-The closest MRT station is at Clementi. Take either the 96 from the bus interchange (which is at Clementi mall) towards Singapore Polytechnic, and get off 3 bus stops later. (You may also take bus 183 from the MRT station, but bus frequency for 183 is low). As for parking: you may park at a small parking lot at UTown opposite New Town Secondary School, along Dover road.
+You can also take the NUS internal bus D2 from Kent Ridge MRT, and alight at the University Town stop.
+
+If you are driving, you may park at a small parking lot at UTown opposite New Town Secondary School, along Dover Road. Let us know beforehand so we can guide you when you arrive.
 
 **Who is welcome to speak?**
 Anyone! We do give some preference to NUS students, staff and professors, but we regularly invite speakers from all parts of the industry.
 
 **Who has given a Friday Hacks talk?**
-We've had speakers from Google, Quora, Palantir, Thought Works, Pivotal Labs, Nokia, RIM, and Viki, amongst many others.
+We've had speakers from Google, Quora, Palantir, Thought Works, Pivotal Labs, Nokia, Carousell, and Viki, amongst many others.
 
 **What time should speakers arrive?**
-People start streaming in at 6pm, but Friday Hacks are informal, so anytime between 6pm-7pm is okay. The actual event starts at 7pm.
+People start streaming in at 6pm, but Friday Hacks are informal, so anytime between 6pm&ndash;7pm is okay. The actual event starts at 7pm.
 
 **What topic should I talk about?**
 Technical topics, of course! Talking about a weekend hack project, your research, or some ideas you recently had about tech are all great topics for a Friday Hacks talk. _The more code you show, the better!_ Note though that you should **not** give a recruiting pitch. We find that people are more receptive to pitches given at the tail end of technical talks.
 
 **What's the audience like?**
-Anyone is welcomed to attend Friday Hacks, though the audience would be primarily NUS School of Computing students. From experience, we expect 30-50 students on average at every weekly meeting.
+Anyone is welcome to attend Friday Hacks, though our audience is primarily NUS School of Computing students. From experience, we expect 30&ndash;50 students on average at every weekly meeting.
 
 **What tools are provided?**
-We have a Windows desktop, a projector with VGA and adapters from Mini-DisplayPort, a large whiteboard, and wireless network access. Let us know in your email if you need anything else and we'll see what we can do.
+We have a Windows desktop, a projector with VGA, a large whiteboard, and wireless network access. Let us know in your email if you need anything else and we'll see what we can do.

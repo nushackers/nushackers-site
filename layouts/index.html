@@ -25,7 +25,7 @@
     <div class="row">
       <div class="events fh col-12 col-md-6">
         <header class="front-header">
-          <h2 class="front-title">Friday Hacks</h2>
+          <h2 class="front-title"><a href="/fridayhacks">Friday Hacks</a></h2>
         </header>
         <ol class="list">
           {{ partial "friday_hacks_li.html" . }}
@@ -34,7 +34,7 @@
       </div>
       <div class="events hs col-12 col-md-6">
         <header class="front-header">
-          <h2 class="front-title">Hackerschool</h2>
+          <h2 class="front-title"><a href="https://school.nushackers.org">Hackerschool</a></h2>
         </header>
         <ol class="list">
           {{ range $index, $event := $.Site.Data.hacker_school.events }}

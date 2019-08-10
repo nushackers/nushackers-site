@@ -23,22 +23,17 @@ googleAnalytics = "UA-141681743-1"
   weight = 1
   url = "/about"
 [[menu.main]]
-  name = "Discussion"
-  identifier = "Discussion"
+  name = "Community"
+  identifier = "Community"
   weight = 2
-  url = "/discussion"
+  url = "/community"
 [[menu.main]]
   name = "Events"
   identifier = "Events"
   weight = 3
-  url = "/events"
-[[menu.main]]
-  name = "Code"
-  identifier = "Code"
-  weight = 4
-  url = "/code"
+  url = "/about/#what-we-do"
 [[menu.main]]
   name = "Contact"
   identifier = "Contact"
-  weight = 5
+  weight = 4
   url = "/contact"

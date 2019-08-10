@@ -6,7 +6,7 @@ date: "2014-06-23"
 
 ### Related
 
-- [About Us](/about)
-- [Why We Do What We Do](/why)
-- [The Hacker Attitude](/the-hacker-attitude/)
-- [On The Name Change](/name-change/)
+- [About us]({{< ref "/about" >}})
+- [Why we do what we do]({{< ref "/why" >}})
+- [The Hacker Attitude]({{< ref "/the-hacker-attitude" >}})
+- [On the name change]({{< ref "/name-change" >}})

@@ -43,7 +43,7 @@
     eventsByListIndex[index] = hiddenEvents;
 
     if (!futureEvents.length) {
-      list.parentNode.appendChild(NO_EVENTS_NOTICE);
+      list.parentNode.appendChild(NO_EVENTS_NOTICE.cloneNode(true));
     }
     // Remove button if nothing more to show
     if (!hiddenEvents.length) {

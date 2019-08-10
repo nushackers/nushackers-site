@@ -3,14 +3,14 @@ projects:
     description: Interesting talks for hackers from all walks of life
     url: /fridayhacks
     logo: static/img/friday-hacks-logo.svg
+  - name: Hacker Tools
+    description: Workshops on skills essential to everyone
+    url: '#'
+    logo: static/img/code-logo.svg
   - name: hackerschool
     description: Hacking workshops for everyone
     url: //school.nushackers.org
     logo: static/img/hacker-school-logo.svg
-  - name: OSS@nushackers
-    description: Code repository for NUS Hackers
-    url: //github.com/nushackers
-    logo: static/img/code-logo.svg
   - name: Hack&Roll
     description: 24-hour hackathon for students
     url: //hacknroll.nushackers.org

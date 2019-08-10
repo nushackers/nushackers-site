@@ -8,3 +8,8 @@ https://nushackers.netlify.com/* https://www.nushackers.org/:splat 301!
 
 # Shortcut to mailing list
 /ml https://groups.google.com/forum/#!forum/nushackers 302
+
+# Moved URLs
+/discussion /community
+/fh /fridayhacks/schedule
+/events /about/#what-we-do

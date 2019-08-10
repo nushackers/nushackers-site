@@ -1,3 +1,0 @@
----
-title: Friday Hacks
----
