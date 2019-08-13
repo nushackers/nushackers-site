@@ -44,4 +44,4 @@ NUS Hackers is managed by a coreteam of student volunteers. You can reach us by
 
 ## Join us
 
-Want to help us in spreading hacker culture? [We want you!](({{< ref "/join-coreteam" >}}))
+Want to help us in spreading hacker culture? [We want you!]({{< ref "/join-coreteam" >}})
