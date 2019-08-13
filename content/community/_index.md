@@ -11,7 +11,7 @@ To follow what we do, follow us on:
 - [Telegram](https://t.me/nushackers)
 - [Facebook](https://www.facebook.com/NUSHackers)
 - [Twitter](https://twitter.com/nushackers)
-- [Meetup.com](https://groups.google.com/forum/?fromgroups#!forum/nushackers)
+- [Meetup.com](https://www.meetup.com/NUSHackers/)
 - [Our mailing list](https://groups.google.com/forum/?fromgroups#!forum/nushackers)
 
 You can also join us on:
