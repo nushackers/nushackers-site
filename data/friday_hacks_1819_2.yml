@@ -1,0 +1,75 @@
+start_date: 2019-01-25 18:00:00 +0800
+start_nr: 166
+hacks:
+  - venue: <a href="https://goo.gl/maps/xzCo9XgMn4w">LT15, AS6, NUS</a>
+    blog_post: /2019/01/friday-hacks-166/
+    topics:
+      - speaker: Nagendra Bangalore
+        from: Autodesk
+        title: Methods and Process in Building Experiential Features
+      - speaker: Uriel Tan
+        title: Encoding Images in Source 1 with Minimal Tokens
+  - venue: The HANGAR by NUS Enterprise
+    blog_post: /2019/02/friday-hacks-167/
+    topics:
+      - speaker: Herbert Ilhan Tanujaya
+        title: Introduction to Modern Programming Languages
+  - nohack: Chinese New Year
+  - venue: The HANGAR by NUS Enterprise
+    blog_post: /2019/02/friday-hacks-168/
+    topics:
+      - speaker: Alexandre Gouaillard
+        from: CoSMo Software
+        title: "WebRTC: Real Time Media Revolution"
+      - speaker: Louay Mohamed and Vladimir Dimitrov
+        from: TransferWise
+        title: "Microservices Monitoring"
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/02/friday-hacks-169/
+    topics:
+      - speaker: Amy Nguyen
+        from: Stripe
+        title: Algorithms in the real world
+      - speaker: Jethro Kuan
+        title: Productivity with Free Software
+  - nohack: Recess Week
+  - nohack: Exam Week
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/03/friday-hacks-170/
+    topics:
+      - speaker: Jonathan Chow
+        title: A Markov Chain Model for Hockey Playoff Gambling
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/03/friday-hacks-171/
+    topics:
+      - speaker: Junaik Sakib and Arun Sivakumar
+        from: Circles.Life
+        title: "RX Java: Reactive extensions for the JVM"
+      - speaker: Tan Quang Ngo
+        from: Viki
+        title: Reliable and scalable workflows with AWS Step Functions
+  - venue: The HANGAR by NUS Enterprise
+    blog_post: /2019/03/friday-hacks-172/
+    topics:
+      - speaker: Noel Kwan
+        title: "Structuring and working with data in Haskell"
+      - speaker: Tee Hao Wei
+        from: NUS Hackers
+        title: "Lightning Talk: A Telegram code evaluator"
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/04/friday-hacks-173/
+    topics:
+      - speaker: Liu Weiyuan
+        from: Viki
+        title: "From a monolith, rewriting Soompi's backend"
+      - speaker: Dexter Leng
+        title: "Scraping Carousell: Scraping server-side rendered React apps"
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/04/friday-hacks-174
+    topics:
+      - speaker: Omer Iqbal
+        title: Introduction to GPU programming with Metal
+      - speaker: Tee Hao Wei
+        from: NUS Hackers
+        title: Hacking on the Linux kernel
+  - nohack: Good Friday
