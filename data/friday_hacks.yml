@@ -7,3 +7,11 @@ hacks:
       - speaker: Hao Wei
         from: NUS Hackers
         title: Welcome Tea
+  - venue: The Hangar by NUS Enterprise
+    topics:
+      - speaker: Max Wolter
+        from: Jane Street
+        title: Intro to purely functional data structures
+      - speaker: Prashant Yadav & Paul Beaumont
+        title: Kedro - Production Ready Data Pipelines
+
