@@ -198,6 +198,11 @@ $font-small: 0.9rem;
   .hs-time {
     display: block;
   }
+  &:not(:last-of-type) {
+    @include media-breakpoint-down(sm) {
+      margin-bottom: 1.5rem;
+    }
+  }
 }
 
 .posts {
