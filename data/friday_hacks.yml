@@ -35,7 +35,7 @@ hacks:
         title: Building a high-throughput blockchain platform
       - speaker: Tee Hao Wei
         from: NUS Hackers
-        title: The Rust programming language
+        title: 'Open source: what, why and how'
   - venue: TBC
     topics:
       - speaker: Nguyen Hien Linh
