@@ -16,7 +16,7 @@ hacks:
       - speaker: Prashant Yadav & Paul Beaumont
         from: QuantumBlack
         title: Kedro - Production Ready Data Pipelines
-  - venue: TBC
+  - venue: <a href="https://goo.gl/maps/z2FFvVEVF7c431vi9">LT16, COM 2, NUS</a>
     topics:
       - title: Project Intern
         speaker: Coreteam and Project Intern panel
@@ -25,9 +25,9 @@ hacks:
       - speaker: Li Kai
         from: NUSMods
         title: How we built NUSMods
-      - speaker: Wang Ri Zhao
-        from: Astar Tutors
-        title: How I founded Astar Tutors
+      - speaker: Tran Viet Quang
+        from: Veracode
+        title: How I discovered 19 NPM malicious packages
   - venue: TBC
     topics:
       - speaker: Junhao Tan and Edison Lim
@@ -59,8 +59,9 @@ hacks:
       - title: TBC
         from: Visenze
         speaker: Hou Dejun
-      - title: Reproduction of images in Source with minimal tokens
-        speaker: Uriel Tan
+      - title: Voice-based cancer genomics using Melvin
+        speaker: Jason Pitt
+        from: Cancer Science Institute of Singapore
   - venue: TBC
     topics:
       - title: TBC
@@ -81,9 +82,8 @@ hacks:
       - title: TBC
         from: Carousell
         speaker: TBC
-      - title: TBC
-        speaker: Jason Pitt
-        from: Cancer Science Institute of Singapore
+      - title: Reproduction of images in Source with minimal tokens
+        speaker: Uriel Tan
   - venue: TBC
     topics:
       - title: Code Golf
