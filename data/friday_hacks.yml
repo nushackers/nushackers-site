@@ -17,12 +17,14 @@ hacks:
         from: QuantumBlack
         title: Kedro - Production Ready Data Pipelines
   - venue: <a href="https://goo.gl/maps/z2FFvVEVF7c431vi9">LT16, COM 2, NUS</a>
+    blog_post: /2019/08/friday-hacks-177/
     topics:
       - title: Project Intern
         speaker: Coreteam and Project Intern panel
   - venue: TBC
+    blog_post: /2019/08/friday-hacks-178/
     topics:
-      - speaker: Li Kai
+      - speaker: Tan E-Liang and Li Kai
         from: NUSMods
         title: How we built NUSMods
       - speaker: Tran Viet Quang
