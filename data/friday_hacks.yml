@@ -31,6 +31,7 @@ hacks:
         from: Veracode
         title: How I discovered 19 NPM malicious packages
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/08/friday-hacks-179/
     topics:
       - speaker: Junhao Tan and Edison Lim
         from: Zilliqa and Aqilliz
@@ -39,6 +40,7 @@ hacks:
         from: NUS Hackers
         title: 'Open source: what, why and how'
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/08/friday-hacks-180/
     topics:
       - speaker: Nguyen Hien Linh
         from: BasisAI
