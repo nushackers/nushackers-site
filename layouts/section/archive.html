@@ -3,7 +3,7 @@
   <section class="row section">
     <div class="archive posts col-12 col-md-8 push-md-4">
       <h1>{{ .Title }}</h1>
-      {{ $paginator := .Paginate (where .Site.Pages "Type" "post") 15 }}
+      {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") 15 }}
       {{ range $paginator.Pages.GroupByDate "2006"}}
       <h1 class="archive-title"><a href="#">{{ .Key }}</a></h1>
       <ul class="archive-list">

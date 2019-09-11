@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}" prefix="og: http://ogp.me/ns#">
-<head>{{ partial "head.html" . }}</head>
+<head>{{ partial "head.html" . }}{{ block "head" . }}{{ end }}</head>
 <body>
   <div class="container body-container">
     {{ partial "header.html" . }}
