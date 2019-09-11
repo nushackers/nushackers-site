@@ -5,13 +5,13 @@ events:
 - topic: Shell and scripting
   venue: Seminar Room 10, COM1, NUS
   date: 2019-09-10T18:30:00
-- topic: Command line environment
+- topic: Command-line data wrangling
   venue: Seminar Room 1, COM1, NUS
   date: 2019-09-17T18:30:00
-- topic: Command line data wrangling
+- topic: Web browsers and privacy
   venue: Seminar Room 1, COM1, NUS
   date: 2019-10-08T18:30:00
-- topic: Web browsers and privacy
+- topic: "Linux internals: an overview"
   venue: Seminar Room 1, COM1, NUS
   date: 2019-10-15T18:30:00
 - topic: Editors (Vim and Emacs)
