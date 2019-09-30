@@ -74,7 +74,7 @@
       <a href="/archive">Read more</a>
     </header>
     <ul class="list row justify-content-between">
-      {{ range first 7 .Data.Pages }}
+      {{ range first 7 (where .Site.RegularPages "Type" "post") }}
       <li class="item col-12 col-sm-8 col-md-6 col-xl-4">
       <article>
         <header>
