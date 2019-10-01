@@ -11,18 +11,15 @@ events:
 - topic: Introduction to PowerShell
   venue: Seminar Room 3, COM1, NUS
   date: 2019-09-21T13:00:00
-- topic: Introduction to machine learning
-  venue: TBC
+- topic: Introduction to Bayesian Networks
+  venue: Seminar Room 1, COM1, NUS
   date: 2019-10-12T13:00:00
-- topic: Telegram bots and API querying
-  venue: TBC
+- topic: Introduction to Augmented and Virtual Reality
+  venue: Seminar Room 1, COM1, NUS
   date: 2019-10-19T13:00:00
-- topic: Introduction to Arduino
-  venue: TBC
-  date: 2019-10-26T13:00:00
-- topic: Introduction to ReactJS
-  venue: TBC
+- topic: Developing Telegram Bots using Python
+  venue: Seminar Room 1, COM1, NUS
   date: 2019-11-02T13:00:00
 - topic: Introduction to Rust
-  venue: TBC
+  venue: Seminar Room 1, COM1, NUS
   date: 2019-11-09T13:00:00
