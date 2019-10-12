@@ -60,13 +60,13 @@ hacks:
         speaker: A M Aditya
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
-      - title: TBC
+      - title: Site Reliability Engineering Practice in ViSenze
         from: Visenze
         speaker: Hou Dejun
       - title: Voice-based cancer genomics using Melvin
         speaker: Jason Pitt
         from: Cancer Science Institute of Singapore
-  - venue: TBC
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - title: TBC
         from: Visa
