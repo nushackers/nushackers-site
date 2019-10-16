@@ -51,6 +51,7 @@ hacks:
   - nohack: Recess Week
   - nohack: Exam Week
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/10/friday-hacks-181/
     topics:
       - title: Nudge - Influencing Customer Behavior
         from: Rakuten Viki
@@ -59,6 +60,7 @@ hacks:
         from: Xaltius
         speaker: A M Aditya
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/10/friday-hacks-182/
     topics:
       - title: Site Reliability Engineering Practice in ViSenze
         from: Visenze
