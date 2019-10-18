@@ -70,12 +70,12 @@ hacks:
         from: Cancer Science Institute of Singapore
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
-      - title: TBC
-        from: Visa
-        speaker: TBC
-      - title: TBC
+      - title: Runtime schedulers, Java ForkJoinPool, Goroutines
+        from: NUS
+        speaker: Shao Wei
+      - title: Aspect Sentiment Analysis for Company Benefits
         from: Indeed
-        speaker: TBC
+        speaker: Alex Shinn
   - venue: TBC
     topics:
       - title: TBC
