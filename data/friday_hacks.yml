@@ -81,8 +81,8 @@ hacks:
       - title: TBC
         from: Autodesk
         speaker: TBC
-      - title: "Runtime schedulers: Java ForkJoinPool, Goroutines"
-        speaker: Chen Shaowei
+      - title: Scaling the Open Source Process at Facebook
+        speaker: Yang Shun
   - venue: TBC
     topics:
       - title: TBC
