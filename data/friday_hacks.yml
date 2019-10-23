@@ -70,28 +70,27 @@ hacks:
         from: Cancer Science Institute of Singapore
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
-      - title: Runtime schedulers, Java ForkJoinPool, Goroutines
-        from: NUS
-        speaker: Shao Wei
+      - title: "Runtime schedulers: Java ForkJoinPool, Goroutines"
+        speaker: Chen Shaowei
       - title: Aspect Sentiment Analysis for Company Benefits
         from: Indeed
         speaker: Alex Shinn
-  - venue: TBC
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - title: TBC
         from: Autodesk
         speaker: TBC
-      - title: Scaling the Open Source Process at Facebook
+      - title: Scaling the open-source process at Facebook
         from: Facebook
-        speaker: Yang Shun
-  - venue: TBC
+        speaker: Tay Yang Shun
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - title: TBC
         from: Carousell
         speaker: TBC
       - title: Reproduction of images in Source with minimal tokens
         speaker: Uriel Tan
-  - venue: TBC
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
       - title: Code Golf
         speaker: Kuan Wei Heng
