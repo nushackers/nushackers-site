@@ -17,7 +17,7 @@ events:
 - topic: Editors (Vim and Emacs)
   venue: Seminar Room 1, COM1, NUS
   date: 2019-10-22T18:00:00
-- topic: OS customisation (Window managers and keyboard remapping)
+- topic: Window manager and shell customisation
   venue: Seminar Room 1, COM1, NUS
   date: 2019-10-29T18:30:00
 - topic: LaTeX
