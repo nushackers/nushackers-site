@@ -69,6 +69,7 @@ hacks:
         speaker: Jason Pitt
         from: Cancer Science Institute of Singapore
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/10/friday-hacks-183/
     topics:
       - title: "Runtime schedulers: Java ForkJoinPool, Goroutines"
         speaker: Chen Shaowei
