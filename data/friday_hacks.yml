@@ -78,9 +78,9 @@ hacks:
         speaker: Alex Shinn
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
-      - title: TBC
+      - title: How to Build a Production Big Data Pipeline
         from: Autodesk
-        speaker: TBC
+        speaker: Deanne Lim
       - title: Scaling Open Source at Facebook
         from: Facebook
         speaker: Yangshun Tay
