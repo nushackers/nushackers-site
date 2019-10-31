@@ -77,8 +77,9 @@ hacks:
         from: Indeed
         speaker: Alex Shinn
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/10/friday-hacks-184/
     topics:
-      - title: How to Build a Production Big Data Pipeline
+      - title: How to Build a Production Data Pipeline
         from: Autodesk
         speaker: Deanne Lim
       - title: Scaling Open Source at Facebook
