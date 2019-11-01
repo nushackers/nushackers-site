@@ -87,9 +87,9 @@ hacks:
         speaker: Yangshun Tay
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     topics:
-      - title: TBC
-        from: Carousell
-        speaker: TBC
+      - title: Succinct proofs for scaling computation on the blockchain
+        from: NUS
+        speaker: Ying Tong
       - title: Reproduction of images in Source with minimal tokens
         speaker: Uriel Tan
   - venue: Town Plaza Seminar Room 5, UTown, NUS
