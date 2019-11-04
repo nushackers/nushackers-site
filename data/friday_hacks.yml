@@ -86,9 +86,10 @@ hacks:
         from: Facebook
         speaker: Yangshun Tay
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/11/friday-hacks-185/
     topics:
       - title: Succinct proofs for scaling computation on the blockchain
-        from: NUS
+        from: Ethereum Foundation
         speaker: Ying Tong
       - title: Reproduction of images in Source with minimal tokens
         speaker: Uriel Tan
