@@ -68,37 +68,6 @@ body {
   margin: 0 auto;
 }
 
-/* Halloweeeeeeen 2019  */
-:root {
-  --width: 20px;
-  --x-speed: 3.166456s;
-  --y-speed: 4.7341s;
-}
-
-.x {
-  position: fixed;
-  height: 100%;
-  top: 0;
-
-  animation: x var(--x-speed) linear infinite alternate;
-}
-.y {
-  height: 20px;
-  width: 20px;
-  animation: y var(--y-speed) linear infinite alternate;
-}
-
-@keyframes x {
-  100% {
-    transform: translateX(calc(100vw - var(--width)));
-  }
-}
-@keyframes y {
-  100% {
-    transform: translateY(calc(100vh - var(--width)));
-  }
-}
-
 @import "./header.scss";
 @import "./section.scss";
 @import "./footer.scss";
