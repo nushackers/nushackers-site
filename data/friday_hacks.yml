@@ -94,6 +94,7 @@ hacks:
       - title: Reproduction of images in Source with minimal tokens
         speaker: Uriel Tan
   - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/11/friday-hacks-186/
     topics:
       - title: Code Golf
         speaker: Kuan Wei Heng
