@@ -1,0 +1,11 @@
+events:
+  - topic: Linux Install Fest
+    venue: Embedded Systems Teaching Lab 2, 01-13, COM1, NUS
+    date: 2020-01-21T18:30:00
+  - topic: Static Sites
+    venue: Embedded Systems Teaching Lab 2, 01-13, COM1, NUS
+    date: 2020-02-04T18:30:00
+  - topic: Scrapers
+    venue: Embedded Systems Teaching Lab 2, 01-13, COM1, NUS
+    date: 2020-02-11T19:00:00
+  
