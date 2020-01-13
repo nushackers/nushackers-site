@@ -3,8 +3,8 @@ projects:
     description: Interesting talks for hackers from all walks of life
     url: /fridayhacks
     logo: static/img/friday-hacks-logo.svg
-  - name: Hacker Tools
-    description: Workshops on skills essential to everyone
+  - name: HackTuesdays
+    description: Lightning Talks and a place for hackers to meet.
     url: '#'
     logo: static/img/code-logo.svg
   - name: hackerschool
