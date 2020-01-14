@@ -10,12 +10,12 @@ If you are just looking for a space to hack, you are also more than welcome to d
 
 ## FAQ
 
-1. **What are the talks about?**
+**1. What are the talks about?**
 
 There is no fixed theme for HackTuesdays, though we do try to focus on common software
 that people use/encounter.
 
-2. **Can I give a lightning talk?**
+**2. Can I give a lightning talk?**
 
 Yes! You are more than welcome to give a talk on any topic of your choice. Just email us 
 at <a href="mailto:coreteam@nushackers.org">coreteam@nushackers.org</a>.
