@@ -1,0 +1,96 @@
+start_date: 2019-08-16 18:00:00 +0800
+start_nr: 175
+hacks:
+  - venue: <a href="https://goo.gl/maps/z2FFvVEVF7c431vi9">LT16, COM 2, NUS</a>
+    blog_post: /2019/08/friday-hacks-175/
+    topics:
+      - speaker: Tee Hao Wei
+        from: NUS Hackers
+        title: Welcome Tea
+  - venue: The Hangar by NUS Enterprise
+    blog_post: /2019/08/friday-hacks-176/
+    topics:
+      - speaker: Max Wolter
+        from: Jane Street
+        title: Intro to purely functional data structures
+      - speaker: Prashant Yadav & Paul Beaumont
+        from: QuantumBlack
+        title: Kedro - Production Ready Data Pipelines
+  - venue: <a href="https://goo.gl/maps/z2FFvVEVF7c431vi9">LT16, COM 2, NUS</a>
+    blog_post: /2019/08/friday-hacks-177/
+    topics:
+      - title: Project Intern
+        speaker: Coreteam and Project Intern panel
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/08/friday-hacks-178/
+    topics:
+      - speaker: Tan E-Liang and Li Kai
+        from: NUSMods
+        title: How we built NUSMods
+      - speaker: Tran Viet Quang
+        from: Veracode
+        title: How I discovered 19 NPM malicious packages
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/08/friday-hacks-179/
+    topics:
+      - speaker: Junhao Tan and Edison Lim
+        from: Zilliqa and Aqilliz
+        title: Building a high-throughput blockchain platform
+      - speaker: Tee Hao Wei
+        from: NUS Hackers
+        title: 'Open source: what, why and how'
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2019/08/friday-hacks-180/
+    topics:
+      - speaker: Nguyen Hien Linh
+        from: BasisAI
+        title: Release good practices, or how not to be paged at 3am
+      - speaker: Mai Anh Vu
+        from: Sea
+        title: Efficient multilingual search on mobile devices
+  - nohack: Recess Week
+  - nohack: Exam Week
+  - venue: TBC
+    topics:
+      - title: TBC
+        from: Rakuten Viki
+        speaker: TBC
+      - title: Machine learning with Databricks and PySpark
+        from: Xaltius
+        speaker: A M Aditya
+  - venue: TBC
+    topics:
+      - title: TBC
+        from: Visenze
+        speaker: Hou Dejun
+      - title: Voice-based cancer genomics using Melvin
+        speaker: Jason Pitt
+        from: Cancer Science Institute of Singapore
+  - venue: TBC
+    topics:
+      - title: TBC
+        from: Visa
+        speaker: TBC
+      - title: TBC
+        from: Indeed
+        speaker: TBC
+  - venue: TBC
+    topics:
+      - title: TBC
+        from: Autodesk
+        speaker: TBC
+      - title: "Runtime schedulers: Java ForkJoinPool, Goroutines"
+        speaker: Chen Shaowei
+  - venue: TBC
+    topics:
+      - title: TBC
+        from: Carousell
+        speaker: TBC
+      - title: Reproduction of images in Source with minimal tokens
+        speaker: Uriel Tan
+  - venue: TBC
+    topics:
+      - title: Code Golf
+        speaker: Kuan Wei Heng
+
+

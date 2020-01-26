@@ -1,102 +1,45 @@
-start_date: 2019-08-16 18:00:00 +0800
-start_nr: 175
+start_date: 2020-01-31 18:30:00 +0800
+start_nr: 187
 hacks:
-  - venue: <a href="https://goo.gl/maps/z2FFvVEVF7c431vi9">LT16, COM 2, NUS</a>
-    blog_post: /2019/08/friday-hacks-175/
+  - venue: <a href="https://goo.gl/maps/WpDCDzWa26G1grEv9">Cerebro, COM 1, NUS</a>
+    blog_post: /2020/01/friday-hacks-187/
     topics:
-      - speaker: Tee Hao Wei
-        from: NUS Hackers
-        title: Welcome Tea
-  - venue: The Hangar by NUS Enterprise
-    blog_post: /2019/08/friday-hacks-176/
-    topics:
-      - speaker: Max Wolter
-        from: Jane Street
-        title: Intro to purely functional data structures
-      - speaker: Prashant Yadav & Paul Beaumont
+      - speaker: Paul Beaumont & Andrew Tan
         from: QuantumBlack
-        title: Kedro - Production Ready Data Pipelines
-  - venue: <a href="https://goo.gl/maps/z2FFvVEVF7c431vi9">LT16, COM 2, NUS</a>
-    blog_post: /2019/08/friday-hacks-177/
-    topics:
-      - title: Project Intern
-        speaker: Coreteam and Project Intern panel
+        title: Analytics in the Real World
+      - speaker: Eugene Lim
+        title: Server Side Request Forgery (SSRF)
   - venue: Town Plaza Seminar Room 5, UTown, NUS
-    blog_post: /2019/08/friday-hacks-178/
+    blog_post: /2020/02/friday-hacks-188/
     topics:
-      - speaker: Tan E-Liang and Li Kai
-        from: NUSMods
-        title: How we built NUSMods
-      - speaker: Tran Viet Quang
-        from: Veracode
-        title: How I discovered 19 NPM malicious packages
-  - venue: Town Plaza Seminar Room 5, UTown, NUS
-    blog_post: /2019/08/friday-hacks-179/
-    topics:
-      - speaker: Junhao Tan and Edison Lim
-        from: Zilliqa and Aqilliz
-        title: Building a high-throughput blockchain platform
-      - speaker: Tee Hao Wei
+      - speaker: Ankita Gupta
+        from: Stripe
+        title: TBC
+      - speaker: Herbert Ilhan Tanujaya
         from: NUS Hackers
-        title: 'Open source: what, why and how'
+        title: TBC
   - venue: Town Plaza Seminar Room 5, UTown, NUS
-    blog_post: /2019/08/friday-hacks-180/
+    blog_post: /2020/02/friday-hacks-189/
     topics:
-      - speaker: Nguyen Hien Linh
-        from: BasisAI
-        title: Release good practices, or how not to be paged at 3am
-      - speaker: Mai Anh Vu
-        from: Sea
-        title: Efficient multilingual search on mobile devices
-  - nohack: Recess Week
-  - nohack: Exam Week
+      - title: Stream Processing with Kafka Stream
+        speaker: Nguyen Truong Khanh
+        from: Zendesk
+      - title: Pinda
+        speaker: Julius Sander
   - venue: Town Plaza Seminar Room 5, UTown, NUS
-    blog_post: /2019/10/friday-hacks-181/
+    blog_post: /2020/02/friday-hacks-190/
     topics:
-      - title: Nudge - Influencing Customer Behavior
-        from: Rakuten Viki
-        speaker: Ameya
-      - title: Machine learning with Databricks and PySpark
-        from: Xaltius
-        speaker: A M Aditya
-  - venue: Town Plaza Seminar Room 5, UTown, NUS
-    blog_post: /2019/10/friday-hacks-182/
-    topics:
-      - title: Site Reliability Engineering Practice in ViSenze
+      - title: Theory and Applications of Automated Differentation
+        speaker: Sean Pek
+      - title: How data helps in Visenze Technology
+        speaker: Yao Renjie
         from: Visenze
-        speaker: Hou Dejun
-      - title: Voice-based cancer genomics using Melvin
-        speaker: Jason Pitt
-        from: Cancer Science Institute of Singapore
   - venue: Town Plaza Seminar Room 5, UTown, NUS
-    blog_post: /2019/10/friday-hacks-183/
+    blog_post: /2020/03/friday-hacks-191/
     topics:
-      - title: "Runtime schedulers: Java ForkJoinPool, Goroutines"
-        speaker: Chen Shaowei
-      - title: Aspect Sentiment Analysis for Company Benefits
-        from: Indeed
-        speaker: Alex Shinn
-  - venue: Town Plaza Seminar Room 5, UTown, NUS
-    blog_post: /2019/10/friday-hacks-184/
-    topics:
-      - title: How to Build a Production Data Pipeline
-        from: Autodesk
-        speaker: Deanne Lim
-      - title: Scaling Open Source at Facebook
-        from: Facebook
-        speaker: Yangshun Tay
-  - venue: Town Plaza Seminar Room 5, UTown, NUS
-    blog_post: /2019/11/friday-hacks-185/
-    topics:
-      - title: Succinct proofs for scaling computation on the blockchain
-        from: Ethereum Foundation
-        speaker: Ying Tong
-      - title: Reproduction of images in Source with minimal tokens
-        speaker: Uriel Tan
-  - venue: Town Plaza Seminar Room 5, UTown, NUS
-    blog_post: /2019/11/friday-hacks-186/
-    topics:
-      - title: Code Golf
-        speaker: Kuan Wei Heng
-
-
+      - speaker: TBC
+        from: Xaltius
+        title: TBC
+      - speaker: TBC
+        from: Credit Suisse
+        title: Serverless Architecture (FaaS)
