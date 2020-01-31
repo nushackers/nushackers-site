@@ -88,10 +88,11 @@ members:
 
   - name: Christopher
     description: |
-      a computer science undergraduate that drinks way too much coffee, sleeps way too little, and is passionate about all things computer science.
-      He enjoys bingeing Netflix documentaries, drinking a good cup of gesha coffee and playing good games of Dota 2 in his free time.
-      Report his GitHub profile <a href="https://github.com/chrisgzf">here</a> (please don't) or
-      send him cat memes at <a href="mailto:chris@nushackers.org">chris@nushackers.org</a>.
+      a computer science undergraduate that drinks way too much coffee, sleeps
+      way too little, and is passionate about all things computer science.
+      Report his GitHub profile <a href="https://github.com/chrisgzf">here</a>
+      (please don't) or send him cat memes at
+      <a href="mailto:chris@nushackers.org">chris@nushackers.org</a>.
 
   - name: Jing Yen
     description: |
