@@ -14,10 +14,10 @@ hacks:
     topics:
       - speaker: Ankita Gupta
         from: Stripe
-        title: TBC
+        title: A look under the hood of Stripe.js
       - speaker: Herbert Ilhan Tanujaya
         from: NUS Hackers
-        title: TBC
+        title: Implementing and Breaking RSA in the Real World
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     blog_post: /2020/02/friday-hacks-189/
     topics:
@@ -43,3 +43,37 @@ hacks:
       - speaker: TBC
         from: Credit Suisse
         title: Serverless Architecture (FaaS)
+  - venue: The Hangar by NUS Enterprise
+    blog_post: /2020/03/friday-hacks-192/
+    topics:
+      - speaker: TBC
+        from: Rakuten Viki
+        title: Building an MVP to test and validate a hypothesis
+      - speaker: Fong Wei Jie & Ren Ying
+        title: Stock Market Prediction based on Tweets from the General Public
+  - venue: The Hangar by NUS Enterprise
+    blog_post: /2020/03/friday-hacks-192/
+    topics:
+      - speaker: TBC
+        from: Carousell
+        title: TBC
+      - speaker: Andrew "Bunnie" Huang
+        title: TBC
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2020/04/friday-hacks-191/
+    topics:
+      - speaker: TBC
+        from: Alphalab Capital
+        title: TBC
+      - speaker: TBC
+        from: Circles.Life
+        title: TBC
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2020/04/friday-hacks-191/
+    topics:
+      - speaker: TBC
+        from: Indeed
+        title: TBC
+      - speaker: Jiang Huan
+        from: Titansoft
+        title: One year with Kubernetes in Production
