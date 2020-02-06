@@ -12,19 +12,19 @@ hacks:
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     blog_post: /2020/02/friday-hacks-188/
     topics:
-      - speaker: Ankita Gupta
-        from: Stripe
-        title: A look under the hood of Stripe.js
       - speaker: Herbert Ilhan Tanujaya
         from: NUS Hackers
         title: Implementing and Breaking RSA in the Real World
+      - speaker: Ankita Gupta
+        from: Stripe
+        title: A look under the hood of Stripe.js
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     blog_post: /2020/02/friday-hacks-189/
     topics:
       - title: Stream Processing with Kafka Stream
         speaker: Nguyen Truong Khanh
         from: Zendesk
-      - title: Pinda
+      - title: Making a Real-Time Game for the Mobile Browser
         speaker: Julius Sander
   - venue: Town Plaza Seminar Room 5, UTown, NUS
     blog_post: /2020/02/friday-hacks-190/
