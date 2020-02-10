@@ -4,9 +4,9 @@
   </div>
   <nav class="nav col-12 col-sm-10 col-lg-8">
     <ul class="nav-menu">
-      {{ $currentURL := .URL }}
+      {{ $currentURL := .Permalink }}
       {{ range .Site.Menus.main }}
-      <li class="nav-menu-item{{ if in $currentURL .URL}} nav-menu-active{{ end }}"><a class="nav-menu-link" href="{{ .URL }}">{{ .Name }}</a></li>
+      <li class="nav-menu-item{{ if in $currentURL .URL }} nav-menu-active{{ end }}"><a class="nav-menu-link" href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
       <li class="nav-menu-item"><a class="nav-menu-link" href="/index.xml">RSS</a></li>
     </ul>
