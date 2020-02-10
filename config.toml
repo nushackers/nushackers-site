@@ -18,6 +18,11 @@ rssLimit = 10
 [permalinks]
   post = "/:year/:month/:slug/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[menu.main]]
   name = "About"
   identifier = "About"
