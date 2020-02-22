@@ -8,7 +8,7 @@ url: /2015/04/friday-hacks-92
 We'll be having three security researchers from the Ministry of Home Affairs --
 Jacob, Glenn and Damian -- speaking about Web Security this week. See you!
 
-{{% friday_hack_header venue="SR3, Town Plaza, UTown" date="April 10" %}}
+{{< friday_hack_header venue="SR3, Town Plaza, UTown" date="April 10" >}}
 
 Facebook Event link: https://www.facebook.com/events/356672161209020/
 

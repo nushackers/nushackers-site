@@ -7,7 +7,7 @@ url: /2014/08/friday-hacks-72
 
 This week's Friday Hacks is security themed! The Research and Analysis Team from the Singapore Infocomm Technology Security Authority will be here to give us two hands-on talks. See you there!
 
-{{% friday_hack_header venue="Video Conferencing Room, #02-13, COM1, 13 Computing Drive, NUS" date="August 22" %}}
+{{< friday_hack_header venue="Video Conferencing Room, #02-13, COM1, 13 Computing Drive, NUS" date="August 22" >}}
 
 ### Playing CTF for Fun & Profit
 

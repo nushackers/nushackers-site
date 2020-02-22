@@ -7,7 +7,7 @@ url: /2014/11/friday-hacks-82
 
 There's more to hacking than software – get started with electronics at this Friday Hacks! Everyone* walks away with their own noise synthesizers and one lucky attendee will win a Raspberry Pi!
 
-{{% friday_hack_header venue="SR3, Town Plaza (Level 2), University Town, NUS" date="November 7" %}}
+{{< friday_hack_header venue="SR3, Town Plaza (Level 2), University Town, NUS" date="November 7" >}}
 
 ### Start Your Electronics Journey
 

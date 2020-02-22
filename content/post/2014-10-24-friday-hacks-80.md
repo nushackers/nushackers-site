@@ -7,7 +7,7 @@ url: /2014/10/friday-hacks-80
 
 Get all your questions about internships answered at next week's Friday Hacks! There will be a Q&A session after.
 
-{{% friday_hack_header venue="SR3, Town Plaza (Level 2), University Town, NUS" date="October 24" %}}
+{{< friday_hack_header venue="SR3, Town Plaza (Level 2), University Town, NUS" date="October 24" >}}
 
 ### Internships 101
 

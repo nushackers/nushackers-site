@@ -5,7 +5,7 @@ title: 'Friday Hacks #95, August 28'
 url: /2015/08/friday-hacks-95
 ---
 
-{{% friday_hack_header venue="Seminar Room 2, School of Computing" date="August 28" %}}
+{{< friday_hack_header venue="Seminar Room 2, School of Computing" date="August 28" >}}
 
 Facebook Event link: https://www.facebook.com/events/1618580021755297/
 

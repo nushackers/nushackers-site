@@ -8,7 +8,7 @@ url: /2015/03/friday-hacks-89
 We're happy to have Haoyi, an engineer from Dropbox, speaking this week about the web
 infrastructure at Dropbox. See you there!
 
-{{% friday_hack_header venue="SR3, Town Plaza, UTown" date="March 6" %}}
+{{< friday_hack_header venue="SR3, Town Plaza, UTown" date="March 6" >}}
 
 Facebook Event link: https://www.facebook.com/events/1411988652437251
 

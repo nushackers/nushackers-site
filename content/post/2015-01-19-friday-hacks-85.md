@@ -8,7 +8,7 @@ url: /2015/01/friday-hacks-85
 This Friday, we'll be having Sundaravalli Shriram from PayPal speaking about an
 introduction to functional programming in Scala. See you there!
 
-{{% friday_hack_header venue="LT15, AS6, National University of Singapore" date="January 23" %}}
+{{< friday_hack_header venue="LT15, AS6, National University of Singapore" date="January 23" >}}
 
 Facebook Event link: https://www.facebook.com/events/778300145578508
 

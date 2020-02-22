@@ -7,7 +7,7 @@ url: /2014/08/friday-hacks-71
 
 For our first Friday Hack of AY2014/2015, we will have our Welcome Tea followed by an introduction to open source development by NUSMods creators, Beng and Yang Shun. See you there!
 
-{{% friday_hack_header venue="Practice Room 1, Stephen Riady Centre (Level 3), UTown, NUS" date="August 15" %}}
+{{< friday_hack_header venue="Practice Room 1, Stephen Riady Centre (Level 3), UTown, NUS" date="August 15" >}}
 
 ### Introduction to NUS Hackers
 

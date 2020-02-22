@@ -9,7 +9,7 @@ We will be having two talks this Friday! One is on software (databases), the
 other one is on hardware (Bluetooth), and both speakers are named Cedric. What
 are the chances? See you there!
 
-{{% friday_hack_header venue="NUS Hackerspace, AS6 #02-09" date="January 30" %}}
+{{< friday_hack_header venue="NUS Hackerspace, AS6 #02-09" date="January 30" >}}
 
 Facebook Event link: https://www.facebook.com/events/1630037577224179/
 

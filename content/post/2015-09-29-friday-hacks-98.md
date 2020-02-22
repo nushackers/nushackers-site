@@ -7,7 +7,7 @@ url: /2015/09/friday-hacks-98
 
 Members of SoC have no doubt used the SoC Printing app on Android/iOS before. Kheng Meng, a recent SoC graduate will be explaining the behind the scenes of the SoC Printing system as well as giving an introduction to Bluetooth Low Energy.
 
-{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Oct 02" %}}
+{{< friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Oct 02" >}}
 
 Facebook Event link: [https://www.facebook.com/events/1655751784694619/](https://www.facebook.com/events/1655751784694619/)
 

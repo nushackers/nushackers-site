@@ -9,7 +9,7 @@ Ever wondered how PayPal or other large companies scale their infrastructure to 
 
 Jeremias Wong, a NUS Hackers coreteam member, will be speaking about his experience in Chaos Communication Camp, Berlin. CCC is one of the biggest hacker-centric camp in the world organized by [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club).
 
-{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Sept 18" %}}
+{{< friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Sept 18" >}}
 
 Facebook Event link: [https://www.facebook.com/events/919696661422905/](https://www.facebook.com/events/919696661422905/)
 

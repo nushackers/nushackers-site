@@ -7,7 +7,7 @@ url: /2014/10/friday-hacks-78
 
 This week's Friday Hacks is about cybercrime and NFC security by Vicky, Palo Alto Networks engineer, and Jeremias, NUS student, respectively!
 
-{{% friday_hack_header venue="SR3, Town Plaza (Level 2), University Town, NUS" date="October 10" %}}
+{{< friday_hack_header venue="SR3, Town Plaza (Level 2), University Town, NUS" date="October 10" >}}
 
 ### Tales of an InfoStealer
 

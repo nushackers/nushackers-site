@@ -7,7 +7,7 @@ url: /2015/04/friday-hacks-93
 
 For the final Friday Hacks of the semester, we'll be having Melvin Zhang, lead architect from Cosmiqo International, and Mathieu Feulvarch, senior product architect from MyRepublic. See you!
 
-{{% friday_hack_header venue="SR3, Town Plaza, UTown" date="April 17" %}}
+{{< friday_hack_header venue="SR3, Town Plaza, UTown" date="April 17" >}}
 
 Facebook Event link: https://www.facebook.com/events/1569158963362746/
 

@@ -9,7 +9,7 @@ Welcome back! For the first Friday Hacks of the semester, we have Benjamin Tan,
 Software Engineer at Neo Innovation, Inc., sharing about a new programming
 language named Elixir, and what interesting things can be done with it.
 
-{{% friday_hack_header venue="LT15, AS6, National University of Singapore" date="January 16" %}}
+{{< friday_hack_header venue="LT15, AS6, National University of Singapore" date="January 16" >}}
 
 Facebook Event link: https://www.facebook.com/events/858661884184469/
 

@@ -7,7 +7,7 @@ url: /2014/10/friday-hacks-79
 
 Meet Palantir at next week's Friday Hacks!
 
-{{% friday_hack_header venue="LT50, Stephen Riady Centre (Level 1), University Town, NUS" date="October 17" %}}
+{{< friday_hack_header venue="LT50, Stephen Riady Centre (Level 1), University Town, NUS" date="October 17" >}}
 
 ### PUSH - Solve hard problems. Ship great product. See your impact.
 

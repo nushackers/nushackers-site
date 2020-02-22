@@ -7,7 +7,7 @@ url: /2014/09/friday-hacks-76
 
 ... let's play a game. Solve programming challenges this week at Friday Hacks, with a twist – shortest solutions win! JavaScript, Python and others accepted for Code Golf.
 
-{{% friday_hack_header venue="SR4, Town Plaza (Level 2), University Town, NUS" date="September 19" %}}
+{{< friday_hack_header venue="SR4, Town Plaza (Level 2), University Town, NUS" date="September 19" >}}
 
 ### Code Golf
 

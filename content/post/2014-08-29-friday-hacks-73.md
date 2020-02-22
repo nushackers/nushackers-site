@@ -7,7 +7,7 @@ url: /2014/08/friday-hacks-73
 
 This week, Shan will be sharing about his work to optimize underwater modems, and how to get started with electronics. We're also giving away a Raspberry Pi to one lucky attendee, see you there!
 
-{{% friday_hack_header venue="Video Conferencing Room, #02-13, COM1, 13 Computing Drive, NUS" date="August 29" %}}
+{{< friday_hack_header venue="Video Conferencing Room, #02-13, COM1, 13 Computing Drive, NUS" date="August 29" >}}
 
 ### Optimizing Underwater Modems and Other Hardware Fun!
 

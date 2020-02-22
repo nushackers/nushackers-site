@@ -5,7 +5,7 @@ title: 'Friday Hacks #96, Sept 4'
 url: /2015/08/friday-hacks-96
 ---
 
-{{% friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Sept 4" %}}
+{{< friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Sept 4" >}}
 
 Facebook Event link: https://www.facebook.com/events/941100582619417/
 
