@@ -5,7 +5,8 @@ description: NUSHackers event recordings
 
 As far as possible, we try to record down all our events if the speaker consents. Here are the links to the recordings. Enjoy!
 
-## AY 18`/`19 Semester 2
+## AY 18/19 Semester 2
+
 * **Friday Hacks 168 (Feb 15 2019)**
     1. WebRTC: Real Time Media Revolution by Alexandre Gouaillard (CoSMo Software): <a href="https://www.youtube.com/watch?v=W8k-qM4AOTQ" target="_blank">Watch</a>
     2. Microservices Monitoring by Louay Mohamed and Vladimir Dimitrov (TransferWise): <a href="https://www.youtube.com/watch?v=wXXdvcFidQc" target="_blank">Watch</a>
