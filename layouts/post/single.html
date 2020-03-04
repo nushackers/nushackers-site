@@ -1,0 +1,64 @@
+{{ define "main" }}
+<main class="row justify-content-center single main">
+  <section class="col-12 col-md-8 section">
+    <article>
+      <h1>{{ .Title }}</h1>
+      <h2 class="posted">Posted on
+        <time>{{ .Date.Format "Jan 2" }}</time> by {{ .Params.author }}
+      </h2>
+      {{ .Content }}
+      {{ if and (eq (substr .Title 0 14) "Friday Hacks #") (not .Params.nofh) }}
+        {{ partial "friday_hack_footer.html" . }}
+      {{ end}}
+    </article>
+  </section>
+  <aside class="col-12 col-md-10 aside">
+    <div class="row">
+      {{ if .Params.topics }}
+      <div class="col">
+        <h3>Categories</h3>
+        <ul class="categories">
+          {{ range .Params.topics }}
+          <li>
+            <a href="/topics/{{ . | urlize }}">{{ . }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }} {{ if .Params.tags }}
+      <div class="col">
+        <h3>Tags</h3>
+        <ul class="tags">
+          {{ range .Params.tags }}
+          <li>
+            <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+  </aside>
+  <div class="col-12 col-md-10 browse">
+    <div class="row">
+      <div class="col-6 post-previous">
+        {{ if .PrevPage }}
+        <a href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title }}</a>
+        {{ end }}
+      </div>
+      <div class="col-6 post-next">
+        {{ if .NextPage }}
+        <a href="{{ .NextPage.Permalink }}">{{ .NextPage.Title }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="col-12">
+    {{ partial "disqus.html" . }}
+  </div>
+</main>
+{{ end }}
+{{ define "scripts" }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-Ra6zh6uYMmH5ydwCqqMoykyf1T/+ZcnOQfFPhDrp2kI4OIxadnhsvvA2vv9A7xYv"
+  crossorigin="anonymous"></script>
+{{ end }}
