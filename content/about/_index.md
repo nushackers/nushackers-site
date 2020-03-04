@@ -22,6 +22,8 @@ We also run smaller events for the NUS community, like Project Intern, where stu
 
 Some of our events are recorded if consent is given by the relevant parties. Find our recordings [here]({{< ref "/recordings" >}}).
 
+Participants at our events must follow our [event code of conduct]({{< ref "/conduct" >}}).
+
 ## Philosophy
 
 We believe that hacking is necessary for good innovation. (In fact, the best computer-related startups and technologies [have all come from hackers]({{< ref "/why" >}}).) As an extension to that, we think tinkering is win-win-win: you learn new things, you get to show off, and you become more attractive to employers.
