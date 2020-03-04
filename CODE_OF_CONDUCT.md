@@ -50,3 +50,7 @@ discussion.
 Serious or persistent offenders will be temporarily or permanently banned from communicating on NUS
 Hackers-maintained platforms. Complaints should be made (in private) to the [NUS Hackers
 Coreteam](https://www.nushackers.org/contact).
+
+## Attribution
+
+This document was adapted from the [Debian Code of Conduct](https://www.debian.org/code_of_conduct).
