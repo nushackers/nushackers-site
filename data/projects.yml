@@ -5,7 +5,7 @@ projects:
     logo: static/img/friday-hacks-logo.svg
   - name: HackTuesdays
     description: Lightning Talks and a place for hackers to meet.
-    url: /hack_tuesdays
+    url: /hack-tuesdays
     logo: static/img/code-logo.svg
   - name: hackerschool
     description: Hacking workshops for everyone
