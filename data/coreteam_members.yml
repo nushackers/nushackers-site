@@ -1,44 +1,18 @@
 ---
 members:
-  - name: Hao Wei
+  - name: Christopher
     description: |
-      a computer science undergraduate with an interest in operating systems,
-      systems programming, programming languages, and free software. Find him
-      on <a href="https://github.com/angelsl">GitHub</a>.
+      a computer science undergraduate that drinks way too much coffee, sleeps
+      way too little, and is passionate about all things computer science.
+      Report his GitHub profile <a href="https://github.com/chrisgzf">here</a>
+      (please don't) or send him cat memes at
+      <a href="mailto:chris@nushackers.org">chris@nushackers.org</a>.
 
   - name: Suyash
     description: |
       a computer science undergraduate student who loves everything tech, from new home automation hacks to new apps.
       He might be new to the world of making things but has been breaking things his whole life.
       Feel free to contact him at <a href="mailto:suyash@nushackers.org">suyash@nushackers.org</a>.
-
-  - name: Herbert
-    description: |
-      a computer science student who takes more pure math modules than CS.
-      His first real programming experience was in CS1101S. Since then, he
-      has tried many things which can be found at
-      <a href="//github.com/donjar">github.com/donjar</a>.
-
-  - name: Jethro
-    description: |
-      a computer science undergraduate, who hacks all things hackable.
-      He organizes an <a href="https://www.meetup.com/Emacs-SG/">Emacs meetup</a>
-      and would love to see you there! You can stalk him <a href="//www.jethrokuan.com/">here</a>.
-
-  - name: Rachael
-    description: |
-      a business analytics undergraduate that loves exploring many fields, such as psychology, AI and design.
-      She hope to create and recreate more as she experiments with new things. First attempt in creating a <a href="https://rachaeltay.github.io/">website</a>.
-      Get in touch with her at <a href="mailto:rachaeltay@nushackers.org">rachaeltay@nushackers.org</a>.
-
-  - name: Raynold
-    description: |
-      a computer science student interested in Algorithms, Math and dodgeball. You can find his code at <a href="//github.com/raynoldng">github.com/raynoldng</a>.
-      You can engage him at <a href="mailto:raynold@nushackers.org">raynold@nushackers.org</a>
-
-  - name: Francis
-    description: |
-      a sushi-loving, rock-climbing, tembusu-staying, mural-painting, vampires-studying, Computer Engineering student, hoping to extend this list as the years go by.
 
   - name: Julius
     description: |
@@ -61,6 +35,12 @@ members:
     description: |
       a computer science undergraduate with a current interest in full-stack stuff. He enjoys watching football in his free time.
       He can be reached at <a href="mailto:joshua@nushackers.org">joshua@nushackers.org</a>.
+
+  - name: Hao Wei
+    description: |
+      a computer science undergraduate with an interest in operating systems,
+      systems programming, programming languages, and free software. Find him
+      on <a href="https://github.com/angelsl">GitHub</a>.
 
   - name: Wee Han
     description: |
@@ -85,14 +65,6 @@ members:
     description: |
       a computer science undergraduate interested in algorithms and competitive programming.
       Find him on <a href="https://github.com/le0tan">GitHub</a>.
-
-  - name: Christopher
-    description: |
-      a computer science undergraduate that drinks way too much coffee, sleeps
-      way too little, and is passionate about all things computer science.
-      Report his GitHub profile <a href="https://github.com/chrisgzf">here</a>
-      (please don't) or send him cat memes at
-      <a href="mailto:chris@nushackers.org">chris@nushackers.org</a>.
 
   - name: Jing Yen
     description: |

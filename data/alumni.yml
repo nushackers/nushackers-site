@@ -189,3 +189,31 @@ members:
       an EE undergrad who likes to exercise his imagination and toy with
       unconventional ideas. He's into puzzling, tinkering, making and programming.
       Engage Ramu at <a href="mailto:ramu@nushackers.org">ramu@nushackers.org</a>.
+
+  - name: Herbert
+    description: |
+      a computer science student who takes more pure math modules than CS.
+      His first real programming experience was in CS1101S. Since then, he
+      has tried many things which can be found at
+      <a href="//github.com/donjar">github.com/donjar</a>.
+
+  - name: Jethro
+    description: |
+      a computer science undergraduate, who hacks all things hackable.
+      He organizes an <a href="https://www.meetup.com/Emacs-SG/">Emacs meetup</a>
+      and would love to see you there! You can stalk him <a href="//www.jethrokuan.com/">here</a>.
+
+  - name: Rachael
+    description: |
+      a business analytics undergraduate that loves exploring many fields, such as psychology, AI and design.
+      She hope to create and recreate more as she experiments with new things. First attempt in creating a <a href="https://rachaeltay.github.io/">website</a>.
+      Get in touch with her at <a href="mailto:rachaeltay@nushackers.org">rachaeltay@nushackers.org</a>.
+
+  - name: Raynold
+    description: |
+      a computer science student interested in Algorithms, Math and dodgeball. You can find his code at <a href="//github.com/raynoldng">github.com/raynoldng</a>.
+      You can engage him at <a href="mailto:raynold@nushackers.org">raynold@nushackers.org</a>
+
+  - name: Francis
+    description: |
+      a sushi-loving, rock-climbing, tembusu-staying, mural-painting, vampires-studying, Computer Engineering student, hoping to extend this list as the years go by.
