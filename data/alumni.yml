@@ -192,10 +192,8 @@ members:
 
   - name: Herbert
     description: |
-      a computer science student who takes more pure math modules than CS.
-      His first real programming experience was in CS1101S. Since then, he
-      has tried many things which can be found at
-      <a href="//github.com/donjar">github.com/donjar</a>.
+      a computer science + mathematics student with a broad range of interests.
+      Reach out to him <a href="mailto:mail@herbert.id">here</a>!
 
   - name: Jethro
     description: |
