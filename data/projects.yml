@@ -3,9 +3,9 @@ projects:
     description: Interesting talks for hackers from all walks of life
     url: /fridayhacks
     logo: static/img/friday-hacks-logo.svg
-  - name: HackTuesdays
-    description: Lightning Talks and a place for hackers to meet.
-    url: /hack-tuesdays
+  - name: OpenHack
+    description: Build on fun open source projects, now with goodies
+    url: //openhack.nushackers.org
     logo: static/img/code-logo.svg
   - name: hackerschool
     description: Hacking workshops for everyone
