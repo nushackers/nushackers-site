@@ -19,6 +19,4 @@ Coreteam is organised as a flat structure under a single president (instead of i
 
 ## Want to join us?
 
-Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf_JOgK0duMoZExhjdVGENTYlfxh5exTUH--TF9SnN4-9az4w/viewform)!
-
-Or you can just [email]({{< ref "/contact" >}}) or approach any one of us&mdash;we'll set up an interview to find out more about what you're interested in doing. This is usually an informal chat over lunch, so don't worry too much about it; it does help to take part in our events and check out the rest of this site beforehand, though. This is also an opportunity for you to get to know us better, so feel free to ask any questions, too.
+Just [email]({{< ref "/contact" >}}) or approach any one of us&mdash;we'll set up an interview to find out more about what you're interested in doing. This is usually an informal chat over lunch, so don't worry too much about it; it does help to take part in our events and check out the rest of this site beforehand, though. This is also an opportunity for you to get to know us better, so feel free to ask any questions, too.
