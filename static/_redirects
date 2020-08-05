@@ -13,3 +13,7 @@ https://nushackers.netlify.com/* https://www.nushackers.org/:splat 301!
 /discussion /community
 /fh /fridayhacks/schedule
 /events /about/#what-we-do
+
+# Random Fancy Links
+# Don't worry this zoom call requires NUS auth to go in
+/e-slf https://nus-sg.zoom.us/j/97771429850?pwd=SURRR3hldVU3VEd5ZEhxanAvQ25vZz09
