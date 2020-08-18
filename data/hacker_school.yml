@@ -32,3 +32,6 @@ events:
 - topic: Introduction to Machine Learning with Python
   venue: Seminar Room 1, COM1, NUS
   date: 2020-02-22T13:00:00
+- topic: Introduction to Python
+  venue: Online on Zoom
+  date: 2020-08-22T13:00:0

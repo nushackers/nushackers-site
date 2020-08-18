@@ -77,3 +77,9 @@ hacks:
       - speaker: Jiang Huan
         from: Titansoft
         title: One year with Kubernetes in Production
+  - venue: Online on Zoom
+    blog_post: /welcometea2020/
+    topics:
+      - speaker: Chris, President of NUS Hackers
+        from: NUS Hackers
+        title: Friday Hacks \#190: Welcome Tea
