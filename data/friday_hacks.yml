@@ -4,6 +4,5 @@ hacks:
   - venue: Online on Zoom
     blog_post: /welcometea2020/
     topics:
-      - speaker: Chris, President of NUS Hackers
-        from: NUS Hackers
-        title: Welcome Tea, 2020
+      - speaker: NUS Hackers Coreteam
+        title: NUS Hackers Welcome Tea
