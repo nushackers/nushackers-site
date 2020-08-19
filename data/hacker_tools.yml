@@ -1,25 +1,4 @@
 events:
-- topic: Linux install fest, and virtual machines
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-09-03T18:30:00
-- topic: Shell and scripting
-  venue: Seminar Room 10, COM1, NUS
-  date: 2019-09-10T18:30:00
-- topic: Command-line data wrangling
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-09-17T19:00:00
-- topic: Web browsers and privacy
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-10-08T18:30:00
-- topic: "Linux internals: an overview"
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-10-15T18:30:00
-- topic: Editors (Vim and Emacs)
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-10-22T18:00:00
-- topic: Window manager and shell customisation
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-10-29T18:30:00
-- topic: LaTeX
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-11-05T18:30:00
+- topic: Virtual machines and installing Ubuntu
+  venue: Online on Zoom
+  date: 2020-09-01T18:30:00
