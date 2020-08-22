@@ -1,0 +1,29 @@
+start_date: 2020-01-31 18:00:00 +0800
+start_nr: 187
+hacks:
+  - venue: <a href="https://goo.gl/maps/WpDCDzWa26G1grEv9">Cerebro, COM 1, NUS</a>
+    blog_post: /2020/01/friday-hacks-187/
+    topics:
+      - speaker: Paul Beaumont & Andrew Tan
+        from: QuantumBlack
+        title: Analytics in the Real World
+      - speaker: Eugene Lim
+        title: Server Side Request Forgery (SSRF)
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2020/02/friday-hacks-188/
+    topics:
+      - speaker: Herbert Ilhan Tanujaya
+        from: NUS Hackers
+        title: Implementing and Breaking RSA in the Real World
+      - speaker: Ankita Gupta
+        from: Stripe
+        title: A look under the hood of Stripe.js
+  - venue: Town Plaza Seminar Room 5, UTown, NUS
+    blog_post: /2020/02/friday-hacks-189/
+    topics:
+      - speaker: Nguyen Truong Khanh
+        from: Zendesk
+        title: Stream processing with Kafka Stream
+      - speaker: Julius Sander
+        title: Making a Real-Time Game for the Mobile Browser
+  
