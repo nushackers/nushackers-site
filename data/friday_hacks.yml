@@ -6,3 +6,51 @@ hacks:
     topics:
       - speaker: NUS Hackers Coreteam
         title: NUS Hackers Welcome Tea
+  - venue: Online on Zoom
+    blog_post: /2020/08/friday-hacks-191
+    topics:
+      - title: Project Intern
+        speaker: NUS Hackers Coreteam
+  # - venue: Online on Zoom
+  #   blog_post: /2020/03/friday-hacks-192/
+  #   topics:
+  #     - speaker: Herbert Ilhan Tanujaya
+  #       from: NUS Hackers Coreteam
+  #       title: TBC
+  #     - speaker: Garrett Smith
+  #       from: Guild.AI
+  #       title: TBC
+  # - venue: Online on Zoom
+  #   blog_post: /2020/03/friday-hacks-193/
+  #   topics:
+  #     - speaker: Gaoxiang
+  #       title: TBC
+  #     - speaker: TBC
+  #       title: TBC
+  # - venue: Online on Zoom
+  #   blog_post: /2020/03/friday-hacks-194/
+  #   topics:
+  #     - speaker: TBC
+  #       from: Indeed
+  #       title: TBC
+  #     - speaker: TBC
+  #       from: Alphalab Capital
+  #       title: TBC
+  # - venue: Online on Zoom
+  #   blog_post: /2020/04/friday-hacks-195/
+  #   topics:
+  #     - speaker: Ankita Gupta
+  #       from: Stripe
+  #       title: A look under the hood of Stripe.js
+  #     - speaker: TBC
+  #       from: TBC
+  #       title: TBC
+  # - venue: Online on Zoom
+  #   blog_post: /2020/04/friday-hacks-196/
+  #   topics:
+  #     - speaker: TBC
+  #       from: Xaltius
+  #       title: TBC
+  #     - speaker: Nguyen Truong Khanh
+  #       from: Zendesk
+  #       title: Stream processing with Kafka Stream
