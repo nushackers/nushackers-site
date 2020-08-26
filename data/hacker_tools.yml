@@ -2,3 +2,18 @@ events:
 - topic: Virtual machines and installing Ubuntu
   venue: Online on Zoom
   date: 2020-09-01T18:30:00
+- topic: Shell and scripting
+  venue: Online on Zoom
+  date: 2020-09-08T18:30:00
+- topic: CLI data wrangling
+  venue: Online on Zoom
+  date: 2020-09-22T18:30:00
+- topic: Web browser customisation, and online security and privacy
+  venue: Online on Zoom
+  date: 2020-10-06T18:30:00
+- topic: CLI debugging and profiling
+  venue: Online on Zoom
+  date: 2020-10-20T18:30:00
+- topic: LaTeX
+  venue: Online on Zoom
+  date: 2020-11-03T18:30:00
