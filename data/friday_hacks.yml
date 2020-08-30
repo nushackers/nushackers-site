@@ -11,15 +11,15 @@ hacks:
     topics:
       - title: Project Intern
         speaker: NUS Hackers Coreteam
-  # - venue: Online on Zoom
-  #   blog_post: /2020/03/friday-hacks-192/
-  #   topics:
-  #     - speaker: Herbert Ilhan Tanujaya
-  #       from: NUS Hackers Coreteam
-  #       title: TBC
-  #     - speaker: Garrett Smith
-  #       from: Guild.AI
-  #       title: TBC
+  - venue: Online on Zoom
+    blog_post: /2020/09/friday-hacks-192/
+    topics:
+      - speaker: Herbert Ilhan Tanujaya
+        from: Traverse Technologies
+        title: Everything about Randomness
+      - speaker: Dean Wampler
+        from: Domino Data Lab
+        title: Reinforcement Learning with Ray RLlib
   # - venue: Online on Zoom
   #   blog_post: /2020/03/friday-hacks-193/
   #   topics:
