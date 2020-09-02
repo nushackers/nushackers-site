@@ -2,12 +2,15 @@ events:
 - topic: Virtual machines and installing Ubuntu
   venue: Online on Zoom
   date: 2020-09-01T18:30:00
+  blog_post: /2020/09/hacker-tools-virtual-machines-and-installing-ubuntu/
 - topic: Shell and scripting
   venue: Online on Zoom
   date: 2020-09-08T18:30:00
+  blog_post: /2020/09/hacker-tools-shell-and-scripting/
 - topic: CLI data wrangling
   venue: Online on Zoom
   date: 2020-09-22T18:30:00
+  blog_post: /2020/09/hacker-tools-cli-data-wrangling/
 - topic: Web browser customisation, and online security and privacy
   venue: Online on Zoom
   date: 2020-10-06T18:30:00
