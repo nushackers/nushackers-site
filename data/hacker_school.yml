@@ -1,37 +1,64 @@
 events:
-- topic: Introduction to Git and GitHub
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-08-31T13:00:00
-- topic: Introduction to HTML/CSS
-  venue: LT15, AS6, NUS
-  date: 2019-09-07T13:00:00
-- topic: Web development with Rails
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-09-14T13:00:00
-- topic: Introduction to PowerShell
-  venue: Seminar Room 3, COM1, NUS
-  date: 2019-09-21T13:00:00
-- topic: Introduction to Bayesian Networks
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-10-12T13:00:00
-- topic: Introduction to Augmented and Virtual Reality
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-10-19T13:00:00
-- topic: Developing Telegram Bots using Python
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-11-02T13:00:00
-- topic: Introduction to Rust
-  venue: Seminar Room 1, COM1, NUS
-  date: 2019-11-09T13:00:00
-- topic: Basic Python + Programming Crash Course
-  venue: Seminar Room 1, COM1, NUS
-  date: 2020-02-08T13:00:00
-- topic: Fun Data Visualisations & Data Wrangling with Python
-  venue: Seminar Room 1, COM1, NUS
-  date: 2020-02-15T13:00:00
-- topic: Introduction to Machine Learning with Python
-  venue: Seminar Room 1, COM1, NUS
-  date: 2020-02-22T13:00:00
-- topic: Introduction to Python
-  venue: Online on Zoom
-  date: 2020-08-22T13:00:00
+  - topic: Introduction to Git and GitHub
+    venue: Seminar Room 1, COM1, NUS
+    date: 2019-08-31T13:00:00
+  - topic: Introduction to HTML/CSS
+    venue: LT15, AS6, NUS
+    date: 2019-09-07T13:00:00
+  - topic: Web development with Rails
+    venue: Seminar Room 1, COM1, NUS
+    date: 2019-09-14T13:00:00
+  - topic: Introduction to PowerShell
+    venue: Seminar Room 3, COM1, NUS
+    date: 2019-09-21T13:00:00
+  - topic: Introduction to Bayesian Networks
+    venue: Seminar Room 1, COM1, NUS
+    date: 2019-10-12T13:00:00
+  - topic: Introduction to Augmented and Virtual Reality
+    venue: Seminar Room 1, COM1, NUS
+    date: 2019-10-19T13:00:00
+  - topic: Developing Telegram Bots using Python
+    venue: Seminar Room 1, COM1, NUS
+    date: 2019-11-02T13:00:00
+  - topic: Introduction to Rust
+    venue: Seminar Room 1, COM1, NUS
+    date: 2019-11-09T13:00:00
+  - topic: Basic Python + Programming Crash Course
+    venue: Seminar Room 1, COM1, NUS
+    date: 2020-02-08T13:00:00
+  - topic: Fun Data Visualisations & Data Wrangling with Python
+    venue: Seminar Room 1, COM1, NUS
+    date: 2020-02-15T13:00:00
+  - topic: Introduction to Machine Learning with Python
+    venue: Seminar Room 1, COM1, NUS
+    date: 2020-02-22T13:00:00
+  - topic: Introduction to Python
+    venue: Online on Zoom
+    date: 2020-08-22T13:00:00
+  - topic: Automation with Python
+    venue: Online on Zoom
+    date: 2020-09-05T13:00:00
+  - topic: Introduction to Git
+    venue: Online on Zoom
+    date: 2020-09-12T13:00:00
+  - topic: HTML & CSS
+    venue: Online on Zoom
+    date: 2020-09-19T13:00:00
+  - topic: Markov Chain Monte Carlo
+    venue: Online on Zoom
+    date: 2020-10-03T13:00:00
+  - topic: React
+    venue: Online on Zoom
+    date: 2020-10-10T13:00:00
+  - topic: React Concurrent Mode
+    venue: Online on Zoom
+    date: 2020-10-17T13:00:00
+  - topic: Docker
+    venue: Online on Zoom
+    date: 2020-10-24T13:00:00
+  - topic: Haskell
+    venue: Online on Zoom
+    date: 2020-10-31T13:00:00
+  - topic: Advanced Git
+    venue: Online on Zoom
+    date: 2020-11-07T13:00:00
