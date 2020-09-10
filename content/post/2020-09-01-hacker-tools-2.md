@@ -5,6 +5,11 @@ author: Hao Wei
 summary: Come learn to use the shell, and write shell scripts, to do things from managing files and processing text, to writing quick scripts that help you automate and speed up your daily computing life.
 ---
 
++This workshop has ended; here are links to the materials and recording:
++
++- [Slides](https://github.com/nushackers/hackertools-slides/releases/download/ht-2020-09-08/shell-scripting.pdf)
++- [Recording](https://www.youtube.com/watch?v=9WIDyN4q1NI)
+
 **Date/Time**: Tuesday, 8 Sep 2020, 18:30&ndash;20:30<br />
 [Sign up here][1]
 

@@ -1,7 +1,6 @@
 ---
 title: "Hacker Tools: CLI data wrangling"
 date: 2020-09-08 20:00:00
-draft: true
 author: Hao Wei
 summary: Come learn how to manipulate, process, search, and make sense of any form of data with various tools, all while never leaving the Unix command line.
 ---
