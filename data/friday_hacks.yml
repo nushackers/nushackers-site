@@ -20,13 +20,14 @@ hacks:
       - speaker: Dean Wampler
         from: Domino Data Lab
         title: Reinforcement Learning with Ray RLlib
-  # - venue: Online on Zoom
-  #   blog_post: /2020/03/friday-hacks-193/
-  #   topics:
-  #     - speaker: Gaoxiang
-  #       title: TBC
-  #     - speaker: TBC
-  #       title: TBC
+  - venue: Online on Zoom
+    blog_post: /2020/09/friday-hacks-193/
+    topics:
+      - speaker: Gaoxiang
+        title: Fintech-related talk (TBC)
+      - speaker: JJ (Geewax)
+        from: Google
+        title: API Design + Fintech (TBC)
   # - venue: Online on Zoom
   #   blog_post: /2020/03/friday-hacks-194/
   #   topics:
