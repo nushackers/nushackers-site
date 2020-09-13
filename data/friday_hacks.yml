@@ -23,9 +23,9 @@ hacks:
   - venue: Online on Zoom
     blog_post: /2020/09/friday-hacks-193/
     topics:
-      - speaker: Gaoxiang
-        title: Fintech-related talk (TBC)
-      - speaker: JJ (Geewax)
+      - speaker: Eric
+        title: How does it look like working as a Fintech developer?
+      - speaker: JJ Geewax
         from: Google
         title: API Design + Fintech (TBC)
   # - venue: Online on Zoom
