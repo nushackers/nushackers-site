@@ -19,6 +19,9 @@ Coreteam is organised as a flat structure under a single president (instead of i
 
 ## Want to join us?
 
-You can sign up using this [form](https://forms.gle/GfYbNgFYdEeBHA8DA).
+We've closed coreteam applications for AY2020/2021 Semester 1.
+If you are still interested, feel free to email us at `coreteam [at] nushackers [fullstop] org` to register your interest, and we'll let you know when you can apply again.
 
-Following that, we'll set up an interview to find out more about what you're interested in doing. This is usually an informal chat over lunch, so don't worry too much about it; it does help to take part in our events and check out the rest of this site beforehand, though. This is also an opportunity for you to get to know us better, so feel free to ask any questions, too.
+Here's a brief introduction to our process.
+
+After signing up, we'll set up an interview to find out more about what you're interested in doing. This is usually an informal chat over lunch, so don't worry too much about it; it does help to take part in our events and check out the rest of this site beforehand, though. This is also an opportunity for you to get to know us better, so feel free to ask any questions, too.
