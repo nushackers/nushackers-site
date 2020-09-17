@@ -20,6 +20,7 @@ hacks:
       - speaker: Dean Wampler
         from: Domino Data Lab
         title: Reinforcement Learning with Ray RLlib
+  - nohack: true
   - venue: Online on Zoom
     blog_post: /2020/09/friday-hacks-193/
     topics:
