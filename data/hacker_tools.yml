@@ -14,9 +14,12 @@ events:
 - topic: Web browser customisation, and online security and privacy
   venue: Online on Zoom
   date: 2020-10-06T18:30:00
+  blog_post: /2020/09/hacker-tools-web-browser-customisation-and-online-security-and-privacy/
 - topic: CLI debugging and profiling
   venue: Online on Zoom
   date: 2020-10-20T18:30:00
+  blog_post: /2020/10/hacker-tools-cli-debugging-and-profiling/
 - topic: LaTeX
   venue: Online on Zoom
   date: 2020-11-03T18:30:00
+  blog_post: /2020/10/hacker-tools-latex/
