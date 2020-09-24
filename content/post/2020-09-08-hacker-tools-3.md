@@ -5,6 +5,11 @@ author: Hao Wei
 summary: Come learn how to manipulate, process, search, and make sense of any form of data with various tools, all while never leaving the Unix command line.
 ---
 
+This workshop has ended; here are links to the materials and recording:
+
+- [Slides](https://github.com/nushackers/hackertools-slides/releases/download/ht-2020-09-22/data-wrangling.pdf)
+- [Recording](https://www.youtube.com/watch?v=MyL-RAbPZaY)
+
 **Date/Time**: Tuesday, 22 Sep 2020, 18:30&ndash;20:30<br />
 [Sign up here][1]
 
