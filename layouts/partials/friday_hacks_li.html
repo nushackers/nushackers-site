@@ -36,7 +36,9 @@
         {{ end }}
       </ul>
     {{ else }}
-      <em class="fh-span">{{ $hack.nohack }}, no Friday Hacks</em>
+      {{ if $hack.nohack }}
+        <em class="fh-span">No Friday Hacks</em>
+      {{ end }}
     {{ end }}
   </li>
 {{ end }}
