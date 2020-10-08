@@ -40,6 +40,15 @@ hacks:
       - speaker: Denis
         from: Alphalab Capital
         title: Using machine learning for creating optimal strategies
+  - venue: Online on Zoom
+    blog_post: /2020/10/friday-hacks-195/
+    topics:
+      - speaker: Harry Ross
+        from: Jane Street
+        title: Online Algorithms Made Easy
+      - speaker: Jiang Huan
+        from: Titansoft
+        title: Our Journey with Kubernetes, One Year in Production
   # - venue: Online on Zoom
   #   blog_post: /2020/04/friday-hacks-195/
   #   topics:
