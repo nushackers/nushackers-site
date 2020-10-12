@@ -2,7 +2,6 @@
 title: "Hacker Tools: LaTeX"
 date: 2020-10-20 20:00:00
 author: Hao Wei
-draft: true
 summary: This week, we'll be introducing the well-known LaTeX document preparation system used widely across fields to prepare high-quality documents, papers, notes, journals, books, slides, cheatsheets, resumes, and so on.
 ---
 
