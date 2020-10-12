@@ -2,7 +2,6 @@
 title: "Hacker Tools: CLI debugging and profiling"
 date: 2020-10-06 20:00:00
 author: Hao Wei
-draft: true
 summary: Come learn how to debug and profile various things on Linux, all from the command line.
 ---
 
