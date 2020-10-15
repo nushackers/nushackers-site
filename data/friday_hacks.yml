@@ -54,10 +54,10 @@ hacks:
     topics:
       - speaker: Ankita Gupta
         from: Stripe
-        title: A look under the hood of Stripe.js
+        title: A Look Under the Hood of Stripe.js
       - speaker: Joel Lee
         from: NUS Hackers
-        title: Writing a Postgres Extension for the Deno Runtime
+        title: A Brief Tour of CPython Internals
   # - venue: Online on Zoom
   #   blog_post: /2020/04/friday-hacks-196/
   #   topics:
