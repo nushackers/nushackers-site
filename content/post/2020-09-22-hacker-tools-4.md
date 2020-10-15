@@ -5,6 +5,11 @@ author: Hao Wei
 summary: This week, we're covering web, web browsers, security and privacy.
 ---
 
+This workshop has ended; here are links to the materials and recording:
+
+- [Slides](https://nushackers.github.io/hackertools-slides/2020ht4/)
+- [Recording](https://www.youtube.com/watch?v=4i6wk88rO1M)
+
 **Date/Time**: Tuesday, 6 Oct 2020, 18:30&ndash;20:30<br />
 [Sign up here][1]
 
