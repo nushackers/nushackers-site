@@ -16,7 +16,9 @@ Please ensure you have access to **real Linux**. If you are on a Linux distribut
 
 Please make sure you have the following programs installed in your Linux system:
 
-- *(TBC, please check back again)*
+- Git, Perl 5, Python 3, gdb, strace, ltrace, Valgrind, GCC, perf (Linux kernel), htop, dstat, iotop, df, du, free, lsof, ss, stress, s-tui
+- On Ubuntu, the following packages: gdb strace ltrace valgrind linux-tools htop dstat iotop lsof iproute2 stress s-tui procps build-essential python3 perl git
+- On Arch Linux, the following packages: gdb strace ltrace valgrind perf htop dstat iotop lsof iproute2 stress s-tui procps-ng base-devel python perl git
 
 For security and safety reasons, the Zoom link will not be published publicly. Please [register here][1] to attend this workshop.
 
