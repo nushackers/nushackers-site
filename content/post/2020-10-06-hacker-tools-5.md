@@ -5,6 +5,11 @@ author: Hao Wei
 summary: Come learn how to debug and profile various things on Linux, all from the command line.
 ---
 
+This workshop has ended; here are links to the materials and recording:
+
+- [Slides](https://nushackers.github.io/hackertools-slides/2020ht5/)
+- [Recording](https://www.youtube.com/watch?v=9Rwy0Dckc1g)
+
 **Date/Time**: Tuesday, 20 Oct 2020, 18:30&ndash;20:30<br />
 [Sign up here][1]
 
