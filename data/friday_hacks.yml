@@ -58,12 +58,13 @@ hacks:
       - speaker: Joel Lee
         from: NUS Hackers
         title: A Brief Tour of CPython Internals
-  # - venue: Online on Zoom
-  #   blog_post: /2020/04/friday-hacks-196/
-  #   topics:
-  #     - speaker: TBC
-  #       from: Xaltius
-  #       title: TBC
-  #     - speaker: Nguyen Truong Khanh
-  #       from: Zendesk
-  #       title: Stream processing with Kafka Stream
+  - nohack: true
+  - venue: Online on Zoom
+    blog_post: /2020/11/friday-hacks-197/
+    topics:
+      - speaker: TBC
+        from: Xaltius
+        title: TBC
+      - speaker: Nguyen Truong Khanh
+        from: Zendesk
+        title: Stream processing with Kafka Stream
