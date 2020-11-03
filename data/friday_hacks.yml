@@ -62,9 +62,9 @@ hacks:
   - venue: Online on Zoom
     blog_post: /2020/11/friday-hacks-197/
     topics:
-      - speaker: TBC
+      - speaker: Desmond Sek
         from: Xaltius
-        title: TBC
+        title: Resurgence of AI in Travel and Tourism
       - speaker: Nguyen Truong Khanh
         from: Zendesk
         title: Stream processing with Kafka Stream
