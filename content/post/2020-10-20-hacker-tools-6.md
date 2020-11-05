@@ -5,6 +5,11 @@ author: Hao Wei
 summary: This week, we'll be introducing the well-known LaTeX document preparation system used widely across fields to prepare high-quality documents, papers, notes, journals, books, slides, cheatsheets, resumes, and so on.
 ---
 
+This workshop has ended; here are links to the materials and recording:
+
+- [Slides](https://github.com/nushackers/hackertools-slides/releases/download/ht-2020-11-03/latex.pdf)
+- [Recording](https://www.youtube.com/watch?v=yybMaCe1cio)
+
 **Date/Time**: Tuesday, 3 Nov 2020, 18:30&ndash;20:30<br />
 [Sign up here][1]
 
