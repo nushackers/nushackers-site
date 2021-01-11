@@ -30,5 +30,8 @@
         "> 1%",
         "last 2 versions",
         "ie >= 11"
-    ]
+    ],
+    "resolutions": {
+        "node-gyp": "^7.1.2"
+    }
 }
