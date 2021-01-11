@@ -215,3 +215,26 @@ members:
   - name: Francis
     description: |
       a sushi-loving, rock-climbing, tembusu-staying, mural-painting, vampires-studying, Computer Engineering student, hoping to extend this list as the years go by.
+
+  - name: Suyash
+    description: |
+      a computer science undergraduate student who loves everything tech, from new home automation hacks to new apps.
+      He might be new to the world of making things but has been breaking things his whole life.
+      Feel free to contact him at <a href="mailto:suyash@nushackers.org">suyash@nushackers.org</a>.
+
+  - name: Julius
+    description: |
+      a computer science undergraduate who also enjoys Aerospace Engineering, Music Theory and History (reflected in his favourite games: Kerbal Space Program and Europa Universalis IV).
+      You can find his codes <a href="https://github.com/indocomsoft">here</a> and his website <a href="//indocomsoft.com/">here</a>.
+
+  - name: Joel
+    description: |
+      a computer science undergraduate with an interest in machine learning and distributed systems. Still figuring out how to be as legit as everyone else on this page.
+      You can find him on <a href="https://www.kaggle.com/jzerox2"> Kaggle </a> and <a href="leeyjjoel.github.io"> his website </a>.
+
+  - name: E-Liang
+    description: |
+      a computer science undergraduate with a decade-long interest in software
+      engineering, and a current love for developing full-stack web
+      applications. <a href="https://github.com/taneliang">Star his repos
+      here</a>.
