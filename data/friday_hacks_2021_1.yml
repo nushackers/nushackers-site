@@ -1,0 +1,70 @@
+start_date: 2020-08-21 18:30:00 +0800
+start_nr: 190
+hacks:
+  - venue: Online on Zoom
+    blog_post: /welcometea2020/
+    topics:
+      - speaker: NUS Hackers Coreteam
+        title: NUS Hackers Welcome Tea
+  - venue: Online on Zoom
+    blog_post: /2020/08/friday-hacks-191
+    topics:
+      - title: Project Intern
+        speaker: NUS Hackers Coreteam
+  - venue: Online on Zoom
+    blog_post: /2020/09/friday-hacks-192/
+    topics:
+      - speaker: Herbert Ilhan Tanujaya
+        from: Traverse Technologies
+        title: Everything about Randomness
+      - speaker: Dean Wampler
+        from: Domino Data Lab
+        title: Reinforcement Learning with Ray RLlib
+  - nohack: true
+  - venue: Online on Zoom
+    blog_post: /2020/09/friday-hacks-193/
+    topics:
+      - speaker: Eric
+        title: How does it look like working as a Fintech developer?
+      - speaker: JJ Geewax
+        from: Google
+        title: API Design Patterns
+  - nohack: true
+  - nohack: true
+  - venue: Online on Zoom
+    blog_post: /2020/10/friday-hacks-194/
+    topics:
+      - speaker: Jake
+        from: Indeed
+        title: TDD Changed My Life
+      - speaker: Denis
+        from: Alphalab Capital
+        title: Using machine learning for creating optimal strategies
+  - venue: Online on Zoom
+    blog_post: /2020/10/friday-hacks-195/
+    topics:
+      - speaker: Harry Ross
+        from: Jane Street
+        title: Online Algorithms Made Easy
+      - speaker: Jiang Huan
+        from: Titansoft
+        title: Our Journey with Kubernetes, One Year in Production
+  - venue: Online on Zoom
+    blog_post: /2020/10/friday-hacks-196/
+    topics:
+      - speaker: Ankita Gupta
+        from: Stripe
+        title: A Look Under the Hood of Stripe.js
+      - speaker: Joel Lee
+        from: NUS Hackers
+        title: A Brief Tour of CPython Internals
+  - nohack: true
+  - venue: Online on Zoom
+    blog_post: /2020/11/friday-hacks-197/
+    topics:
+      - speaker: Desmond Sek
+        from: Xaltius
+        title: Resurgence of AI in Travel and Tourism
+      - speaker: Nguyen Truong Khanh
+        from: Zendesk
+        title: Stream processing with Kafka Stream
