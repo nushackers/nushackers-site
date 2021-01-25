@@ -10,3 +10,13 @@ hacks:
       - speaker: Jazreel Siew
         from: Urban Redevelopment Authority
         title: URA - Space Out Project
+  - nohack: true
+  - venue: Online on Zoom
+    blog_post: /2021/01/friday-hacks-199/
+    topics:
+      - speaker: William Byrd
+        from: University of Alabama at Birmingham
+        title: Relational Programming in miniKanren
+      - speaker: Jason Hemann
+        from: Northeastern University
+        title: Implementing a Kanren from the Ground Up
