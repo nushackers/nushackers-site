@@ -20,3 +20,13 @@ hacks:
       - speaker: Jason Hemann
         from: Northeastern University
         title: Implementing a Kanren from the Ground Up
+  - nohack: true
+  - venue: Online on Zoom
+    blog_post: /2021/02/friday-hacks-200/
+    topics:
+      - speaker: Edward Hutchins
+        from: ThoughtWorks
+        title: No-Code:The future of software development?
+      - speaker: Thet Lin Thu
+        from: Traverse
+        title: What We Learnt at YCombinator
