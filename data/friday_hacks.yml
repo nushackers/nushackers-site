@@ -30,3 +30,14 @@ hacks:
       - speaker: Thet Lin Thu
         from: Traverse
         title: 10 Things We Learnt at YCombinator
+  - nohack: true
+  - nohack: true
+  - venue: Online on Zoom
+    blog_post: /2021/03/friday-hacks-201/
+    topics:
+      - speaker: Wong Meng Wong
+        from: Legalese
+        title: A Sneak Peek at a DSL for Computational Law
+      - speaker: Vincent Tatan
+        from: Google
+        title: ML & MLOps @
