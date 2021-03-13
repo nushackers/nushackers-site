@@ -40,4 +40,13 @@ hacks:
         title: A Sneak Peek at a DSL for Computational Law
       - speaker: Vincent Tatan
         from: Google
-        title: ML & MLOps @
+        title: ML & MLOps @ Google
+  - venue: Online on Zoom
+    blog_post: /2021/03/friday-hacks-202/
+    topics:
+      - speaker: Yukihiro Matsumoto 
+        from: 
+        title: RubyLand!
+      - speaker: Ben Greenberg
+        from: Vonage
+        title: What's Love Got to Do With It? Ruby and Sentiment Analysis
