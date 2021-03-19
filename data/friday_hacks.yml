@@ -46,7 +46,7 @@ hacks:
     topics:
       - speaker: Yukihiro Matsumoto 
         from: 
-        title: RubyLand!
+        title: Beyond Ruby 3.0
       - speaker: Ben Greenberg
         from: Vonage
         title: What's Love Got to Do With It? Ruby and Sentiment Analysis
