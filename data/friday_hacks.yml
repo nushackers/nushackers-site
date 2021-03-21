@@ -50,3 +50,12 @@ hacks:
       - speaker: Ben Greenberg
         from: Vonage
         title: What's Love Got to Do With It? Ruby and Sentiment Analysis
+  - venue: Online on Zoom
+    blog_post: /2021/03/friday-hacks-203/
+    topics:
+      - speaker: Eugene Cheah
+        from: UI-licious
+        title: Help! I Just Got Hired As A Junior Dev
+      - speaker: Kee Wei Lam
+        from: OpenGov Products
+        title: Disaster Recovery with Postman.gov.sg
