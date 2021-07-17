@@ -21,4 +21,8 @@ You can also join us on:
 - [Our Facebook group](https://www.facebook.com/groups/nushackers/)
 - [Our Telegram group](https://t.me/nushackers_chat)
 
+These other accounts are official accounts that are managed by us:
+
+- [Reddit (/u/nushackers)](https://reddit.com/u/nushackers)
+
 If you'd like to share an ad or opportunity, please [contact us]({{< ref "/contact" >}}). We have to make sure that the content is relevant to those who are subscribed to our lists.
