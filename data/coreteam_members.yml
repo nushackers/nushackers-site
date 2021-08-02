@@ -70,7 +70,7 @@ members:
 
   - name: Yitao
     description: |
-      a computer science undergraduate with interest in app development, algorithms, research and many other wonky stuff.
+      a computer science undergraduate with interest in app development, algorithms, research and other wonky stuff.
       An avid tea drinker, he also enjoys music and ball games that involve running around. Find him on <a href="https://github.com/sun-yitao">GitHub</a>.
 
   - name: Ranice
@@ -84,6 +84,11 @@ members:
       a computer engineering undergraduate who loves meeting new people and tinkering!
       She is a little bit of a nerd but really friendly!
       Chat with her at <a href="mailto:shenjia@nushackers.org">shenjia@nushackers.org</a>!
+
+  - name: Mayank
+    description: |
+      a computer science undergraduate, with an interest in programming languages, DNA storage, Hacker News, ... and a lot of other, very random, stuff.
+      Feel free to drop in at <a href="mailto:mayank@nushackers.org">mayank@nushackers.org</a>!
       
   - name: Ziqing
     description: |
