@@ -3,6 +3,6 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.74.3"
-  YARN_VERSION = "1.22.5"
+  HUGO_VERSION = "0.86.1"
+  YARN_VERSION = "1.22.11"
   RUBY_VERSION = "2.6.2"
