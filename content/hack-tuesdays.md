@@ -7,7 +7,6 @@ date: "2020-01-14"
 HackTuesdays is a new initiative by NUSHackers to provide students with a place to chat, meet fellow hackers and hack! We will be giving a short lightning talk about a specific topic, in this case, Linux Installation. For the rest of the time, feel free to work on whatever you want, chat with other students, or continue to learn more about the topic at hand.
 If you are just looking for a space to hack, you are also more than welcome to drop by!
 
-
 ## FAQ
 
 **1. What are the talks about?**

@@ -6,7 +6,7 @@ date: "2014-06-23"
 
 NUS Hackers is run by a group of student volunteers&mdash;the coreteam. Our long term goal is to build a healthy community of passionate hackers in NUS. We think that this benefits everyone: start-ups, tech companies and professors have a central pool from which to find good programmers, and students have an easy way to meet and learn from like-minded peers.
 
-Our [about page]({{< ref "/about#what-we-do" >}}) has more on what we do.
+Our [about page]({{< ref "/about#what-we-do" >}}) has more on what we do. **You do not need to join coreteam to attend our events**, they are open to the public!
 
 ## How we're structured
 
@@ -19,6 +19,6 @@ Coreteam is organised as a flat structure under a single president (instead of i
 
 ## Want to join us?
 
-Recruitment is now in-progress for AY 20/21 semester 2. If you believe in our cause of spreading hacker culture, we'd love to have you join us. Please apply through [this form](https://docs.google.com/forms/d/e/1FAIpQLSdDnexbjrZbQa2elU4eXR1rQjZtVxWmNaQ9VJf1NBjj_Z_I3A/viewform).
+Recruitment is now in-progress for AY 21/22 semester 1. If you believe in our cause of spreading hacker culture, we'd love to have you join us. Please apply through [this form](https://docs.google.com/forms/d/e/1FAIpQLSdDnexbjrZbQa2elU4eXR1rQjZtVxWmNaQ9VJf1NBjj_Z_I3A/viewform).
 
 After signing up, we'll set up an interview to find out more about what you're interested in doing. This is usually an informal chat over lunch, so don't worry too much about it; it does help to take part in our events and check out the rest of this site beforehand, though. This is also an opportunity for you to get to know us better, so feel free to ask any questions, too.
