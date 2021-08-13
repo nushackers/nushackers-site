@@ -43,3 +43,13 @@ rssLimit = 10
   identifier = "Contact"
   weight = 4
   url = "/contact"
+[[menu.main]]
+  name = "RSS"
+  identifier = "RSS"
+  weight = 5
+  url = "/index.xml"
+[[menu.main]]
+  name = "Join Us"
+  identifier = "Join Us"
+  weight = 6
+  url = "/join-coreteam"

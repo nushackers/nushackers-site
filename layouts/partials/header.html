@@ -8,7 +8,6 @@
       {{ range .Site.Menus.main }}
       <li class="nav-menu-item{{ if in $currentURL .URL }} nav-menu-active{{ end }}"><a class="nav-menu-link" href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
-      <li class="nav-menu-item"><a class="nav-menu-link" href="/index.xml">RSS</a></li>
     </ul>
   </nav>
 </header>
