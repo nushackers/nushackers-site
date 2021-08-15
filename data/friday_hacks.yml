@@ -8,6 +8,11 @@ hacks:
         title: NUS Hackers Welcome Tea
       - speaker: Jethro Kuan
         title: Building things in public
+  - venue: Online on Zoom
+    blog_post: /2021/08/friday-hacks-205/
+    topics:
+      - title: Project Intern
+        speaker: NUS Hackers Coreteam
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/
