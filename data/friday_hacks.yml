@@ -1,4 +1,4 @@
-start_date: 2021-08-13 19:00:00 +0800
+start_date: 2021-08-13 15:00:00 +0800
 start_nr: 204
 hacks:
   - venue: Online on Zoom
@@ -13,6 +13,13 @@ hacks:
     topics:
       - title: Project Intern
         speaker: NUS Hackers Coreteam
+  - venue: AS6-LT15, NUS & Zoom
+    blog_post: /2021/08/friday-hacks-206/
+    topics:
+      - speaker: Prof Ooi Wei Tsang
+        title: "From Netflix to Zoom: Demystifying Video Streaming"
+      - speaker: Omer
+        title: Observability in Production
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/
