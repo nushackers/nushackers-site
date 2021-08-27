@@ -30,9 +30,11 @@ events:
 - topic: Shell and Scripting
   venue: Online on Zoom
   date: 2021-09-01T18:30:00
+  blog_post: /2021/08/hacker-tools-2/
 - topic: CLI Data Wrangling
   venue: Online on Zoom
   date: 2021-09-07T18:30:00
+  blog_post: /2021/08/hacker-tools-3/
 - topic: Latex
   venue: Online on Zoom
   date: 2021-10-05T18:30:00
