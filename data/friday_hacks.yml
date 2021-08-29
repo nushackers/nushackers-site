@@ -20,6 +20,13 @@ hacks:
         title: "From Netflix to Zoom: Demystifying Video Streaming"
       - speaker: Omer
         title: Observability in Production
+  - venue: Online on Zoom
+    blog_post: /2021/08/friday-hacks-207/
+    topics:
+      - speaker: Paul Beaumont
+        title: Bayesian Networks - Thinking about causality in ML
+      - speaker: Jane Street
+        title: Safe At Any Speed
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/
