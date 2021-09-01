@@ -4,8 +4,6 @@ description: About Hackerschool
 date: "2014-06-23"
 ---
 
-<!-- <img src="/img/hackerschoollogo.png" style="padding: 5vw;"> -->
-
 We learn with two core premises
 - Learning is hard
 - Learning **alone** is *really* hard
@@ -15,3 +13,5 @@ We learn with two core premises
 ## Our Goal
 
 Though we are starting small with only a few courses, we have a **big** ambition. The hope is to ultimately have a comprehensive list of workshops that all students can look forward to and take part in.
+
+## [View our event schedule here](/hackerschool/schedule)

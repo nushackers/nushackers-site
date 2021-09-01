@@ -1,6 +1,6 @@
 ---
-title: Speak at a future Friday Hacks
-description: Speak at a future Friday Hacks
+title: Past Sessions
+description: Past Sessions
 date: "2014-06-11"
 ---
 
@@ -10,4 +10,4 @@ We are retiring our old hackerschool site starting AY21/22. For materials for ha
 
 ### Can't make it for hackerschool or missed a session?
 
-You can view recordings of our past hackerschool sessions on [our YouTube channel](https://youtube.com/nushackerschannel). All our hackerschool sessions will be recorded and uploaded to YouTube.
+You can view recordings of our past hackerschool sessions on [our YouTube channel](https://youtube.com/nushackerschannel). All our hackerschool sessions will be recorded and uploaded to YouTube after each session.

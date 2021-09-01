@@ -3,7 +3,7 @@
     <a href="{{ .hack.blog_post }}">
   {{- end -}}
     <time class="events-time" datetime={{ dateFormat "2006-01-02T15:04:05-07:00" .hackDate}}>
-      {{- dateFormat "Jan 2" .hackDate -}}
+      {{- dateFormat "Jan 2, 3:04pm" .hackDate -}}
     </time>
   {{- if ne .hack.blog_post nil -}}
   </a>
