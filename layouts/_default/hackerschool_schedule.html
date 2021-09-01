@@ -14,7 +14,7 @@
       {{ end }}
     </ul>
     <h2>Past Events</h2>
-    For materials for hackerschool sessions before AY21/22, 
+    For materials for hackerschool sessions before AY21/22,
     <a href="https://school.nushackers.org">please visit our legacy site.</a>
     <br><br>
     <ul class="fh-topics">
@@ -23,7 +23,7 @@
         {{ $hack := index $events $i }}
         {{ $hackDate := (time $hack.date) }}
           {{- if and ($hackDate.Before now) (lt (sub now.Year $hackDate.Year) 1) -}}
-            {{ partial "hackerschool_li.html" (dict "hack" $hack "hackDate" $hackDate) }}
+            {{ partial "hackerschool_li.html" (dict "hack" $hack "hackDate" $hackDate "showYear" 1) }}
           {{ end }}
       {{ end }}
     </ul>
