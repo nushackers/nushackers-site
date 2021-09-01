@@ -77,6 +77,7 @@ events:
   - topic: Creating Telegram Bots with Python
     venue: Online on Zoom
     date: 2021-09-04T10:00:00
+    blog_post: /2021/09/hs-tele-bots/
   - topic: Data Viz in Python & R + Tableau
     venue: Online on Zoom
     date: 2021-09-18T10:00:00
