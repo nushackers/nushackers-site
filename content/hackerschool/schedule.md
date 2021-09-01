@@ -1,4 +1,4 @@
 ---
-title: Hackerschoool
+title: Hackerschool
 layout: hackerschool_schedule
 ---
