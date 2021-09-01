@@ -6,9 +6,7 @@
     <h1>Hackerschool Schedule</h1>
     <h2>Upcoming Events</h2>
     <ul class="fh-topics">
-      {{ range (seq $len) }}
-        {{ $i := sub $len . }}
-        {{ $hack := index $events $i }}
+      {{ range $hack := $events }}
         {{ $hackDate := (time $hack.date) }}
           {{- if $hackDate.After now -}}
             {{ partial "hackerschool_li.html" (dict "hack" $hack "hackDate" $hackDate) }}
