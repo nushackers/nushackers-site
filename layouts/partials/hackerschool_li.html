@@ -1,0 +1,33 @@
+<li class="fh-item events-item item">
+  {{- if ne .hack.blog_post nil -}}
+    <a href="{{ .hack.blog_post }}">
+  {{- end -}}
+    <time class="events-time" datetime={{ dateFormat "2006-01-02T15:04:05-07:00" .hackDate}}>
+      {{- dateFormat "Jan 2" .hackDate -}}
+    </time>
+  {{- if ne .hack.blog_post nil -}}
+  </a>
+  {{- end -}}
+  {{ if eq .hack.nohack nil }}
+    <address class="events-address">{{ .hack.venue | safeHTML }}</address>
+    <h3 class="hs-topic">{{ .hack.topic }}</h3>
+    <ul class="fh-topics">
+      {{ range $topicIndex, $topic := .hack.topics }}
+      <li class="fh-topic">
+        <h3 class="topic-title">{{ $topic.title }}</h3>
+        <div class="topic-speaker">
+          {{ if eq $topic.from nil }}
+            {{ $topic.speaker }}
+          {{ else }}
+            {{ $topic.speaker }} <span>({{ $topic.from }})</span>
+          {{ end }}
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    {{ if .hack.nohack }}
+      <em class="fh-span">No Hackerschool</em>
+    {{ end }}
+  {{ end }}
+</li>
