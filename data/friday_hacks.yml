@@ -27,6 +27,13 @@ hacks:
         title: Bayesian Networks - Thinking about causality in ML
       - speaker: Jane Street
         title: Safe At Any Speed
+  - venue: F2F at NUS (Venue TBC) or Online on Zoom
+    blog_post: /2021/08/friday-hacks-208/
+    topics:
+      - speaker: Prof Martin Henz
+        title: "Source Academy: Past, Present, Future"
+      - speaker: Prof Ilya Sergey
+        title: Running the ICFP 2019 Programming Contest
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/
