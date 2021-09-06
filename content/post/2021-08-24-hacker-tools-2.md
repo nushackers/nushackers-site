@@ -5,12 +5,11 @@ author: Sun Yitao
 url: /2021/08/hacker-tools-2
 summary: Come learn to use the shell, write shell scripts, and speed up your daily computing life!
 ---
-<!---
+
 This workshop has ended; here are links to the materials and recording:
 
-- [Slides](https://github.com/nushackers/hackertools-slides/releases/download/ht-2020-09-22/data-wrangling.pdf)
-- [Recording](https://www.youtube.com/watch?v=MyL-RAbPZaY)
--->
+- [Slides](https://github.com/nushackers/hackertools-slides/releases/download/ht-2021-09-01/Hacker_Tools__Shell_and_scripting.pdf)
+- [Recording](https://www.youtube.com/watch?v=tff9YeB-h6s)
 
 **Date/Time**: Wednesday, 1 Sep 2021, 19:00&ndash;21:00<br />
 [Sign up here][1]
