@@ -34,6 +34,13 @@ hacks:
         title: "Source Academy: Past, Present, Future"
       - speaker: Prof Ilya Sergey
         title: Running the ICFP 2019 Programming Contest
+  - venue: F2f at NUS (TBC) & Online on Zoom
+    blog_post: /2021/08/friday-hacks-209/
+    topics:
+      - speaker: Seth Gilbert
+        title: "Optimism, Pessimism, and Algorithms"
+      - speaker: Edison
+        title: Hacking Decentralised Finance (DeFi)
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/
