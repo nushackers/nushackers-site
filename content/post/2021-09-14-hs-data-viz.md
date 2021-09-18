@@ -3,12 +3,13 @@ title: "Hackerschool: Data Visualisation in Python + Tableau"
 date: 2021-09-18 10:00:00.000000
 author: Ranice
 url: /2021/09/hs-data-viz
-summary:
+summary: What better way to tell a story than with visuals? Come join us in learning to create compelling data visualisations!
 nofh: true
 ---
 
-**Date/Time:** Saturday, 18 Sep 2021 @ 10am - 12pm<br />
-**Venue:** Online on Zoom<br />
+**Date/Time:** Saturday, 18 Sep 2021 @ 10am - 12pm
+
+**Venue:** Online on Zoom
 
 **RSVP:** [Sign up here][1]
 

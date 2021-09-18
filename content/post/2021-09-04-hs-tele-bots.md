@@ -16,3 +16,7 @@ nofh: false
 This workshop will go through how to create a simple bot on Telegram.
 
 We will go through the different use cases for bots, 3 common paradigms bots can follow, and then create example bots to understand these paradigms. All you need to attend this event is a laptop with wireless internet access and either Google Chrome or Mozilla Firefox. Additionally, you need a Google and Telegram account.
+
+## Workshop Materials
+- [Recording](https://www.youtube.com/watch?v=zdH48PQddZ0&list=PL9-vM_51OMbHpxTTOaXUcJBxxg1yDCOL0&index=2)
+- [Code](https://github.com/DrWala/telegram-bot-workshop)
