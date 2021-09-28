@@ -4,7 +4,7 @@ description: Mailing List
 date: "2021-09-27"
 ---
 
-Beyond our normal community avenues where you can get to know about and have discussions on hacking, technical topics or our events, we also maintain a mailing list. The list has postings on interesting technical opportunities, job postings, hackathons and competitions, and more! 
+Beyond our normal community avenues where you can get to know about and have discussions on hacking, technical topics or our events, we also maintain a mailing list. The list has postings on our events, interesting technical opportunities, job postings, hackathons and competitions, and more! 
 
 If you would like to be in the loop for these opportunities, **join our mailing list [here](https://groups.google.com/forum/?fromgroups#!forum/nushackers) if you have a Google account**.
 
