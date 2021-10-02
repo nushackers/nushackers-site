@@ -42,13 +42,13 @@
   <div class="col-12 col-md-10 browse">
     <div class="row">
       <div class="col-6 post-previous">
-        {{ if .PrevPage }}
-        <a href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title }}</a>
+        {{ if .PrevInSection }}
+        <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
         {{ end }}
       </div>
       <div class="col-6 post-next">
-        {{ if .NextPage }}
-        <a href="{{ .NextPage.Permalink }}">{{ .NextPage.Title }}</a>
+        {{ if .NextInSection }}
+        <a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
         {{ end }}
       </div>
     </div>
