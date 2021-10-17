@@ -49,6 +49,13 @@ hacks:
     topics:
       - title: "Introduction to Test-Driven Development"
         speaker: Meng Keong
+  - venue: Online on Zoom
+    blog_post: /2021/10/friday-hacks-211/
+    topics:
+      - title: "Explore quantum computing through gaming"
+        speaker: Huang Junyue
+      - title: "Linters in Dart"
+        speaker: Jeffery
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/
