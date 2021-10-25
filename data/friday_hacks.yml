@@ -56,6 +56,13 @@ hacks:
         speaker: Huang Junyue
       - title: "Linters in Dart"
         speaker: Jeffery
+  - venue: Online on Zoom
+    blog_post: /2021/10/friday-hacks-212/
+    topics:
+      - title: "Crisis Management Modelling and Simulation"
+        speaker: Gary Tan
+      - title: "Managing Server Resources for SoC Modules"
+        speaker: Cristina
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/
