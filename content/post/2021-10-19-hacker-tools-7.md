@@ -6,8 +6,12 @@ url: /2021/10/hacker-tools-7
 summary: Come learn how to debug and profile various things on Linux, all from the command line.
 ---
 
-**Date/Time**: Wednesday, 27 Oct 2021, 19:00&ndash;21:00<br />
-**Venue**: [Online on Zoom](https://nus-sg.zoom.us/j/81493385393?pwd=a3F1RHg1U2gyRjJ0QW5qSmxIcjZNUT09)
+This workshop has ended; here are links to the materials and recording:
+
+- [Slides](https://nushackers.github.io/hackertools-slides/2110ht7/)
+- [Recording](https://www.youtube.com/watch?v=maISKQl7rIo)
+
+**Date/Time**: Wednesday, 27 Oct 2021, 19:00&ndash;21:00
 
 Come learn how to debug and profile various things on Linux, all from the command line. We'll look at how to figure out what's going wrong with programs you write and the operating system itself.
 
