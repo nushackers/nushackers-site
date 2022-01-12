@@ -9,7 +9,7 @@ projects:
     logo: static/img/code-logo.svg
   - name: hackerschool
     description: Hacking workshops for everyone
-    url: //school.nushackers.org
+    url: /hackerschool
     logo: static/img/hacker-school-logo.svg
   - name: Hack&Roll
     description: 24-hour hackathon for students

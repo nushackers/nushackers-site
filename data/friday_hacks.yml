@@ -21,12 +21,55 @@ hacks:
       - speaker: Omer
         title: Observability in Production
   - venue: Online on Zoom
-    blog_post: /2021/08/friday-hacks-207/
+    blog_post: /2021/09/friday-hacks-207/
     topics:
       - speaker: Paul Beaumont
         title: Bayesian Networks - Thinking about causality in ML
       - speaker: Jane Street
         title: Safe At Any Speed
+  - venue: AS6 LT15 & Online on Zoom (Hybrid)
+    blog_post: /2021/09/friday-hacks-208/
+    topics:
+      - speaker: Prof Martin Henz
+        title: "Source Academy: Past, Present, Future"
+      - speaker: Prof Ilya Sergey
+        title: Running the ICFP 2019 Programming Contest
+  - venue: AS6 LT15 & Online on Zoom (Hybrid)
+    blog_post: /2021/09/friday-hacks-209/
+    topics:
+      - speaker: Seth Gilbert
+        title: "Optimism, Pessimism, and Algorithms"
+      - speaker: Edison
+        title: "Hacking Decentralised Finance (DeFi)"
+  - nohack: true
+  - nohack: true
+  - nohack: true
+  - venue: Online on Zoom
+    blog_post: /2021/10/friday-hacks-210/
+    topics:
+      - title: "Introduction to Test-Driven Development"
+        speaker: Meng Keong
+  - venue: Online on Zoom
+    blog_post: /2021/10/friday-hacks-211/
+    topics:
+      - title: "Explore quantum computing through gaming"
+        speaker: Huang Junyue
+      - title: "Linters in Dart"
+        speaker: Jeffery
+  - venue: Online on Zoom
+    blog_post: /2021/10/friday-hacks-212/
+    topics:
+      - title: "Crisis Management Modelling and Simulation"
+        speaker: Gary Tan
+      - title: "Managing Server Resources for SoC Modules"
+        speaker: Cristina
+  - venue: Online on Zoom
+    blog_post: /2021/11/friday-hacks-213/
+    topics:
+      - title: "Security at ExpressVPN"
+        speaker: Timothy
+      - title: "Five Tips To Make You A Better Engineer"
+        speaker: Kai Hendry
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/

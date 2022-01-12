@@ -14,7 +14,7 @@ During the semester, our primary events include
 
 * weekly meetups every Friday called [Friday Hacks]({{< ref "/fridayhacks" >}}) that include one or two technical talks, sometimes followed by a hacking session;
 * workshops on Tuesdays called Hacker Tools that cover skills that are essential to those in computing fields but are not usually taught by schools; and
-* workshops on Saturdays called [hackerschool](https://school.nushackers.org/) that cover a range of technical topics, and are aimed at introducing technologies to those who have no prior knowledge.
+* workshops on Saturdays called [hackerschool]({{< ref "/hackerschool" >}}) that cover a range of technical topics, and are aimed at introducing technologies to those who have no prior knowledge.
 
 Near the start of each calendar year, we also run [Hack&amp;Roll](https://hacknroll.nushackers.org/), the largest student-run hackathon in Singapore. Hack&Roll is unique for being one of the few hackathons, if not the only, that do not have a set topic for participants; instead, the aim is to simply encourage people to come and have fun building something.
 

@@ -13,7 +13,8 @@ To follow what we do, follow us on:
 - [Twitter](https://twitter.com/nushackers)
 - [Instagram](https://instagram.com/nushackers)
 - [Meetup.com](https://www.meetup.com/NUSHackers/)
-- [Our mailing list](https://groups.google.com/forum/?fromgroups#!forum/nushackers)
+- [YouTube](https://www.youtube.com/nushackerschannel)
+- [Our mailing list](/mailing-list)
 
 You can also join us on:
 

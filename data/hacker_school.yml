@@ -77,15 +77,19 @@ events:
   - topic: Creating Telegram Bots with Python
     venue: Online on Zoom
     date: 2021-09-04T10:00:00
+    blog_post: /2021/09/hs-tele-bots/
   - topic: Data Viz in Python & R + Tableau
     venue: Online on Zoom
     date: 2021-09-18T10:00:00
-  - topic: Intro to Javascript
+    blog_post: /2021/09/hs-data-viz/
+  - topic: Intro to Modern Javascript
     venue: Online on Zoom
     date: 2021-10-02T10:00:00
-  - topic: Intro to HTML/CSS/JS
+    blog_post: /2021/09/hs-modern-js/
+  - topic: Intro to HTML/CSS
     venue: Online on Zoom
     date: 2021-10-09T10:00:00
+    blog_post: /2021/10/hs-html-css/
   - topic: Intro to React
     venue: Online on Zoom
     date: 2021-10-16T10:00:00
