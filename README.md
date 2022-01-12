@@ -9,11 +9,15 @@ This website is built with hugo, so if you want to make changes to the templates
 
 ## Getting started
 
-It's recommended that you test the site locally before doing any push. To do so, first install [hugo v0.30.2]("https://github.com/gohugoio/hugo/releases"), [node lts](https://nodejs.org/en/), and yarn (`npm install -g yarn`).
+It's recommended that you test the site locally before doing any push. To do so, install:
+1. [nvm](https://github.com/nvm-sh/nvm) and then [node 14 lts](https://nodejs.org/en/)(`nvm install 14`)
+2. [hugo v0.30.2]("https://github.com/gohugoio/hugo/releases"), 
+3. yarn (`npm install -g yarn`). 
 
 Then enter this folder and run
 
 ```bash
+nvm use
 yarn install
 yarn start
 ```
