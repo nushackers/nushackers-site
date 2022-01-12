@@ -6,7 +6,17 @@ date: "2014-06-23"
 
 NUS Hackers is run by a group of student volunteers&mdash;the coreteam. Our long term goal is to build a healthy community of passionate hackers in NUS. We think that this benefits everyone: start-ups, tech companies and professors have a central pool from which to find good programmers, and students have an easy way to meet and learn from like-minded peers.
 
-Our [about page]({{< ref "/about#what-we-do" >}}) has more on what we do.
+Our [about page]({{< ref "/about#what-we-do" >}}) has more on what we do. **You do not need to join coreteam to attend our events**, they are open to the public!
+
+## What we do
+
+Coreteam members organise events. This involves things like publicity, searching for speakers, booking venues, liaising with the school administration, and actually executing events on the day-of.
+
+Most Coreteam members stay for their entire time as an NUS undergraduate student, and therefore Coreteam members also have some latitude to explore new initiatives, try to improve the organisation, and execute longer-term plans that may take longer than one academic year to complete.
+
+Coreteam does __not__ confer benefits on its members, nor do we have internal events or anything of that sort. We are a voluntary organisation dedicated to advancing hacker culture, and therefore that is what we concentrate all our efforts towards.
+
+Colloquially and in a nutshell, we're mainly _saikang_ warriors.
 
 ## How we're structured
 
@@ -19,6 +29,6 @@ Coreteam is organised as a flat structure under a single president (instead of i
 
 ## Want to join us?
 
-Recruitment is now in-progress for AY 20/21 semester 2. If you believe in our cause of spreading hacker culture, we'd love to have you join us. Please apply through [this form](https://docs.google.com/forms/d/e/1FAIpQLSdDnexbjrZbQa2elU4eXR1rQjZtVxWmNaQ9VJf1NBjj_Z_I3A/viewform).
+We have finished our recruitment cycle for AY21/22 Semester 1, and will begin the next cycle at the start of Semester 2! If you believe in our cause of spreading hacker culture, we'd love to have you join us. Please indicate your interest through [this form](https://docs.google.com/forms/d/e/1FAIpQLSdhJmT-_Z__dBOeF-PaLbNKpiWZCW2YWHBSvi0SZy1-kIc1hQ/viewform?usp=sf_link), and we will reach out when we begin our next recruitment cycle.
 
 After signing up, we'll set up an interview to find out more about what you're interested in doing. This is usually an informal chat over lunch, so don't worry too much about it; it does help to take part in our events and check out the rest of this site beforehand, though. This is also an opportunity for you to get to know us better, so feel free to ask any questions, too.

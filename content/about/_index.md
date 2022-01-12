@@ -14,11 +14,11 @@ During the semester, our primary events include
 
 * weekly meetups every Friday called [Friday Hacks]({{< ref "/fridayhacks" >}}) that include one or two technical talks, sometimes followed by a hacking session;
 * workshops on Tuesdays called Hacker Tools that cover skills that are essential to those in computing fields but are not usually taught by schools; and
-* workshops on Saturdays called [hackerschool](https://school.nushackers.org/) that cover a range of technical topics, and are aimed at introducing technologies to those who have no prior knowledge.
+* workshops on Saturdays called [hackerschool]({{< ref "/hackerschool" >}}) that cover a range of technical topics, and are aimed at introducing technologies to those who have no prior knowledge.
 
 Near the start of each calendar year, we also run [Hack&amp;Roll](https://hacknroll.nushackers.org/), the largest student-run hackathon in Singapore. Hack&Roll is unique for being one of the few hackathons, if not the only, that do not have a set topic for participants; instead, the aim is to simply encourage people to come and have fun building something.
 
-We also run smaller events for the NUS community, like Project Intern, where students who have interned share with others their experience and the benefits they have gained from interning, in a bid to encourage others to intern.
+We also run smaller events for the NUS community, like Project Intern, where students who have interned share with others their experience and the benefits they have gained from interning, in a bid to encourage others to intern. Once in a while we also initiate other events like [OpenHack](https://openhack.nushackers.org). Everything we do is ultimately aimed at spreading the hacker culture.
 
 Some of our events are recorded if consent is given by the relevant parties. Find our recordings [here]({{< ref "/recordings" >}}).
 
@@ -36,14 +36,10 @@ Our long term goal is to build a healthy community of passionate hackers in NUS.
 
 ## Coreteam
 
-NUS Hackers is managed by a coreteam of student volunteers. You can reach us by [email]({{< ref "/contact" >}}).
+NUS Hackers is managed by a coreteam of student volunteers. You can reach us by [email]({{< ref "/contact" >}}). Want to help us in spreading hacker culture? [We want you!]({{< ref "/join-coreteam" >}})
 
 ### Coreteam members
 
 {{< members >}}
 
 [Alumni →]({{< ref "/alumni" >}})
-
-## Join us
-
-Want to help us in spreading hacker culture? [We want you!]({{< ref "/join-coreteam" >}})

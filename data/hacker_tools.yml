@@ -1,25 +1,29 @@
 events:
-- topic: Virtual machines and installing Ubuntu
+- topic: Virtual Machines and Ubuntu Install
   venue: Online on Zoom
-  date: 2020-09-01T18:30:00
-  blog_post: /2020/09/hacker-tools-virtual-machines-and-installing-ubuntu/
-- topic: Shell and scripting
+  date: 2021-08-24T18:30:00
+  blog_post: /2021/08/hacker-tools-1/
+- topic: Shell and Scripting
   venue: Online on Zoom
-  date: 2020-09-08T18:30:00
-  blog_post: /2020/09/hacker-tools-shell-and-scripting/
-- topic: CLI data wrangling
+  date: 2021-09-01T19:00:00
+  blog_post: /2021/08/hacker-tools-2/
+- topic: CLI Data Wrangling
   venue: Online on Zoom
-  date: 2020-09-22T18:30:00
-  blog_post: /2020/09/hacker-tools-cli-data-wrangling/
-- topic: Web browser customisation, and online security and privacy
-  venue: Online on Zoom
-  date: 2020-10-06T18:30:00
-  blog_post: /2020/09/hacker-tools-web-browser-customisation-and-online-security-and-privacy/
-- topic: CLI debugging and profiling
-  venue: Online on Zoom
-  date: 2020-10-20T18:30:00
-  blog_post: /2020/10/hacker-tools-cli-debugging-and-profiling/
+  date: 2021-09-07T19:00:00
+  blog_post: /2021/08/hacker-tools-3/
 - topic: LaTeX
   venue: Online on Zoom
-  date: 2020-11-03T18:30:00
-  blog_post: /2020/10/hacker-tools-latex/
+  date: 2021-10-05T19:00:00
+  blog_post: /2021/10/hacker-tools-4/
+- topic: Vim
+  venue: Online on Zoom
+  date: 2021-10-12T19:00:00
+  blog_post: /2021/10/hacker-tools-5/
+- topic: Emacs
+  venue: Online on Zoom
+  date: 2021-10-19T19:00:00
+  blog_post: /2021/10/hacker-tools-6/
+- topic: CLI debugging and profiling
+  venue: Online on Zoom
+  date: 2021-10-27T19:00:00
+  blog_post: /2021/10/hacker-tools-7/
