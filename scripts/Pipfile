@@ -9,4 +9,4 @@ pyyaml = ">=4.2b1"
 [dev-packages]
 
 [requires]
-python_version = "2.7"
+python_version = "3.7"

@@ -2,7 +2,7 @@ start_date: 2022-01-21 19:00:00 +0800
 start_nr: 214
 hacks:
   - venue: Seminar Room 8 (SR8), COM1 02-08 & Online on Zoom (Hybrid)
-    blog_post: /2022/08/friday-hacks-214
+    blog_post: /2022/01/friday-hacks-214
     topics:
       - speaker: Eugene Cheah
         title:  GPU.JS (2016) - building a JS transpiler in 24 hours - for speed and lulz
