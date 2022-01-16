@@ -1,75 +1,72 @@
-start_date: 2021-08-13 15:00:00 +0800
-start_nr: 204
+start_date: 2022-01-21 19:00:00 +0800
+start_nr: 214
 hacks:
-  - venue: Online on Zoom
-    blog_post: /welcometea2021/
+  - venue: Seminar Room 8 (SR8), COM1 02-08 & Online on Zoom (Hybrid)
+    blog_post: /2022/01/friday-hacks-214
     topics:
-      - speaker: NUS Hackers Coreteam
-        title: NUS Hackers Welcome Tea
-      - speaker: Jethro Kuan
-        title: Building things in public
-  - venue: Online on Zoom
-    blog_post: /2021/08/friday-hacks-205/
+      - speaker: Eugene Cheah
+        title:  GPU.JS (2016) - building a JS transpiler in 24 hours - for speed and lulz
+      - speaker: Team “The Lim Conglomerate & Keith”, “we can code”, and “Flexbox” from Hack&Roll 2022
+        title: Wholesome Hacks You Don’t Want to Miss!
+  - venue: TBD (Physical)
+    blog_post: 
     topics:
-      - title: Project Intern
-        speaker: NUS Hackers Coreteam
-  - venue: AS6-LT15, NUS & Zoom
-    blog_post: /2021/08/friday-hacks-206/
+      - speaker: Jet New
+        title: TBA
+      - speaker: Rishabh Anand
+        title: TBA
+  - venue: TBD (Physical)
+    blog_post: 
     topics:
-      - speaker: Prof Ooi Wei Tsang
-        title: "From Netflix to Zoom: Demystifying Video Streaming"
-      - speaker: Omer
-        title: Observability in Production
-  - venue: Online on Zoom
-    blog_post: /2021/09/friday-hacks-207/
+      - speaker: Andras Kristof
+        title: TBA
+      - speaker: Choon Keat
+        title: TBA
+  - venue: TBD (Physical)
+    blog_post: 
     topics:
-      - speaker: Paul Beaumont
-        title: Bayesian Networks - Thinking about causality in ML
-      - speaker: Jane Street
-        title: Safe At Any Speed
-  - venue: AS6 LT15 & Online on Zoom (Hybrid)
-    blog_post: /2021/09/friday-hacks-208/
+      - speaker: Christopher Goh Zhen Fung
+        title: TBA
+      - speaker: Fazli Sapuan
+        title: When DevOps meets Piracy
+  - venue: Online on Zoom (6pm - 8pm)
+    blog_post: 
     topics:
-      - speaker: Prof Martin Henz
-        title: "Source Academy: Past, Present, Future"
-      - speaker: Prof Ilya Sergey
-        title: Running the ICFP 2019 Programming Contest
-  - venue: AS6 LT15 & Online on Zoom (Hybrid)
-    blog_post: /2021/09/friday-hacks-209/
-    topics:
-      - speaker: Seth Gilbert
-        title: "Optimism, Pessimism, and Algorithms"
-      - speaker: Edison
-        title: "Hacking Decentralised Finance (DeFi)"
+      - speaker: Ying Hang
+        title: TBA
+      - speaker: Sheng You
+        title: Ktor in Action
   - nohack: true
   - nohack: true
-  - nohack: true
-  - venue: Online on Zoom
-    blog_post: /2021/10/friday-hacks-210/
+  - venue: TBD (Physical)
+    blog_post: 
     topics:
-      - title: "Introduction to Test-Driven Development"
-        speaker: Meng Keong
-  - venue: Online on Zoom
-    blog_post: /2021/10/friday-hacks-211/
+      - speaker: Sriram Sami
+        title: TBA
+      - speaker: Cedric Chin
+        title: How to Build a Career Moat
+  - venue: TBA
+    blog_post: 
     topics:
-      - title: "Explore quantum computing through gaming"
-        speaker: Huang Junyue
-      - title: "Linters in Dart"
-        speaker: Jeffery
-  - venue: Online on Zoom
-    blog_post: /2021/10/friday-hacks-212/
+      - speaker: Li Hongyi
+        title: TBA
+      - speaker: Stephen Grabowski
+        title: TBA
+  - venue: TBA
+    blog_post: 
     topics:
-      - title: "Crisis Management Modelling and Simulation"
-        speaker: Gary Tan
-      - title: "Managing Server Resources for SoC Modules"
-        speaker: Cristina
-  - venue: Online on Zoom
-    blog_post: /2021/11/friday-hacks-213/
+      - title: TBA
+        speaker: TBA
+  - venue: TBA
+    blog_post: 
     topics:
-      - title: "Security at ExpressVPN"
-        speaker: Timothy
-      - title: "Five Tips To Make You A Better Engineer"
-        speaker: Kai Hendry
+      - title: TBA
+        speaker: TBA
+  - venue: TBA
+    blog_post: 
+    topics:
+      - title: TBA
+        speaker: TBA
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/

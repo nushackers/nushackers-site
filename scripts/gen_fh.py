@@ -37,16 +37,16 @@ with open('../data/friday_hacks.yml', 'r') as fin:
             break
         cur += timedelta(days=7)
     if not next_hack:
-        print "Dude semester's over"
+        print("Dude semester's over")
         quit()
 
     if not next_hack.get('topics'):
-        print "Dude no hackz"
+        print("Dude no hackz")
         quit()
 
     date = cur
-    print "Creating FH post for " + str(cur)
-    name = raw_input("Your name? ")
+    print("Creating FH post for " + str(cur))
+    name = input("Your name? ")
 
     # so future-proof it's sick
     fhre = re.compile(
@@ -68,7 +68,7 @@ with open('../data/friday_hacks.yml', 'r') as fin:
     # if len(argv) > 1:
     #     num += int(argv[1])
 
-    print "Creating FH post for #" + str(num) + ", at " + str(date)
+    print("Creating FH post for #" + str(num) + ", at " + str(date))
     # In case you want a different name, BUT WHYYY!?!?
     # name = raw_input("Your name? ")
 
@@ -86,7 +86,8 @@ url: /{year}/{no_of_month}/friday-hacks-{num}
 {{{{< friday_hack_header
     venue="{venue}"
     date="{month} {day}"
-    fb_event="#" >}}}}
+    food="pizza"
+    rsvp_link="#" >}}}}
 
 '''.format(
         num=num,
