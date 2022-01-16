@@ -8,4 +8,10 @@
       </strong>
       <br />
     {{ end }}
+    {{ with .Get "rsvp_link" }}
+    <strong>
+      <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Reserve your spot now — Space is limited!</a>
+    </strong>
+    <br />
+  {{ end }}
 </blockquote>
