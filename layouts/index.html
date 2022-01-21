@@ -58,6 +58,7 @@
         <header class="front-header">
           <h2 class="front-title"><a>Hacker Tools</a></h2>
         </header>
+        {{- if false -}}
         <ol class="list">
           {{ range $index, $event := $.Site.Data.hacker_tools.events }}
             <li class="events-item item">
@@ -76,6 +77,9 @@
           {{ end }}
         </ol>
         <div class="events-button" role="button">More events</div>
+        {{- else -}}
+          <div>Hacker Tools is not running this semester, but you can check out <a href="https://www.youtube.com/playlist?list=PL9-vM_51OMbEaEe2_VI-FxMU9eb4KERJA" target="_blank" rel="noopener noreferrer">recordings of last semester's workshops on YouTube</a>.</div>
+        {{- end -}}
       </div>
       <div class="events hs col-12 col-md-4">
         <header class="front-header">
