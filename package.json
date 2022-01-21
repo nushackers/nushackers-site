@@ -2,36 +2,15 @@
     "name": "nushackers-site-hugo",
     "version": "1.0.0",
     "description": "Sup! This is the source code of the nushackers blog site http://nushackers.org.",
-    "scripts": {
-        "start": "gulp",
-        "build": "gulp --production"
-    },
     "license": "MIT",
-    "devDependencies": {
-        "autoprefixer": "^9.6.1",
-        "bootstrap": "^4.3.1",
-        "fancy-log": "^1.3.3",
-        "gulp": "^4.0.2",
-        "gulp-changed-in-place": "^2.3.0",
-        "gulp-notify": "^3.2.0",
-        "gulp-plumber": "^1.2.1",
-        "gulp-postcss": "^8.0.0",
-        "gulp-prettier": "^2.1.0",
-        "gulp-sass": "^4.0.2",
-        "minimist": "^1.2.3",
-        "plugin-error": "^1.0.1",
-        "postcss-assets": "^5.0.0",
-        "postcss-flexbugs-fixes": "^4.1.0",
-        "postcss-scss": "^2.0.0",
-        "postcss-sorting": "^5.0.1",
-        "prettier": "^1.18.2"
+    "scripts": {
+        "build": "hugo",
+        "dev": "hugo serve"
     },
-    "browserslist": [
-        "> 1%",
-        "last 2 versions",
-        "ie >= 11"
-    ],
-    "resolutions": {
-        "node-gyp": "^7.1.2"
+    "devDependencies": {
+        "bootstrap": "^4.6.1",
+        "postcss": "^8.4.5",
+        "postcss-assets": "^6.0.0",
+        "postcss-cli": "^9.1.0"
     }
 }
