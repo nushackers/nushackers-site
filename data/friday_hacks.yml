@@ -15,6 +15,7 @@ hacks:
         title: TBA
       - speaker: Rishabh Anand
         title: TBA
+  - nohack: Chinese New Year Week 
   - venue: TBD (Physical)
     blog_post: 
     topics:
@@ -36,8 +37,8 @@ hacks:
         title: TBA
       - speaker: Sheng You
         title: Ktor in Action
-  - nohack: true
-  - nohack: true
+  - nohack: Recess Week
+  - nohack: Exam Week
   - venue: TBD (Physical)
     blog_post: 
     topics:
@@ -62,11 +63,7 @@ hacks:
     topics:
       - title: TBA
         speaker: TBA
-  - venue: TBA
-    blog_post: 
-    topics:
-      - title: TBA
-        speaker: TBA
+  - nohack: Good Friday
 #  - nohack: true
 #  - venue: Online on Zoom
 #    blog_post: /2021/01/friday-hacks-199/
