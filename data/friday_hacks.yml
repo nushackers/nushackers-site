@@ -9,12 +9,12 @@ hacks:
       - speaker: Team “The Lim Conglomerate & Keith”, “we can code”, and “Flexbox” from Hack&Roll 2022
         title: Wholesome Hacks You Don’t Want to Miss!
   - venue: TBD (Physical)
-    blog_post: 
+    blog_post: /2022/01/friday-hacks-215
     topics:
       - speaker: Jet New
-        title: TBA
+        title: Getting Started with Reinforcement Learning - A Project-Based Approach
       - speaker: Rishabh Anand
-        title: TBA
+        title: The 5W1H on Open-source Machine Learning
   - nohack: Chinese New Year Week 
   - venue: TBD (Physical)
     blog_post: 
