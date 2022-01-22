@@ -16,7 +16,7 @@ from sys import argv
 import re
 
 with open('../data/friday_hacks.yml', 'r') as fin:
-    doc = yaml.load(fin)
+    doc = yaml.safe_load(fin)
     start_date = datetime.strptime(doc['start_date'],
                                    '%Y-%m-%d %H:%M:%S +0800')
     # Time delta fixes weird bug
