@@ -8,22 +8,13 @@ hacks:
         title:  GPU.JS (2016) - building a JS transpiler in 24 hours - for speed and lulz
       - speaker: Team “The Lim Conglomerate & Keith”, “we can code”, and “Flexbox” from Hack&Roll 2022
         title: Wholesome Hacks You Don’t Want to Miss!
-  - venue: TBD (Physical)
+  - venue: Executive Classroom (COM2-04-02) & Online on Zoom (Hybrid)
     blog_post: /2022/01/friday-hacks-215
     topics:
       - speaker: Jet New
         title: Getting Started with Reinforcement Learning - A Project-Based Approach
-      - speaker: Rishabh Anand
-        title: The 5W1H on Open-source Machine Learning
   - nohack: Chinese New Year Week 
-  - venue: TBD (Physical)
-    blog_post: 
-    topics:
-      - speaker: Andras Kristof
-        title: TBA
-      - speaker: Choon Keat
-        title: TBA
-  - venue: TBD (Physical)
+  - venue: LT15 & Online on Zoom (Hybrid)
     blog_post: 
     topics:
       - speaker: Christopher Goh Zhen Fung
@@ -56,8 +47,10 @@ hacks:
   - venue: TBA
     blog_post: 
     topics:
-      - title: TBA
-        speaker: TBA
+      - speaker: Andras Kristof
+        title: TBA
+      - speaker: Choon Keat
+        title: TBA
   - venue: TBA
     blog_post: 
     topics:
