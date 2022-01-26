@@ -16,7 +16,7 @@ from sys import argv
 import re
 
 with open('../data/friday_hacks.yml', 'r') as fin:
-    doc = yaml.load(fin)
+    doc = yaml.safe_load(fin)
     start_date = datetime.strptime(doc['start_date'],
                                    '%Y-%m-%d %H:%M:%S +0800')
     # Time delta fixes weird bug
@@ -73,12 +73,14 @@ with open('../data/friday_hacks.yml', 'r') as fin:
     # name = raw_input("Your name? ")
 
     # now witness templating in raw string
+    # nofh: true removes the Hangar footer which historically has supported us for Pizza, but no longer since Covid time
     content = '''\
 ---
 title: "Friday Hacks #{num}, {month} {day}"
 date: {now}
 author: {author}
 url: /{year}/{no_of_month}/friday-hacks-{num}
+nofh: true
 ---
 
 --- say something as introduction ---
