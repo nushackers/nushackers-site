@@ -96,9 +96,9 @@ events:
   - topic: Introduction to Shell and Scripting
     venue: Online on Zoom
     date: 2022-02-05T10:00:00
-  - topic: Introduction to Git
+  - topic: Git Basics
     venue: Online on Zoom
-    date: 2022-02-12T10:00:00
+    date: 2022-02-12T12:00:00
   - topic: TBA
     venue: TBD
     date: 2022-03-12
