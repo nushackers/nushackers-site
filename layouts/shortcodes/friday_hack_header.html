@@ -1,7 +1,9 @@
 <blockquote>
     <strong>Date/Time</strong>: Friday, {{ .Get "date" }}{{ if not (in (.Get "date") " at ") }} at 7:00pm{{ end }}<br />
     <strong>Venue</strong>: {{ .Get "venue" | safeHTML }} <br />
-    <strong>Free {{ .Get "food" | default "pizza" }} is served before the talks at 6:30pm!</strong> <br />
+    {{ with .Get "food" }}
+      <strong>Free {{ . }} is served before the talks at 6:30pm!</strong> <br />
+    {{ end }}
     {{ with .Get "fb_event" }}
       <strong>
         <a href="{{ . }}" target="_blank" rel="noopener noreferrer">RSVP on our Facebook event</a>

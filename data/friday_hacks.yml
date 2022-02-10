@@ -14,11 +14,11 @@ hacks:
       - speaker: Jet New
         title: Getting Started with Reinforcement Learning - A Project-Based Approach
   - nohack: Chinese New Year Week 
-  - venue: LT15 & Online on Zoom (Hybrid)
-    blog_post: 
+  - venue: Online on Zoom
+    blog_post: /2022/02/friday-hacks-216
     topics:
       - speaker: Christopher Goh Zhen Fung
-        title: TBA
+        title: NUSMods - What's Next?
       - speaker: Fazli Sapuan
         title: When DevOps meets Piracy
   - venue: Online on Zoom (6pm - 8pm)
