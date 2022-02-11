@@ -10,7 +10,7 @@
     {{ if in $eventDate "-" }}
       {{ $eventTime := time $eventDate }}
       {{ $timeDiff := now.Sub $eventTime }}
-      {{ if lt ($timeDiff.Hours) 24 }}
+      {{ if lt ($timeDiff.Minutes) 0 }}
         {{ with .Get "food" }}
           <strong>Free {{ . }} is served before the talks at 6:30pm!</strong> <br />
         {{ end }}
