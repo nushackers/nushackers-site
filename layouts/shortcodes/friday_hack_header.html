@@ -1,19 +1,31 @@
 <blockquote>
-    <strong>Date/Time</strong>: Friday, {{ .Get "date" }}{{ if not (in (.Get "date") " at ") }} at 7:00pm{{ end }}<br />
+    {{ $eventDate := (.Get "date") }}
+    {{ if in $eventDate "-" }}
+      {{ $eventDate := time.Format "Monday, January 2 2006 15:04" $eventDate }}
+      <strong>Date/Time</strong>: {{ $eventDate }}<br />
+    {{ else }}
+      <strong>Date/Time</strong>: Friday, {{ $eventDate }}{{ if not (in $eventDate " at ") }} at 7:00pm{{ end }}<br />
+    {{ end }}
     <strong>Venue</strong>: {{ .Get "venue" | safeHTML }} <br />
-    {{ with .Get "food" }}
-      <strong>Free {{ . }} is served before the talks at 6:30pm!</strong> <br />
-    {{ end }}
-    {{ with .Get "fb_event" }}
-      <strong>
-        <a href="{{ . }}" target="_blank" rel="noopener noreferrer">RSVP on our Facebook event</a>
-      </strong>
-      <br />
-    {{ end }}
-    {{ with .Get "rsvp_link" }}
-    <strong>
-      <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Reserve your physical spot now — Space is limited!</a>
-    </strong>
-    <br />
+    {{ if in $eventDate "-" }}
+      {{ $eventTime := time $eventDate }}
+      {{ $timeDiff := now.Sub $eventTime }}
+      {{ if lt ($timeDiff.Minutes) 0 }}
+        {{ with .Get "food" }}
+          <strong>Free {{ . }} is served before the talks at 6:30pm!</strong> <br />
+        {{ end }}
+        {{ with .Get "fb_event" }}
+          <strong>
+            <a href="{{ . }}" target="_blank" rel="noopener noreferrer">RSVP on our Facebook event</a>
+          </strong>
+          <br />
+        {{ end }}
+        {{ with .Get "rsvp_link" }}
+          <strong>
+            <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Reserve your physical spot now — Space is limited!</a>
+          </strong>
+          <br />
+        {{ end }}
+      {{ end }}
     {{ end }}
 </blockquote>
