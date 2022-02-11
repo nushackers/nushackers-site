@@ -1,6 +1,11 @@
 <blockquote>
     {{ $eventDate := (.Get "date") }}
-    <strong>Date/Time</strong>: Friday, {{ $eventDate }}{{ if not (in $eventDate " at ") }} at 7:00pm{{ end }}<br />
+    {{ if in $eventDate "-" }}
+      {{ $eventDate := time.Format "Monday, January 2 2006 15:04" $eventDate }}
+      <strong>Date/Time</strong>: {{ $eventDate }}<br />
+    {{ else }}
+      <strong>Date/Time</strong>: Friday, {{ $eventDate }}{{ if not (in $eventDate " at ") }} at 7:00pm{{ end }}<br />
+    {{ end }}
     <strong>Venue</strong>: {{ .Get "venue" | safeHTML }} <br />
     {{ if in $eventDate "-" }}
       {{ $eventTime := time $eventDate }}
