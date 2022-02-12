@@ -101,7 +101,7 @@ nofh: true
         author=name,
         venue=next_hack['venue']) + '\n'.join([
             '''
-## {talk_name}
+## {number}) {talk_name}
 
 --- describe ----
 
@@ -109,7 +109,7 @@ nofh: true
 
 --- describe ----
 
-'''.format(talk_name=topic['title']) for topic in next_hack['topics']
+'''.format(number=idx, talk_name=topic['title']) for idx, topic in enumerate(next_hack['topics'])
         ])
 
     filename = '../content/post/{now}-friday-hacks-{num}.md'.format(

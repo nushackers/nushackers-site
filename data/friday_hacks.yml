@@ -22,10 +22,10 @@ hacks:
       - speaker: Fazli Sapuan
         title: When DevOps meets Piracy
   - venue: Online on Zoom (6pm - 8pm)
-    blog_post: 
-    topics:
+    blog_post: /2022/02/friday-hacks-217
+    topics: 
       - speaker: Ying Hang
-        title: TBA
+        title: How to build a Devtool startup in Silicon Valley
       - speaker: Sheng You
         title: Ktor in Action
   - nohack: Recess Week
