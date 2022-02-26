@@ -99,12 +99,12 @@ events:
   - topic: Git Basics
     venue: Online on Zoom
     date: 2022-02-12T12:00:00
+  - topic: Intro to Basys 3 Hardware Programming
+    venue: TBC
+    date: 2022-03-04T18:00:00
+  - topic: Intro to Basys 3 Hardware Programming (Part 2)
+    venue: TBC
+    date: 2022-03-11T18:00:00
   - topic: TBA
-    venue: TBD
-    date: 2022-03-12
-  - topic: TBA
-    venue: TBD
-    date: 2022-03-19
-  - topic: TBA
-    venue: TBD
+    venue: TBC
     date: 2022-03-26
