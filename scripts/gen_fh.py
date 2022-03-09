@@ -109,7 +109,7 @@ nofh: true
 
 --- describe ----
 
-'''.format(number=idx, talk_name=topic['title']) for idx, topic in enumerate(next_hack['topics'])
+'''.format(number=idx + 1, talk_name=topic['title']) for idx, topic in enumerate(next_hack['topics'])
         ])
 
     filename = '../content/post/{now}-friday-hacks-{num}.md'.format(

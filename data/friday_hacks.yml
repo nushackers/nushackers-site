@@ -30,11 +30,9 @@ hacks:
         title: Ktor in Action
   - nohack: Recess Week
   - nohack: Exam Week
-  - venue: TBD 
-    blog_post: 
+  - venue: Online on Zoom
+    blog_post: /2022/03/friday-hacks-218
     topics:
-      - speaker: Sriram Sami
-        title: TBA
       - speaker: Cedric Chin
         title: How to Build a Career Moat
   - venue: TBA
@@ -42,8 +40,15 @@ hacks:
     topics:
       - speaker: Li Hongyi
         title: TBA
-      - speaker: Stephen Grabowski
+      - speaker: Joe
         title: TBA
+  - venue: TBA
+    blog_post: 
+    topics:
+      - title: Intro to Geospatial Data Science
+        speaker: Zeus Living
+      - title: TBA
+        speaker: Bastien
   - venue: TBA
     blog_post: 
     topics:
@@ -54,16 +59,9 @@ hacks:
   - venue: TBA
     blog_post: 
     topics:
-      - title: TBA
-        speaker: TBA
+      - speaker: Aravind Kandiah
+        title: Using AI & the Metaverse to Land Spacecrafts on Mars
+      - speaker: Holmusk 
+        title: TBA
   - nohack: Good Friday
-#  - nohack: true
-#  - venue: Online on Zoom
-#    blog_post: /2021/01/friday-hacks-199/
-#    topics:
-#      - speaker: William Byrd
-#        from: University of Alabama at Birmingham
-#        title: Relational Programming in miniKanren
-#      - speaker: Jason Hemann
-#        from: Northeastern University
-#        title: Implementing a Kanren from the Ground Up
+
