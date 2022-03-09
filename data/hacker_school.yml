@@ -100,11 +100,11 @@ events:
     venue: Online on Zoom
     date: 2022-02-12T12:00:00
   - topic: Intro to Basys 3 Hardware Programming
-    venue: TBC
+    venue: COM2-04-02
     date: 2022-03-04T18:00:00
   - topic: Intro to Basys 3 Hardware Programming (Part 2)
-    venue: TBC
-    date: 2022-03-11T18:00:00
+    venue: COM2-04-02
+    date: 2022-03-10T18:00:00
   - topic: TBA
     venue: TBC
     date: 2022-03-26
