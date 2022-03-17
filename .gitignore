@@ -76,4 +76,4 @@ typings/
 *.swp
 
 # IDE
-./idea
+.idea/
