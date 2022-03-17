@@ -74,3 +74,6 @@ typings/
 
 # Vim stuff
 *.swp
+
+# IDE
+.idea/
