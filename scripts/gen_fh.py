@@ -83,8 +83,6 @@ url: /{year}/{no_of_month}/friday-hacks-{num}
 nofh: true
 ---
 
---- say something as introduction ---
-
 {{{{< friday_hack_header
     venue="{venue}"
     date="{year}-{no_of_month}-{day}T19:00:00+08:00"
