@@ -43,11 +43,11 @@ hacks:
       - speaker: Joe
         title: Two Weeks Too Slow
   - venue: TBA
-    blog_post:
+    blog_post: /2022/03/friday-hacks-220
     topics:
       - title: Intro to Geospatial Data Science
         speaker: Zeus Living
-      - title: TBA
+      - title: A Happy Free Software Maintainer
         speaker: Bastien
   - venue: TBA
     blog_post:
