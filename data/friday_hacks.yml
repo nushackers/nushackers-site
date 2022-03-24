@@ -42,11 +42,11 @@ hacks:
         title: "Zero Knowledge Secret Sharing: Securely Digitizing the Singapore Government"
       - speaker: Joe
         title: Two Weeks Too Slow
-  - venue: TBA
+  - venue: LT15
     blog_post: /2022/03/friday-hacks-220
     topics:
-      - title: Intro to Geospatial Data Science
-        speaker: Zeus Living
+      - title: Geospatial Analysis & Visualisation
+        speaker: Chen Yuan (Zeus Living)
       - title: A Happy Free Software Maintainer
         speaker: Bastien
   - venue: TBA
