@@ -50,7 +50,7 @@ hacks:
       - title: A Happy Free Software Maintainer
         speaker: Bastien
   - venue: SR7 @ COM1-02-07
-    blog_post: /2022/03/friday-hacks-221
+    blog_post: /2022/04/friday-hacks-221
     topics:
       - speaker: Choon Keat
         title: Why bet the company on Elm for both front and backend? (And how does that work?)
