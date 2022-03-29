@@ -49,13 +49,11 @@ hacks:
         speaker: Chen Yuan (Zeus Living)
       - title: A Happy Free Software Maintainer
         speaker: Bastien
-  - venue: TBA
-    blog_post:
+  - venue: SR7 @ COM1-02-07
+    blog_post: /2022/04/friday-hacks-221
     topics:
-      - speaker: Andras Kristof
-        title: TBA
       - speaker: Choon Keat
-        title: TBA
+        title: Why bet the company on Elm for both front and backend? (And how does that work?)
   - venue: TBA
     blog_post:
     topics:
