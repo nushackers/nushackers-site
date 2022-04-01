@@ -4,4 +4,4 @@ description: NUS Hackers Coin ICO
 date: "2022-04-01"
 ---
 
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube id="dQw4w9WgXcQ" autoplay="true" >}}
