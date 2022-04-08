@@ -54,12 +54,12 @@ hacks:
     topics:
       - speaker: Choon Keat
         title: Why bet the company on Elm for both front and backend? (And how does that work?)
-  - venue: TBA
-    blog_post:
+  - venue: Online
+    blog_post: /2022/04/friday-hacks-222
     topics:
       - speaker: Aravind Kandiah
         title: Using AI & the Metaverse to Land Spacecrafts on Mars
-      - speaker: Holmusk
-        title: TBA
+      - speaker: Kahlil Abreu
+        title: "FoodDX : From Zero to Production"
   - nohack: Good Friday
 
