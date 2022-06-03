@@ -1,6 +1,5 @@
 ---
 members:
-
   - name: Jing Yen
     description: |
       a(nother!) CS undergrad that lives the heretic's life of using Vim in
@@ -135,4 +134,8 @@ members:
       She can never get enough of desserts, aesthetic Pinterest posts, and lame jokes in Youtube.
       Hit her up at <a href="mailto:irenelie@nushackers.org">irenelie@nushackers.org</a> :)
 
-
+  - name: Richard
+    description: |
+      a computer science undergraduate with a keen interest in software engineering and augmented reality. 
+      He enjoys exploring design and listening to good movie soundtracks 🎧
+      Reach him at <a href="mailto:richard@nushackers.org">richard@nushackers.org</a>.
