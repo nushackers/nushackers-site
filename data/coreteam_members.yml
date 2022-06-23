@@ -1,45 +1,15 @@
 ---
 members:
+  - name: Azeem
+    description: |
+      a computer science undergraduate who loves tinkering and building things.
+      He enjoys riding his motorcycle, catching movies and building telegram bots. Reach him at <a href="mailto:azeem@nushackers.org" target="_blank" rel="noopener noreferrer nofollow">azeem@nushackers.org</a>.
+
   - name: Jing Yen
     description: |
       a(nother!) CS undergrad that lives the heretic's life of using Vim in
       Emacs. Reach out to him at <a href="mailto:jingyen@nushackers.org">jingyen@nushackers.org</a>
       if there's anything you'd like to discuss with him.
-
-  - name: Joshua
-    description: |
-      a computer science undergraduate with a current interest in full-stack stuff. He enjoys watching football in his free time.
-      He can be reached at <a href="mailto:joshua@nushackers.org">joshua@nushackers.org</a>.
-
-  - name: Hao Wei
-    description: |
-      a computer science undergraduate with an interest in operating systems,
-      systems programming, programming languages, and free software. Find him
-      on <a href="https://github.com/angelsl">GitHub</a>.
-
-  - name: Wee Han
-    description: |
-      a computer science undergraduate with a passion for trying out new things.
-      Currently occupied with full-stack web development, data analytics/visualization and cancer genomics research.
-      Reach him at <a href="mailto:weehan@nushackers.org">weehan@nushackers.org</a>!
-
-  - name: Daryl
-    description: |
-      a computer science undergraduate and an aspiring full-stack developer.
-      He's passionate about software engineering, good design and music curation.
-      View his work on <a href="https://github.com/dvrylc">GitHub</a> and on his <a href="https://dvrylc.com">website</a>.
-
-  - name: Chaitanya
-    description: |
-      a CS undergrad who enjoys learning new stuff, but is yet to discover what
-      part of technology truly interests him. You can find out more about him
-      <a href="https://chaitanyabaranwal.netlify.com/">here</a>, or reach him at
-      <a href="mailto:chaitanya@nushackers.org">chaitanya@nushackers.org</a>!
-
-  - name: Yuanhong
-    description: |
-      a computer science undergraduate interested in algorithms and competitive programming.
-      Find him on <a href="https://github.com/le0tan">GitHub</a>.
 
   - name: Christopher
     description: |
@@ -55,22 +25,10 @@ members:
       He enjoys hacking on fun(ny) ideas and optimizing his workstation.
       Reach out to him at <a href="mailto:kwannoel@nushackers.org">kwannoel@nushackers.org</a> if you'd like to chat.
 
-  - name: Steven
-    description: |
-      a computer science undergraduate who loves experimenting with random stuff. Currently in the process
-      of learning a lot of things :). Want to know more or perhaps just looking for a chat?
-      Reach out to him at <a href="mailto:stevenwjy@nushackers.org">stevenwjy@nushackers.org</a>!
-
   - name: Yitao
     description: |
       a computer science undergraduate with interest in app development, algorithms, research and other wonky stuff.
       An avid tea drinker, he also enjoys music and ball games that involve running around. Find him on <a href="https://github.com/sun-yitao">GitHub</a>.
-
-  - name: Ranice
-    description: |
-      a computer science undergrad with a fat interest in web and game development.
-      When she's not studying, she's ricing her current linux distro, OR playing age of empires OR changing the theme of her website... OR
-      posting memes on facebook.. Feel free to contact her at <a href="mailto:ranice@nushackers.org">ranice@nushackers.org</a> @_@
 
   - name: Shenjia
     description: |
@@ -106,11 +64,6 @@ members:
       a computer science undergraduate who's having fun learning new things.
       He enjoys reading, football, and foods he hasn't tried before. Reach him at <a href="mailto:jivesh@nushackers.org">jivesh@nushackers.org</a>
 
-  - name: Azeem
-    description: |
-      a computer science undergraduate who loves tinkering and building things.
-      He enjoys riding his motorcycle, catching movies and building telegram bots. Reach him at <a href="mailto:azeem@nushackers.org" target="_blank" rel="noopener noreferrer nofollow">azeem@nushackers.org</a>.
-
   - name: Simon
     description: |
       a computer science undergraduate who is still exploring the vast swathes of computer science.
@@ -136,19 +89,19 @@ members:
 
   - name: Richard
     description: |
-      a computer science undergraduate with a keen interest in software engineering and augmented reality. 
+      a computer science undergraduate with a keen interest in software engineering and augmented reality.
       He enjoys exploring design and listening to good movie soundtracks 🎧
       Reach him at <a href="mailto:richard@nushackers.org">richard@nushackers.org</a>.
-  
+
   - name: Yi Hong
     description: |
-      a computer science undergraduate who is having difficulty explaining to his friends that 
-      he can't fix their spoilt laptop for them. To see what he actually does, check out 
-      his <a href="https://github.com/shenyih0ng">github</a> or email him for a chat 
+      a computer science undergraduate who is having difficulty explaining to his friends that
+      he can't fix their spoilt laptop for them. To see what he actually does, check out
+      his <a href="https://github.com/shenyih0ng">github</a> or email him for a chat
       at <a href="mailto:yihong@nushackers.org">yihong@nushackers.org</a>.
-      
+
   - name: Chun Yu
     description: |
-      a computer science undergraduate with an interest in free software, 
+      a computer science undergraduate with an interest in free software,
       building awesomely useless stuff, tinkering and breaking anything and everything.
       Feel free to reach out at <a href="mailto:chunyu@nushackers.org">chunyu@nushackers.org</a>.
