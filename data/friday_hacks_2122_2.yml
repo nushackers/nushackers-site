@@ -1,0 +1,65 @@
+start_date: 2022-01-21 19:00:00 +0800
+start_nr: 214
+hacks:
+  - venue: i3 Auditorium (I3-AUD) & Online on Zoom (Hybrid)
+    blog_post: /2022/01/friday-hacks-214
+    topics:
+      - speaker: Eugene Cheah
+        title:  GPU.JS (2016) - building a JS transpiler in 24 hours - for speed and lulz
+      - speaker: Team “The Lim Conglomerate & Keith”, “we can code”, and “Flexbox” from Hack&Roll 2022
+        title: Wholesome Hacks You Don’t Want to Miss!
+  - venue: Executive Classroom (COM2-04-02) & Online on Zoom (Hybrid)
+    blog_post: /2022/01/friday-hacks-215
+    topics:
+      - speaker: Jet New
+        title: Getting Started with Reinforcement Learning - A Project-Based Approach
+  - nohack: Chinese New Year Week
+  - venue: Online on Zoom
+    blog_post: /2022/02/friday-hacks-216
+    topics:
+      - speaker: Christopher Goh Zhen Fung
+        title: NUSMods - What's Next?
+      - speaker: Fazli Sapuan
+        title: When DevOps meets Piracy
+  - venue: Online on Zoom (6pm - 8pm)
+    blog_post: /2022/02/friday-hacks-217
+    topics:
+      - speaker: Ying Hang
+        title: How to build a Devtool startup in Silicon Valley
+      - speaker: Sheng You
+        title: Ktor in Action
+  - nohack: Recess Week
+  - nohack: Exam Week
+  - venue: Online on Zoom
+    blog_post: /2022/03/friday-hacks-218
+    topics:
+      - speaker: Cedric Chin
+        title: How to Build a Career Moat
+  - venue: LT15
+    blog_post: /2022/03/friday-hacks-219
+    topics:
+      - speaker: Li Hongyi
+        title: "Zero Knowledge Secret Sharing: Securely Digitizing the Singapore Government"
+      - speaker: Joe
+        title: Two Weeks Too Slow
+  - venue: LT15
+    blog_post: /2022/03/friday-hacks-220
+    topics:
+      - title: Geospatial Analysis & Visualisation
+        speaker: Chen Yuan (Zeus Living)
+      - title: A Happy Free Software Maintainer
+        speaker: Bastien
+  - venue: SR7 @ COM1-02-07
+    blog_post: /2022/04/friday-hacks-221
+    topics:
+      - speaker: Choon Keat
+        title: Why bet the company on Elm for both front and backend? (And how does that work?)
+  - venue: Online
+    blog_post: /2022/04/friday-hacks-222
+    topics:
+      - speaker: Aravind Kandiah
+        title: Using AI & the Metaverse to Land Spacecrafts on Mars
+      - speaker: Kahlil Abreu
+        title: "FoodDX : From Zero to Production"
+  - nohack: Good Friday
+
