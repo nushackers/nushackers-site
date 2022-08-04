@@ -8,12 +8,11 @@
 # As for numbering, it will take the next number
 # (e.g. if the previous post is FH #1000, the generated one will be FH #1001)
 # Please first update data/friday_hacks.yml before running this
-import yaml
-from datetime import datetime, timedelta
-from os import listdir
-from os.path import isfile, join
-from sys import argv
 import re
+import yaml
+from sys import argv
+from os import listdir
+from datetime import datetime, timedelta
 
 with open('../data/friday_hacks.yml', 'r') as fin:
     doc = yaml.safe_load(fin)
