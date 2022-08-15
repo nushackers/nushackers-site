@@ -111,3 +111,30 @@ events:
   - topic: Intro to Docker
     venue: On-site (TBC)
     date: 2022-03-26T10:00:00
+
+  # AY22/23 Sem 1
+  - topic: Introduction to Python
+    venue: LT19 and Zoom
+    date: 2022-08-20T10:00:00
+  - topic: Automation with Python
+    venue: TBC and Zoom
+    date: 2022-08-27T10:00:00
+  - topic: Creating Telegram Bots with Python
+    venue: TBC and Zoom
+    date: 2022-09-03T10:00:00
+  - topic: Data wrangling and visualisation in Python
+    venue: TBC and Zoom
+    date: 2022-09-10T10:00:00
+  - topic: Introduction to Machine Learning with scikit-learn
+    venue: TBC and Zoom
+    date: 2022-09-17T10:00:00
+  - topic: Introduction to HTML/CSS & Domains and hosting basics
+    venue: TBC and Zoom
+    date: 2022-10-01T10:00:00
+  - topic: Introduction to React
+    venue: TBC and Zoom
+    date: 2022-10-08T10:00:00
+  - topic: Introduction to Flask
+    venue: TBC and Zoom
+    date: 2022-10-15T10:00:00
+
