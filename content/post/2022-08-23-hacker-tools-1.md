@@ -16,7 +16,7 @@ Welcome to Hacker Tools! This session, we'll be talking about virtual machines a
 Please download Ubuntu, and download and install VirtualBox beforehand, because the files may be large and will take a while to download:
 
 - VirtualBox: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
-- Ubuntu: [https://download.nus.edu.sg/mirror/ubuntu-releases/focal/ubuntu-20.04.2.0-desktop-amd64.iso](https://download.nus.edu.sg/mirror/ubuntu-releases/focal/ubuntu-20.04.2.0-desktop-amd64.iso)
+- Ubuntu: [https://ubuntu.com/download#download](https://ubuntu.com/download#download)
 
 Please also make sure you have virtualization enabled in your system firmware. See this page for a guide: [https://archive.is/SLebO](https://archive.is/SLebO)
 
