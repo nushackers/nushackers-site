@@ -18,6 +18,6 @@ Please download Ubuntu, and download and install VirtualBox beforehand, because 
 - VirtualBox: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 - Ubuntu: [https://ubuntu.com/download#download](https://ubuntu.com/download#download)
 
-Please also make sure you have virtualization enabled in your system firmware. See this page for a guide: [https://archive.is/SLebO](https://archive.is/SLebO)
+Please also make sure you have virtualization enabled in your system firmware.
 
 See you there!
