@@ -12,3 +12,12 @@ hacks:
       - speaker: Evan You
         from: VueJS, Vite
         title: The Journey of an Indie OSS Developer
+  - venue: The Hangar (i3 Building)
+    blog_post: /2022/08/friday-hacks-225
+    topics:
+      - speaker: Derianto Kusuma
+        from: Co-Founder & Former CTO of Traveloka
+        title: High Impact Software Engineering in the Real World
+      - speaker: Derianto Kusuma
+        from: Co-Founder & Former CTO of Traveloka
+        title: On Tech Entrepreneurship
