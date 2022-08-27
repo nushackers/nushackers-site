@@ -21,3 +21,9 @@ hacks:
       - speaker: Derianto Kusuma
         from: Co-Founder & Former CTO of Traveloka
         title: On Tech Entrepreneurship
+  - venue: Lemongrass Room @ Shaw Foundation Alumni House
+    blog_post: /2022/09/friday-hacks-226
+    topics:
+      - speaker: Lawrence Tan, Nonie Politi, Pierre Moschetta
+        from: Huston River Trading (HRT), Singapore
+        title: Engineering for Latency
