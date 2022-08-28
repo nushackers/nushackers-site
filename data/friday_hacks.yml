@@ -24,6 +24,9 @@ hacks:
   - venue: Lemongrass Room @ Shaw Foundation Alumni House
     blog_post: /2022/09/friday-hacks-226
     topics:
+      - speaker: Prof Tat-Seng Chua
+        from: National University of Singapore
+        title: AI with Human-in-the-Loop
       - speaker: Lawrence Tan, Nonie Politi, Pierre Moschetta
-        from: Huston River Trading (HRT), Singapore
+        from: Huston River Trading (HRT)
         title: Engineering for Latency
