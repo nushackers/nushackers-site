@@ -30,3 +30,12 @@ hacks:
       - speaker: Lawrence Tan, Nonie Politi, Pierre Moschetta
         from: Huston River Trading (HRT)
         title: Engineering for Latency
+  - venue: The Hangar (i3 Building)
+    blog_post: /2022/09/friday-hacks-227
+    topics:
+      - speaker:
+        from: Marshall Wace
+        title: Practical Challenges of Data Ingestion at Scale
+      - speaker: Wong Yumin
+        from: GitHub
+        title: From Thought to Launch
