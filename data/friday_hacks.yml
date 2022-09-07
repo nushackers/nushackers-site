@@ -33,7 +33,7 @@ hacks:
   - venue: The Hangar (i3 Building)
     blog_post: /2022/09/friday-hacks-227
     topics:
-      - speaker:
+      - speaker: Louis Ditzel
         from: Marshall Wace
         title: Practical Challenges of Data Ingestion at Scale
       - speaker: Wong Yumin
