@@ -9,8 +9,8 @@
   </a>
   {{- end -}}
   {{ if eq .hack.nohack nil }}
-    <address class="events-address">{{ .hack.venue | safeHTML }}</address>
     <h3 class="hs-topic">{{ .hack.topic }}</h3>
+    <address class="events-address">{{ .hack.venue | safeHTML }}</address>
     <ul class="fh-topics">
       {{ range $topicIndex, $topic := .hack.topics }}
       <li class="fh-topic">

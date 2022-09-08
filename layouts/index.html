@@ -61,6 +61,7 @@
         <ol class="list">
           {{ range $index, $event := $.Site.Data.hacker_tools.events }}
             <li class="events-item item">
+              <h3 class=hs-topic>{{ $event.topic }}</h3>
               {{- if ne $event.blog_post nil -}}
                 <a href="{{ $event.blog_post }}">
               {{- end -}}
@@ -71,7 +72,6 @@
                 </a>
               {{- end -}}
               <address class="events-address">{{ $event.venue }}</address>
-              <h3 class=hs-topic>{{ $event.topic }}</h3>
             </li>
           {{ end }}
         </ol>
@@ -87,6 +87,7 @@
         <ol class="list">
           {{ range $index, $event := $.Site.Data.hacker_school.events }}
             <li class="events-item item">
+              <h3 class=hs-topic>{{ $event.topic }}</h3>
               {{- if ne $event.blog_post nil -}}
                 <a href="{{ $event.blog_post }}">
               {{- end -}}
@@ -97,7 +98,6 @@
                 </a>
               {{- end -}}
               <address class="events-address">{{ $event.venue }}</address>
-              <h3 class=hs-topic>{{ $event.topic }}</h3>
             </li>
           {{ end }}
         </ol>
