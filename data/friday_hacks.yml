@@ -44,7 +44,7 @@ hacks:
     topics:
       - speaker: Jason Yeo
         from: paidy
-        title: cats, burrito, and laziness
+        title: Cats, Burrito, and Laziness
       - speaker: Ron Xing
         from: YugabyteDB
         title: Modernize Data Layer using Cloud Native Database
