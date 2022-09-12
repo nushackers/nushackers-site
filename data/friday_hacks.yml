@@ -39,3 +39,12 @@ hacks:
       - speaker: Wong Yumin
         from: GitHub
         title: From Thought to Launch
+  - venue: Lemongrass Room @ Shaw Foundation Alumni House
+    blog_post: /2022/09/friday-hacks-228
+    topics:
+      - speaker: Jason Yeo
+        from: paidy
+        title: Cats, Burrito, and Laziness
+      - speaker: Ron Xing
+        from: YugabyteDB
+        title: Modernize Data Layer using Cloud Native Database
