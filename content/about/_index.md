@@ -18,11 +18,9 @@ During the semester, our primary events include
 
 Near the start of each calendar year, we also run [Hack&amp;Roll](https://hacknroll.nushackers.org/), the largest student-run hackathon in Singapore. Hack&Roll is unique for being one of the few hackathons, if not the only, that do not have a set topic for participants; instead, the aim is to simply encourage people to come and have fun building something.
 
-We also run smaller events for the NUS community, like Project Mentor, where seniors mentor freshmen to help them navigate their first year of university; and Project Intern, where students share their internship experiences and advice to help (mostly) Year 2 and Year 3 students. 
+We also run smaller initiatives for the NUS community, like Project Mentor, where seniors mentor freshmen to help them navigate their first year of university; and Project Intern, where students share their internship experiences and advice to help (mostly) Year 2 and Year 3 students. Once in a while we also initiate other events like [OpenHack](https://openhack.nushackers.org).
 
-Once in a while we also initiate other events like [OpenHack](https://openhack.nushackers.org).
-
-Some of our events are recorded if consent is given by the relevant parties. Find our recordings [here]({{< ref "/recordings" >}}).
+Most of our events are recorded if consent is given by the relevant parties. Find our recordings [here]({{< ref "/recordings" >}}).
 
 Participants at our events must follow our [event code of conduct]({{< ref "/conduct" >}}).
 
