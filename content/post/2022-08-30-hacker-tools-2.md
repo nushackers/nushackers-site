@@ -6,6 +6,12 @@ url: /2022/08/hacker-tools-2
 summary: Come learn to use the shell, write shell scripts, and speed up your daily computing life!
 ---
 
+This workshop has ended; here are links to the materials and recording:
+
+- [Slides](https://bit.ly/ht2023-2)
+- [Recording](https://youtu.be/TYuRGvrCX3Q)
+
+<!--
 **Date/Time**: Tuesday, 30 Aug 2022, 18:30&ndash;20:30<br />
 **Venue**: Executive Classroom (COM2-04-02)<br />
 **Sign-up Link**: [Sign up here!](https://forms.gle/2swDf9qTA9P4AaXT9)<br />
@@ -19,3 +25,4 @@ Please ensure you have access to a POSIX-compatible shell, such as Bash. If you 
 This workshop is largely based on the Missing Semester of Your CS Education lecture series conducted in MIT. This week's topic is based on <https://missing.csail.mit.edu/2020/shell-tools/>.
 
 See you there!
+-->
