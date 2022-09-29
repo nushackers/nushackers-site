@@ -1,12 +1,12 @@
 ---
 title: "Hacker Tools: LaTeX"
-date: 2022-10-04 18:30:00
+date: 2022-10-11 18:30:00
 author: Chun Yu
 url: /2022/10/hacker-tools-4
 summary: This week, we'll be introducing the well-known LaTeX document preparation system.
 ---
 
-**Date/Time**: Tuesday, 04 Oct 2022, 18:30&ndash;20:30<br />
+**Date/Time**: Tuesday, 11 Oct 2022, 18:30&ndash;20:30<br />
 **Venue**: Executive Classroom (COM2-04-02)<br />
 **Sign-up Link**: [Sign up here!](https://forms.gle/umBPYiBdMXFBhVTE6)<br />
 
