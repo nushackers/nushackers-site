@@ -48,3 +48,14 @@ hacks:
       - speaker: Ron Xing
         from: YugabyteDB
         title: Modernize Data Layer using Cloud Native Database
+  - nohack: true
+  - nohack: true
+  - venue: Level 2 Auditorium (i3 Building)
+    blog_post: /2022/10/friday-hacks-229
+    topics:
+      - speaker: Inian Parameshwaran
+        from: Supabase
+        title: How Supabase uses Cloudflare Workers
+      - speaker: Shi-Jie Khor
+        from: Jane Street
+        title: How to Build an Exchange
