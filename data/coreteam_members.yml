@@ -105,7 +105,18 @@ members:
       a computer science undergraduate with an interest in free software,
       building awesomely useless stuff, tinkering and breaking anything and everything.
       Feel free to reach out at <a href="mailto:chunyu@nushackers.org">chunyu@nushackers.org</a>.
+
+  - name: Kok Rui
+    description: |
+      a computer science undergraduate whose specific interests within computing seem to change every year or so.
+      He enjoys watching sports, playing GeoGuessr, and walking around random countries.
+      You can email him at <a href="mailto:kokrui@nushackers.org">kokrui@nushackers.org</a>.
  
+  - name: Jing Wen
+    description: |
+      a physics undergrad who got lost in SoC once and is currently being held captive. 
+      He enjoys reverse-engineering and automating stuff in his life. Send a message to him at <a href="mailto:sawjingwen@nushackers.org">sawjingwen@nushackers.org</a>.
+
   - name: Li Heng
     description: |
       a CS undergrad interested in building things with new technologies. He can't function without
