@@ -105,3 +105,36 @@ members:
       a computer science undergraduate with an interest in free software,
       building awesomely useless stuff, tinkering and breaking anything and everything.
       Feel free to reach out at <a href="mailto:chunyu@nushackers.org">chunyu@nushackers.org</a>.
+
+  - name: Kok Rui
+    description: |
+      a computer science undergraduate whose specific interests within computing seem to change every year or so.
+      He enjoys watching sports, playing GeoGuessr, and walking around random countries.
+      You can email him at <a href="mailto:kokrui@nushackers.org">kokrui@nushackers.org</a>.
+
+  - name: Jing Wen
+    description: |
+      a physics undergrad who got lost in SoC once and is currently being held captive. 
+      He enjoys reverse-engineering and automating stuff in his life. Send a message to him at <a href="mailto:sawjingwen@nushackers.org">sawjingwen@nushackers.org</a>.
+
+  - name: Devansh Shah
+    description: |
+      a computer science undergraduate who is exploring his interests in CS and entrepreneurship.
+      He loves to meet new people, read books and play badminton.
+      Feel free to reach out at <a href="mailto:devansh@nushackers.org">devansh@nushackers.org</a>
+
+  - name: Li Heng
+    description: |
+      a CS undergrad interested in building things with new technologies. He can't function without
+      coffee. Feel free to reach him at <a href="mailto:tohliheng@nushackers.org">tohliheng@nushackers.org</a>.
+
+  - name: Aditya
+    description: |
+      a computer science undergrad with an interest in experimenting with things. He hates coffee.
+      Reach him at <a href="mailto:aditya@nushackers.org">aditya@nushackers.org</a>.
+
+  - name: Shuwen
+    description: |
+      a computer science undergraduate who loves to learn new technology stacks that can allow her to turn ideas into real products. 
+      She can’t resist pink or white coloured electronic devices and computer accessories. 
+      Feel free to reach her at <a href="mailto:shuwen@nushackers.org">shuwen@nushackers.org</a>.

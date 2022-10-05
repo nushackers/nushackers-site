@@ -43,17 +43,13 @@ events:
   blog_post: /2022/09/hacker-tools-3/
 - topic: LaTeX
   venue: Executive Classroom (COM2-04-02)
-  date: 2022-10-04T18:30:00
+  date: 2022-10-11T18:30:00
   blog_post: /2022/10/hacker-tools-4/
 - topic: Vim
   venue: Executive Classroom (COM2-04-02)
-  date: 2022-10-11T18:30:00
+  date: 2022-10-18T18:30:00
   blog_post: /2022/10/hacker-tools-5/
 - topic: WSL
   venue: Executive Classroom (COM2-04-02)
-  date: 2022-10-18T18:30:00
-#  blog_post: /2022/10/hacker-tools-6/
-- topic: CLI debugging and profiling
-  venue: Executive Classroom (COM2-04-02)
-  date: 2022-10-26T18:30:00
-#  blog_post: /2022/10/hacker-tools-7/
+  date: 2022-10-25T18:30:00
+  blog_post: /2022/10/hacker-tools-6/

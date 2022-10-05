@@ -6,6 +6,12 @@ url: /2022/08/hacker-tools-1
 summary: Welcome back to Hacker Tools! We'll be talking about the use of virtual machines and walking through a simple installation of Ubuntu.
 ---
 
+This workshop has ended; here are links to the materials and recording:
+
+- [Slides](https://raw.githubusercontent.com/nushackers/hackertools-slides/master/1-course-overview-linux-vm/course-overview-linux-vm.pdf)
+- [Recording](https://youtu.be/DL68llYMaWw)
+
+<!--
 **Date/Time**: Tuesday, 24 Aug 2021, 18:30&ndash;20:30<br />
 **Venue**: Executive Classroom (COM2-04-02)<br />
 **Sign-up Link**: [Sign up here!](https://forms.gle/67bU6YEGJJu9jF1BA)<br />
@@ -21,3 +27,4 @@ Please download Ubuntu, and download and install VirtualBox beforehand, because 
 Please also make sure you have virtualization enabled in your system firmware.
 
 See you there!
+-->

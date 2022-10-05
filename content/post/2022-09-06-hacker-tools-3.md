@@ -6,6 +6,12 @@ url: /2022/09/hacker-tools-3
 summary: Come learn how to manipulate, process, search, and make sense of any form of data with various tools, all while never leaving the Unix command line.
 ---
 
+This workshop has ended; here are links to the materials and recording:
+
+- [Slides](https://bit.ly/3BeEJvg)
+- [Recording](https://youtu.be/gB-xbpvVpBM)
+
+<!--
 **Date/Time**: Tuesday, 06 Sept 2022, 18:30&ndash;20:30<br />
 **Venue**: Executive Classroom (COM2-04-02)<br />
 **Sign-up Link**: [Sign up here!](https://forms.gle/tZHgDU9mSHiYscxb9)<br />
@@ -21,3 +27,4 @@ This workshop is largely based on the Missing Semester of Your CS Education lect
 See you there!
 
 [1]: https://forms.gle/JBCnVEAWS83NareY8
+-->
