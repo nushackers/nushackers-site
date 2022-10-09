@@ -62,7 +62,7 @@ hacks:
   - venue: Basil Room (Shaw Foundation Alumni House)
     blog_post: /2022/10/friday-hacks-230
     topics:
-      - speaker: Bunnie Huang
+      - speaker: Andrew "bunnie" Huang
         title: "The Making of Precursor: AMA"
       - speaker: Philip Zimmermann
         title: Post-quantum algorithms, or quantum key distribution?
