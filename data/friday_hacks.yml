@@ -59,3 +59,11 @@ hacks:
       - speaker: Shi-Jie Khor
         from: Jane Street
         title: How to Build an Exchange
+  - venue: Basil Room (Shaw Foundation Alumni House)
+    blog_post: /2022/10/friday-hacks-230
+    topics:
+      - speaker: Andrew "bunnie" Huang
+        title: "The Making of Precursor: AMA"
+      - speaker: Philip Zimmermann
+        title: Post-quantum algorithms, or quantum key distribution?
+  
