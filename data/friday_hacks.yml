@@ -66,4 +66,13 @@ hacks:
         title: "The Making of Precursor: AMA"
       - speaker: Philip Zimmermann
         title: Post-quantum algorithms, or quantum key distribution?
-  
+  - nohack: true
+  - venue: Basil Room (Shaw Foundation Alumni House)
+    blog_post: /2022/10/friday-hacks-231
+    topics:
+      - speaker: Keefe Wayne Teo
+        from: Fabrica AI
+        title: Prototyping a (tile grouting) robot at home on a budget
+      - speaker: Ronald Luc 
+        from: Fabrica AI
+        title: Common Pitfalls in Computer Vison Projects
