@@ -76,3 +76,9 @@ hacks:
       - speaker: Ronald Luc 
         from: Fabrica AI
         title: Common Pitfalls in Computer Vision Projects
+  - venue: Level 2 Auditorium (i3 Building)
+    blog_post: /2022/11/friday-hacks-232
+    topics:
+      - speaker: Rishabh Anand
+        from: NUS
+        title: "Graphs at Scale: Powering Google Maps, Drug Discovery, and Recommendation Systems with Graph Deep Learning"
