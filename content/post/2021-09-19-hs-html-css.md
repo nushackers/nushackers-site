@@ -4,7 +4,6 @@ date: 2021-09-19 10:00:01.000000
 author: Ranice
 url: /2021/10/hs-html-css
 summary: A basic introduction to web development. You will learn HTML, CSS and how to create a simple website.
-nofh: true
 ---
 
 **Date/Time:** Saturday, 9 Oct 2021, 10am &ndash; 12pm<br />

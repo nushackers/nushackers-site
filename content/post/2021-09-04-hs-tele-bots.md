@@ -4,7 +4,6 @@ date: 2021-09-04 00:00:00.000000
 author: Ranice Tan
 url: /2021/09/hs-tele-bots
 summary: Come learn to make Telegram bots with Python!
-nofh: false
 ---
 
 This workshop has ended; here are links to the materials and recording:

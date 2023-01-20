@@ -72,14 +72,12 @@ with open('../data/friday_hacks.yml', 'r') as fin:
     # name = raw_input("Your name? ")
 
     # now witness templating in raw string
-    # nofh: true removes the Hangar footer which historically has supported us for Pizza, but no longer since Covid time
     content = '''\
 ---
 title: "Friday Hacks #{num}, {month} {day}"
 date: {now}
 author: {author}
 url: /{year}/{no_of_month}/friday-hacks-{num}
-nofh: true
 ---
 
 {{{{< friday_hack_header
