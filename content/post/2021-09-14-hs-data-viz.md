@@ -4,7 +4,6 @@ date: 2021-09-18 10:00:00.000000
 author: Ranice
 url: /2021/09/hs-data-viz
 summary: What better way to tell a story than with visuals? Come join us in learning to create compelling data visualisations!
-nofh: true
 ---
 
 This workshop has ended; here are links to the materials and recording:
