@@ -7,3 +7,10 @@ hacks:
     - speaker: Herbert Ilhan Tanujaya
       from: Allium
       title: "You’ve Learnt Programming. Now What?"
+  - venue: Seminar Room 777 @ i3 Building Level 1
+    blog_post: /2023/02/friday-hacks-234
+    topics:
+      - speaker: Dexter Leng
+        title: From Idea to Revenue
+      - speaker: Slap Slap, T0X1C V4P0R
+        title: Cool Hacks from H&R 2023
