@@ -141,3 +141,8 @@ events:
     venue: Seminar Room @ LT19 and Zoom
     date: 2022-10-22T10:00:00
 
+  # AY22/23 Sem 2
+  - topic: Introduction to OpenCV
+    venue: Seminar Room 13 @ COM3-01-22
+    date: 2023-02-01T19:00:00
+    blog_post: /2023/01/hs-opencv
