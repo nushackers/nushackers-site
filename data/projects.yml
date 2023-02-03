@@ -7,7 +7,7 @@ projects:
     description: Workshops on skills essential to everyone
     url: "#"
     logo: static/img/code-logo.svg
-  - name: hackerschool
+  - name: Hackerschool
     description: Hacking workshops for everyone
     url: /hackerschool
     logo: static/img/hacker-school-logo.svg

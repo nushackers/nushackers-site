@@ -3,7 +3,6 @@ title: "NUS Hackers Mock interviews + Internship Application Guidance"
 date: 2020-06-20 23:00:00
 author: Chaitanya Baranwal
 url: /2020/06/mock-interviews
-nofh: true
 ---
 
 Summer internship applications for the next year (2021) will start opening up in September.

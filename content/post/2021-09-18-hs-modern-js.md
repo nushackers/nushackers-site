@@ -4,7 +4,6 @@ date: 2021-09-19 10:00:00.000000
 author: Ranice
 url: /2021/09/hs-modern-js
 summary: Come learn modern JavaScript, the language that powers the web, on both the client and server-side.
-nofh: true
 ---
 
 This workshop has ended; here are links to the materials and recording:

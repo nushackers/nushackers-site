@@ -7,9 +7,12 @@
         <time>{{ .Date.Format "Jan 2" }}</time> by {{ .Params.author }}
       </h2>
       {{ .Content }}
-      {{ if and (eq (substr .Title 0 14) "Friday Hacks #") (not .Params.nofh) }}
-        {{ partial "friday_hack_hangar_footer.html" . }}
-      {{ end}}
+      {{ if (.Params.sponsors) }}
+        <h4>Supported by:</h4>
+        {{ range $sponsor := .Params.sponsors }}
+          {{ partial (printf "sponsor_%s.html" $sponsor) }}
+        {{ end }}
+      {{ end }}
     </article>
   </section>
   <aside class="col-12 col-md-10 aside">
@@ -59,6 +62,6 @@
 </main>
 {{ end }}
 {{ define "scripts" }}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-Ra6zh6uYMmH5ydwCqqMoykyf1T/+ZcnOQfFPhDrp2kI4OIxadnhsvvA2vv9A7xYv"
-  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  integrity="sha384-Ra6zh6uYMmH5ydwCqqMoykyf1T/+ZcnOQfFPhDrp2kI4OIxadnhsvvA2vv9A7xYv" crossorigin="anonymous"></script>
 {{ end }}
