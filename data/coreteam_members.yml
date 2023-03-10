@@ -143,9 +143,14 @@ members:
     description: |
       a computer science undergraduate with an interest in the intersection of hardware and software, keyboards and everything inbetween. 
       Hit him up at <a href="mailto:yadunand@nushackers.org">yadunand@nushackers.org</a>.
-
+      
   - name: Parth
     description: |
       a jaded CS undergraduate who's currently interested in operating systems and distributed systems. He also enjoys
       reading books and cycling, and keeps an eye out for any deliciously interesting or cynical quotes. Say hi to 
       him at <a href="mailto:parth@nushackers.org">parth@nushackers.org</a>.
+
+  - name: Ravern
+    description: |
+      a Computer Science undergraduate interested in programming languages and software engineering. He also enjoys reading, climbing and watching movies.
+      Reach out to him at <a href="mailto:ravern@nushackers.org">ravern@nushackers.org</a>.
