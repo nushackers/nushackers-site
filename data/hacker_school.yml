@@ -146,3 +146,21 @@ events:
     venue: Seminar Room 13 @ COM3-01-22
     date: 2023-02-01T19:00:00
     blog_post: /2023/01/hs-opencv
+  - topic: Application of OpenCV
+    venue: Seminar Room 13 @ COM3-01-22
+    date: 2023-02-09T19:00:00
+  - topic: Exploring ChatGPT
+    venue: Seminar Room 13 @ COM3-01-22
+    date: 2023-02-15T19:00:00
+  - topic: Deploying your application using Docker (with NUS SDS)
+    venue: Seminar Room 13 @ COM3-01-22
+    date: 2023-03-09T19:00:00
+  - topic: Introduction to Web3
+    venue: Seminar Room 13 @ COM3-01-22
+    date: 2023-03-16T19:00:00
+  - topic: Design and 3D-print Your Cosplay Items (with NUS CAS)
+    venue: COM3-MPH1
+    date: 2023-03-24T19:00:00
+  - topic: Introduction to Game Development (with NUS GDG)
+    venue: Seminar Room 13 @ COM3-01-22
+    date: 2023-03-29T19:00:00
