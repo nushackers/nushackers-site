@@ -42,3 +42,10 @@ hacks:
         title: My Life with Linux
       - speaker: Ming Liang Ang
         title: PhD Application - Lessons I learnt from my 4 year journey
+  - venue: Terrace (COM 3)
+    blog_post: /2023/03/friday-hacks-239
+    topics:
+      - speaker: Sriram Sami
+        title: Abusing Sensor Data for Fun (and Profit?)
+      - speaker: Jacek Soh Zhi Wei
+        title: Building a Modular IoT Transaction Platform
