@@ -49,3 +49,8 @@ hacks:
         title: Abusing Sensor Data for Fun (and Profit?)
       - speaker: Jacek Soh Zhi Wei
         title: Building a Modular IoT Transaction Platform
+  - venue: Level 1 Seminar Room 777 and 787 (i3 Building)
+    blog_post: /2023/03/friday-hacks-240
+    topics:
+      - speaker: Wei Heng
+        title: Code Golf
