@@ -1,0 +1,25 @@
+events:
+  - topic: Virtual Machines and Ubuntu Install
+    venue: Executive Classroom (COM2-04-02)
+    date: 2022-08-23T18:30:00
+    blog_post: /2022/08/hacker-tools-1/
+  - topic: Shell and Scripting
+    venue: Executive Classroom (COM2-04-02)
+    date: 2022-08-30T18:30:00
+    blog_post: /2022/08/hacker-tools-2/
+  - topic: CLI Data Wrangling
+    venue: Executive Classroom (COM2-04-02)
+    date: 2022-09-06T18:30:00
+    blog_post: /2022/09/hacker-tools-3/
+  - topic: LaTeX
+    venue: Executive Classroom (COM2-04-02)
+    date: 2022-10-11T18:30:00
+    blog_post: /2022/10/hacker-tools-4/
+  - topic: Vim
+    venue: Executive Classroom (COM2-04-02)
+    date: 2022-10-18T18:30:00
+    blog_post: /2022/10/hacker-tools-5/
+  - topic: WSL
+    venue: Executive Classroom (COM2-04-02)
+    date: 2022-10-25T18:30:00
+    blog_post: /2022/10/hacker-tools-6/
