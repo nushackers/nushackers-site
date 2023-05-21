@@ -2,7 +2,8 @@
 <main class="row front-page main">
   <section class="section col-12 hero">
     <h1 class="hero-title">
-      Spreading the <a href="/hackerdefined/" class="hero-hacker">hacker</a> culture
+      Spreading the
+      <a href="/hackerdefined/" class="hero-hacker">hacker</a> culture
     </h1>
     <ul class="list row justify-content-around">
       {{ range $event := $.Site.Data.projects.projects }}
@@ -18,93 +19,66 @@
       {{ end }}
     </ul>
   </section>
+  <!-- Event Schedule -->
   <section class="section col-12">
     <header class="section-header">
       <h1 class="section-title">Upcoming events</h1>
     </header>
     <div class="row">
-      <div class="col-12">
-        <!--
-        <p>In the meantime, you may check out
-          <a href="https://openhack.nushackers.org"
-            target="_blank"
-            rel="noreferrer-noopener">
-            OpenHack 2020 by NUS Hackers
-          </a> &mdash; a brand new online event that focuses on open-source
-          contributions, or sign up for our
-          <a href="https://bit.ly/hackers-mock-interviews"
-            target="_blank"
-            rel="noreferrer-noopener">
-            mock interviews and internship application guidance.
-          </a>
-          View recordings of our past events
-          <a href="/recordings/">here</a>.</p>
-          --->
-      </div>
-    </div>
-    {{ if true }}
-    <div class="row">
+      <!-- Friday Hacks -->
       <div class="events fh col-12 col-md-4">
         <header class="front-header">
           <h2 class="front-title"><a href="/fridayhacks">Friday Hacks</a></h2>
         </header>
         <ol class="list">
-          {{ partial "friday_hacks_li.html" . }}
+          {{ $fh := index $.Site.Data.friday_hacks 
+                    (partial "projects/get_project.html" (dict "projectName" "friday_hacks")) }}
+          {{ partial "projects/friday_hacks_ol.html" 
+             (dict "hacks" $fh.hacks "start_date" $fh.start_date "start_series_num" $fh.start_nr) }}
         </ol>
         <div class="events-button" role="button">More events</div>
       </div>
+      <!-- Hacker Tools -->
       <div class="events hs col-12 col-md-4">
         <header class="front-header">
           <h2 class="front-title"><a>Hacker Tools</a></h2>
         </header>
         {{- if true -}}
         <ol class="list">
-          {{ range $index, $event := $.Site.Data.hacker_tools.events }}
-            <li class="events-item item">
-              <h3 class=hs-topic>{{ $event.topic }}</h3>
-              {{- if ne $event.blog_post nil -}}
-                <a href="{{ $event.blog_post }}">
-              {{- end -}}
-              <time class="hs-time" datetime={{ dateFormat "2006-01-02T15:04:05-07:00" $event.date}}>
-                {{ dateFormat "Mon, Jan 2, 3:04pm" (time $event.date) }}
-              </time>
-              {{- if ne $event.blog_post nil -}}
-                </a>
-              {{- end -}}
-              <address class="events-address">{{ $event.venue }}</address>
-            </li>
+          {{ $ht := index $.Site.Data.hacker_tools 
+                    (partial "projects/get_project.html" (dict "projectName" "hacker_tools")) }}
+          {{ range $index, $event := $ht.events }} 
+            {{ partial "projects/hackertools_li.html" (dict "event" $event) }} 
           {{ end }}
         </ol>
         <div class="events-button" role="button">More events</div>
         {{- else -}}
-          <div>Hacker Tools is not running this semester, but you can check out <a href="https://www.youtube.com/playlist?list=PL9-vM_51OMbEaEe2_VI-FxMU9eb4KERJA" target="_blank" rel="noopener noreferrer">recordings of last semester's workshops on YouTube</a>.</div>
+        <div>
+          Hacker Tools is not running this semester, but you can check out
+          <a
+            href="https://www.youtube.com/playlist?list=PL9-vM_51OMbEaEe2_VI-FxMU9eb4KERJA"
+            target="_blank"
+            rel="noopener noreferrer"
+            >recordings of last semester's workshops on YouTube</a
+          >.
+        </div>
         {{- end -}}
       </div>
+      <!-- Hackerschool -->
       <div class="events hs col-12 col-md-4">
         <header class="front-header">
           <h2 class="front-title"><a href="/hackerschool">Hackerschool</a></h2>
         </header>
         <ol class="list">
-          {{ range $index, $event := $.Site.Data.hacker_school.events }}
-            <li class="events-item item">
-              <h3 class=hs-topic>{{ $event.topic }}</h3>
-              {{- if ne $event.blog_post nil -}}
-                <a href="{{ $event.blog_post }}">
-              {{- end -}}
-              <time class="hs-time" datetime={{ dateFormat "2006-01-02T15:04:05-07:00" $event.date}}>
-                {{ dateFormat "Mon, Jan 2, 3:04pm" (time $event.date) }}
-              </time>
-              {{- if ne $event.blog_post nil -}}
-                </a>
-              {{- end -}}
-              <address class="events-address">{{ $event.venue }}</address>
-            </li>
+          {{ $hs := index $.Site.Data.hacker_school 
+                    (partial "projects/get_project.html" (dict "projectName" "hacker_school")) }}
+          {{ range $index, $event := $hs.events }} 
+            {{ partial "projects/hackerschool_li.html" (dict "event" $event) }} 
           {{ end }}
         </ol>
         <div class="events-button" role="button">More events</div>
       </div>
     </div>
-    {{ end }}
   </section>
   <section class="posts col-12 section">
     <header class="section-header">
@@ -114,13 +88,19 @@
     <ul class="list row justify-content-between">
       {{ range first 7 (where .Site.RegularPages "Type" "post") }}
       <li class="item col-12 col-sm-8 col-md-6 col-xl-4">
-      <article>
-        <header>
-          <h3 class="posts-title"><a class="posts-link" href='{{ .Permalink }}'> {{ .LinkTitle }}</a> </h3>
-          <div class="posts-meta">{{ .Date.Format "Mon, Jan 2" }} • {{ .ReadingTime }} min read</div>
-        </header>
-        {{ .Summary | truncate 150 }} <a href='{{ .Permalink }}'>more</a>
-      </article>
+        <article>
+          <header>
+            <h3 class="posts-title">
+              <a class="posts-link" href="{{ .Permalink }}">
+                {{ .LinkTitle }}</a
+              >
+            </h3>
+            <div class="posts-meta">
+              {{ .Date.Format "Mon, Jan 2" }} • {{ .ReadingTime }} min read
+            </div>
+          </header>
+          {{ .Summary | truncate 150 }} <a href="{{ .Permalink }}">more</a>
+        </article>
       </li>
       {{ end }}
     </ul>
@@ -129,7 +109,10 @@
     <header class="section-header">
       <h1 class="section-title">Join us</h1>
     </header>
-    <p>Interested in joining us? Visit <a href="/join-coreteam" target="_blank">this page</a> to learn more!</p>
+    <p>
+      Interested in joining us? Visit
+      <a href="/join-coreteam" target="_blank">this page</a> to learn more!
+    </p>
   </section>
 </main>
 {{ end }}

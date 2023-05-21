@@ -1,30 +1,12 @@
 {{ define "main" }}
-{{ $events := $.Site.Data.hacker_school.events }}
-{{ $len := len $events }}
+{{ $hs := index $.Site.Data.hacker_school 
+          (partial "projects/get_project.html" (dict "projectName" "hacker_school")) }}
 <main class="container main">
-  <div class="events fh col-12 col-md-10 offset-md-1">
-    <h1>Hackerschool Schedule</h1>
-    <h2>Upcoming Events</h2>
-    <ul class="fh-topics">
-      {{ range $hack := $events }}
-        {{ $hackDate := (time $hack.date) }}
-          {{- if $hackDate.After now -}}
-            {{ partial "hackerschool_li.html" (dict "hack" $hack "hackDate" $hackDate) }}
-          {{ end }}
-      {{ end }}
-    </ul>
-    <h2>Past Events</h2>
-    For materials for hackerschool sessions before AY21/22,
-    <a href="https://school.nushackers.org">please visit our legacy site.</a>
-    <br><br>
-    <ul class="fh-topics">
-      {{ range (seq $len) }}
-        {{ $i := sub $len . }}
-        {{ $hack := index $events $i }}
-        {{ $hackDate := (time $hack.date) }}
-          {{- if and ($hackDate.Before now) (lt (sub now.Year $hackDate.Year) 1) -}}
-            {{ partial "hackerschool_li.html" (dict "hack" $hack "hackDate" $hackDate "showYear" 1) }}
-          {{ end }}
+  <div class="events hs col-12 col-md-10 offset-md-1">
+    <h1>Hackerschool Schedule (AY{{ $.Site.Params.academicYear }} Semester {{ $.Site.Params.semester }})</h1>
+    <ul class="hs-topics">
+      {{ range $event := $hs.events }}
+        {{ partial "projects/hackerschool_li.html" (dict "event" $event) }}
       {{ end }}
     </ul>
   </div>

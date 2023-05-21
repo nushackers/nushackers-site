@@ -1,9 +1,12 @@
 {{ define "main" }}
+{{ $fh := index $.Site.Data.friday_hacks 
+          (partial "projects/get_project.html" (dict "projectName" "friday_hacks")) }}
 <main class="container main">
   <div class="events fh col-12 col-md-10 offset-md-1">
-    <h1>Friday Hacks Schedule</h1>
+    <h1>Friday Hacks Schedule (AY{{ $.Site.Params.academicYear }} Semester {{ $.Site.Params.semester }})</h1>
     <ol class="list clear-list">
-      {{ partial "friday_hacks_li.html" . }}
+      {{ partial "projects/friday_hacks_ol.html" 
+         (dict "hacks" $fh.hacks "start_date" $fh.start_date "start_series_num" $fh.start_nr) }}
     </ol>
   </div>
 </main>
