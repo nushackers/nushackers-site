@@ -4,7 +4,7 @@
     "description": "Sup! This is the source code of the nushackers blog site http://nushackers.org.",
     "license": "MIT",
     "scripts": {
-        "build": "hugo",
+        "build": "hugo --gc",
         "dev": "hugo serve"
     },
     "devDependencies": {
