@@ -1,0 +1,3 @@
+{{ $projectName := .projectName }}
+{{ $projectKey := printf "%s_%s_%d" $projectName site.Params.academicYear site.Params.semester }}
+{{ return $projectKey }}

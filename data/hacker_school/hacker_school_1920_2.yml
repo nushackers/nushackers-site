@@ -1,0 +1,10 @@
+events:
+  - topic: Basic Python + Programming Crash Course
+    venue: Seminar Room 1, COM1, NUS
+    date: 2020-02-08T13:00:00
+  - topic: Fun Data Visualisations & Data Wrangling with Python
+    venue: Seminar Room 1, COM1, NUS
+    date: 2020-02-15T13:00:00
+  - topic: Introduction to Machine Learning with Python
+    venue: Seminar Room 1, COM1, NUS
+    date: 2020-02-22T13:00:00
