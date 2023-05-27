@@ -7,10 +7,50 @@ hacks:
     - speaker: Herbert Ilhan Tanujaya
       from: Allium
       title: "You’ve Learnt Programming. Now What?"
-  - venue: Level 1 Seminar Room 777 (i3 Building)
+  - venue: Level 1 Seminar Room 777 and 787 (i3 Building)
     blog_post: /2023/02/friday-hacks-234
     topics:
       - speaker: Dexter Leng
         title: From Idea to Revenue
       - speaker: Slap Slap, T0X1C V4P0R
         title: Cool Hacks from H&R 2023
+  - venue: Level 1 Seminar Room 777 and 787 (i3 Building)
+    blog_post: /2023/02/friday-hacks-235
+    topics:
+      - speaker: NativeSay, NUSCTEA and Tybbit
+        title: Cool Hacks from H&R 2023 (Pt. 2)
+  - venue: Level 1 Seminar Room 777 and 787 (i3 Building)
+    blog_post: /2023/02/friday-hacks-236
+    topics:
+      - speaker: Asst. Professor Manuel Rigger
+        title: Fuzzing Data Engines with SQLancer
+      - speaker: Asst. Professor Ambuj Varshney
+        title: Creating Battery-Free IoT Devices
+  - nohack: true
+  - nohack: true
+  - venue: Level 1 Seminar Room 777 and 787 (i3 Building)
+    blog_post: /2023/03/friday-hacks-237
+    topics:
+      - speaker: Xue Yao
+        title: Building Customisable Laptops
+      - speaker: Ajinkya Bhat
+        title: The Hard Things about Hardware
+  - venue: Level 1 Seminar Room 777 and 787 (i3 Building)
+    blog_post: /2023/03/friday-hacks-238
+    topics:
+      - speaker: Kai Hendry
+        title: My Life with Linux
+      - speaker: Ming Liang Ang
+        title: PhD Application - Lessons I learnt from my 4 year journey
+  - venue: Terrace (COM 3)
+    blog_post: /2023/03/friday-hacks-239
+    topics:
+      - speaker: Sriram Sami
+        title: Abusing Sensor Data for Fun (and Profit?)
+      - speaker: Jacek Soh Zhi Wei
+        title: Building a Modular IoT Transaction Platform
+  - venue: Level 1 Seminar Room 777 and 787 (i3 Building)
+    blog_post: /2023/03/friday-hacks-240
+    topics:
+      - speaker: Wei Heng
+        title: Code Golf
