@@ -3,9 +3,9 @@ projects:
     description: Interesting talks for hackers from all walks of life
     url: /fridayhacks
     logo: static/img/friday-hacks-logo.svg
-  - name: Hacker Tools
+  - name: Hackers Toolbox
     description: Workshops on skills essential to everyone
-    url: "#"
+    url: /hackerstoolbox
     logo: static/img/code-logo.svg
   - name: Hackerschool
     description: Hacking workshops for everyone
