@@ -10,7 +10,7 @@
       {{ if (.Params.sponsors) }}
         <h4>Supported by:</h4>
         {{ range $sponsor := .Params.sponsors }}
-          {{ partial (printf "sponsor_%s.html" $sponsor) }}
+          {{ partial (printf "sponsors/%s.html" $sponsor) }}
         {{ end }}
       {{ end }}
     </article>
