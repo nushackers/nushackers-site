@@ -3,18 +3,6 @@
 This is the repository behind NUS Hackers' website https://nushackers.org, built
 with the [Hugo](https://gohugo.io/overview/introduction/) framework.
 
-## Table of Contents
-
-- [Getting started 🚀](#getting-started---)
-- [Data Management 📊](#data-management---)
-  - [Coreteam Details 🙋‍♂️🙋‍♀️](#coreteam-details-----------)
-  - [Projects / Events 📅](#projects---events---)
-    - [Friday Hacks 🎉](#friday-hacks---)
-    - [Hackerschool 📚](#hackerschool---)
-    - [Hackers Toolbox 🧰](#hackers-toolbox---)
-- [Creating a Post 📝](#creating-a-post---)
-- [Adding a new sponsor 🤝](#adding-a-new-sponsor---)
-
 ## Getting started 🚀
 
 To get started, you'll need:
