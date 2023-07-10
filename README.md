@@ -109,7 +109,7 @@ links!
 
 #### Hackers Toolbox 🧰
 
-- Data location: [`/data/hackers_toolbox`](/data/hacker_tools)
+- Data location: [`/data/hackers_toolbox`](/data/hackers_toolbox)
 - Data Format: _same as [Hackerschool](#hackerschool-📚)_
 
 ## Creating a Post 📝
