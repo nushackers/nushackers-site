@@ -5,7 +5,7 @@
     "license": "MIT",
     "scripts": {
         "build": "hugo --gc",
-        "dev": "hugo serve"
+        "dev": "hugo server"
     },
     "devDependencies": {
         "bootstrap": "^4.6.1",
