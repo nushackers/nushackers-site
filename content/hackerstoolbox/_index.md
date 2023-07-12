@@ -10,12 +10,4 @@ However, they typically miss out on an important topic that has a huge impact on
 
 Inspired by [The Missing Semester of Your CS Education](https://missing.csail.mit.edu) series from MIT, we'll cover these topics in a fun and interactive workshop setting. By the end of each workshop in Hackers Toolbox, you'll gain practical skills and a deep understanding of a new tool!
 
-[Check out our event schedule here]({{< ref "/hackerstoolbox/schedule" >}}) and sign up for our next event today! 
-
-## FAQ
-
-### I didn't receive the zoom link despite signing up via the RSVP form
-
-If you do not receive any follow up emails with the event's zoom link, check your spam/junk mail folder. If it is there, marking the email as "Not Spam" will help to prevent our emails from being directed to spam/junk in future.
-
-If you really have not received any email, [contact us]({{< ref "/contact" >}}) and we will try to assist you as best we can.
+[Check out our event schedule here]({{< ref "/hackerstoolbox/schedule" >}}) and sign up for our next event today!
