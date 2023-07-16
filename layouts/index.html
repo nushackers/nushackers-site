@@ -38,31 +38,19 @@
         </ol>
         <div class="events-button" role="button">More events</div>
       </div>
-      <!-- Hacker Tools -->
+      <!-- Hackers Toolbox -->
       <div class="events hs col-12 col-md-4">
         <header class="front-header">
-          <h2 class="front-title"><a>Hacker Tools</a></h2>
+          <h2 class="front-title"><a href="/hackerstoolbox">Hackers Toolbox</a></h2>
         </header>
-        {{- if true -}}
         <ol class="list">
-          {{ $ht := index $.Site.Data.hacker_tools 
-                    (partial "projects/get_project.html" (dict "projectName" "hacker_tools")) }}
-          {{ range $index, $event := $ht.events }} 
-            {{ partial "projects/hackertools_li.html" (dict "event" $event) }} 
+          {{ $ht := index $.Site.Data.hackers_toolbox
+                    (partial "projects/get_project.html" (dict "projectName" "hackers_toolbox")) }}
+          {{ range $index, $event := $ht.events }}
+            {{ partial "projects/hackertools_li.html" (dict "event" $event) }}
           {{ end }}
         </ol>
         <div class="events-button" role="button">More events</div>
-        {{- else -}}
-        <div>
-          Hacker Tools is not running this semester, but you can check out
-          <a
-            href="https://www.youtube.com/playlist?list=PL9-vM_51OMbEaEe2_VI-FxMU9eb4KERJA"
-            target="_blank"
-            rel="noopener noreferrer"
-            >recordings of last semester's workshops on YouTube</a
-          >.
-        </div>
-        {{- end -}}
       </div>
       <!-- Hackerschool -->
       <div class="events hs col-12 col-md-4">

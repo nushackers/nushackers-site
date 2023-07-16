@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ $hs := index $.Site.Data.hackers_toolbox
+(partial "projects/get_project.html" (dict "projectName" "hackers_toolbox")) }}
+<main class="container main">
+  <div class="events hs col-12 col-md-10 offset-md-1">
+    <h1>Hackers Toolbox Schedule (AY{{ $.Site.Params.academicYear }} Semester {{ $.Site.Params.semester }})</h1>
+    <ul class="hs-topics">
+      {{ range $event := $hs.events }}
+      {{ partial "projects/hackers_toolbox_li.html" (dict "event" $event) }}
+      {{ end }}
+    </ul>
+  </div>
+</main>
+{{ end }}
