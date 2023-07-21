@@ -29,6 +29,6 @@ Coreteam is organised as a flat structure under a single president (instead of i
 
 ## Want to join us?
 
-Recruitment is now in-progress for AY 22/23 semester 2. If you believe in our cause of spreading hacker culture, we'd love to have you join us. Please apply through [this form](https://nus.campuslabs.com/engage/submitter/form/start/575090).
+We've closed coreteam applications for AY 22/23 semester 2. We will be opening up applications for AY 23/24 semester 1 around week 3 of the semester! Do keep a look out on our publicity channels.
 
 After signing up, we'll set up an interview to find out more about what you're interested in doing. This is usually an informal chat over lunch, so don't worry too much about it; it does help to take part in our events and check out the rest of this site beforehand, though. This is also an opportunity for you to get to know us better, so feel free to ask any questions, too.
