@@ -1,10 +1,10 @@
 events:
-  - topic: Introduction to Python
-    venue: TBC
-    date: 2023-08-31T19:00:00
   - topic: Unity for Begineers
     venue: TBC
-    date: 2023-09-06T19:00:00
+    date: 2023-08-31T19:00:00
+  - topic: Introduction to Python
+    venue: TBC
+    date: 2023-09-07T19:00:00
   - topic: Introduction to Machine Learning
     venue: TBC
     date: 2023-09-14T19:00:00
@@ -16,7 +16,7 @@ events:
     date: 2023-10-19T19:00:00
   - topic: Introduction to Next.js
     venue: TBC
-    date: 2023-10-26T19:00:00
+    date: 2023-10-25T19:00:00
   - topic: Introduction to Web3
     venue: TBC
     date: 2023-11-02T19:00:00
