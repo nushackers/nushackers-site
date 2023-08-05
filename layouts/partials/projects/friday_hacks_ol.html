@@ -1,9 +1,10 @@
-{{ $weekInSeconds := 604800 }}
-{{ $startDateUnix := (time .start_date).Unix }}
-{{ $s := newScratch }}
-{{ $s.Set "nr" .start_series_num }}
-{{ range $index, $hack := .hacks }}
-    {{ $hackDate := add $startDateUnix (mul $index $weekInSeconds) }}
-    {{ partial "projects/friday_hacks_li.html" (dict "hack" $hack "hackDate" $hackDate "seriesNum" ($s.Get "nr")) }}
-    {{ $s.Add "nr" 1 }}
-{{- end -}}
+{{ if (ne .hacks nil) }}
+    {{ $startDateUnix := (time .start_date).Unix }}
+    {{ $s := newScratch }}
+    {{ $s.Set "nr" .start_series_num }}
+    {{ range $index, $hack := .hacks }}
+        {{ $hackDate := add $startDateUnix (mul $index 604800) }} <!-- 604800 = 7 days in seconds -->
+        {{ partial "projects/friday_hacks_li.html" (dict "hack" $hack "hackDate" $hackDate "seriesNum" ($s.Get "nr")) }}
+        {{ $s.Add "nr" 1 }}
+    {{- end -}}
+{{ end }}
