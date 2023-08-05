@@ -4,10 +4,15 @@
 <main class="container main">
   <div class="events fh col-12 col-md-10 offset-md-1">
     <h1>Friday Hacks Schedule (AY{{ $.Site.Params.academicYear }} Semester {{ $.Site.Params.semester }})</h1>
+    {{ if $fh }}
     <ol class="list clear-list">
-      {{ partial "projects/friday_hacks_ol.html" 
-         (dict "hacks" $fh.hacks "start_date" $fh.start_date "start_series_num" $fh.start_nr) }}
+      {{ partial "projects/friday_hacks_ol.html"
+      (dict "hacks" $fh.hacks "start_date" $fh.start_date "start_series_num" $fh.start_nr) }}
     </ol>
+    {{ else }}
+    <b>Watch out for this space 🚧</b>
+    <p>We will be announcing the semester's schedule soon 🙌</p>
+    {{ end}}
   </div>
 </main>
 {{ end }}
