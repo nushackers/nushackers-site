@@ -4,16 +4,21 @@ events:
     date: 2023-08-29T18:00:00
 
   - topic: Git
+    venue: TBC
     date: 2023-09-05
 
   - topic: Command-Line Data Wrangling
+    venue: TBC
     date: 2023-09-12
 
   - topic: Vim
+    venue: TBC
     date: 2023-10-10
 
   - topic: LaTeX
+    venue: TBC
     date: 2023-10-17
 
   - topic: Potpourri
+    venue: TBC
     date: 2023-10-31
