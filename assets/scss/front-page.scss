@@ -117,7 +117,7 @@ $font-small: 0.9rem;
 
 .front-header {
   .front-title {
-    margin-bottom: 0;
+    margin-bottom: 0.5rem;
   }
   .front-list {
     margin: 0;
@@ -194,6 +194,7 @@ $font-small: 0.9rem;
   .hs-topic {
     font-size: 1.1rem;
     color: $gray-800;
+    margin-bottom: 0.1rem;
   }
   .hs-time {
     display: block;
