@@ -1,0 +1,19 @@
+events:
+  - topic: Shell and Scripting
+    venue: SR15 (COM3-01-25)
+    date: 2023-08-29T18:00:00
+
+  - topic: Git
+    date: 2023-09-05
+
+  - topic: Command-Line Data Wrangling
+    date: 2023-09-12
+
+  - topic: Vim
+    date: 2023-10-10
+
+  - topic: LaTeX
+    date: 2023-10-17
+
+  - topic: Potpourri
+    date: 2023-10-31
