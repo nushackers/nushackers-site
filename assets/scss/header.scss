@@ -7,23 +7,20 @@
   margin-top: 1rem;
 
   .banner-text {
-    margin: 0;
-    background-image: inline('./img/nushackers_svg.svg');
-    background-position: center center;
+    background-image: inline('./img/logos/quackers-logo-light.svg');
     background-size: contain;
+    background-position: center center;
     background-repeat: no-repeat;
 
     @include media-breakpoint-up(sm) {
-      height: 6rem;
+      height: 5rem;
+      background-position: left center;
     }
   }
   .banner-link {
     display: block;
     opacity: 0;
     height: 100%;
-  }
-  @include media-breakpoint-up(sm) {
-    margin-top: 0;
   }
 }
 
