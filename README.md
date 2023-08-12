@@ -114,6 +114,7 @@ To create a new post:
    title: <post-title>
    date: <YYYY-MM-DD>
    url: /<year>/<month>/<day>/<post-tag>
+   ---
    ```
 4. If the post is sponsored, add the following frontmatter:
    ```yaml
