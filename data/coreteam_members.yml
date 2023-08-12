@@ -1,5 +1,11 @@
 ---
 members:
+  - name: Yi Hong
+    description: |
+      a computer science undergraduate who enjoys C++ as long as it's not in his transcript. 
+      He also loves running (both physically and lines of code). Reach him at 
+      <a href="mailto:yihong@nushackers.org">yihong@nushackers.org</a>.
+
   - name: Ziqing
     description: |
       a computer science undergraduate who loves learning how to "HelloWord" new things and meeting new friends.
@@ -51,13 +57,6 @@ members:
       a computer science undergraduate with a keen interest in software engineering and augmented reality.
       He enjoys exploring design and listening to good movie soundtracks 🎧
       Reach him at <a href="mailto:richard@nushackers.org">richard@nushackers.org</a>.
-
-  - name: Yi Hong
-    description: |
-      a computer science undergraduate who is having difficulty explaining to his friends that
-      he can't fix their spoilt laptop for them. To see what he actually does, check out
-      his <a href="https://github.com/shenyih0ng">github</a> or email him for a chat
-      at <a href="mailto:yihong@nushackers.org">yihong@nushackers.org</a>.
 
   - name: Chun Yu
     description: |
@@ -124,16 +123,15 @@ members:
     description: |
       a CS undergrad interested in mobile apps, playing tons of pool and drinking coffee.
       Ask him anything at <a href="mailto:tangyetong@nushackers.org">tangyetong@nushackers.org</a>.
-      
+
   - name: Rebecca
     description: |
       a Business Administration undergraduate who enjoys exploring and learning all things web3. 
       Previously a film student, she occasionally relaxes by watching a good film and trying new hobbies for fun. 
       Hit her up at <a href="mailto:Rebecca@nushackers.org">Rebecca@nushackers.org</a>.
-         
+
   - name: Hejin
     description: |
       a CS undergraduate who appreciates the sweet and bitter of the cs people life.
       She loves cool things, cool people, cute furry creatures and acai bowls.
       Reach her at <a href="mailto:hejin@nushackers.org">hejin@nushackers.org</a>.
-      
