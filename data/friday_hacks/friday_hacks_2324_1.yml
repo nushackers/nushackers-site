@@ -10,27 +10,74 @@ hacks:
     # blog_post: /2023/08/friday-hacks-242
     topics:
       - speaker: Wei Gao
-        title: '2 Side Projects: Pair Coding With ChatGPT'
+        title: "2 Side Projects: Pair Coding With ChatGPT"
       - speaker: Chester
         title: Should engineers design?
         from: Mobbin
   - venue: Seminar Room 2 (02-04), COM 1, NUS
     # blog_post: /2023/08/friday-hacks-243
+    topics:
+      - speaker: Prof Asankhaya
+        title: TBC
+        from: patched
+      - speaker: Kiran
+        title: TBC
   - venue: Seminar Room 2 (02-04), COM 1, NUS
+    topics:
+      - speaker: TBC
+        title: TBC
+        from: Hudson River Trading
+      - speaker: Ambrose Chua
+        title: TBC
     # blog_post: /2023/08/friday-hacks-244
   - venue: Seminar Room 2 (02-04), COM 1, NUS
+    topics:
+      - speaker: Ildar Iskhakov
+        title: "From Zero to Thousands: Building a Tech Startup for DevOps and SREs and Joining Grafana"
+        from: Grafana Labs
+      - speaker: Roc Zhang
+        title: TBC
     # blog_post: /2023/08/friday-hacks-245
   - venue: Seminar Room 2 (02-04), COM 1, NUS
+    topics:
+      - speaker: TBC
+        title: TBC
+        from: Jane Street
+      - speaker: TBC
+        title: TBC
+        from: Jane Street
     # blog_post: /2023/08/friday-hacks-246
   - nohack: true
   - nohack: true
   - venue: Seminar Room 2 (02-04), COM 1, NUS
+    topics:
+      - speaker: TBC
+        title: TBC
+        from: Ahrefs
     # blog_post: /2023/08/friday-hacks-247
   - venue: Seminar Room 2 (02-04), COM 1, NUS
+    topics:
+      - speaker: Leland Tran
+        title: TBC
+        from: momos
+      - speaker: Prof Ng Teck Khim
+        title: TBC
+        from: NUS
     # blog_post: /2023/08/friday-hacks-248
   - venue: Seminar Room 2 (02-04), COM 1, NUS
+    topics:
+      - speaker: Raivat Shah
+        title: TBC
+      - speaker: Prof Ng Teck Khim
+        title: TBC
+        from: NUS
     # blog_post: /2023/08/friday-hacks-249
   - venue: Seminar Room 2 (02-04), COM 1, NUS
+    topics:
+      - speaker: Clive Aw
+        title: TBC
+      - speaker: Zaw Lin
+        title: TBC
     # blog_post: /2023/08/friday-hacks-250
   - nohack: true
   - venue: Seminar Room 2 (02-04), COM 1, NUS

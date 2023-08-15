@@ -15,14 +15,15 @@ We also record the talks if the speaker consents. Find our recordings [here]({{<
 ## Speaker FAQ
 
 **When and where do Friday Hacks happen?**
-Friday Hacks happen every Friday at 6:30pm, at [Seminar Room 5, Level 2, Town Plaza, University Town, National University of Singapore](https://goo.gl/maps/6GCDZN32Q4gPa49b8) unless otherwise stated.
+Friday Hacks happen every Friday at 6:30pm, at [Seminar Room 2 (02-04), Level 2, COM 1, University Town, National University of Singapore](https://goo.gl/maps/Xr8eEun83y4rJ6Zu8) unless otherwise stated.
 
 **How do I get there from outside campus, and where can I park?**
-The closest MRT station is at Clementi. Take either 96 from the bus interchange towards Singapore Polytechnic, and get off 3 bus stops later. (You may also take bus 183 from the MRT station, but the bus frequency for 183 is low).
+If you plan to take public transportation, you may go to the various MRT stations such as Clementi, Kent Ridge MRT, and Buona Vista. Directions to NUS SoC can be found [here](https://www.comp.nus.edu.sg/maps/getting-here/). 
 
-You can also take the NUS internal bus D2 from Kent Ridge MRT, and alight at the University Town stop.
+If you are driving, the nearest parking lots in SoC for visitors are [CP 11](https://goo.gl/maps/dqSuQawf7HBTsjck6) and [CP 15](https://goo.gl/maps/fMQziaoD6xmTnMFs7).
+Staff season holders may park at [CP 13](https://goo.gl/maps/AoikKtXfuFh7yDrE7), which is right outside COM 1.
 
-If you are driving, you may park at a small parking lot at UTown opposite New Town Secondary School, along Dover Road. Let us know beforehand so we can guide you when you arrive.
+For more information on parking, please refer to this [site](https://uci.nus.edu.sg/oca/transport-logistics-carpark/parking-information-for-visitors/)
 
 **Who is welcome to speak?**
 Anyone! We do give some preference to NUS students, staff and professors, but we regularly invite speakers from all parts of the industry.
