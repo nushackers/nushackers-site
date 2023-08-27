@@ -4,21 +4,21 @@ events:
     date: 2023-08-29T18:00:00
 
   - topic: Git
-    venue: TBC
+    venue: SR15 (COM3-01-25)
     date: 2023-09-05
 
   - topic: Command-Line Data Wrangling
-    venue: TBC
+    venue: SR15 (COM3-01-25)
     date: 2023-09-12
 
   - topic: Vim
-    venue: TBC
+    venue: SR15 (COM3-01-25)
     date: 2023-10-10
 
   - topic: LaTeX
-    venue: TBC
+    venue: SR15 (COM3-01-25)
     date: 2023-10-17
 
-  - topic: Potpourri
-    venue: TBC
+  - topic: Potpourri (TBC)
+    venue: SR15 (COM3-01-25)
     date: 2023-10-31
