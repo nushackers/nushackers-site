@@ -2,7 +2,7 @@ start_date: 2023-08-18 19:00:00 +0800
 start_nr: 241
 hacks:
   - venue: <a href="https://goo.gl/maps/eCoWm5yQbHWSo1VJ6">LT18, COM 2, NUS</a>
-    # blog_post: /2023/08/friday-hacks-241
+    blog_post: /2023/08/friday-hacks-241
     topics:
       - speaker: NUS Hackers Coreteam
         title: NUS Hackers Welcome Tea
@@ -21,7 +21,7 @@ hacks:
       - speaker: Hudson River Trading
         title: TBC
       - speaker: Ambrose Chua
-        title: Kubernetes - It's simpler than you think 
+        title: Kubernetes - It's simpler than you think
   - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
     topics:
       - speaker: Roc Zhang
