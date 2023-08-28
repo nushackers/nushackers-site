@@ -7,7 +7,7 @@ with the [Hugo](https://gohugo.io/overview/introduction/) framework.
 
 To get started, you'll need:
 
-1. [Hugo v0.111.3](https://github.com/gohugoio/Hugo/releases)
+1. [Hugo v0.111.3 (the extended version)](https://github.com/gohugoio/hugo/releases/tag/v0.111.3)
 2. Yarn v1 with a recent version of NodeJS
 
 Then clone this repository and run
