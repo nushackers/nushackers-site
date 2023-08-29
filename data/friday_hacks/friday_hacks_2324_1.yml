@@ -26,16 +26,9 @@ hacks:
     topics:
       - speaker: Roc Zhang
         title: TBC
-      - speaker: Ambrose Chua
-        title: TBC
-    # blog_post: /2023/08/friday-hacks-244
-  - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
-    topics:
       - speaker: Ildar Iskhakov
         title: "From Zero to Thousands: Building a Tech Startup for DevOps and SREs and Joining Grafana"
         from: Grafana Labs
-      - speaker: Roc Zhang
-        title: TBC
     # blog_post: /2023/08/friday-hacks-245
   - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
     topics:
