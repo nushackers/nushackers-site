@@ -1,0 +1,78 @@
+start_date: 2023-08-18 19:00:00 +0800
+start_nr: 241
+hacks:
+  - venue: <a href="https://goo.gl/maps/eCoWm5yQbHWSo1VJ6">LT18, COM 2, NUS</a>
+    blog_post: /2023/08/friday-hacks-241
+    topics:
+      - speaker: NUS Hackers Coreteam
+        title: NUS Hackers Welcome Tea
+  - venue: <a href="https://goo.gl/maps/eCoWm5yQbHWSo1VJ6">LT18, COM 2, NUS</a>
+    blog_post: /2023/08/friday-hacks-242
+    topics:
+      - speaker: Wei Gao
+        title: "2 Side Projects: Pair Coding With ChatGPT"
+      - speaker: Chester
+        title: Should engineers design?
+        from: Mobbin
+  - nohack: Polling Day for Presidential Elections
+  - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
+    # blog_post: /2023/08/friday-hacks-243
+    topics:
+      - speaker: Hudson River Trading
+        title: TBC
+      - speaker: Ambrose Chua
+        title: Kubernetes - It's simpler than you think
+  - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
+    topics:
+      - speaker: Roc Zhang
+        title: TBC
+      - speaker: Ildar Iskhakov
+        title: "From Zero to Thousands: Building a Tech Startup for DevOps and SREs and Joining Grafana"
+        from: Grafana Labs
+    # blog_post: /2023/08/friday-hacks-245
+  - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
+    topics:
+      - speaker: TBC
+        title: TBC
+        from: Jane Street
+    # blog_post: /2023/08/friday-hacks-246
+  - nohack: true
+  - nohack: true
+  - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
+    topics:
+      - speaker: TBC
+        title: TBC
+        from: Ahrefs
+      - speaker: Kiran Gopinath
+        title: TBC
+    # blog_post: /2023/08/friday-hacks-247
+  - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
+    topics:
+      - speaker: Leland Tran
+        title: TBC
+        from: momos
+      - speaker: Prof Ng Teck Khim
+        title: TBC
+        from: NUS
+    # blog_post: /2023/08/friday-hacks-248
+  - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
+    topics:
+      - speaker: Prof Asankhaya Sharma
+        title: TBC
+        from: SMU, Patched
+      - speaker: Raivat Shah
+        title: TBC
+      - speaker: Gabor
+        title: TBC
+        from: DuckDB
+    # blog_post: /2023/08/friday-hacks-249
+  - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
+    topics:
+      - speaker: Clive Aw
+        title: TBC
+      - speaker: Zaw Lin
+        title: TBC
+    # blog_post: /2023/08/friday-hacks-250
+  - nohack: true
+  - venue: <a href="https://goo.gl/maps/vE8s23XstaiseB668">i3 Auditorium, NUS</a>
+    # blog_post: /2023/08/friday-hacks-251

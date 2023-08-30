@@ -9,5 +9,7 @@
   {{- if ne .event.blog_post nil -}}
     </a>
   {{- end -}}
+  {{- if ne .event.venue nil -}}
   <address class="events-address">{{ .event.venue }}</address>
+  {{- end -}}
 </li>

@@ -7,12 +7,12 @@
     {{ if $hs }}
     <ul class="hs-topics">
       {{ range $event := $hs.events }}
-      {{ partial "projects/hackers_toolbox_li.html" (dict "event" $event) }}
+      {{ partial "projects/hackerstoolbox_li.html" (dict "event" $event) }}
       {{ end }}
     </ul>
     {{ else }}
     <b>Watch out for this space 🚧</b>
-    <p>We will be announcing the semester's schedule soon 🙌</p>    
+    <p>We will be announcing the semester's schedule soon 🙌</p>
     {{ end }}
   </div>
 </main>
