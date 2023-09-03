@@ -26,7 +26,7 @@ hacks:
   - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
     topics:
       - speaker: Roc Zhang
-        title: TBC
+        title: From an idea to a product - how I made my first indie app 
       - speaker: Ildar Iskhakov
         title: "From Zero to Thousands: Building a Tech Startup for DevOps and SREs and Joining Grafana"
         from: Grafana Labs
