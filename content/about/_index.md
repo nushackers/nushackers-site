@@ -20,7 +20,7 @@ Near the start of each calendar year, we also run [Hack&amp;Roll](https://hacknr
 
 We also run smaller events for the NUS community, like Project Intern, where students who have interned share with others their experience and the benefits they have gained from interning, in a bid to encourage others to intern. Once in a while we also initiate other events like [OpenHack](https://openhack.nushackers.org). Everything we do is ultimately aimed at spreading the hacker culture.
 
-Some of our events are recorded if consent is given by the relevant parties. Find our recordings [here]({{< ref "/recordings" >}}).
+Some of our events are recorded if consent is given by the relevant parties. Find our recordings [here](https://www.youtube.com/@NUSHackersChannel/playlists).
 
 Participants at our events must follow our [event code of conduct]({{< ref "/conduct" >}}).
 
