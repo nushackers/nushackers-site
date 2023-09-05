@@ -1,7 +1,7 @@
-{{ template "_internal/google_analytics_async.html" . }}
 {{ partial "meta.html" . }}
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 <link rel="dns-prefetch" href="//fonts.googleapis.com/">
+<script async src="https://umami.z.nushackers.org/script.js" data-website-id="9d9d92c3-5825-4842-97c6-2fa14ed90118"></script>
 {{ $scss_options := (dict "targetPath" "/css/main.css" "outputStyle" "compressed" "includePaths" (slice "node_modules")) }}
 {{ $postcss_options := dict "config" "postcss.config.js" "noMap" true }}
 {{ $scss := resources.Get "scss/main.scss" }}
