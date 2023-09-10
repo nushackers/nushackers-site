@@ -16,7 +16,7 @@ hacks:
         from: Mobbin
   - nohack: Polling Day for Presidential Elections
   - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
-    blog_post: /2023/08/friday-hacks-243
+    blog_post: /2023/09/friday-hacks-243
     topics:
       - speaker: Pranav Chowdhary, Nonie Politi, Pierre Moschetta
         from: Hudson River Trading
@@ -30,7 +30,7 @@ hacks:
       - speaker: Ildar Iskhakov
         title: "From Zero to Thousands: Building a Tech Startup for DevOps and SREs and Joining Grafana"
         from: Grafana Labs
-    # blog_post: /2023/08/friday-hacks-245
+    blog_post: /2023/09/friday-hacks-244
   - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
     topics:
       - speaker: TBC
