@@ -10,7 +10,7 @@ We have up to 2 talks at each session, with each talks being about 30&ndash;45 m
 
 We believe that knowledge should be spread freely and openly. We typically record all our Friday Hacks sessions. Find our recordings [here](https://www.youtube.com/@NUSHackersChannel/playlists).
 
-![Friday Hacks #71](/img/fh.jpg)
+![Friday Hacks #224](/img/fh.jpg)
 
 ## Speaker FAQ
 
@@ -37,7 +37,7 @@ Note though that you should **not** give a recruiting pitch. We find that people
 Anyone is welcome to attend Friday Hacks, though our audience is primarily NUS School of Computing students. From experience, we expect 30&ndash;50 students on average at every weekly meeting.
 
 **How do I get there from outside campus, and where can I park?**
-If you plan to take public transportation, you may go to the various MRT stations such as Clementi, Kent Ridge MRT, and Buona Vista. Directions to NUS SoC can be found [here](https://www.comp.nus.edu.sg/maps/getting-here/). 
+If you plan to take public transportation, you may go to the various MRT stations such as Clementi, Kent Ridge MRT, and Buona Vista. Directions to NUS SoC can be found [here](https://www.comp.nus.edu.sg/maps/getting-here/).
 
 If you are driving, there are paid parking lots for the public in NUS. The nearest parking lots in the School of Computing for visitors are [CP 11](https://goo.gl/maps/dqSuQawf7HBTsjck6) and [CP 15](https://goo.gl/maps/fMQziaoD6xmTnMFs7).
 Staff season holders may park at [CP 13](https://goo.gl/maps/AoikKtXfuFh7yDrE7), which is right outside COM 1.
