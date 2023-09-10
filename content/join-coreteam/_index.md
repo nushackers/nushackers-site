@@ -29,6 +29,6 @@ Coreteam is organised as a flat structure under a single president (instead of i
 
 ## Want to join us?
 
-Recruitment is now in-progress for AY 23/24 semester 1. If you believe in our cause of spreading hacker culture, we'd love to have you join us. Please apply through [this form](https://hckr.cc/2324s1-recruit-web).
+We have finished our recruitment cycle for AY23/24 Semester 1, and will begin the next cycle at the start of Semester 2! If you believe in our cause of spreading hacker culture, we'd love to have you join us. Please indicate your interest through [this form](https://hckr.cc/2324s1-recruit-close), and we will reach out when we begin our next recruitment cycle.
 
 After signing up, we'll set up an interview to find out more about what you're interested in doing. This is usually an informal chat over lunch, so don't worry too much about it; it does help to take part in our events and check out the rest of this site beforehand, though. This is also an opportunity for you to get to know us better, so feel free to ask any questions, too.
