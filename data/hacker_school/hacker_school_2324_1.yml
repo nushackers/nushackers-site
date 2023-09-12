@@ -3,10 +3,10 @@ events:
     venue: Seminar Room 11 @ COM3-01-20
     date: 2023-08-30T19:00:00
   - topic: Introduction to Python
-    venue: TBC
+    venue: Seminar Room 11 @ COM3-01-20
     date: 2023-09-07T19:00:00
   - topic: Introduction to Machine Learning
-    venue: TBC
+    venue: Seminar Room 11 @ COM3-01-20
     date: 2023-09-14T19:00:00
   - topic: Data Visualization with Svelte
     venue: TBC
