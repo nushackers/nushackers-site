@@ -33,10 +33,10 @@ hacks:
     blog_post: /2023/09/friday-hacks-244
   - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
     topics:
-      - speaker: TBC
-        title: TBC
+      - speaker: Lester Tan
+        title: Online Algorithms Made Easy
         from: Jane Street
-    # blog_post: /2023/08/friday-hacks-246
+    blog_post: /2023/09/friday-hacks-245
   - nohack: true
   - nohack: true
   - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
