@@ -11,14 +11,14 @@ events:
     venue: SR15 (COM3-01-25)
     date: 2023-09-12T18:30:00
 
-  - topic: Vim
+  - topic: Debugging and profiling
     venue: SR15 (COM3-01-25)
     date: 2023-10-10T18:30:00
 
-  - topic: LaTeX
+  - topic: Vim
     venue: SR15 (COM3-01-25)
     date: 2023-10-17T18:30:00
 
   - topic: Potpourri (TBC)
-    venue: SR15 (COM3-01-25)
-    date: 2023-10-31T18:30:00
+    venue: SR15 (COM3-01-25) (TBC)
+    date: 2023-10-24T18:30:00
