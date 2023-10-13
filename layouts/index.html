@@ -38,31 +38,19 @@
         </ol>
         <div class="events-button" role="button">More events</div>
       </div>
-      <!-- Hacker Tools -->
+      <!-- Hackers Toolbox -->
       <div class="events hs col-12 col-md-4">
         <header class="front-header">
-          <h2 class="front-title"><a>Hacker Tools</a></h2>
+          <h2 class="front-title"><a href="/hackerstoolbox">Hackers Toolbox</a></h2>
         </header>
-        {{- if true -}}
         <ol class="list">
-          {{ $ht := index $.Site.Data.hacker_tools 
-                    (partial "projects/get_project.html" (dict "projectName" "hacker_tools")) }}
-          {{ range $index, $event := $ht.events }} 
-            {{ partial "projects/hackertools_li.html" (dict "event" $event) }} 
+          {{ $ht := index $.Site.Data.hackers_toolbox
+                    (partial "projects/get_project.html" (dict "projectName" "hackers_toolbox")) }}
+          {{ range $index, $event := $ht.events }}
+            {{ partial "projects/hackertools_li.html" (dict "event" $event) }}
           {{ end }}
         </ol>
         <div class="events-button" role="button">More events</div>
-        {{- else -}}
-        <div>
-          Hacker Tools is not running this semester, but you can check out
-          <a
-            href="https://www.youtube.com/playlist?list=PL9-vM_51OMbEaEe2_VI-FxMU9eb4KERJA"
-            target="_blank"
-            rel="noopener noreferrer"
-            >recordings of last semester's workshops on YouTube</a
-          >.
-        </div>
-        {{- end -}}
       </div>
       <!-- Hackerschool -->
       <div class="events hs col-12 col-md-4">
@@ -79,6 +67,30 @@
         <div class="events-button" role="button">More events</div>
       </div>
     </div>
+  </section>
+  <section class="posts col-12 section">
+    <header class="section-header">
+      <h1 class="section-title">Featured Articles</h1>
+    </header>
+    <ul class="list row justify-content-between">
+      {{ range first 7 (where .Site.RegularPages "Type" "featured") }}
+      <li class="item col-12 col-sm-8 col-md-6 col-xl-4">
+        <article>
+          <header>
+            <h3 class="posts-title">
+              <a class="posts-link" href="{{ .Permalink }}">
+                {{ .LinkTitle }}</a
+              >
+            </h3>
+            <div class="posts-meta">
+              {{ .Date.Format "Mon, Jan 2" }} • {{ .ReadingTime }} min read
+            </div>
+          </header>
+          {{ .Summary | truncate 150 }} <a href="{{ .Permalink }}">more</a>
+        </article>
+      </li>
+      {{ end }}
+    </ul>
   </section>
   <section class="posts col-12 section">
     <header class="section-header">

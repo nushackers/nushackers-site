@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.111.3"
   YARN_VERSION = "1.22.17"
 
 [context.deploy-preview]

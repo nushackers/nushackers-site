@@ -1,45 +1,10 @@
 ---
 members:
-  - name: Azeem
+  - name: Yi Hong
     description: |
-      a computer science undergraduate who loves tinkering and building things.
-      He enjoys riding his motorcycle, catching movies and building telegram bots. Reach him at <a href="mailto:azeem@nushackers.org" target="_blank" rel="noopener noreferrer nofollow">azeem@nushackers.org</a>.
-
-  - name: Jing Yen
-    description: |
-      a(nother!) CS undergrad that lives the heretic's life of using Vim in
-      Emacs. Reach out to him at <a href="mailto:jingyen@nushackers.org">jingyen@nushackers.org</a>
-      if there's anything you'd like to discuss with him.
-
-  - name: Christopher
-    description: |
-      a computer science undergraduate that drinks way too much coffee, sleeps
-      way too little, and is passionate about all things computer science.
-      Report his GitHub profile <a href="https://github.com/chrisgzf">here</a>
-      (please don't) or send him cat memes at
-      <a href="mailto:chris@nushackers.org">chris@nushackers.org</a>.
-
-  - name: Noel
-    description: |
-      a computer science undergraduate who loves meeting people.
-      He enjoys hacking on fun(ny) ideas and optimizing his workstation.
-      Reach out to him at <a href="mailto:kwannoel@nushackers.org">kwannoel@nushackers.org</a> if you'd like to chat.
-
-  - name: Yitao
-    description: |
-      a computer science undergraduate with interest in app development, algorithms, research and other wonky stuff.
-      An avid tea drinker, he also enjoys music and ball games that involve running around. Find him on <a href="https://github.com/sun-yitao">GitHub</a>.
-
-  - name: Shenjia
-    description: |
-      a computer engineering undergraduate who loves meeting new people and tinkering!
-      She is a little bit of a nerd but really friendly!
-      Chat with her at <a href="mailto:shenjia@nushackers.org">shenjia@nushackers.org</a>!
-
-  - name: Mayank
-    description: |
-      a computer science undergraduate, with an interest in programming languages, DNA storage, Hacker News, ... and a lot of other, very random, stuff.
-      Feel free to drop in at <a href="mailto:mayank@nushackers.org">mayank@nushackers.org</a>!
+      a computer science undergraduate who enjoys C++ as long as it's not in his transcript. 
+      He also loves running (both physically and lines of code). Reach him at 
+      <a href="mailto:yihong@nushackers.org">yihong@nushackers.org</a>.
 
   - name: Ziqing
     description: |
@@ -70,12 +35,6 @@ members:
       He loves playing squash, watching Netflix series/animes, and pondering about his life >_<...
       Hit him up at <a href="mailto:simonjulianl@nushackers.org">simonjulianl@nushackers.org</a>!
 
-  - name: Yong Kang
-    description: |
-      a computer science undergraduate who enjoys messing around with both software or hardware, probably broke more stuff than he ever fixed ><
-      Apart from binging random YouTube videos about tech or astrophysics, he also listens to mandopop.
-      Connect with him at <a href="mailto:yongkang@nushackers.org">yongkang@nushackers.org</a>!
-
   - name: Zhao Wei
     description: |
       a computer science undergraduate who's still exploring his interests in various aspects of CS and Math.
@@ -92,13 +51,6 @@ members:
       a computer science undergraduate with a keen interest in software engineering and augmented reality.
       He enjoys exploring design and listening to good movie soundtracks 🎧
       Reach him at <a href="mailto:richard@nushackers.org">richard@nushackers.org</a>.
-
-  - name: Yi Hong
-    description: |
-      a computer science undergraduate who is having difficulty explaining to his friends that
-      he can't fix their spoilt laptop for them. To see what he actually does, check out
-      his <a href="https://github.com/shenyih0ng">github</a> or email him for a chat
-      at <a href="mailto:yihong@nushackers.org">yihong@nushackers.org</a>.
 
   - name: Chun Yu
     description: |
@@ -165,16 +117,15 @@ members:
     description: |
       a CS undergrad interested in mobile apps, playing tons of pool and drinking coffee.
       Ask him anything at <a href="mailto:tangyetong@nushackers.org">tangyetong@nushackers.org</a>.
-      
+
   - name: Rebecca
     description: |
       a Business Administration undergraduate who enjoys exploring and learning all things web3. 
       Previously a film student, she occasionally relaxes by watching a good film and trying new hobbies for fun. 
       Hit her up at <a href="mailto:Rebecca@nushackers.org">Rebecca@nushackers.org</a>.
-         
+
   - name: Hejin
     description: |
       a CS undergraduate who appreciates the sweet and bitter of the cs people life.
       She loves cool things, cool people, cute furry creatures and acai bowls.
       Reach her at <a href="mailto:hejin@nushackers.org">hejin@nushackers.org</a>.
-      

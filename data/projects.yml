@@ -2,16 +2,16 @@ projects:
   - name: Friday Hacks
     description: Interesting talks for hackers from all walks of life
     url: /fridayhacks
-    logo: static/img/friday-hacks-logo.svg
-  - name: Hacker Tools
+    logo: static/img/friday-hacks-icon.svg
+  - name: Hackers Toolbox
     description: Workshops on skills essential to everyone
-    url: "#"
-    logo: static/img/code-logo.svg
+    url: /hackerstoolbox
+    logo: static/img/hackers-toolbox-icon.svg
   - name: Hackerschool
     description: Hacking workshops for everyone
     url: /hackerschool
-    logo: static/img/hacker-school-logo.svg
+    logo: static/img/hackerschool-icon.svg
   - name: Hack&Roll
     description: 24-hour hackathon for students
     url: //hacknroll.nushackers.org
-    logo: static/img/hack-and-roll-logo.svg
+    logo: static/img/hack-and-roll-icon.svg
