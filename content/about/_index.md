@@ -20,7 +20,7 @@ Near the start of each calendar year, we also run [Hack&amp;Roll](https://hacknr
 
 We also run smaller initiatives for the NUS community, like Project Mentor, where seniors mentor freshmen to help them navigate their first year of university; and Project Intern, where students share their internship experiences and advice to help (mostly) Year 2 and Year 3 students. Once in a while we also initiate other events like [OpenHack](https://openhack.nushackers.org).
 
-Some of our events are recorded if consent is given by the relevant parties. Find our recordings [here](https://www.youtube.com/@NUSHackersChannel/playlists).
+Most of our events are recorded if consent is given by the relevant parties. Find our recordings [here](https://www.youtube.com/@NUSHackersChannel/playlists).
 
 Participants at our events must follow our [event code of conduct]({{< ref "/conduct" >}}).
 
