@@ -17,7 +17,8 @@ events:
   - topic: C++ for Programmers
     venue: Seminar Room 12 @ COM3-01-21
     date: 2023-10-12T19:00:00
-  - topic: 3D Anime(tion) for Begineers
+  - topic: 3D Anime(tion) for Beginners
+    sign_up: https://hckr.cc/hs2324s1-w9-signup-nus
     venue: Seminar Room 1 @ COM1-02-06
     date: 2023-10-18T19:00:00
   - topic: Introduction to Next.js
