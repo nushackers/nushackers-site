@@ -53,7 +53,7 @@ hacks:
         title: Frameworks for Moving Fast - An Early-Stage Startup Journey
         from: momos
       - speaker: Pierre Avital
-        title: "Frustrations with Rust: Fine, I'll Just Make My Own Stable ABI, with Compact sum-types and Stable rustc!"
+        title: "Low-level Rust: Fine, I'll Just Make My Own Stable ABI, with Compact sum-types and Stable rustc!"
         from: ZettaScale
     blog_post: /2023/10/friday-hacks-247
   - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
