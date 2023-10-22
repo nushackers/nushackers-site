@@ -58,15 +58,16 @@ hacks:
     blog_post: /2023/10/friday-hacks-247
   - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
     topics:
-      - speaker: Prof Asankhaya Sharma
-        title: TBC
-        from: SMU, Patched
+      - speaker: Asankhaya Sharma
+        title: Taming open code LLMs for SQL generation and bug fixing
+        from: "CTO @ Patched.codes"
       - speaker: Raivat Shah
-        title: TBC
-      - speaker: Gabor
-        title: TBC
-        from: DuckDB
-    # blog_post: /2023/08/friday-hacks-249
+        title: "Hacking My Way Through NUS: Prototyping to Real-World Usage"
+        from: Founding Engineer @ Mind Stretcher Education
+      - speaker: Gábor Szárnyas
+        title: "DuckDB: A new kind of analytical database systems"
+        from: Developer Relations Advocate @ DuckDB
+    blog_post: /2023/10/friday-hacks-248
   - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
     topics:
       - speaker: Clive Aw
