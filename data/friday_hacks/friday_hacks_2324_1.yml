@@ -70,11 +70,10 @@ hacks:
     blog_post: /2023/10/friday-hacks-248
   - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
     topics:
-      - speaker: Clive Aw
-        title: TBC
-      - speaker: Zaw Lin
-        title: TBC
-    # blog_post: /2023/08/friday-hacks-250
+      - speaker: Clive Aw and Zaw Lin
+        title: "Quantum Theory: A First Approach to the Modern Paradigm, and What It's Good For"
+        from: NUS Centre for Quantum Technologies
+    blog_post: /2023/11/friday-hacks-249
   - nohack: true
-  - venue: <a href="https://goo.gl/maps/AgrdhjKriqVQU9z56">i3 Auditorium, NUS</a>
+  - nohack: true
     # blog_post: /2023/08/friday-hacks-251
