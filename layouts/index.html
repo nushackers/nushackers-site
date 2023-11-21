@@ -74,21 +74,7 @@
     </header>
     <ul class="list row justify-content-between">
       {{ range first 7 (where .Site.RegularPages "Params.featured" true ) }}
-      <li class="item col-12 col-sm-8 col-md-6 col-xl-4">
-        <article>
-          <header>
-            <h3 class="posts-title">
-              <a class="posts-link" href="{{ .Permalink }}">
-                {{ .LinkTitle }}</a
-              >
-            </h3>
-            <div class="posts-meta">
-              {{ .Date.Format "Mon, Jan 2" }} • {{ .ReadingTime }} min read
-            </div>
-          </header>
-          {{ .Summary | truncate 150 }} <a href="{{ .Permalink }}">more</a>
-        </article>
-      </li>
+      {{ .Render "post_li" }}
       {{ end }}
     </ul>
   </section>
@@ -98,22 +84,8 @@
       <a href="/archive">Read more</a>
     </header>
     <ul class="list row justify-content-between">
-      {{ range first 7 (where .Site.RegularPages "Type" "post") }}
-      <li class="item col-12 col-sm-8 col-md-6 col-xl-4">
-        <article>
-          <header>
-            <h3 class="posts-title">
-              <a class="posts-link" href="{{ .Permalink }}">
-                {{ .LinkTitle }}</a
-              >
-            </h3>
-            <div class="posts-meta">
-              {{ .Date.Format "Mon, Jan 2" }} • {{ .ReadingTime }} min read
-            </div>
-          </header>
-          {{ .Summary | truncate 150 }} <a href="{{ .Permalink }}">more</a>
-        </article>
-      </li>
+      {{ range first 7 (where .Site.RegularPages "Type" "post") }} 
+      {{ .Render "post_li" }}
       {{ end }}
     </ul>
   </section>
