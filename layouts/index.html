@@ -73,7 +73,7 @@
       <h1 class="section-title">Featured Articles</h1>
     </header>
     <ul class="list row justify-content-between">
-      {{ range first 7 (where .Site.RegularPages "Type" "featured") }}
+      {{ range first 7 (where .Site.RegularPages "Params.featured" true ) }}
       <li class="item col-12 col-sm-8 col-md-6 col-xl-4">
         <article>
           <header>
