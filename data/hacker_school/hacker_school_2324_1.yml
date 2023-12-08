@@ -22,8 +22,10 @@ events:
     venue: Seminar Room 1 @ COM1-02-06
     date: 2023-10-18T19:00:00
   - topic: Introduction to Next.js
-    venue: TBC
-    date: 2023-10-25T19:00:00
+    venue: Seminar Room 11 @ COM3-01-20
+    sign_up: https://hckr.cc/hs2324s1-w10-signup-nus
+    date: 2023-10-26T19:00:00
   - topic: Introduction to Web3
     venue: Seminar Room 11 @ COM3-01-20
+    sign_up: https://hckr.cc/hs2324s1-w11-signup-nus
     date: 2023-11-02T19:00:00
