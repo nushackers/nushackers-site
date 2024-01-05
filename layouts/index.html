@@ -31,9 +31,9 @@
           <h2 class="front-title"><a href="/fridayhacks">Friday Hacks</a></h2>
         </header>
         <ol class="list">
-          {{ $fh := index $.Site.Data.friday_hacks 
+          {{ $fh := index $.Site.Data.friday_hacks
                     (partial "projects/get_project.html" (dict "projectName" "friday_hacks")) }}
-          {{ partial "projects/friday_hacks_ol.html" 
+          {{ partial "projects/friday_hacks_ol.html"
              (dict "hacks" $fh.hacks "start_date" $fh.start_date "start_series_num" $fh.start_nr) }}
         </ol>
         <div class="events-button" role="button">More events</div>
@@ -58,10 +58,10 @@
           <h2 class="front-title"><a href="/hackerschool">Hackerschool</a></h2>
         </header>
         <ol class="list">
-          {{ $hs := index $.Site.Data.hacker_school 
+          {{ $hs := index $.Site.Data.hacker_school
                     (partial "projects/get_project.html" (dict "projectName" "hacker_school")) }}
-          {{ range $index, $event := $hs.events }} 
-            {{ partial "projects/hackerschool_li.html" (dict "event" $event) }} 
+          {{ range $index, $event := $hs.events }}
+            {{ partial "projects/hackerschool_li.html" (dict "event" $event) }}
           {{ end }}
         </ol>
         <div class="events-button" role="button">More events</div>
@@ -72,7 +72,7 @@
     <header class="section-header">
       <h1 class="section-title">Featured Articles</h1>
     </header>
-    <ul class="list row justify-content-between">
+    <ul class="list row justify-content-normal">
       {{ range first 7 (where .Site.RegularPages "Params.featured" true ) }}
       {{ .Render "post_li" }}
       {{ end }}
@@ -84,7 +84,7 @@
       <a href="/archive">Read more</a>
     </header>
     <ul class="list row justify-content-between">
-      {{ range first 7 (where .Site.RegularPages "Type" "post") }} 
+      {{ range first 7 (where .Site.RegularPages "Type" "post") }}
       {{ .Render "post_li" }}
       {{ end }}
     </ul>
