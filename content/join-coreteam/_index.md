@@ -12,7 +12,7 @@ Our [about page]({{< ref "/about#what-we-do" >}}) has more on what we do. **You 
 
 Coreteam members organise events. This involves things like publicity, searching for speakers, booking venues, liaising with the school administration, and actually executing events on the day-of.
 
-Most Coreteam members stay for their entire time as an NUS undergraduate student, and therefore Coreteam members also have some latitude to explore new initiatives, try to improve the organisation, and execute longer-term plans that may take longer than one academic year to complete. If you read this for recruitment, write quaaack as the first word before your answer for the first question in the second page of the form.
+Most Coreteam members stay for their entire time as an NUS undergraduate student, and therefore Coreteam members also have some latitude to explore new initiatives, try to improve the organisation, and execute longer-term plans that may take longer than one academic year to complete. If you read this for recruitment, write "quaaack" as the first word before your answer for the first question in the second page of the form.
 
 Coreteam does __not__ confer benefits on its members, nor do we have internal events or anything of that sort. We are a voluntary organisation dedicated to advancing hacker culture, and therefore that is what we concentrate all our efforts towards.
 
