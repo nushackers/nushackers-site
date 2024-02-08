@@ -2,11 +2,11 @@ events:
   - topic: Introduction to Rust
     venue: COM3-01-25
     date: 2024-02-07T19:00:00
-  - topic: TBC
-    venue: TBC
-    date: 2024-02-14T19:00:00
-  - topic: TBC
-    venue: TBC
+  - topic: Practical Applications of Functional Programming for Web Development
+    venue: COM3-01-20
+    date: 2024-02-15T19:00:00
+  - topic: Deploy your own projects with Docker
+    venue: COM3-01-25
     date: 2024-02-21T19:00:00
   - topic: TBC
     venue: TBC
