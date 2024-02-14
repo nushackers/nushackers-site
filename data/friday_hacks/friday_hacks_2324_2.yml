@@ -1,0 +1,34 @@
+start_date: 2024-02-02 19:00:00 +0800
+start_nr: 251
+hacks:
+  - venue: Online on Zoom
+    topics:
+      - speaker: Saulius Vincevičius
+        title: Multiplayer Game Programming with Mirror
+      - speaker: Calvin Fong (Zoom Boxing), Santasila Bryan Kusno, Ella Yovita Suwibowo (Sign Racer)
+        title: Hack&Roll 2024's Best Hacks!
+    blog_post: /2024/02/friday-hacks-251
+  - nohack: Lunar New Year Eve
+  - venue: COM3-01-20 Seminar Room 11
+    topics:
+      - speaker: "Hack&Roll Winning Teams: speedruNUS, Luna AI, Cod Captcha, Brainrot Plus"
+        title: Hack&Roll 2024's Best Hacks!
+    blog_post: /2024/02/friday-hacks-252
+  - venue: TBC
+    topics:
+      - speaker: Tan Chien Hao
+        title: "Arbitrage in Crypto: MEV Attacks"
+      - speaker: TBC
+        title: TBC
+  - nohack: Recess Week
+  - nohack: Midterm Week
+  - venue: TBC
+    topics:
+  - venue: TBC
+  - nohack: Good Friday
+  - venue: TBC
+  - venue: TBC
+  - venue: TBC
+    topics:
+      - speaker: Kuan Wei Heng
+        title: Code Golf
