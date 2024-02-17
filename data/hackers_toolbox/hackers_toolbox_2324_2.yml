@@ -3,9 +3,9 @@ events:
     venue: SR11 ALC (COM3-01-20)
     date: 2024-02-06T18:30:00
 
-  # - topic: TBC
-  #   venue: SR11 ALC (COM3-01-20)
-  #   date: 2024-02-20T18:30:00
+  - topic: Git
+    venue: SR11 ALC (COM3-01-20)
+    date: 2024-02-20T18:30:00
 
   # - topic: TBC
   #   venue: SR11 ALC (COM3-01-20)
