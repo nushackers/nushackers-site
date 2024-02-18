@@ -14,12 +14,12 @@ hacks:
       - speaker: "Hack&Roll Winning Teams: speedruNUS, Luna AI, Cod Captcha, Brainrot Plus"
         title: Hack&Roll 2024's Best Hacks!
     blog_post: /2024/02/friday-hacks-252
-  - venue: TBC
+  - venue: COM3-01-20 Seminar Room 11
     topics:
       - speaker: Tan Chien Hao
         title: "Arbitrage in Crypto: MEV Attacks"
-      - speaker: TBC
-        title: TBC
+      - speaker: Omer Iqbal
+        title: MySQL Internals
   - nohack: Recess Week
   - nohack: Midterm Week
   - venue: TBC
