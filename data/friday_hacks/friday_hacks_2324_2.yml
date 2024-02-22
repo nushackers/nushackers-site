@@ -20,14 +20,27 @@ hacks:
         title: "Arbitrage in Crypto: MEV Attacks"
       - speaker: Omer Iqbal
         title: MySQL Internals
+    blog_post: /2024/02/friday-hacks-253
   - nohack: Recess Week
   - nohack: Midterm Week
+  - venue: COM3-01-20 Seminar Room 11
+    topics:
+      - speaker: Hao Hao Tan
+        title: TBC (on Music Technology!)
+      - speaker: Ayush Chattoraj
+        title: Time Synchronization Protocols in Distributed Systems
   - venue: TBC
     topics:
-  - venue: TBC
+      - speaker: Ajey Gore
+        title: TBC
   - nohack: Good Friday
   - venue: TBC
   - venue: TBC
+    topics:
+      - speaker: Cedric Chin
+        title: TBC
+      - speaker: Shawn Tan
+        title: TBC
   - venue: TBC
     topics:
       - speaker: Kuan Wei Heng
