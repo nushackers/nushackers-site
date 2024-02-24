@@ -1,6 +1,6 @@
 ---
 title: "Hacker Tools: Shell and Scripting"
-date: 2022-30-08 18:30:00
+date: 2022-08-30 18:30:00
 author: Chun Yu
 url: /2022/08/hacker-tools-2
 summary: Come learn to use the shell, write shell scripts, and speed up your daily computing life!
