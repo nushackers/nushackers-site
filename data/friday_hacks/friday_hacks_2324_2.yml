@@ -20,21 +20,33 @@ hacks:
         title: "Arbitrage in Crypto: MEV Attacks"
       - speaker: Omer Iqbal
         title: MySQL Internals
+        from: TikTok
     blog_post: /2024/02/friday-hacks-253
   - nohack: Recess Week
   - nohack: Midterm Week
   - venue: COM3-01-20 Seminar Room 11
     topics:
       - speaker: Hao Hao Tan
-        title: TBC (on Music Technology!)
+        title: Exciting Trends in Music Technology with Deep Learning
+        from: BandLab Technologies
       - speaker: Ayush Chattoraj
         title: Time Synchronization Protocols in Distributed Systems
-  - venue: TBC
+        from: TikTok
+    blog_post: /2024/03/friday-hacks-254
+  - venue: COM3-01-20 Seminar Room 11
     topics:
       - speaker: Ajey Gore
-        title: TBC
+        title: TBC (on Building Gojek!)
+        from: Peak XV Partners
+      - speaker: Justyn Oh
+        title: "ERP X: Road Charges, Reimagined"
+        from: Open Government Products
   - nohack: Good Friday
-  - venue: TBC
+  - venue: COM3-01-20 Seminar Room 11
+    topics:
+      - speaker: Weiyuan Liu
+        title: Livestreams are Fun! Creating + Hosting a RTMP relay server with Google Cloud
+        from: Ascenda
   - venue: TBC
     topics:
       - speaker: Cedric Chin
