@@ -35,9 +35,8 @@ hacks:
     blog_post: /2024/03/friday-hacks-254
   - venue: COM3-01-20 Seminar Room 11
     topics:
-      - speaker: Ajey Gore
-        title: TBC (on Building Gojek!)
-        from: Peak XV Partners
+      - speaker: Loya Shoib
+        title: TBC
       - speaker: Justyn Oh
         title: "ERP X: Road Charges, Reimagined"
         from: Open Government Products
@@ -47,13 +46,16 @@ hacks:
       - speaker: Weiyuan Liu
         title: Livestreams are Fun! Creating + Hosting a RTMP relay server with Google Cloud
         from: Ascenda
-  - venue: TBC
+      - speaker: Prof Wong Limsoon
+        title: The Misunderstood Principal Component Analysis (PCA)
+        from: NUS
+  - venue: COM3-01-20 Seminar Room 11
     topics:
       - speaker: Cedric Chin
         title: TBC
       - speaker: Shawn Tan
         title: TBC
-  - venue: TBC
+  - venue: COM3-01-20 Seminar Room 11
     topics:
       - speaker: Kuan Wei Heng
         title: Code Golf
