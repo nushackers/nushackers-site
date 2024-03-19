@@ -36,10 +36,11 @@ hacks:
   - venue: COM3-01-20 Seminar Room 11
     topics:
       - speaker: Loya Shoib
-        title: TBC (On Reasoning Agents)
+        title: Creating Prototypes that Prove a Point
       - speaker: Justyn Oh
         title: "ERP X: Road Charges, Reimagined"
         from: Open Government Products
+    blog_post: /2024/03/friday-hacks-255
   - nohack: Good Friday
   - venue: COM3-01-20 Seminar Room 11
     topics:
