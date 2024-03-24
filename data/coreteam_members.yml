@@ -66,7 +66,7 @@ members:
 
   - name: Jing Wen
     description: |
-      a physics undergrad who got lost in SoC once and is currently being held captive.
+      a data science undergrad who got lost in SoC once and is currently being held captive.
       He enjoys reverse-engineering and automating stuff in his life. Send a message to him at <a href="mailto:sawjingwen@nushackers.org">sawjingwen@nushackers.org</a>.
 
   - name: Devansh Shah
@@ -172,3 +172,9 @@ members:
       a computer science undergraduate who's still figuring out where her passion lies. 
       She enjoys running (away from responsibilities), video editing, and meeting new people. 
       Reach her at <a href="mailto:colinephitoyo@nushackers.org">colinephitoyo@nushackers.org</a> :D
+
+  - name: River
+    description: |
+      a computer science undergraduate who enjoys breaking things as much as he loves building them. Rather than relying on Google Maps, 
+      he prefers the excitement of unexpected detours, courtesy of his charmingly unreliable sense of direction. 
+      He might be lost, but you can always reach him at <a href="mailto:river@nushackers.org">river@nushackers.org</a>.
