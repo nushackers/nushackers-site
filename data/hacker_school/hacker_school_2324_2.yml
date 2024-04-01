@@ -11,7 +11,7 @@ events:
   - topic: Introduction to Databases
     venue: COM3-01-20
     date: 2024-03-14T19:00:00
-  - topic: Introduction to Prompt Engineering for Generative AI
+  - topic: "NUS Hackers <> NUS Fintech Society: Generative AI and Prompt Engineering"
     venue: COM3-01-25
     date: 2024-03-20T19:00:00
   - topic: Introduction to LLMs
