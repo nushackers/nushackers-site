@@ -15,6 +15,7 @@ You can find many more recordings on our [YouTube channel](https://www.youtube.c
 - Introduction to Javascript: [resources](https://nushackers.github.io/p-hs2110-js/) | [recording](https://www.youtube.com/watch?v=1h8n0l30ptA&ab_channel=NUSHackers)
 - Introduction to Python: [resources](https://drive.google.com/file/d/1mWiFrU73rvPOFOkiAltl3pEWuJRsc415/view) | [recording](https://www.youtube.com/watch?v=9ZaTx2eTscI&ab_channel=NUSHackers)
 - Introduction to Haskell: [recording](https://www.youtube.com/watch?v=zJs5vV5Ofo0&list=PL9-vM_51OMbFe1CuZDrNGeLTjrwGt8BGq&index=8&ab_channel=NUSHackers)
+- Introduction to Elixir: [resources](https://hckr.cc/practical-elixir-workshop-guide) | [recording](https://hckr.cc/hs2324s2-w5-recording)
 
 ## Frameworks
 
