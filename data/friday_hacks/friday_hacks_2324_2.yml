@@ -53,14 +53,14 @@ hacks:
     blog_post: /2024/03/friday-hacks-256
   - venue: COM3-01-20 Seminar Room 11
     topics:
-      - speaker: Shawn Tan
-        title: The New XOR Problem
-        from: Montreal Institute for Learning Algorithms
       - speaker: Cedric Chin
         title: "How to *Actually* Become Data Driven"
         from: Postcognito
+      - speaker: Shawn Tan
+        title: The New XOR Problem
+        from: Montreal Institute for Learning Algorithms
     blog_post: /2024/04/friday-hacks-257
   - venue: COM3-01-20 Seminar Room 11
     topics:
-      - speaker: Kuan Wei Heng
-        title: Fun with Code Golf!
+      - title: TBC
+        speaker: TBC
