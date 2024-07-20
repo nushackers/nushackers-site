@@ -35,10 +35,10 @@ rssLimit = 10
   weight = 2
   url = "/community"
 [[menu.main]]
-  name = "Wiki"
-  identifier = "Wiki"
+  name = "Archive"
+  identifier = "Archive"
   weight = 3
-  url = "/wiki"
+  url = "/archive"
 [[menu.main]]
   name = "Contact"
   identifier = "Contact"

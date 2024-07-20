@@ -1,9 +1,9 @@
 ---
-title: Wiki
-description: Wiki
+title: Archive
+description: Archive
 ---
 
-Welcome to the NUS Hackers Wiki! This is a collection of resources we've compiled over the years, including resources and recordings of our past workshops and talks. We hope you find them useful!
+Welcome to the NUS Hackers Archive! This is a collection of resources we've compiled over the years, including resources and recordings of our past workshops and talks. We hope you find them useful!
 
 Feel free to use the resources for your own workshops too, but please credit NUS Hackers if you do so.
 
