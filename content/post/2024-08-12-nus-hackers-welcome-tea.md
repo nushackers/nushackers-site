@@ -25,6 +25,6 @@ We will be sharing about what we do and the importance of fostering hacker cultu
 
 All freshmen and current students from all faculties, as well as anyone else who is interested, are all welcome to attend!
 
-<!-- If you are unable to come join us physically, you are welcome to join us [online](Link TBC)! -->
+If you are unable to come join us physically, you are welcome to join us [online](https://nus-sg.zoom.us/j/88128489856?pwd=a59bEOoY7CKbbrZUEsw2WAtCaFU8sM.1)!
 
 See you there!
