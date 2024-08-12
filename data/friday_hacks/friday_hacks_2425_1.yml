@@ -1,0 +1,16 @@
+start_date: 2024-08-16 19:00:00 +0800
+start_nr: 258
+hacks:
+  - venue: <a href="https://maps.app.goo.gl/L4K8hrrsm9QYSgF87">UTown Auditorium 2, NUS</a>
+    blog_post: /2023/08/friday-hacks-241
+    topics:
+      - speaker: NUS Hackers Coreteam
+        title: NUS Hackers Welcome Tea
+  - venue: TBC
+    topics:
+      - speaker: Eugene Lim
+        title: Security-as-Code, Building our way to better security outcomes
+        from: Open Government Products
+      - speaker: Olivier Danvy
+        title: TBC
+        from: Professor, Yale-NUS College
