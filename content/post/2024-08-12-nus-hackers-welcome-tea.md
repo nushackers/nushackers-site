@@ -2,7 +2,7 @@
 title: "Friday Hacks #258, August 16: Welcome Tea"
 date: 2024-08-12 23:44:26.523646
 author: Chua Jun Yu
-url: /2023/08/friday-hacks-258
+url: /2024/08/friday-hacks-258
 summary: Join us at NUS Hackers - we organise weekly events to get you up and running with workshops, talks, hackathons and more!
 aliases:
   - /welcometea2024
