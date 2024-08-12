@@ -12,7 +12,7 @@ aliases:
 
 **Date/Time:** Friday, August 16 at 7:00pm<br />
 **Venue:** [UTown Auditorium 2, NUS](https://maps.app.goo.gl/L4K8hrrsm9QYSgF87)<br />
-**Sign-up Link** [Sign-up here](https://forms.gle/2YuNC5oerRHDA4QWA)
+**Sign-up Link** [Sign-up here](https://docs.google.com/forms/d/e/1FAIpQLSesPjEzomiJe5OPwHCOFgsp76bt1eKQPh9-JFW63X_6aAI2lQ/viewform?usp=sf_link)
 
 > **Food 🍕 will be served!**
 
