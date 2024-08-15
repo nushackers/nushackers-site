@@ -9,8 +9,8 @@ hacks:
   - venue: TBC
     topics:
       - speaker: Eugene Lim
-        title: Security-as-Code, Building our way to better security outcomes
+        title: "Security-as-Code: Building our way to better security outcomes"
         from: Open Government Products
       - speaker: Olivier Danvy
-        title: TBC
+        title: "Continuations: Five minutes to learn, a lifetime to understand"
         from: Professor, Yale-NUS College
