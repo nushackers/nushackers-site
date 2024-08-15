@@ -7,6 +7,7 @@ hacks:
       - speaker: NUS Hackers Coreteam
         title: NUS Hackers Welcome Tea
   - venue: TBC
+    blog_post: /2024/08/friday-hacks-259
     topics:
       - speaker: Eugene Lim
         title: "Security-as-Code: Building our way to better security outcomes"
