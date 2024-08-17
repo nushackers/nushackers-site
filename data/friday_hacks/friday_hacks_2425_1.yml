@@ -19,32 +19,14 @@ hacks:
 
   - venue: NUS Computing (Room TBC)
     topics:
-      - speaker: TBD
-        title: We are looking for speakers! 
-      - speaker: TBD
-        title: We are looking for speakers! 
-
-  - venue: NUS Computing (Room TBC)
-    topics:
       - speaker: Lim Zui Young
         title: Accessibility Testing with Purple A11y
         from: GovTech Singapore
       - speaker: Kevin Cheung
         title: TBD
   
-  - venue: NUS Computing (Room TBC)
-    topics:
-      - speaker: TBD
-        title: We are looking for speakers! 
-      - speaker: TBD
-        title: We are looking for speakers! 
-  
-  - venue: NUS Computing (Room TBC)
-    topics:
-      - speaker: TBD
-        title: We are looking for speakers! 
-      - speaker: TBD
-        title: We are looking for speakers! 
+  - nospeaker: true
+  - nospeaker: true
   
   - nohack: Recess Week
   - nohack: Midterms
@@ -56,12 +38,7 @@ hacks:
       - speaker: TBD
         title: We are looking for speakers!
 
-  - venue: TBD
-    topics:
-      - speaker: TBD
-        title: We are looking for speakers!
-      - speaker: TBD
-        title: We are looking for speakers!
+  - nospeaker: true
         
   - venue: TBD
     topics:
@@ -73,16 +50,8 @@ hacks:
   
   - nohack: NUS Well-Being Day
 
-  - venue: TBD
-    topics:
-      - speaker: TBD
-        title: We are looking for speakers!
-      - speaker: TBD
-        title: We are looking for speakers!
-  
-  - venue: TBD
-    topics:
-      - speaker: TBD
-        title: We are looking for speakers!
-      - speaker: TBD
-        title: We are looking for speakers!
+  - nospeaker: true
+  - nospeaker: true
+
+  - nohack: Reading Week
+  - nohack: Exam Week

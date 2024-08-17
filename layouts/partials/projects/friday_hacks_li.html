@@ -7,7 +7,10 @@
       {{- dateFormat "Jan 2" .hackDate -}}
     </time>
   </div>
-  {{ if eq .hack.nohack nil }}
+  {{ if .hack.nospeaker }}
+    <a class="fh-span" href="mailto:active@nushackers.org">Looking for speakers 👀</a>
+  {{ end }}
+  {{ if and (eq .hack.nohack nil) (eq .hack.nospeaker nil) }}
     <address class="events-address">{{ .hack.venue | safeHTML }}</address>
   {{- if ne .hack.blog_post nil -}}
     <a href="{{ .hack.blog_post }}">
@@ -31,7 +34,7 @@
   {{- end -}}
   {{ else }}
     {{ if .hack.nohack }}
-      <em class="fh-span">No Friday Hacks</em>
+      <em class="fh-span">No Friday Hacks - <b>{{$.hack.nohack}}</b></em>
     {{ end }}
   {{ end }}
 </li>
