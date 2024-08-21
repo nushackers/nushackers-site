@@ -6,6 +6,7 @@ hacks:
     topics:
       - speaker: NUS Hackers Coreteam
         title: NUS Hackers Welcome Tea
+
   - venue: NUS Computing (Room TBC)
     blog_post: /2024/08/friday-hacks-259
     topics:
@@ -15,3 +16,57 @@ hacks:
       - speaker: Olivier Danvy
         title: "Continuations: Five minutes to learn, a lifetime to understand"
         from: Professor, Yale-NUS College
+
+  - venue: NUS Computing (Room TBC)
+    topics:
+      - speaker: Sheila Teo
+        title: How I Won GovTech Singapore’s LLM Prompt Engineering Competition Then Built 3 LLM Products In 2024
+        from: Singapore Government
+      - speaker: TBD
+        title: We are looking for speakers!
+
+  - venue: NUS Computing (Room TBC)
+    topics:
+      - speaker: Lim Zui Young
+        title: Accessibility Testing with Purple A11y
+        from: GovTech Singapore
+      - speaker: Kevin Cheung
+        title: TBD
+  
+  - venue: NUS Computing (Room TBC)
+    topics:
+      - speaker: Michael Hu
+        title: TBD
+        from: NUS
+      - speaker: We are looking for speakers!
+        title: TBD
+  
+  - nospeaker: true
+  
+  - nohack: Recess Week
+  - nohack: Midterms
+
+  - venue: TBD
+    topics:
+      - speaker: Crystal Widjaja 
+        title: TBD
+      - speaker: Katja Forbes
+        title: TBD
+
+  - nospeaker: true
+        
+  - venue: TBD
+    topics:
+      - speaker: Jialin Li
+        title: TBD
+        from: Assistant Professor, NUS Computing
+      - speaker: TBD
+        title: We are looking for speakers!
+  
+  - nohack: NUS Well-Being Day
+
+  - nospeaker: true
+  - nospeaker: true
+
+  - nohack: Reading Week
+  - nohack: Exam Week
