@@ -19,13 +19,28 @@ hacks:
 
   - venue: NUS Computing (Room TBC)
     topics:
+      - speaker: Sheila Teo
+        title: How I Won GovTech Singapore’s LLM Prompt Engineering Competition Then Built 3 LLM Products In 2024
+        from: Singapore Government
+      - speaker: TBD
+        title: We are looking for speakers!
+
+  - venue: NUS Computing (Room TBC)
+    topics:
       - speaker: Lim Zui Young
         title: Accessibility Testing with Purple A11y
         from: GovTech Singapore
       - speaker: Kevin Cheung
         title: TBD
   
-  - nospeaker: true
+  - venue: NUS Computing (Room TBC)
+    topics:
+      - speaker: Michael Hu
+        title: TBD
+        from: NUS
+      - speaker: We are looking for speakers!
+        title: TBD
+  
   - nospeaker: true
   
   - nohack: Recess Week
@@ -35,8 +50,8 @@ hacks:
     topics:
       - speaker: Crystal Widjaja 
         title: TBD
-      - speaker: TBD
-        title: We are looking for speakers!
+      - speaker: Katja Forbes
+        title: TBD
 
   - nospeaker: true
         
