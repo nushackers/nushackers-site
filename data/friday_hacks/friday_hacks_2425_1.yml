@@ -7,7 +7,7 @@ hacks:
       - speaker: NUS Hackers Coreteam
         title: NUS Hackers Welcome Tea
 
-  - venue: NUS Computing (Room TBC)
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     blog_post: /2024/08/friday-hacks-259
     topics:
       - speaker: Eugene Lim
@@ -38,8 +38,8 @@ hacks:
       - speaker: Michael Hu
         title: TBD
         from: NUS
-      - speaker: We are looking for speakers!
-        title: TBD
+      - speaker: TBD
+        title: We are looking for speakers!
   
   - nospeaker: true
   
@@ -60,8 +60,8 @@ hacks:
       - speaker: Jialin Li
         title: TBD
         from: Assistant Professor, NUS Computing
-      - speaker: TBD
-        title: We are looking for speakers!
+      - speaker: Hao Hao Tan
+        title: TBD
   
   - nohack: NUS Well-Being Day
 
