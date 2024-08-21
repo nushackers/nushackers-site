@@ -8,7 +8,7 @@
     </time>
   </div>
   {{ if .hack.nospeaker }}
-    <a class="fh-span" href="mailto:active@nushackers.org?subject=Interested in speaking at Friday Hacks Talk on {{- dateFormat " January 2" .hackDate -}}" + >Looking for speakers 👀</a>
+    <a class="fh-span" href="mailto:active@nushackers.org?subject=Interested in speaking at Friday Hacks on {{- dateFormat " January 2" .hackDate -}}" + >Looking for speakers 👀</a>
   {{ end }}
   {{ if and (eq .hack.nohack nil) (eq .hack.nospeaker nil) }}
     <address class="events-address">{{ .hack.venue | safeHTML }}</address>
