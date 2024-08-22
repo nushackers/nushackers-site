@@ -1,6 +1,6 @@
 events:
   - topic: Virtual Machines
-    venue: TBC
+    venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     date: 2024-08-27T18:30:00
 
   - topic: LaTeX
@@ -14,8 +14,7 @@ events:
   # - topic: TBC
   #   venue: TBC
   #   date: 2024-10-01T18:30:00
-    
+
   # - topic: TBC
   #   venue: TBC
   #   date: 2024-10-08T18:30:00
-    
