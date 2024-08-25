@@ -18,6 +18,7 @@ hacks:
         from: Professor, Yale-NUS College
 
   - venue: NUS Computing (Room TBC)
+    blog_post: /2024/08/friday-hacks-260
     topics:
       - speaker: Sheila Teo
         title: How I Won GovTech Singapore's LLM Prompt Engineering Competition Then Built 3 LLM Products In 2024
