@@ -7,6 +7,6 @@
     {{ dateFormat "Mon, Jan 2, 3:04pm" (time .event.date) }}
   </time>
   {{- if ne .event.venue nil -}}
-  <address class="events-address">{{ .event.venue }}</address>
+  <address class="events-address">{{ .event.venue | safeHTML }}</address>
   {{- end -}}
 </li>

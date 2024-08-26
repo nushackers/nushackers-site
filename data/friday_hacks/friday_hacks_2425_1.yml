@@ -18,9 +18,10 @@ hacks:
         from: Professor, Yale-NUS College
 
   - venue: NUS Computing (Room TBC)
+    blog_post: /2024/08/friday-hacks-260
     topics:
       - speaker: Sheila Teo
-        title: How I Won GovTech Singapore’s LLM Prompt Engineering Competition Then Built 3 LLM Products In 2024
+        title: How I Won GovTech Singapore's LLM Prompt Engineering Competition Then Built 3 LLM Products In 2024
         from: Singapore Government
 
   - venue: NUS Computing (Room TBC)
@@ -30,7 +31,7 @@ hacks:
         from: GovTech Singapore
       - speaker: Kevin Cheung
         title: TBD
-  
+
   - venue: NUS Computing (Room TBC)
     topics:
       - speaker: Michael Hu
@@ -38,21 +39,21 @@ hacks:
         from: NUS
       - speaker: TBD
         title: We are looking for speakers!
-  
+
   - nospeaker: true
-  
+
   - nohack: Recess Week
   - nohack: Midterms
 
   - venue: TBD
     topics:
-      - speaker: Crystal Widjaja 
+      - speaker: Crystal Widjaja
         title: TBD
       - speaker: Katja Forbes
         title: TBD
 
   - nospeaker: true
-        
+
   - venue: TBD
     topics:
       - speaker: Jialin Li
@@ -60,7 +61,7 @@ hacks:
         from: Assistant Professor, NUS Computing
       - speaker: Hao Hao Tan
         title: TBD
-  
+
   - nohack: NUS Well-Being Day
 
   - nospeaker: true
