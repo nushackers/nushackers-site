@@ -42,7 +42,13 @@ hacks:
       - speaker: TBD
         title: We are looking for speakers!
 
-  - nospeaker: true
+  - venue: NUS Computing (Room TBC)
+    topics:
+      - speaker: Adrian Goh
+        title: TBD
+        from: Technical Co-Founder, NodeFlair
+      - speaker: TBD
+        title: We are looking for speakers!
 
   - nohack: Recess Week
   - nohack: Midterms
@@ -51,8 +57,10 @@ hacks:
     topics:
       - speaker: Crystal Widjaja
         title: TBD
+        from: Reforge
       - speaker: Katja Forbes
         title: TBD
+        from: Standard Chartered Bank
 
   - nospeaker: true
 
@@ -63,10 +71,18 @@ hacks:
         from: Assistant Professor, NUS Computing
       - speaker: Hao Hao Tan
         title: TBD
+        from: BandLab Technologies
 
   - nohack: NUS Well-Being Day
 
-  - nospeaker: true
+  - venue: TBD
+    topics:
+      - speaker: We are looking for speakers!
+        title: TBD
+      - speaker: Xiyu Oh
+        title: TBD
+        from: Intrinsic
+
   - nospeaker: true
 
   - nohack: Reading Week
