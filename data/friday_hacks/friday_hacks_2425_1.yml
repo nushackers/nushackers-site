@@ -17,7 +17,7 @@ hacks:
         title: "Continuations: Five minutes to learn, a lifetime to understand"
         from: Professor, Yale-NUS College
 
-  - venue: NUS Computing (Room TBC)
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     blog_post: /2024/08/friday-hacks-260
     topics:
       - speaker: Sheila Teo
@@ -53,9 +53,8 @@ hacks:
 
   - venue: TBD
     topics:
-      - speaker: Crystal Widjaja
-        title: TBD
-        from: Reforge
+      - speaker: TBD
+        title: We are looking for speakers!
       - speaker: Katja Forbes
         title: TBD
         from: Standard Chartered Bank

@@ -7,7 +7,7 @@ summary: Learn more about practical prompt engineering techniques to get the mos
 ---
 
 **Date/Time:** Friday, August 30 at 7:00pm SGT<br />
-**Venue:** TBD<br />
+**Venue:** <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a><br />
 **Sign-up Link:** [Sign-up here](https://hckr.cc/fh-260-signup)<br />
 
 > **Food 🍕 and Drinks 🧋 will be served!**
