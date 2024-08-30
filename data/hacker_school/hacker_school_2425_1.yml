@@ -1,10 +1,10 @@
 events:
   - topic: Introduction to Electronic Music Production
-    venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
+    venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     date: 2024-08-22T18:30:00
 
   - topic: Game Engine Essentials with Godot
-    venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
+    venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     date: 2024-08-29T19:00:00
 
   - topic: Practical Python Workshop for Beginners

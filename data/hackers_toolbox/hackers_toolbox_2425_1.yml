@@ -1,6 +1,6 @@
 events:
   - topic: Virtual Machines
-    venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
+    venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     date: 2024-08-27T18:30:00
 
   - topic: LaTeX
