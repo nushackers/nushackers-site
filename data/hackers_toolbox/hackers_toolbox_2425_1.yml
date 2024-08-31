@@ -1,20 +1,20 @@
 events:
   - topic: Virtual Machines
-    venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
+    venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     date: 2024-08-27T18:30:00
 
   - topic: LaTeX
-    venue: TBC
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
     date: 2024-09-03T18:30:00
 
   # - topic: TBC
-  #   venue: TBC
+  #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
   #   date: 2024-09-10T18:30:00
 
   # - topic: TBC
-  #   venue: TBC
+  #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
   #   date: 2024-10-01T18:30:00
 
   # - topic: TBC
-  #   venue: TBC
+  #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
   #   date: 2024-10-08T18:30:00
