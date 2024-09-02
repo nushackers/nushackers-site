@@ -24,15 +24,17 @@ hacks:
         title: How I Won GovTech Singapore's LLM Prompt Engineering Competition Then Built 3 LLM Products In 2024
         from: Singapore Government
 
-  - venue: NUS Computing (Room TBC)
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2024/09/friday-hacks-261
     topics:
       - speaker: Lim Zui Young
         title: Accessibility Testing with Purple A11y
         from: GovTech Singapore
       - speaker: Kevin Cheung
-        title: TBD
+        title: AutoCAD's Journey to the Web
+        from: AutoCAD
 
-  - venue: NUS Computing (Room TBC)
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: Michael Hu
         title: TBD
@@ -40,7 +42,7 @@ hacks:
       - speaker: Nguyen Khoi Nguyen
         title: TBD
 
-  - venue: NUS Computing (Room TBC)
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: Adrian Goh
         title: One Engineer, 400,000 Users
