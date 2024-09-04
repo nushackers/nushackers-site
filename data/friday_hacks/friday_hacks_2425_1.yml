@@ -37,18 +37,20 @@ hacks:
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
     topics:
       - speaker: Michael Hu
-        title: TBD
-        from: NUS
+        title: How to share a secret (with your friends)
+        from: NUS PhD Candidate
       - speaker: Nguyen Khoi Nguyen
         title: TBD
+        from: NUS
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
     topics:
       - speaker: Adrian Goh
         title: One Engineer, 400,000 Users
         from: Technical Co-Founder, NodeFlair
-      - speaker: TBD
-        title: We are looking for speakers!
+      - speaker: Julian Ospald
+        title: TBD
+        from: Standard Chartered Bank
 
   - nohack: Recess Week
   - nohack: Midterms
