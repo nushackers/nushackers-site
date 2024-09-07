@@ -7,9 +7,9 @@ events:
     venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
     date: 2024-09-03T18:30:00
 
-  # - topic: TBC
-  #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
-  #   date: 2024-09-10T18:30:00
+  - topic: Beginner's Guide to the Terminal
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-09-10T18:30:00
 
   # - topic: TBC
   #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
