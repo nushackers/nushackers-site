@@ -35,12 +35,13 @@ hacks:
         from: AutoCAD
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/09/friday-hacks-262
     topics:
       - speaker: Michael Hu
         title: How to share a secret (with your friends)
         from: NUS PhD Candidate
       - speaker: Nguyen Khoi Nguyen
-        title: TBD
+        title: AI in Complex Adversarial Games
         from: NUS
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
@@ -49,7 +50,7 @@ hacks:
         title: One Engineer, 400,000 Users
         from: Technical Co-Founder, NodeFlair
       - speaker: Julian Ospald
-        title: TBD
+        title: Lessons learned from 2 decades of open source
         from: Standard Chartered Bank
 
   - nohack: Recess Week
@@ -57,8 +58,9 @@ hacks:
 
   - venue: TBD
     topics:
-      - speaker: TBD
-        title: We are looking for speakers!
+      - speaker: Timothy Tan
+        title: TBD
+        from: Partior
       - speaker: Katja Forbes
         title: TBD
         from: Standard Chartered Bank
