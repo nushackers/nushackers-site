@@ -45,13 +45,11 @@ hacks:
         from: NUS
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/09/friday-hacks-263
     topics:
-      - speaker: Adrian Goh
-        title: One Engineer, 400,000 Users
-        from: Technical Co-Founder, NodeFlair
       - speaker: Julian Ospald
         title: Lessons learned from 2 decades of open source
-        from: Standard Chartered Bank
+        from: Heilmann Software
 
   - nohack: Recess Week
   - nohack: Midterms
@@ -65,7 +63,14 @@ hacks:
         title: TBD
         from: Standard Chartered Bank
 
-  - nospeaker: true
+  - venue: TBD
+    topics:
+    - speaker: Joseph Teoh Tze Tzun
+      title: TBD
+      from: NUS SDS
+    - speaker: Adrian Goh
+      title: One Engineer, 400,000 Users
+      from: Technical Co-Founder, NodeFlair
 
   - venue: TBD
     topics:
