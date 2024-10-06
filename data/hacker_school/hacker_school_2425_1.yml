@@ -15,14 +15,15 @@ events:
     venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
     date: 2024-09-12T18:30:00
 
-  # - topic: TBC
-  #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
-  #   date: 2024-10-10T19:00:00
+  - topic: Intro to AI for Computer Vision
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-10T18:30:00
 
-  # - topic: TBC
+  # - topic: >
+  #         Cybersecurity Essentials with Marshall Wace: From Basics to Practical Attacks
   #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
-  #   date: 2024-10-17T19:00:00
+  #   date: 2024-10-17T18:30:00
 
-  # - topic: TBC
+  # - topic: Intro to Figma
   #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
-  #   date: 2024-10-24T19:00:00
+  #   date: 2024-10-24T18:30:00
