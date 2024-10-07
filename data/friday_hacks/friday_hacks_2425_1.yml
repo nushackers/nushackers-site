@@ -55,6 +55,7 @@ hacks:
   - nohack: Midterms
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/10/friday-hacks-264
     topics:
       - speaker: Timothy Tan
         title: "MiTM Magic: Outsmarting SSO and 2FA Defenses"
