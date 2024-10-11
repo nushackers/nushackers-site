@@ -15,9 +15,9 @@ events:
     venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
     date: 2024-10-08T18:30:00
 
-  # - topic: TBC
-  #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
-  #   date: 2024-10-15T18:30:00
+  - topic: Intro to Chrome Dev Tools
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-15T18:30:00
 
   # - topic: Intro to Docker
   #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
