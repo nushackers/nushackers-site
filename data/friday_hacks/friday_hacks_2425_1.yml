@@ -65,6 +65,7 @@ hacks:
         from: Head of CX @ Standard Chartered Bank
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/10/friday-hacks-265
     topics:
     - speaker: Joseph Teoh Tze Tzun
       title: "Exploring AI Research: How to Get Started as an Undergraduate"
@@ -73,7 +74,7 @@ hacks:
       title: One Engineer, 400,000 Users
       from: Technical Co-Founder, NodeFlair
 
-  - venue: TBD
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
     topics:
       - speaker: Jialin Li
         title: TBD
@@ -84,7 +85,7 @@ hacks:
 
   - nohack: NUS Well-Being Day
 
-  - venue: TBD
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
     topics:
       - speaker: Loke Hui Yi
         title: TBD
@@ -92,7 +93,6 @@ hacks:
         title: TBD
         from: Intrinsic
 
-  - nospeaker: true
-
+  - nohack: Week 13
   - nohack: Reading Week
   - nohack: Exam Week
