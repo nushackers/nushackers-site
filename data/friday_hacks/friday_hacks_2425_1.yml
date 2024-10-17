@@ -93,7 +93,6 @@ hacks:
         title: TBD
         from: Intrinsic
 
-  - nospeaker: true
-
+  - nohack: Week 13
   - nohack: Reading Week
   - nohack: Exam Week
