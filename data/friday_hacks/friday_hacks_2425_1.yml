@@ -75,12 +75,13 @@ hacks:
       from: Technical Co-Founder, NodeFlair
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/10/friday-hacks-266
     topics:
       - speaker: Jialin Li
-        title: TBD
-        from: Assistant Professor, NUS Computing
+        title: Operating System Design for Fast I/O
+        from: Assistant Professor @ NUS Computing
       - speaker: Hao Hao Tan
-        title: TBD
+        title: '"Hey XXX, What Song Is This?” - A Gentle Introduction to Music Content Identification'
         from: BandLab Technologies
 
   - nohack: NUS Well-Being Day
