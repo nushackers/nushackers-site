@@ -155,3 +155,15 @@ members:
       a computer science undergraduate who loves the thrill of building side projects and discovering new technologies, all while enjoying a good cup of coffee. 
       He enjoys music and watching movies. Reach him at <a href="mailto:houman@nushackers.org">houman@nushackers.org</a>.
       
+  - name: Donald
+    description: |
+      a computer science undergraduate by day and caffeine connoisseur by night. 
+      He loves taking long walks and cafe hopping.
+      Ask him for a free cuppa at <a href="mailto:donald@nushackers.org">donald@nushackers.org</a> :)
+
+  - name: Ming Jun
+    description: |
+      a computer science undergraduate who enjoys building things that look good and do good.
+      When he's not tinkering with code, he's probably out exploring new places or trying (his best) to harmonize in a barbershop choir.
+      Feel free to disturb him at <a href="mailto:mingjun@nushackers.org">mingjun@nushackers.org</a>
+      

@@ -19,9 +19,9 @@ events:
     venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
     date: 2024-10-15T18:30:00
 
-  # - topic: Intro to Docker
-  #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
-  #   date: 2024-10-22T18:30:00
+  - topic: Introduction to Docker
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-22T18:30:00
 
   # - topic: Self Hosting
   #   venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
