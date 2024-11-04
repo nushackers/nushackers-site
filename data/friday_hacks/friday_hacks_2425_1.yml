@@ -87,11 +87,13 @@ hacks:
   - nohack: NUS Well-Being Day
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/11/friday-hacks-267
     topics:
       - speaker: Loke Hui Yi
-        title: TBD
+        title: "Achieving 100% Eva Synchro: Enhancing Enterprise Cybersecurity"
+        from: TikTok
       - speaker: Xiyu Oh
-        title: TBD
+        title: Introduction to Open-RMF
         from: Intrinsic
 
   - nohack: Week 13
