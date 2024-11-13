@@ -75,22 +75,25 @@ hacks:
       from: Technical Co-Founder, NodeFlair
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/10/friday-hacks-266
     topics:
       - speaker: Jialin Li
-        title: TBD
-        from: Assistant Professor, NUS Computing
+        title: Operating System Design for Fast I/O
+        from: Assistant Professor @ NUS Computing
       - speaker: Hao Hao Tan
-        title: TBD
+        title: '"Hey XXX, What Song Is This?” - A Gentle Introduction to Music Content Identification'
         from: BandLab Technologies
 
   - nohack: NUS Well-Being Day
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/11/friday-hacks-267
     topics:
       - speaker: Loke Hui Yi
-        title: TBD
+        title: "Achieving 100% Eva Synchro: Enhancing Enterprise Cybersecurity"
+        from: TikTok
       - speaker: Xiyu Oh
-        title: TBD
+        title: Introduction to Open-RMF
         from: Intrinsic
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
