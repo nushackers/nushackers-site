@@ -97,7 +97,7 @@ hacks:
         from: Intrinsic
 
   - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
-    blog_post: /2024/11/friday-hacks-267
+    blog_post: /2024/11/friday-hacks-268
     topics:
       - speaker: Richard Qi
         title: "I made a Mac app to replace the default app switcher"
@@ -107,9 +107,6 @@ hacks:
         title: Open-Source Productivity Tools for University
       - speaker: 🤔⁉️
         title: And maybe more? 👀
-        
-
-
-
+      
   - nohack: Reading Week
   - nohack: Exam Week
