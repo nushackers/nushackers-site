@@ -151,13 +151,13 @@ members:
       He might be lost, but you can always reach him at <a href="mailto:river@nushackers.org">river@nushackers.org</a>.
 
   - name: Hou Man
-    description: | 
-      a computer science undergraduate who loves the thrill of building side projects and discovering new technologies, all while enjoying a good cup of coffee. 
+    description: |
+      a computer science undergraduate who loves the thrill of building side projects and discovering new technologies, all while enjoying a good cup of coffee.
       He enjoys music and watching movies. Reach him at <a href="mailto:houman@nushackers.org">houman@nushackers.org</a>.
-      
+
   - name: Donald
     description: |
-      a computer science undergraduate by day and caffeine connoisseur by night. 
+      a computer science undergraduate by day and caffeine connoisseur by night.
       He loves taking long walks and cafe hopping.
       Ask him for a free cuppa at <a href="mailto:donald@nushackers.org">donald@nushackers.org</a> :)
 
@@ -166,9 +166,15 @@ members:
       a computer science undergraduate who enjoys building things that look good and do good.
       When he's not tinkering with code, he's probably out exploring new places or trying (his best) to harmonize in a barbershop choir.
       Feel free to disturb him at <a href="mailto:mingjun@nushackers.org">mingjun@nushackers.org</a>
-      
+
   - name: Joshua Foo
     description: |
       an information security undergraduate who enjoys catching frisbees as much as he enjoys catching bugs in code.
       He’s equally passionate about solving puzzles, playing board games, and testing his luck (and strategy) in poker.
       Reach him at <a href="mailto:joshuafoo@nushackers.org">joshuafoo@nushackers.org</a>
+
+  - name: Jonathan Loh
+    description: |
+      a computer science undergraduate who enjoys building things that make people's lives easier. He spends as much time playing frisbee as he does coding.
+      He's always down to chat over a cup of coffee, or a game of bridge late into the night.
+      Reach him at <a href="mailto:jonathan@nushackers.org">jonathan@nushackers.org</a>
