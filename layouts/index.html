@@ -38,20 +38,6 @@
         </ol>
         <div class="events-button" role="button">More events</div>
       </div>
-      <!-- Hackers Toolbox -->
-      <div class="events hs col-12 col-md-4">
-        <header class="front-header">
-          <h2 class="front-title"><a href="/hackerstoolbox">Hackers Toolbox</a></h2>
-        </header>
-        <ol class="list">
-          {{ $ht := index $.Site.Data.hackers_toolbox
-                    (partial "projects/get_project.html" (dict "projectName" "hackers_toolbox")) }}
-          {{ range $index, $event := $ht.events }}
-            {{ partial "projects/hackertools_li.html" (dict "event" $event) }}
-          {{ end }}
-        </ol>
-        <div class="events-button" role="button">More events</div>
-      </div>
       <!-- Hackerschool -->
       <div class="events hs col-12 col-md-4">
         <header class="front-header">
