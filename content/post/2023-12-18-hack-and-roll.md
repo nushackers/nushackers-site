@@ -3,7 +3,6 @@ title: Hack&Roll 2024 🎉
 date: 2023-12-18
 author: NUS Hackers
 url: /2023/12/18/hnr2024
-featured: true
 ---
 
 We are excited to announce that registrations for Hack&Roll 2024 is now open! 🎉
