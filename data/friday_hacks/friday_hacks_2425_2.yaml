@@ -1,0 +1,52 @@
+start_date: 2025-02-07 19:00:00 +0800
+start_nr: 258
+hacks:
+  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+    topics:
+      - speaker: Hack&Roll Winners
+        title: H&R 2025 Projects
+  - venue: <a href="https://maps.app.goo.gl/q3GQbSxyn7jzLSgb7">NUS COM1 SR14</a>
+    topics:
+      - speaker: TBC
+        title: TBC
+        from: Jane Street
+  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+    topics:
+      - speaker: Evan You
+        title: Rust toolchain for javascript (tentative)
+        from: void(0), VueJS, Vite
+      - speaker: Herbert
+        title: TBC
+        from: Allium
+  - nohack: Recess Week
+  - nohack: Midterm Week
+  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+    topics:
+      - speaker: Crystal Widjaja
+        title: TBC
+        from: Reforge
+      - speaker: Sook-Yee Chong
+        title: TBC
+  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+    topics:
+      - speaker: TBC
+        title: TBC
+      - speaker: TBC
+        title: TBC
+  - nohack: Recess Week
+  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+    topics:
+      - speaker: Camillus Chai
+        title: TBC
+      - speaker: Tim Stuart
+        title: TBC
+        from: ASTAR
+  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+    topics:
+      - speaker: TBC
+        title: TBC
+      - speaker: TBC
+        title: TBC
+  - nohack: Good Friday
+  - nohack: Reading Week
+  - nohack: Exam Week
