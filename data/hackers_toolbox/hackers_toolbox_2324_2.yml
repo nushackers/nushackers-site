@@ -7,14 +7,18 @@ events:
     venue: SR11 ALC (COM3-01-20)
     date: 2024-02-20T18:30:00
 
-  # - topic: TBC
-  #   venue: SR11 ALC (COM3-01-20)
-  #   date: 2024-03-12T18:30:00
+  - topic: LaTeX
+    venue: SR11 ALC (COM3-01-20)
+    date: 2024-03-19T18:30:00
 
-  # - topic: TBC
-  #   venue: SR11 ALC (COM3-01-20)
-  #   date: 2024-03-19T18:30:00
-
+  - topic: Shell and Scripting
+    venue: SR11 ALC (COM3-01-20)
+    date: 2024-03-26T18:30:00
+    
+  - topic: Self-Hosting
+    venue: SR11 ALC (COM3-01-20)
+    date: 2024-04-02T18:30:00
+    
   # - topic: TBC
   #   venue: SR11 ALC (COM3-01-20)
   #   date: 2024-03-26T18:30:00

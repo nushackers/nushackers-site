@@ -1,50 +1,14 @@
 ---
 members:
-  - name: Yi Hong
+  - name: Ravern
     description: |
-      a computer science undergraduate who enjoys C++ as long as it's not in his transcript. 
-      He also loves running (both physically and lines of code). Reach him at 
-      <a href="mailto:yihong@nushackers.org">yihong@nushackers.org</a>.
-
-  - name: Ziqing
-    description: |
-      a computer science undergraduate who loves learning how to "HelloWord" new things and meeting new friends.
-      She loves anime, music and weird drinks.
-      Reach out to her at <a href="mailto:ziqing@nushackers.org">ziqing@nushackers.org</a> •ᴗ•
-
-  - name: Choon Yong
-    description: |
-      a CS and Stats undergraduate. Catch me either watching wholesome vids, playing FPS or just learning a new language.
-      I get my hands dirty into router firmwares, network security and some custom Android ROM development.
-      Hit me up at <a href="mailto:choonyong@nushackers.org">choonyong@nushackers.org</a> ^-^
-
-  - name: Ashley
-    description: |
-      a business analytics undergraduate who often goes out of her comfort zone to try new stuff.
-      She occasionally figure skates when she isn’t busy mugging for mods.
-      Reach out to her at <a href="mailto:ashley@nushackers.org">ashley@nushackers.org</a>
-
-  - name: Jivesh
-    description: |
-      a computer science undergraduate who's having fun learning new things.
-      He enjoys reading, football, and foods he hasn't tried before. Reach him at <a href="mailto:jivesh@nushackers.org">jivesh@nushackers.org</a>
-
-  - name: Simon
-    description: |
-      a computer science undergraduate who is still exploring the vast swathes of computer science.
-      He loves playing squash, watching Netflix series/animes, and pondering about his life >_<...
-      Hit him up at <a href="mailto:simonjulianl@nushackers.org">simonjulianl@nushackers.org</a>!
+      a Computer Science undergraduate interested in programming languages and software engineering. He also enjoys reading, climbing and watching movies.
+      Reach out to him at <a href="mailto:ravern@nushackers.org">ravern@nushackers.org</a>.
 
   - name: Zhao Wei
     description: |
       a computer science undergraduate who's still exploring his interests in various aspects of CS and Math.
       He enjoys reading and bouldering. Reach him at <a href="mailto:zhaowei@nushackers.org" target="_blank" rel="noopener noreferrer nofollow">zhaowei@nushackers.org</a>.
-
-  - name: Irene
-    description: |
-      an information system undergraduate who is intrigued by a lot of stuff.
-      She can never get enough of desserts, aesthetic Pinterest posts, and lame jokes in Youtube.
-      Hit her up at <a href="mailto:irenelie@nushackers.org">irenelie@nushackers.org</a> :)
 
   - name: Richard
     description: |
@@ -58,6 +22,12 @@ members:
       building awesomely useless stuff, tinkering and breaking anything and everything.
       Feel free to reach out at <a href="mailto:chunyu@nushackers.org">chunyu@nushackers.org</a>.
 
+  - name: Yi Hong
+    description: |
+      a computer science undergraduate who enjoys C++ as long as it's not in his transcript.
+      He also loves running (both physically and lines of code). Reach him at
+      <a href="mailto:yihong@nushackers.org">yihong@nushackers.org</a>.
+
   - name: Kok Rui
     description: |
       a computer science undergraduate whose specific interests within computing seem to change every year or so.
@@ -66,7 +36,7 @@ members:
 
   - name: Jing Wen
     description: |
-      a physics undergrad who got lost in SoC once and is currently being held captive. 
+      a data science undergrad who got lost in SoC once and is currently being held captive.
       He enjoys reverse-engineering and automating stuff in his life. Send a message to him at <a href="mailto:sawjingwen@nushackers.org">sawjingwen@nushackers.org</a>.
 
   - name: Devansh Shah
@@ -87,29 +57,24 @@ members:
 
   - name: Shuwen
     description: |
-      a computer science undergraduate who loves to learn new technology stacks that can allow her to turn ideas into real products. 
-      She can’t resist pink or white coloured electronic devices and computer accessories. 
+      a computer science undergraduate who loves to learn new technology stacks that can allow her to turn ideas into real products.
+      She can’t resist pink or white coloured electronic devices and computer accessories.
       Feel free to reach her at <a href="mailto:shuwen@nushackers.org">shuwen@nushackers.org</a>.
 
   - name: Yadunand
     description: |
-      a computer science undergraduate with an interest in the intersection of hardware and software, keyboards and everything inbetween. 
+      a computer science undergraduate with an interest in the intersection of hardware and software, keyboards and everything inbetween.
       Hit him up at <a href="mailto:yadunand@nushackers.org">yadunand@nushackers.org</a>.
 
   - name: Parth
     description: |
       a jaded CS undergraduate who's currently interested in operating systems and distributed systems. He also enjoys
-      reading books and cycling, and keeps an eye out for any deliciously interesting or cynical quotes. Say hi to 
+      reading books and cycling, and keeps an eye out for any deliciously interesting or cynical quotes. Say hi to
       him at <a href="mailto:parth@nushackers.org">parth@nushackers.org</a>.
-
-  - name: Ravern
-    description: |
-      a Computer Science undergraduate interested in programming languages and software engineering. He also enjoys reading, climbing and watching movies.
-      Reach out to him at <a href="mailto:ravern@nushackers.org">ravern@nushackers.org</a>.
 
   - name: Jia Hao
     description: |
-      a computer science undergraduate who enjoys learning and talking about the many sides of computer science (but mostly 
+      a computer science undergraduate who enjoys learning and talking about the many sides of computer science (but mostly
       software engineering and programming languages) on <a href="https://blog.woojiahao.com">his blog.</a> Feel free to reach him at
       <a href="mailto:woojiahao@nushackers.org">woojiahao@nushackers.org</a>.
 
@@ -120,8 +85,8 @@ members:
 
   - name: Rebecca
     description: |
-      a Business Administration undergraduate who enjoys exploring and learning all things web3. 
-      Previously a film student, she occasionally relaxes by watching a good film and trying new hobbies for fun. 
+      a Business Administration undergraduate who enjoys exploring and learning all things web3.
+      Previously a film student, she occasionally relaxes by watching a good film and trying new hobbies for fun.
       Hit her up at <a href="mailto:Rebecca@nushackers.org">Rebecca@nushackers.org</a>.
 
   - name: Hejin
@@ -138,8 +103,8 @@ members:
 
   - name: Vangmay
     description: |
-      a CS undergrad with a passion for AI and Programming Language theory. 
-      When not immersed in code, he enjoys reading books, playing chess, sharing insights on his blog or 
+      a CS undergrad with a passion for AI and Programming Language theory.
+      When not immersed in code, he enjoys reading books, playing chess, sharing insights on his blog or
       enjoying his 6th cup of chai for the day. <a href="mailto:vangmayy@nushackers.org">vangmayy@nushackers.org</a>.
 
   - name: Benn Tan
@@ -150,7 +115,66 @@ members:
 
   - name: Jun Yu
     description: |
-      a computer science undergraduate who likes to ponder over life's greatest philosophical questions, 
-      like whether we're all just characters in a cosmic game of Minecraft. 
-      He loves exploring new places and enjoys a good run or hike in nature. 
+      a computer science undergraduate who likes to ponder over life's greatest philosophical questions,
+      like whether we're all just characters in a cosmic game of Minecraft.
+      He loves exploring new places and enjoys a good run or hike in nature.
       Reach him at <a href="mailto:junyu@nushackers.org">junyu@nushackers.org</a>!
+
+  - name: Justin Cheah
+    description: |
+      a computer science (and BBA) undergraduate who enjoys reading up about philosophy outside of tech,
+      he is particularly interested in epistemology and random thought experiments. Within tech, he is currently exploring
+      the applications of LLMs in software engineering. Reach him at <a href="mailto:justincheah@nushackers.org">justincheah@nushackers.org</a>!
+
+  - name: Kara
+    description: |
+      a business analytics undergraduate who likes throwing frisbees and throwing exceptions. She enjoys exploring
+      different aspects of computing. She also loves jamming in a band and (of course) late night chats!
+      Reach her at <a href="mailto:kara@nushackers.org">kara@nushackers.org</a>.
+
+  - name: Prakamya Singh
+    description: |
+      a computer science undergrad who enjoys drawing and reading about Dinosaurs. He's keen on exploring various fields
+      in CS from web development and networks to data science and analytics. Away from the computer, he loves playing cricket
+      and tennis. If you wanna set up a game (or just chat about anything), drop a mail at <a href="mailto:prak.singh@nushackers.org">prak.singh@nushackers.org</a>.
+
+  - name: Coline
+    description: |
+      a computer science undergraduate who's still figuring out where her passion lies.
+      She enjoys running (away from responsibilities), video editing, and meeting new people.
+      Reach her at <a href="mailto:colinephitoyo@nushackers.org">colinephitoyo@nushackers.org</a> :D
+
+  - name: River
+    description: |
+      a computer science undergraduate who enjoys breaking things as much as he loves building them. Rather than relying on Google Maps,
+      he prefers the excitement of unexpected detours, courtesy of his charmingly unreliable sense of direction.
+      He might be lost, but you can always reach him at <a href="mailto:river@nushackers.org">river@nushackers.org</a>.
+
+  - name: Hou Man
+    description: |
+      a computer science undergraduate who loves the thrill of building side projects and discovering new technologies, all while enjoying a good cup of coffee.
+      He enjoys music and watching movies. Reach him at <a href="mailto:houman@nushackers.org">houman@nushackers.org</a>.
+
+  - name: Donald
+    description: |
+      a computer science undergraduate by day and caffeine connoisseur by night.
+      He loves taking long walks and cafe hopping.
+      Ask him for a free cuppa at <a href="mailto:donald@nushackers.org">donald@nushackers.org</a> :)
+
+  - name: Ming Jun
+    description: |
+      a computer science undergraduate who enjoys building things that look good and do good.
+      When he's not tinkering with code, he's probably out exploring new places or trying (his best) to harmonize in a barbershop choir.
+      Feel free to disturb him at <a href="mailto:mingjun@nushackers.org">mingjun@nushackers.org</a>
+
+  - name: Joshua Foo
+    description: |
+      an information security undergraduate who enjoys catching frisbees as much as he enjoys catching bugs in code.
+      He’s equally passionate about solving puzzles, playing board games, and testing his luck (and strategy) in poker.
+      Reach him at <a href="mailto:joshuafoo@nushackers.org">joshuafoo@nushackers.org</a>
+
+  - name: Jonathan Loh
+    description: |
+      a computer science undergraduate who enjoys building things that make people's lives easier. He spends as much time playing frisbee as he does coding.
+      He's always down to chat over a cup of coffee, or a game of bridge late into the night.
+      Reach him at <a href="mailto:jonathan@nushackers.org">jonathan@nushackers.org</a>

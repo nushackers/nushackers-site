@@ -1,0 +1,28 @@
+events:
+  - topic: Virtual Machines
+    venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    date: 2024-08-27T18:30:00
+
+  - topic: LaTeX
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-09-03T18:30:00
+
+  - topic: Beginner's Guide to the Terminal
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-09-10T18:30:00
+
+  - topic: Intro to Go
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-08T18:30:00
+
+  - topic: Chrome DevTools for Web Development
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-15T18:30:00
+
+  - topic: Introduction to Docker
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-22T18:30:00
+
+  - topic: Beginners Guide to Self Hosting
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-29T18:30:00

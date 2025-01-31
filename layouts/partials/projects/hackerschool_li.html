@@ -6,7 +6,7 @@
   <time class="hs-time" datetime={{ dateFormat "2006-01-02T15:04:05-07:00" .event.date }}>
     {{ dateFormat "Mon, Jan 2, 3:04pm" (time .event.date) }}
   </time>
-  <address class="events-address">{{ .event.venue }}</address>
+  <address class="events-address">{{ .event.venue | safeHTML }}</address>
   {{- if ne .event.sign_up nil -}}
     </a>
   {{- end -}}

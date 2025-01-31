@@ -62,6 +62,8 @@ links!
            title: <title>
       # if there is no friday hack, just put nohack: <reason>
       - nohack: <reason>
+      # If there is supposed to be a friday hack but no speakers yet:
+      - nospeaker: true
   ```
   - ❗️Each hack has a date tagged to it implicitly based on the order of the
     list. The first hack in the list will have `start_date` as the event date,

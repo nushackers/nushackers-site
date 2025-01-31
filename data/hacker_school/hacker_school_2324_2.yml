@@ -11,18 +11,15 @@ events:
   - topic: Introduction to Databases
     venue: COM3-01-20
     date: 2024-03-14T19:00:00
-  - topic: Introduction to Prompt Engineering for Generative AI
+  - topic: "NUS Hackers <> NUS Fintech Society: Generative AI and Prompt Engineering"
     venue: COM3-01-25
     date: 2024-03-20T19:00:00
   - topic: Introduction to LLMs
     venue: COM3-01-25
     date: 2024-03-27T19:00:00
+  - topic: "NUS Hackers <> NUS Fintech Society: Introduction to Explainable AI (XAI)"
+    venue: COM3-01-20
+    date: 2024-04-04T19:00:00
   - topic: TBC
-    venue: TBC
-    date: 2024-04-03T19:00:00
-  - topic: TBC
-    venue: TBC
-    date: 2024-04-10T19:00:00
-  - topic: TBC
-    venue: TBC
-    date: 2024-04-17T19:00:00
+    venue: COM3-01-25
+    date: 2024-04-09T19:00:00

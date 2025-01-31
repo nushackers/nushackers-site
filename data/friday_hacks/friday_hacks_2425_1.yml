@@ -1,0 +1,112 @@
+start_date: 2024-08-16 19:00:00 +0800
+start_nr: 258
+hacks:
+  - venue: <a href="https://maps.app.goo.gl/L4K8hrrsm9QYSgF87">UTown Auditorium 2, NUS</a>
+    blog_post: /2024/08/friday-hacks-258
+    topics:
+      - speaker: NUS Hackers Coreteam
+        title: NUS Hackers Welcome Tea
+
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2024/08/friday-hacks-259
+    topics:
+      - speaker: Eugene Lim
+        title: "Security-as-Code: Building our way to better security outcomes"
+        from: Open Government Products
+      - speaker: Olivier Danvy
+        title: "Continuations: Five minutes to learn, a lifetime to understand"
+        from: Professor, Yale-NUS College
+
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2024/08/friday-hacks-260
+    topics:
+      - speaker: Sheila Teo
+        title: How I Won GovTech Singapore's LLM Prompt Engineering Competition Then Built 3 LLM Products In 2024
+        from: Singapore Government
+
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/09/friday-hacks-261
+    topics:
+      - speaker: Lim Zui Young
+        title: Accessibility Testing with Purple A11y
+        from: GovTech Singapore
+      - speaker: Kevin Cheung
+        title: AutoCAD's Journey to the Web
+        from: AutoCAD
+
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/09/friday-hacks-262
+    topics:
+      - speaker: Michael Hu
+        title: How to share a secret (with your friends)
+        from: NUS PhD Candidate
+      - speaker: Nguyen Khoi Nguyen
+        title: AI in Complex Adversarial Games
+        from: NUS
+
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/09/friday-hacks-263
+    topics:
+      - speaker: Julian Ospald
+        title: Lessons learned from 2 decades of open source
+        from: Heilmann Software
+
+  - nohack: Recess Week
+  - nohack: Midterms
+
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/10/friday-hacks-264
+    topics:
+      - speaker: Timothy Tan
+        title: "MiTM Magic: Outsmarting SSO and 2FA Defenses"
+        from: Cyber Security Engineer @ Partior
+      - speaker: Katja Forbes
+        title: "Machines are Customers Too: The Next Frontier in Business Growth"
+        from: Head of CX @ Standard Chartered Bank
+
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/10/friday-hacks-265
+    topics:
+    - speaker: Joseph Teoh Tze Tzun
+      title: "Exploring AI Research: How to Get Started as an Undergraduate"
+      from: NUS Statistics and Data Science Society (NUS SDS)
+    - speaker: Adrian Goh
+      title: One Engineer, 400,000 Users
+      from: Technical Co-Founder, NodeFlair
+
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/10/friday-hacks-266
+    topics:
+      - speaker: Jialin Li
+        title: Operating System Design for Fast I/O
+        from: Assistant Professor @ NUS Computing
+      - speaker: Hao Hao Tan
+        title: '"Hey XXX, What Song Is This?” - A Gentle Introduction to Music Content Identification'
+        from: BandLab Technologies
+
+  - nohack: NUS Well-Being Day
+
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/11/friday-hacks-267
+    topics:
+      - speaker: Loke Hui Yi
+        title: "Achieving 100% Eva Synchro: Enhancing Enterprise Cybersecurity"
+        from: TikTok
+      - speaker: Xiyu Oh
+        title: Introduction to Open-RMF
+        from: Intrinsic
+
+  - venue: <a href="https://maps.app.goo.gl/AfQPqS11RgqwVaKE9">Seminar Room 3, COM1-02-12, NUS</a>
+    blog_post: /2024/11/friday-hacks-268
+    topics:
+      - speaker: Richard Qi
+        title: "I made a Mac app to replace the default app switcher"
+      - speaker: Wong Kok Rui
+        title: Predict My Pancreas for Fun and Profit
+      - speaker: Lam Chun Yu
+        title: Open-Source Productivity Tools for University
+      - speaker: 🤔⁉️
+        title: And maybe more? 👀
+      
+  - nohack: Reading Week
+  - nohack: Exam Week

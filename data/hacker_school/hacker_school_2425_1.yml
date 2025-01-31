@@ -1,0 +1,29 @@
+events:
+  - topic: Introduction to Electronic Music Production
+    venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    date: 2024-08-22T18:30:00
+
+  - topic: Game Engine Essentials with Godot
+    venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    date: 2024-08-29T19:00:00
+
+  - topic: Practical Python Workshop for Beginners
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-09-05T18:30:00
+
+  - topic: Debugging with GDB
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-09-12T18:30:00
+
+  - topic: Intro to AI for Computer Vision
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-10T18:30:00
+
+  - topic: >
+          Cybersecurity Essentials with Marshall Wace: From Basics to Practical Attacks
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-17T18:30:00
+
+  - topic: Introduction to UX/UI Design and Figma
+    venue: <a href="https://nusmods.com/venues/COM3-01-20">Seminar Room 11, COM3-01-20</a>
+    date: 2024-10-24T18:30:00

@@ -1,0 +1,32 @@
+{{ define "main" }}
+<main class="container main">
+  <section class="row section">
+    <div class="articles posts col-12 col-md-8 push-md-4">
+      <h1>{{ .Title }}</h1>
+      {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") 15 }}
+      {{ range $paginator.Pages.GroupByDate "2006"}}
+      <h1 class="articles-title"><a href="#">{{ .Key }}</a></h1>
+      <ul class="articles-list">
+        {{ range .Pages }}
+        <li class="item">
+          <article>
+            <header>
+              <h2 class="posts-title">
+                <a class="posts-link" href="{{ .Permalink }}">
+                  {{ .LinkTitle }}</a
+                >
+              </h2>
+              <div class="posts-meta">
+                {{ .Date.Format "Mon, Jan 2" }} • {{ .ReadingTime }} min read •
+                {{ .Params.author }}
+              </div>
+            </header>
+          </article>
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }} {{ template "_internal/pagination.html" . }}
+    </div>
+  </section>
+</main>
+{{ end }}
