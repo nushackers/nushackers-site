@@ -1,7 +1,7 @@
 start_date: 2025-02-07 19:00:00 +0800
-start_nr: 258
+start_nr: 269
 hacks:
-  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: Hack&Roll Winners
         title: H&R 2025 Projects
@@ -10,7 +10,7 @@ hacks:
       - speaker: TBC
         title: TBC
         from: Jane Street
-  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: Evan You
         title: Rust toolchain for javascript (tentative)
@@ -20,28 +20,28 @@ hacks:
         from: Allium
   - nohack: Recess Week
   - nohack: Midterm Week
-  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: Crystal Widjaja
         title: TBC
         from: Reforge
       - speaker: Sook-Yee Chong
         title: TBC
-  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: TBC
         title: TBC
       - speaker: TBC
         title: TBC
   - nohack: Recess Week
-  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: Camillus Chai
         title: TBC
       - speaker: Tim Stuart
         title: TBC
         from: ASTAR
-  - venue: <a href="https://maps.app.goo.gl/gympaPig7Ba5ss8D6">NUS COM1 SR12</a>
+  - venue: <a href="https://www.google.com/maps/search/?api=1&query=1.2949252184799644%2C103.77431055530907">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: TBC
         title: TBC
