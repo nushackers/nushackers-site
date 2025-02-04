@@ -2,6 +2,7 @@ start_date: 2025-02-07 19:00:00 +0800
 start_nr: 269
 hacks:
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/02/friday-hacks-269
     topics:
       - speaker: Hack&Roll Winners
         title: H&R 2025 Projects
