@@ -7,10 +7,12 @@ hacks:
       - speaker: Hack&Roll Winners
         title: H&R 2025 Projects
   - venue: <a href="https://nusmods.com/venues/COM3-01-23">Seminar Room 14, COM3-01-23, NUS</a>
+    blog_post: /2025/02/friday-hacks-270
     topics:
-      - speaker: TBC
-        title: TBC
+      - speaker: Shenghan, Shi-Jie Khor
+        title: "From Code to Trades: The Role of CS Graduates in a Quantitative Trading Firm"
         from: Jane Street
+    date_override: 2025-02-13 19:00:00 +0800
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: Evan You
@@ -23,29 +25,31 @@ hacks:
   - nohack: Midterm Week
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
-      - speaker: Crystal Widjaja
+      - speaker: Davis Zheng
         title: TBC
-        from: Reforge
       - speaker: Sook-Yee Chong
         title: TBC
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
-      - speaker: TBC
+      - speaker: Teik Guan Tan
         title: TBC
-      - speaker: TBC
+        from: pQCee
+      - speaker: David Goh
         title: TBC
+        from: Project Sa'Bai
   - nohack: NUS Well-Being Day
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: Camillus Chai
         title: TBC
+      - speaker: Crystal Widjaja
+        title: TBC
+        from: Reforge
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    topics:
       - speaker: Tim Stuart
         title: TBC
         from: ASTAR
-  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
-    topics:
-      - speaker: TBC
-        title: TBC
       - speaker: TBC
         title: TBC
   - nohack: Good Friday
