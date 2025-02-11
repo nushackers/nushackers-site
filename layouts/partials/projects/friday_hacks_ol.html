@@ -3,7 +3,12 @@
     {{ $s := newScratch }}
     {{ $s.Set "nr" .start_series_num }}
     {{ range $index, $hack := .hacks }}
-        {{ $hackDate := add $startDateUnix (mul $index 604800) }} <!-- 604800 = 7 days in seconds -->
+    {{ $hackDate := $startDateUnix }}
+        {{ if and (isset $hack "date_override") (ne $hack.date_override nil) }}
+            {{ $hackDate = (time $hack.date_override).Unix }}
+        {{ else }}
+            {{ $hackDate = add $startDateUnix (mul $index 604800) }}
+        {{ end }}
         {{ partial "projects/friday_hacks_li.html" (dict "hack" $hack "hackDate" $hackDate "seriesNum" ($s.Get "nr")) }}
         {{ if not $hack.nohack }}
           {{ $s.Add "nr" 1 }}
