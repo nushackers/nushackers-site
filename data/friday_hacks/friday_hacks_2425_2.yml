@@ -14,12 +14,13 @@ hacks:
         from: Jane Street
     date_override: 2025-02-13 19:00:00 +0800
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/02/friday-hacks-271
     topics:
       - speaker: Evan You
-        title: Rust toolchain for javascript (tentative)
+        title: Vite, Rust, and the future of JavaScript tooling
         from: void(0), VueJS, Vite
       - speaker: Herbert
-        title: TBC
+        title: How to move terabytes of data around
         from: Allium
   - nohack: Recess Week
   - nohack: Midterm Week
@@ -28,7 +29,7 @@ hacks:
       - speaker: Davis Zheng
         title: TBC
       - speaker: Sook-Yee Chong
-        title: TBC
+        title: 'Future of Banking with Generative AI: Creating Synthetic Financial Data'
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
       - speaker: Teik Guan Tan
