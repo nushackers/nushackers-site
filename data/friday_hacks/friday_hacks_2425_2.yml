@@ -28,17 +28,18 @@ hacks:
     blog_post: /2025/03/friday-hacks-272
     topics:
       - speaker: Sook-Yee Chong
-        title: 'Future of Banking with Generative AI: Creating Synthetic Financial Data'
+        title: "Future of Banking with Generative AI: Creating Synthetic Financial Data"
       - speaker: Davis Zheng
         title: Cyber Threat Intelligence Introduction and Deep Dive
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/03/friday-hacks-273
     topics:
-      - speaker: Teik Guan Tan
-        title: TBC
-        from: pQCee
       - speaker: David Goh
         title: "Project Sa'Bai Computing: Integrating Technology with Healthcare Services in Cambodia"
         from: Project Sa'Bai
+      - speaker: Teik Guan Tan
+        title: Knowledge Sharing Session on Post-Quantum Security
+        from: pQCee
   - nohack: NUS Well-Being Day
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
@@ -52,7 +53,7 @@ hacks:
       - speaker: Tim Stuart
         title: TBC
         from: ASTAR
-      - speaker: Benjamin Long (tentative)
+      - speaker: Pin Sym Foong (tentative)
         title: TBC
   - nohack: Good Friday
   - nohack: Reading Week
