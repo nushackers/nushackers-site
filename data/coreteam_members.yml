@@ -83,12 +83,6 @@ members:
       a CS undergrad interested in mobile apps, playing tons of pool and drinking coffee.
       Ask him anything at <a href="mailto:tangyetong@nushackers.org">tangyetong@nushackers.org</a>.
 
-  - name: Rebecca
-    description: |
-      a Business Administration undergraduate who enjoys exploring and learning all things web3.
-      Previously a film student, she occasionally relaxes by watching a good film and trying new hobbies for fun.
-      Hit her up at <a href="mailto:Rebecca@nushackers.org">Rebecca@nushackers.org</a>.
-
   - name: Hejin
     description: |
       a CS undergraduate who appreciates the sweet and bitter of the cs people life.
@@ -155,12 +149,6 @@ members:
       a computer science undergraduate who loves the thrill of building side projects and discovering new technologies, all while enjoying a good cup of coffee.
       He enjoys music and watching movies. Reach him at <a href="mailto:houman@nushackers.org">houman@nushackers.org</a>.
 
-  - name: Donald
-    description: |
-      a computer science undergraduate by day and caffeine connoisseur by night.
-      He loves taking long walks and cafe hopping.
-      Ask him for a free cuppa at <a href="mailto:donald@nushackers.org">donald@nushackers.org</a> :)
-
   - name: Ming Jun
     description: |
       a computer science undergraduate who enjoys building things that look good and do good.
@@ -170,7 +158,7 @@ members:
   - name: Joshua Foo
     description: |
       an information security undergraduate who enjoys catching frisbees as much as he enjoys catching bugs in code.
-      He’s equally passionate about solving puzzles, playing board games, and testing his luck (and strategy) in poker.
+      He's equally passionate about solving puzzles, playing board games, and testing his luck (and strategy) in poker.
       Reach him at <a href="mailto:joshuafoo@nushackers.org">joshuafoo@nushackers.org</a>
 
   - name: Jonathan Loh
