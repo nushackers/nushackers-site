@@ -4,7 +4,9 @@ description: Past Sessions
 date: "2014-06-11"
 ---
 
-### school.nushackers.org
+## FAQ
+
+### What happened to school.nushackers.org?
 
 We are retiring our old hackerschool site starting AY21/22. For materials for hackerschool sessions before AY21/22, [please visit our legacy site](https://school.nushackers.org).
 
