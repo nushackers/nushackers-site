@@ -19,15 +19,15 @@ events:
     venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13, COM3-01-22, NUS</a>
     date: 2025-03-20T18:30:00
 
-  - topic: TBC
+  - topic: Introduction to Machine Learning
     venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13, COM3-01-22, NUS</a>
     date: 2025-03-27T18:30:00
 
-  - topic: TBC
+  - topic: Introduction to CI/CD with GitHub
+    venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13, COM3-01-22, NUS</a>
+    date: 2025-04-01T18:30:00
+
+  - topic: Introduction to Flask
     venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13, COM3-01-22, NUS</a>
     date: 2025-04-03T18:30:00
-
-  - topic: TBC
-    venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13, COM3-01-22, NUS</a>
-    date: 2025-04-10T18:30:00
 
