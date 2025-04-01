@@ -22,7 +22,7 @@ I used to think that being able to think, code, and communicate simultaneously w
 
 My recent job search has led me on a journey to improve my coding interview skills. Front-end engineers like to rant about how the current hiring process is broken because technical interviews can include skills not related to front-end development. For example, writing a maze solving algorithm and merging two sorted lists of numbers. As a front-end engineer myself, I can empathize with them.
 
-{{< tweet 716997357624287232 >}}
+{{< tweet user="ThePracticalDev" id="716997357624287232" >}}
 
 Front end is a specialized domain where engineers have to care about many issues related to browser compatibilities, the Document Object Model, JavaScript performance, CSS layouts, and so on. It is uncommon for front-end engineers to implement some of the complex algorithms tested in interviews.
 At companies like Facebook and Google, the people are software engineers first, domain experts second.
