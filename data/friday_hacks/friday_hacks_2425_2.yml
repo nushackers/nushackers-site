@@ -42,11 +42,13 @@ hacks:
         from: pQCee
   - nohack: NUS Well-Being Day
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/04/friday-hacks-274
     topics:
-      - speaker: Camillus Chai
-        title: TBC
+      - speaker: Camillus Cai
+        title: "Hack the Stack: Android Platform Security & Bug Bounty"
+        from: Google
       - speaker: Crystal Widjaja
-        title: TBC
+        title: "Metrics That Mattered: Taking Calculated Risks at Gojek"
         from: Reforge
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     topics:
