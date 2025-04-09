@@ -51,12 +51,14 @@ hacks:
         title: "Metrics That Mattered: Taking Calculated Risks at Gojek"
         from: Reforge
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/04/friday-hacks-275
     topics:
       - speaker: Tim Stuart
-        title: TBC
-        from: ASTAR
-      - speaker: Pin Sym Foong (tentative)
-        title: TBC
+        title: "DNA, Data & Debugging: Building Tools for Genomics"
+        from: A*STAR
+      - speaker: Pin Sym Foong
+        title: "From Interface to Impact: Understanding HCI's Contribution to Modern Health Practices"
+        from: 
   - nohack: Good Friday
   - nohack: Reading Week
   - nohack: Exam Week
