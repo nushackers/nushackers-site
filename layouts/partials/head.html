@@ -1,7 +1,9 @@
 {{ partial "meta.html" . }}
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 <link rel="dns-prefetch" href="//fonts.googleapis.com/">
+{{ if hugo.IsProduction }}
 <script async src="https://umami.nushackers.org/script.js" data-website-id="7f127048-7099-46ba-9e9b-ec74a06e173d"></script>
+{{ end }}
 {{ $scss_options := (dict "targetPath" "/css/main.css" "outputStyle" "compressed" "includePaths" (slice "node_modules")) }}
 {{ $postcss_options := dict "config" "postcss.config.js" "noMap" true }}
 {{ $scss := resources.Get "scss/main.scss" }}
