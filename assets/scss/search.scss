@@ -90,9 +90,13 @@ $link-hover-color: $hackers-orange;
     max-height: 90vh !important;
     overflow-y: auto !important;
   }
+
+  .pagefind-ui__results {
+    padding-bottom: 2rem !important;
+  }
   
   .pagefind-ui__button {
-    margin-bottom: 10vh !important;
+    margin-bottom: 2rem !important;
   }
 }
 
