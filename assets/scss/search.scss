@@ -88,12 +88,13 @@ $link-hover-color: $hackers-orange;
 
   .pagefind-ui__results-area {
     max-height: 90vh !important;
+    padding-bottom: 1rem !important;
     overflow-y: auto !important;
     overscroll-behavior: contain !important;
   }
 
   .pagefind-ui__results {
-    padding-bottom: 2rem !important;
+    padding: 1rem !important;
   }
   
   .pagefind-ui__button {

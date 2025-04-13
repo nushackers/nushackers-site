@@ -54,6 +54,10 @@ document.addEventListener('DOMContentLoaded', function() {
     if (mobileExitButton) {
         mobileExitButton.addEventListener('click', function(e) {
             e.preventDefault();
+
+            // force pagefind to clear results
+            document.getElementsByClassName('pagefind-ui__search-clear')[0].click();
+
             closeSearch();
         });
     }
