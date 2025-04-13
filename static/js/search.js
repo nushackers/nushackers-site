@@ -5,7 +5,12 @@ document.addEventListener('DOMContentLoaded', function() {
       element: "#search",
       showSubResults: true,
       showImages: false,
-      sort: { date: "desc" } // sort by date descending
+      sort: { date: "desc" }, // sort by date descending
+      translations: {
+        placeholder: "Search anything from NUSHackers...",
+        zero_results: "Couldn't find [SEARCH_TERM]. Try searching for something else.",
+    }
+      
     });
     
     const searchContainer = document.getElementById('search');

@@ -55,7 +55,7 @@ $link-hover-color: $hackers-orange;
     border: none;
     font-size: 24px;
     position: absolute;
-    right: 1rem;
+    right: 1.5rem;
     top: 1rem;
     color: $button-link-color;
     cursor: pointer;
@@ -63,7 +63,13 @@ $link-hover-color: $hackers-orange;
   }
 }
 
-@media (max-width: 768px) {
+@include media-breakpoint-down(sm) {
+  .search-text {
+    display: inline !important; // show search text
+  }
+}
+
+@media (max-width: 576px) {
   #search {
     position: fixed;
     top: 0;
