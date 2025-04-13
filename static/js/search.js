@@ -38,8 +38,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     document.addEventListener('click', function(e) {
-      if (!searchContainer.contains(e.target) && !searchToggle.contains(e.target)) {
-        closeSearch();
+      if (!searchContainer.contains(e.target) && !searchToggle.contains(e.target) && window.innerWidth >= 768) {
+      closeSearch();
       }
     });
     
@@ -48,4 +48,13 @@ document.addEventListener('DOMContentLoaded', function() {
         closeSearch();
       }
     });
+
+    const mobileExitButton = searchContainer.querySelector('.mobile-search-exit');
+    
+    if (mobileExitButton) {
+        mobileExitButton.addEventListener('click', function(e) {
+            e.preventDefault();
+            closeSearch();
+        });
+    }
 });

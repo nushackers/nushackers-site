@@ -47,6 +47,20 @@ $link-hover-color: $hackers-orange;
     max-height: 70vh;
     overflow-y: auto;
   }
+
+  .mobile-search-exit {
+    display: none;
+    z-index: 9999;
+    background: none;
+    border: none;
+    font-size: 24px;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    color: $button-link-color;
+    cursor: pointer;
+    padding: 0.5rem;
+  }
 }
 
 @media (max-width: 768px) {
@@ -56,8 +70,29 @@ $link-hover-color: $hackers-orange;
     left: 0;
     right: 0;
     max-width: 100%;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
+  }
+
+  .mobile-search-exit {
+    display: block !important;
+  }
+
+  .pagefind-ui__search-input {
+    padding-right: 5rem !important;
+  }
+
+  .pagefind-ui__search-clear {
+    display: none !important;
+  }
+
+  .pagefind-ui__results-area {
+    max-height: 90vh !important;
+    overflow-y: auto !important;
+  }
+  
+  .pagefind-ui__button {
+    margin-bottom: 10vh !important;
   }
 }
 
