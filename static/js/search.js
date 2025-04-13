@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
       element: "#search",
       showSubResults: true,
       showImages: false,
-      sort: { date: "desc" }
+      sort: { date: "desc" } // sort by date descending
     });
     
     const searchContainer = document.getElementById('search');
@@ -22,9 +22,10 @@ document.addEventListener('DOMContentLoaded', function() {
         searchContainer.classList.remove('fade-out');
         searchIcon.style.display = 'inline';
         closeIcon.style.display = 'none';
-      }, 125); 
+      }, 125); // 125ms to prevent flicker behaviour
     }
     
+    // toggle from search icon
     searchToggle.addEventListener('click', function(e) {
       e.preventDefault();
       if (searchContainer.style.display === 'none') {
@@ -38,11 +39,14 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     document.addEventListener('click', function(e) {
-      if (!searchContainer.contains(e.target) && !searchToggle.contains(e.target) && window.innerWidth >= 768) {
-      closeSearch();
+      // Check if the click is outside the search container when not on mobile, and click was due to 'more results' button
+      if (!searchContainer.contains(e.target) && !searchToggle.contains(e.target) && 
+      window.innerWidth >= 768 && !e.target.classList.contains('pagefind-ui__button')) {
+        closeSearch();
       }
     });
     
+    // close search on escape key
     document.addEventListener('keydown', function(e) {
       if (e.key === 'Escape' && searchContainer.style.display === 'block') {
         closeSearch();
