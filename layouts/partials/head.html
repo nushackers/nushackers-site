@@ -8,9 +8,13 @@
 {{ $postcss_options := dict "config" "postcss.config.js" "noMap" true }}
 {{ $scss := resources.Get "scss/main.scss" }}
 {{ $style := $scss | resources.ToCSS $scss_options | resources.PostCSS $postcss_options | resources.Fingerprint }}
+
 <link rel="preload" href="{{ $style.RelPermalink }}" as="style">
+<link rel="preload" href="/pagefind/pagefind-ui.css" as="style">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Rubik:400,500">
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+
 {{ if .IsHome }}
 {{ range $event := $.Site.Data.events.events }}
 <link rel="dns-prefetch" href="{{ $event.url }}"/>

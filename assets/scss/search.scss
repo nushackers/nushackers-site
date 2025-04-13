@@ -1,0 +1,84 @@
+$hackers-orange: #e66000;
+$highlight-orange: #f8941d;
+$button-link-color: #4a4a4a;
+$link-color: $hackers-orange;
+$link-hover-color: $hackers-orange;
+
+@import "./animation.scss";
+
+.search-section {
+  position: absolute;
+  background: white;
+  padding: 1rem;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+
+  animation-duration: 150ms;
+  animation-timing-function: $standard-curve;
+  animation-name: fade-up;
+
+  &.fade-out {
+    animation-duration: 150ms;
+    animation-timing-function: $standard-curve;
+    animation-name: fade-down;
+    pointer-events: none;
+  }
+
+  .pagefind-ui {
+    --pagefind-ui-scale: 0.8;
+    --pagefind-ui-primary: #e66000;
+    --pagefind-ui-text: #000;
+    --pagefind-ui-background: #fff;
+    --pagefind-ui-border: #e66000;
+    --pagefind-ui-border-width: 1px;
+  }
+
+  .pagefind-ui__search-input {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .pagefind-ui__search-input:focus {
+    outline: 1.5px solid #f8941d; 
+  }
+
+  .pagefind-ui__results-area {
+    max-height: 70vh;
+    overflow-y: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  #search {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    max-width: 100%;
+    height: 100vh;
+    border-radius: 0;
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0.25;
+    transform: translateY(0.3rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fade-down {
+  from {
+    opacity: 1;
+    transform: none;
+  }
+  to {
+    opacity: 0;
+    transform: translateY(0.3rem);
+  }
+}

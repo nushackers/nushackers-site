@@ -1,10 +1,13 @@
 {{ define "main" }}
 <main class="container main">
+  {{ partial "search.html" . }}
   <section class="row justify-content-center section">
+    <a hidden data-pagefind-sort="date">2099-01-01</a>
+
     {{ if .Pages }}
-    <article class="col-12 col-md-8">
+    <article class="col-12 col-md-8" data-pagefind-body>
         <header class="section-header">
-            <h1 class="section-title">{{ .Title }}</h1>
+            <h1 data-pagefind-meta="title" class="section-title">{{ .Title }}</h1>
         </header>
         <div class="section-content">
             {{ .Content }}
@@ -16,9 +19,9 @@
       {{ end }}
     </aside>
     {{ else }}
-    <article class="col-12 col-md-10">
+    <article class="col-12 col-md-10" data-pagefind-body>
         <header class="section-header">
-            <h1 class="section-title">{{ .Title }}</h1>
+            <h1 data-pagefind-meta="title" class="section-title">{{ .Title }}</h1>
         </header>
         <div class="section-content">
             {{ .Content }}
@@ -27,4 +30,9 @@
     {{ end }}
   </section>
 </main>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+<script>{{ readFile "static/js/search.js" | safeJS }}</script>
 {{ end }}

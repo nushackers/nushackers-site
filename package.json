@@ -4,8 +4,9 @@
     "description": "Sup! This is the source code of the nushackers blog site http://nushackers.org.",
     "license": "MIT",
     "scripts": {
-        "build": "hugo --gc",
-        "dev": "hugo server"
+        "build": "hugo --gc && npx pagefind --site public",
+        "dev": "hugo server",
+        "full-dev": "hugo --gc && npx pagefind --site public --serve"
     },
     "devDependencies": {
         "bootstrap": "^4.6.1",
