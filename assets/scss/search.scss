@@ -87,18 +87,18 @@ $link-hover-color: $hackers-orange;
   }
 
   .pagefind-ui__results-area {
-    max-height: 90vh !important;
-    padding-bottom: 1rem !important;
+    max-height: calc(90dvh - 2rem) !important;
+    margin-bottom: 2rem !important;
     overflow-y: auto !important;
     overscroll-behavior: contain !important;
   }
 
   .pagefind-ui__results {
-    padding: 1rem !important;
+    padding-bottom: 1rem !important;
   }
   
   .pagefind-ui__button {
-    margin-bottom: 2rem !important;
+    margin-bottom: 1rem !important;
   }
 }
 
