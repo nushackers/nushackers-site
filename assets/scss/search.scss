@@ -89,6 +89,7 @@ $link-hover-color: $hackers-orange;
   .pagefind-ui__results-area {
     max-height: 90vh !important;
     overflow-y: auto !important;
+    overscroll-behavior: contain !important;
   }
 
   .pagefind-ui__results {
