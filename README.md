@@ -10,15 +10,24 @@ To get started, you'll need:
 1. [Hugo v0.111.3 (the extended version)](https://github.com/gohugoio/hugo/releases/tag/v0.111.3)
 2. Yarn v1 with a recent version of NodeJS
 
-Then clone this repository and run
+To set up
+1. Clone this repository and install dependencies
+    ```bash
+    git clone https://github.com/nushackers/nushackers-site.git
+    yarn install # install dependencies
+    ```
+2. Start Development Server (with Live Reload)
+    ```bash
+    yarn dev # start dev server at localhost:1313
+    ```
+3. (Alternate): Serve Build (with pagefind)
+    ```bash
+    yarn full-dev # serve public build at http://localhost:1414
+    ```
 
-```bash
-yarn install # install dependencies
-yarn dev # start development server
-```
+Note that `yarn dev` starts a dev server at <http://localhost:1313>, where hugo watches and updates the site when any changes are made. 
 
-Hugo will now generate the site and watch the directory and update the site when
-any changes are made. You can access the site at <http://localhost:1313>.
+`yarn full-dev` runs [pagefind](https://github.com/CloudCannon/pagefind) on all pages, then serves the full build on <http://localhost:1414>, where is is **NO** live reload.
 
 ## Data Management 📊
 
