@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
       showImages: false,
       sort: { date: "desc" }, // sort by date descending
       translations: {
-        placeholder: "Search anything from NUSHackers...",
+        placeholder: "Search anything from NUS Hackers...",
         zero_results: "Couldn't find [SEARCH_TERM]. Try searching for something else.",
     }
       
