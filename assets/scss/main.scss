@@ -25,6 +25,7 @@ body {
   animation-duration: 295ms;
   animation-timing-function: $standard-curve;
   animation-name: fade-up;
+  position: relative;
 }
 
 @keyframes fade-up {
@@ -76,3 +77,4 @@ body {
 @import "./front-page.scss";
 @import "./articles.scss";
 @import "./paginate.scss";
+@import "./search.scss";
