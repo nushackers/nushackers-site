@@ -169,14 +169,14 @@ members:
 
   - name: ZhengHao
     description: |
-      a computer science undergraduate who enjoys brainstorming crazy ideas that can change the world, 
-      though most of them might not be too practical. In his free time, you can see him either playing video games 
-      or working on his ambitious projects. He also enjoys running and swimming. 
+      a computer science undergraduate who enjoys brainstorming crazy ideas that can change the world,
+      though most of them might not be too practical. In his free time, you can see him either playing video games
+      or working on his ambitious projects. He also enjoys running and swimming.
       Reach him at <a href="mailto:zhenghao@nushackers.org">zhenghao@nushackers.org</a>.
 
   - name: Abhijay
     description: |
-      a Computer Science Undergraduate who loves to design and conjure up new ideas for projects. He enjoys playing football and badminton, 
+      a Computer Science Undergraduate who loves to design and conjure up new ideas for projects. He enjoys playing football and badminton,
       but you might also catch him dabbling in art from time to time.
       Reach him at <a href="mailto:abhijay@nushackers.org">abhijay@nushackers.org</a>.
 
@@ -192,3 +192,11 @@ members:
       He has seen VS Code in his dreams, and the experience has frightened him deeply.
       After waking up, he enjoys coffee and jazz.
       Ping him at <a href="mailto:leslie@nushackers.org">leslie@nushackers.org</a>.
+
+  - name: Yik Jin
+    description: |
+      a computer engineering undergraduate who is interested in a mix of
+      software, hardware, and security engineering. When not working on
+      assignments or nerdy projects, he likes to master the art of potato in his
+      room. Say hi to him at
+      <a href="mailto:yikjin@nushackers.org">yikjin@nushackers.org</a>! :D
