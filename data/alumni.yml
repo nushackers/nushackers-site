@@ -378,3 +378,15 @@ members:
     description: |
       a CS undergrad. Current interests: Home Lab on a shoestring budget and automating my home away!
       Send ideas here: <a href="mailto:hackers@francisyzy.com">hackers@francisyzy.com</a>.
+
+  - name: Kok Rui
+    description: |
+      a computer science undergraduate whose specific interests within computing seem to change every year or so.
+      He enjoys watching sports, playing GeoGuessr, and walking around random countries.
+      You can email him at <a href="mailto:kokrui@nushackers.org">kokrui@nushackers.org</a>.
+
+  - name: Shuwen
+    description: |
+      a computer science undergraduate who loves to learn new technology stacks that can allow her to turn ideas into real products.
+      She can’t resist pink or white coloured electronic devices and computer accessories.
+      Feel free to reach her at <a href="mailto:shuwen@nushackers.org">shuwen@nushackers.org</a>.
