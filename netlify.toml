@@ -7,4 +7,4 @@
   YARN_VERSION = "1.22.17"
 
 [context.deploy-preview]
-  command = "yarn run build -b $DEPLOY_PRIME_URL"
+  command = "yarn run partial-build -b $DEPLOY_PRIME_URL && npx pagefind --site public --output-subdir pagefind"
