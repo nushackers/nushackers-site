@@ -77,3 +77,6 @@ typings/
 
 # IDE
 .idea/
+
+# Local Netlify folder
+.netlify

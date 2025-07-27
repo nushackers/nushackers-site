@@ -32,12 +32,28 @@
     font-size: 0.9rem;
 
     @extend .clear-list;
-    @include media-breakpoint-up(sm) {
+
+    @media (max-width: 576px) {
+      justify-content: center !important;
+    }
+
+    @include media-breakpoint-down(sm) {
       font-size: 1rem;
+      max-width: 400px;
+      width: 100%;
+      margin: 0 auto;
+      margin-top: 0.2rem;
+      justify-content: left;
+      gap: 0.2rem;
     }
     @include media-breakpoint-up(lg) {
+      font-size: 1.2rem; // reduce text size to ensure single line navbar
+    }
+    @include media-breakpoint-up(xl) {
       font-size: 1.25rem;
     }
+
+    
   }
   .nav-menu-item {
     position: relative;
@@ -61,6 +77,11 @@
     padding: 0.3rem 0.4rem 0.1rem;
     text-decoration: none;
     color: black;
+
+    .search-text {
+      display: none;
+      padding-right: 0.2rem;
+    }
 
     @include media-breakpoint-up(md) {
       padding: 0.4rem 0.5rem 0.2rem;
