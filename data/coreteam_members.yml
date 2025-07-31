@@ -1,9 +1,10 @@
 ---
 members:
-  - name: Ravern
+  - name: Jonathan Loh
     description: |
-      a Computer Science undergraduate interested in programming languages and software engineering. He also enjoys reading, climbing and watching movies.
-      Reach out to him at <a href="mailto:ravern@nushackers.org">ravern@nushackers.org</a>.
+      a computer science undergraduate who enjoys building things that make people's lives easier. He spends as much time playing frisbee as he does coding.
+      He's always down to chat over a cup of coffee, or a game of bridge late into the night.
+      Reach him at <a href="mailto:jonathan@nushackers.org">jonathan@nushackers.org</a>
 
   - name: Zhao Wei
     description: |
@@ -72,6 +73,11 @@ members:
       reading books and cycling, and keeps an eye out for any deliciously interesting or cynical quotes. Say hi to
       him at <a href="mailto:parth@nushackers.org">parth@nushackers.org</a>.
 
+  - name: Ravern
+    description: |
+      a Computer Science undergraduate interested in programming languages and software engineering. He also enjoys reading, climbing and watching movies.
+      Reach out to him at <a href="mailto:ravern@nushackers.org">ravern@nushackers.org</a>.
+      
   - name: Jia Hao
     description: |
       a computer science undergraduate who enjoys learning and talking about the many sides of computer science (but mostly
@@ -160,12 +166,6 @@ members:
       an information security undergraduate who enjoys catching frisbees as much as he enjoys catching bugs in code.
       He's equally passionate about solving puzzles, playing board games, and testing his luck (and strategy) in poker.
       Reach him at <a href="mailto:joshuafoo@nushackers.org">joshuafoo@nushackers.org</a>
-
-  - name: Jonathan Loh
-    description: |
-      a computer science undergraduate who enjoys building things that make people's lives easier. He spends as much time playing frisbee as he does coding.
-      He's always down to chat over a cup of coffee, or a game of bridge late into the night.
-      Reach him at <a href="mailto:jonathan@nushackers.org">jonathan@nushackers.org</a>
 
   - name: ZhengHao
     description: |
