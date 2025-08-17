@@ -1,0 +1,15 @@
+start_date: 2025-08-15 19:00:00 +0800
+start_nr: 276
+hacks:
+  - venue: <a href="https://nusmods.com/venues/UT-AUD2">UTown Auditorium 2, NUS</a>
+    blog_post: /2025/08/friday-hacks-276
+    topics:
+      - speaker: NUS Hackers
+        title: NUS Hackers Welcome Tea
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/08/friday-hacks-277
+    topics:
+      - speaker: Dr. Asankhaya Sharma
+        title: "OpenEvolve: Towards Open Evolutionary Agents"
+      - speaker: Dr. Bogdan Tudor
+        title: Sequencers, Speed and the Strategic Life of an Order
