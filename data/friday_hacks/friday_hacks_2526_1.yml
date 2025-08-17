@@ -1,0 +1,47 @@
+start_date: 2025-08-15 19:00:00 +0800
+start_nr: 276
+hacks:
+  - venue: <a href="https://nusmods.com/venues/UT-AUD2">UTown Auditorium 2, NUS</a>
+    blog_post: /2025/08/friday-hacks-276
+    topics:
+      - speaker: NUS Hackers
+        title: NUS Hackers Welcome Tea
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/08/friday-hacks-277
+    topics:
+      - speaker: Dr. Asankhaya Sharma
+        title: "OpenEvolve: Towards Open Evolutionary Agents"
+      - speaker: Dr. Bogdan Tudor
+        title: Sequencers, Speed and the Strategic Life of an Order
+        from: Virtu Financial
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/08/friday-hacks-278
+    topics:
+      - speaker: Wu Xiaoyun
+        title: "[TBC] Rewriting a Critical Payment Services in Rust"
+      - speaker: TBC
+        title: TBC
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/09/friday-hacks-279
+    topics:
+      - speaker: Martin Henz
+        title: TBC
+      - speaker: Terry
+        title: "Keeping Code Fresh: 20 Years of Lizard and Counting"
+  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/09/friday-hacks-281
+    topics:
+      - speaker: TBC
+        title: TBC
+        from: Jane Street
+  - nohack: Recess Week
+  - nohack: Midterms
+  - nospeaker: true
+  - nospeaker: true
+  - nospeaker: true
+  - nospeaker: true
+  - nospeaker: true
+  - nospeaker: true
+  - nohack: Reading Week
+  - nohack: Exam Week
