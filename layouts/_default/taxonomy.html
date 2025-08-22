@@ -2,7 +2,15 @@
 <div class="container">
   <div class="row">
     <div>
-      <h1>View All {{ .Title }} Posts</h1>
+      {{ if eq .Title "Categories" }}
+      <h1>All {{ .Title }}</h1>
+      {{ range .Pages }}
+      <h3>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </h3>
+      {{ end }} {{ else }}
+
+      <h1>All {{ .Title }}</h1>
       {{ range .Pages.GroupByDate "2006" }}
       <h3>{{ .Key }}</h3>
       <ul>
@@ -12,7 +20,7 @@
         </li>
         {{ end }}
       </ul>
-      {{ end }}
+      {{ end }} {{ end }}
     </div>
   </div>
 </div>
