@@ -2,10 +2,10 @@
 author: omer
 categories:
   - Friday Hacks
-  - Uncategorized
+
 comments: true
 date: 2013-01-16T00:00:00.000Z
-title: 'Friday Hacks #37, Jan 18'
+title: "Friday Hacks #37, Jan 18"
 url: /2013/01/friday-hacks-37
 ---
 

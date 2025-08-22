@@ -2,7 +2,6 @@
 author: michael
 categories:
   - Friday Hacks
-  - Uncategorized
 comments: true
 date: 2014-03-04T00:00:00.000Z
 title: 'Friday Hacks #65, March 7'

@@ -3,10 +3,9 @@ author: ejames
 categories:
   - Friday Hacks
   - Events
-  - Friday Hacks
 comments: true
 date: 2011-11-03T00:00:00.000Z
-title: 'Friday Hacks #8'
+title: "Friday Hacks #8"
 url: /2011/11/friday-hacks-8
 ---
 

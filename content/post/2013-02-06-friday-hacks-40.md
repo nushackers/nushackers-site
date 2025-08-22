@@ -2,14 +2,15 @@
 author: benedict
 categories:
   - Friday Hacks
-  - Uncategorized
+
 comments: true
 date: 2013-02-06T00:00:00.000Z
-title: 'Friday Hacks #40, Feb 8'
+title: "Friday Hacks #40, Feb 8"
 url: /2013/02/friday-hacks-40
 ---
 
 This week we have Michael Rawlinson, who will share with us the job prospects in the UK. Those interested in the Interactive Entertainment Industry should definitely come for the talk!
+
 <blockquote><strong>Date/Time:</strong> Friday, February 8 at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 <strong>Sign up here:</strong> <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>
@@ -29,6 +30,7 @@ Michael Rawlinson was CEO of UKIE (WWW.UKIE.ORG.UK ) the trade association for t
 During his tenure he transformed the organisation from being solely focused on representing publishers when it was called ELSPA to broadening it remit to encompass the whole of the interactive entertainment sector.
 
 Other highlights include:
+
 <ul>
 <li>
 the creation of the first Pan-European content classification system – PEGI (www.pegi.info ),

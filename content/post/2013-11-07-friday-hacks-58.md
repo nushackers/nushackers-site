@@ -2,14 +2,15 @@
 author: admin
 categories:
   - Friday Hacks
-  - Uncategorized
+
 comments: true
 date: 2013-11-07T00:00:00.000Z
-title: 'Friday Hacks #58, Nov 8'
+title: "Friday Hacks #58, Nov 8"
 url: /2013/11/friday-hacks-58
 ---
 
 This week we have Lee Chuk Munn.
+
 <blockquote><strong>Date/Time:</strong> Friday, November 8 at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 <strong>Sign up here:</strong> <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>

@@ -2,10 +2,10 @@
 author: admin
 categories:
   - Friday Hacks
-  - Uncategorized
+
 comments: true
 date: 2013-11-15T00:00:00.000Z
-title: 'Friday Hacks #59, Nov 15'
+title: "Friday Hacks #59, Nov 15"
 url: /2013/11/friday-hacks-59
 ---
 

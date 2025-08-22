@@ -3,7 +3,6 @@ author: ejames
 categories:
   - Friday Hacks
   - Events
-  - Friday Hacks
 comments: true
 date: 2011-08-28T00:00:00.000Z
 title: 'Friday Hacks #1'

@@ -2,14 +2,15 @@
 author: vishnu
 categories:
   - Friday Hacks
-  - Uncategorized
+
 comments: true
 date: 2014-03-19T00:00:00.000Z
-title: 'Friday Hacks #67, March 21'
+title: "Friday Hacks #67, March 21"
 url: /2014/03/friday-hacks-67
 ---
 
 This friday, we have a talk by Lee Chun Munn from Institute of Systems Science about what's new in Java 8. See you there!
+
 <blockquote><strong>Date/Time</strong>: Friday, March 21th at 6:30pm
 <strong>Venue</strong>: SR2, Education Resource Centre, University Town
 <strong>Map</strong>: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>

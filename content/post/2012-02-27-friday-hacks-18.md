@@ -3,7 +3,6 @@ author: admin
 categories:
   - Friday Hacks
   - Events
-  - Friday Hacks
 comments: true
 date: 2012-02-27T00:00:00.000Z
 title: Friday Hacks Talk 2nd Mar - Building responsive frontends with Backbone.js
@@ -11,6 +10,7 @@ url: /2012/02/friday-hacks-18
 ---
 
 {{< imglink src="/img/2012/02/417599_304279572963816_164904410234667_838981_1516059813_n.jpeg" alt="" >}}
+
 <div>We're back from the Semester Break with 2 talks this Friday Hacks :)</div>
 <div><span>
 <strong>- Location</strong><strong>:</strong> Seminar Room 2, UTown ERC Level 2</span>

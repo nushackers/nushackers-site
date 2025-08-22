@@ -2,14 +2,15 @@
 author: admin
 categories:
   - Friday Hacks
-  - Uncategorized
+
 comments: true
 date: 2013-10-02T00:00:00.000Z
-title: 'Friday Hacks #53, Oct 4'
+title: "Friday Hacks #53, Oct 4"
 url: /2013/10/friday-hacks-53
 ---
 
 This week we have Cedric Chin and Divyanshu Arora.
+
 <blockquote><strong>Date/Time:</strong> Friday, October 4 at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 <strong>Sign up here:</strong> <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>
