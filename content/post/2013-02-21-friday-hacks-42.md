@@ -1,10 +1,11 @@
 ---
 author: benedict
 categories:
-  - Uncategorized
+  - Friday Hacks
+
 comments: true
 date: 2013-02-21T00:00:00.000Z
-title: 'Friday Hacks #42, Feb 22'
+title: "Friday Hacks #42, Feb 22"
 url: /2013/02/friday-hacks-42
 ---
 

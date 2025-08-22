@@ -3,6 +3,8 @@ author: Jingwen
 date: 2015-03-16T10:37:25.000Z
 title: 'Friday Hacks #90, March 20'
 url: /2015/03/friday-hacks-90
+categories:
+  - Friday Hacks
 ---
 
 We'll be having two talks this week! The first will be about building developer

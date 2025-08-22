@@ -3,6 +3,8 @@ author: Jingwen
 date: 2015-01-19T11:53:25.000Z
 title: 'Friday Hacks #85, January 23'
 url: /2015/01/friday-hacks-85
+categories:
+  - Friday Hacks
 ---
 
 This Friday, we'll be having Sundaravalli Shriram from PayPal speaking about an

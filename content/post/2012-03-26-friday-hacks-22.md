@@ -1,8 +1,8 @@
 ---
 author: admin
 categories:
-  - Events
   - Friday Hacks
+  - Events
 comments: true
 date: 2012-03-26T00:00:00.000Z
 title: Friday Hacks Talk 30th Mar - Philosophy of Unix
@@ -11,6 +11,7 @@ url: /2012/03/friday-hacks-22
 
 <span style="font-family: arial,helvetica,sans-serif;">{{< imglink src="/img/2012/03/unix_plate.jpg" alt="" >}}
 </span>
+
 <div></div>
 <div>
 <div><p><span style="font-family: arial,helvetica,sans-serif;">In conjunction with Linux Week, we have Professor Michael Brown with us!</span></div>

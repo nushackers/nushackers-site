@@ -3,6 +3,8 @@ author: Joey
 date: 2014-09-19T16:56:01.000Z
 title: 'Friday Hacks #76, September 19'
 url: /2014/09/friday-hacks-76
+categories:
+  - Friday Hacks
 ---
 
 ... let's play a game. Solve programming challenges this week at Friday Hacks, with a twist – shortest solutions win! JavaScript, Python and others accepted for Code Golf.

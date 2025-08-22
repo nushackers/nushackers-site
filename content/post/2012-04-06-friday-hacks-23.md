@@ -1,7 +1,8 @@
 ---
 author: ejames
 categories:
-  - Uncategorized
+  - Friday Hacks
+
 comments: true
 date: 2012-04-06T00:00:00.000Z
 title: Friday Hacks Talk 6th Apr -Big Data & Intro to Erlang

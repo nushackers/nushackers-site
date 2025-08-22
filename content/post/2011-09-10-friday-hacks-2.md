@@ -1,11 +1,11 @@
 ---
 author: ejames
 categories:
-  - Events
   - Friday Hacks
+  - Events
 comments: true
 date: 2011-09-10T00:00:00.000Z
-title: 'Friday Hacks #2 Recap'
+title: "Friday Hacks #2 Recap"
 url: /2011/09/friday-hacks-2
 ---
 
@@ -34,6 +34,7 @@ The slides are available for download <a href="/downloads/pcb.pdf">here</a>, and
 </ul>
 
 Anyone who's interested in buying the above may contact James at <script type="text/javascript" language="javascript">
+
 <!--
 { coded = "7RXFi0yQcXF@FyH0Q.fRy"
   key = "gKzQGH7xn9ouwE6vckYUMFBDP5mLhXZRpVb2Tfi134SAlNaytOJrI8Cjseq0Wd"
@@ -52,7 +53,9 @@ Anyone who's interested in buying the above may contact James at <script type="t
 document.write("<a href='mailto:"+link+"'>yongkimleng@gmail.com</a>")
 }
 //-->
+
 </script><noscript>Sorry, you need Javascript turned on to see this email.</noscript> and Tay Wenbin at <script type="text/javascript" language="javascript">
+
 <!--
 { coded = "HYpEbP3wP@0FYwo.BjF"
   key = "KEROPr50CvbyHVad6LFslhGDMiAcW3p29Yuz1Txo4ZQ8wqBnIXgNfektJ7jUSm"
@@ -71,6 +74,7 @@ document.write("<a href='mailto:"+link+"'>yongkimleng@gmail.com</a>")
 document.write("<a href='mailto:"+link+"'>taywenbin@gmail.com</a>")
 }
 //-->
+
 </script><noscript>Sorry, you need Javascript turned on to see this email.</noscript>
 
 (Note: the above two email addresses are obfuscated by Javascript, so you'll need to turn your JS on to see it).

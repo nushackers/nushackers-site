@@ -1,14 +1,16 @@
 ---
 author: admin
 categories:
-  - Uncategorized
+  - Friday Hacks
+
 comments: true
 date: 2013-10-30T00:00:00.000Z
-title: 'Friday Hacks #57, Nov 1'
+title: "Friday Hacks #57, Nov 1"
 url: /2013/10/friday-hacks-57
 ---
 
 This week we have Giovanni Casinelli.
+
 <blockquote><strong>Date/Time:</strong> Friday, November 1 at 6:30pm
 <strong>Venue:</strong> SR2, Education Resource Centre, University Town. Map: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
 <strong>Sign up here:</strong> <a href="//bit.ly/fridayhacks2013">//bit.ly/fridayhacks2013</a>

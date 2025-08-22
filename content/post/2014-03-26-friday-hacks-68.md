@@ -1,14 +1,16 @@
 ---
 author: vishnu
 categories:
-  - Uncategorized
+  - Friday Hacks
+
 comments: true
 date: 2014-03-26T00:00:00.000Z
-title: 'Friday Hacks #68, March 28'
+title: "Friday Hacks #68, March 28"
 url: /2014/03/friday-hacks-68
 ---
 
 This friday, we have a talk by the awesome Beng Eu about he built NUSMods. See you there! (Also, a little birdie tells us that Jeff Moss <em>might</em> be attending FH this week :))
+
 <blockquote><strong>Date/Time</strong>: Friday, March 28th at 6:30pm
 <strong>Venue</strong>: SR2, Education Resource Centre, University Town
 <strong>Map</strong>: <a href="//goo.gl/maps/2Zy3M">//goo.gl/maps/2Zy3M</a>
@@ -18,6 +20,7 @@ This friday, we have a talk by the awesome Beng Eu about he built NUSMods. See y
 <div>
 
 <strong style="line-height: 1.5em;"></strong>
+
 <div>
 <div>Ever wondered how you could go about building an app like NUSMods?</div>
 </div>

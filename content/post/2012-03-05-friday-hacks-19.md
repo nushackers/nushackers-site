@@ -1,8 +1,8 @@
 ---
 author: admin
 categories:
-  - Events
   - Friday Hacks
+  - Events
 comments: true
 date: 2012-03-05T00:00:00.000Z
 title: Friday Hacks Talk 9th Mar - FREE Nokia Lumia 710 Giveaway + 2 Talks
@@ -12,6 +12,7 @@ url: /2012/03/friday-hacks-19
 <strong>"A Technical Introduction to the Windows Phone Platform"</strong> by Mani Krishnamurthy, Nokia EDX Technical Manager
 
 <strong></strong><strong>"Sync, Sink, Sync"</strong> by Mohit Singh Kanwal, NUS Student
+
 <div>
 <div><img src="/img/2012/03/2012-03-02_211700.png" alt="Inline image 1" /></div>
 </div>

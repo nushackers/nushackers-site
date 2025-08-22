@@ -1,6 +1,7 @@
 ---
 author: ejames
 categories:
+  - Friday Hacks
   - Meetings
 comments: true
 date: 2012-02-09T00:00:00.000Z

@@ -3,6 +3,8 @@ author: Jingwen
 date: 2015-04-07T10:37:25.000Z
 title: 'Friday Hacks #92, April 10'
 url: /2015/04/friday-hacks-92
+categories:
+  - Friday Hacks
 ---
 
 We'll be having three security researchers from the Ministry of Home Affairs --

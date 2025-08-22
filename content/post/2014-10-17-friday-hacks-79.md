@@ -3,6 +3,8 @@ author: Joey
 date: 2014-10-17T16:29:44.000Z
 title: 'Friday Hacks #79, October 17'
 url: /2014/10/friday-hacks-79
+categories:
+  - Friday Hacks
 ---
 
 Meet Palantir at next week's Friday Hacks!

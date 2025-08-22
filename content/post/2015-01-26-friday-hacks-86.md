@@ -3,6 +3,8 @@ author: Jingwen
 date: 2015-01-26T22:08:25.000Z
 title: 'Friday Hacks #86, January 30'
 url: /2015/01/friday-hacks-86
+categories:
+  - Friday Hacks
 ---
 
 We will be having two talks this Friday! One is on software (databases), the

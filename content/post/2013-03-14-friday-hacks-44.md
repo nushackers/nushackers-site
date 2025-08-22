@@ -1,10 +1,11 @@
 ---
 author: michael
 categories:
-  - Uncategorized
+  - Friday Hacks
+
 comments: true
 date: 2013-03-14T00:00:00.000Z
-title: 'Friday Hacks #44, Mar 15'
+title: "Friday Hacks #44, Mar 15"
 url: /2013/03/friday-hacks-44
 ---
 
@@ -23,7 +24,7 @@ As always, there'll be drinks, pizza and a fun crowd to mingle with.
 
 We look forward to seeing you there!
 
-*Tell us what you think about this alternative format of Friday Hacks :)
+\*Tell us what you think about this alternative format of Friday Hacks :)
 
 ==============================
 

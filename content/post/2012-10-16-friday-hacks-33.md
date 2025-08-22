@@ -1,10 +1,11 @@
 ---
 author: ejames
 categories:
-  - Uncategorized
+  - Friday Hacks
+
 comments: true
 date: 2012-10-16T00:00:00.000Z
-title: 'Friday Hacks #33, Oct 19'
+title: "Friday Hacks #33, Oct 19"
 url: /2012/10/friday-hacks-33
 ---
 
@@ -19,7 +20,7 @@ Talks start promptly at 7pm. You are welcome to stay and mingle (or hack!) after
 <h3>Talk 1: Sound and Interaction in the browser using the WebAudio API</h3>
 
 <strong>Preparation:</strong>
-If you want to "code along" to make some noise of your own, bring your computer with the Chrome *Canary* Browser installed.
+If you want to "code along" to make some noise of your own, bring your computer with the Chrome _Canary_ Browser installed.
 
 <strong>Talk Description:</strong>
 The formative WebAudio API will make powerful real-time and interactive sound synthesis standard fare for browsers. Coupled with new networking technologies, and APIs for accessing device capabilities, this ain't your grandmothers browser any more. The talk will present some recent explorations with WebAudio, discuss some of the open issues with the developing standard, and show you how you can add interactive sound to your web pages.

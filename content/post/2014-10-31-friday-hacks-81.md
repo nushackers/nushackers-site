@@ -3,6 +3,8 @@ author: Joey
 date: 2014-10-31T11:58:30.000Z
 title: 'Friday Hacks #81, October 31'
 url: /2014/10/friday-hacks-81
+categories:
+  - Friday Hacks
 ---
 
 Ever written code only to realise later it doesn't work for some particular case? Find out about some common assumptions developers make and what to do instead!

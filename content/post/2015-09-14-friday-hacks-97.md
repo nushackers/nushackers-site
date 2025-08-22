@@ -3,6 +3,8 @@ author: Jingwen
 date: 2015-09-14T10:37:25.000Z
 title: 'Friday Hacks #97, Sept 18'
 url: /2015/09/friday-hacks-97
+categories:
+  - Friday Hacks
 ---
 
 Ever wondered how PayPal or other large companies scale their infrastructure to address large traffic? Ryan, a software engineer from PayPal, will be explaining different ways to do it.

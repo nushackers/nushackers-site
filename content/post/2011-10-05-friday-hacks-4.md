@@ -1,11 +1,11 @@
 ---
 author: ejames
 categories:
-  - Events
   - Friday Hacks
+  - Events
 comments: true
 date: 2011-10-05T00:00:00.000Z
-title: 'Friday Hacks #4 Recap'
+title: "Friday Hacks #4 Recap"
 url: /2011/10/friday-hacks-4
 ---
 

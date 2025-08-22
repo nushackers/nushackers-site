@@ -1,10 +1,11 @@
 ---
 author: benedict
 categories:
-  - Uncategorized
+  - Friday Hacks
+
 comments: true
 date: 2013-04-17T00:00:00.000Z
-title: 'Friday Hacks #48, Apr 19'
+title: "Friday Hacks #48, Apr 19"
 url: /2013/04/friday-hacks-48
 ---
 

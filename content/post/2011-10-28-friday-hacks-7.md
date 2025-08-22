@@ -1,11 +1,11 @@
 ---
 author: rctay
 categories:
-  - Events
   - Friday Hacks
+  - Events
 comments: true
 date: 2011-10-28T00:00:00.000Z
-title: 'Friday Hacks #7'
+title: "Friday Hacks #7"
 url: /2011/10/friday-hacks-7
 ---
 

@@ -1,10 +1,11 @@
 ---
 author: michael
 categories:
-  - Uncategorized
+  - Friday Hacks
+
 comments: true
 date: 2013-03-08T00:00:00.000Z
-title: 'Friday Hacks #43, Mar 8'
+title: "Friday Hacks #43, Mar 8"
 url: /2013/03/friday-hacks-43
 ---
 

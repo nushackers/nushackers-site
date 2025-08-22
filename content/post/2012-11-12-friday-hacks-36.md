@@ -1,16 +1,18 @@
 ---
 author: ejames
 categories:
-  - Uncategorized
+  - Friday Hacks
+
 comments: true
 date: 2012-11-12T00:00:00.000Z
-title: 'Friday Hacks #36, Nov 16: On Impact - An Introduction to Palantir'
+title: "Friday Hacks #36, Nov 16: On Impact - An Introduction to Palantir"
 url: /2012/11/friday-hacks-36
 ---
 
 This Friday, Palantir will be coming to NUS to give a recruiting talk. Food will be served after the talk, and a <strong>Nexus 7 giveaway </strong>will be held for one lucky registrant at the end of the event.
 
 To sign up for this talk, and to apply for job opportunities at Palantir, please register at this link: <a href="//bit.ly/palantir-sg-2012" target="_blank">//bit.ly/palantir-<wbr>sg-2012</wbr></a>
+
 <p style="text-align: center;">{{< imglink src="/img/2012/11/palantir-2012-NUS.png" alt="" >}}</p>
 
 <div>
