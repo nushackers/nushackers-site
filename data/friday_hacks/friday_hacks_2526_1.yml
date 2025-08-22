@@ -37,7 +37,13 @@ hacks:
         from: Jane Street
   - nohack: Recess Week
   - nohack: Midterms
-  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/10/friday-hacks-282
+    topics:
+      - speaker: TBC
+        title: TBC
+      - speaker: Vercel
+        title: TBC
   - nospeaker: true
   - nospeaker: true
   - nospeaker: true
