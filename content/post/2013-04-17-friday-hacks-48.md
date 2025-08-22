@@ -1,6 +1,7 @@
 ---
 author: benedict
 categories:
+  - Friday Hacks
   - Uncategorized
 comments: true
 date: 2013-04-17T00:00:00.000Z

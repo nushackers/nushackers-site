@@ -3,6 +3,8 @@ author: Jingwen
 date: 2015-08-29T10:37:25.000Z
 title: 'Friday Hacks #96, Sept 4'
 url: /2015/08/friday-hacks-96
+categories:
+  - Friday Hacks
 ---
 
 {{< friday_hack_header venue="Seminar Room 3, Town Plaza, University Town" date="Sept 4" >}}

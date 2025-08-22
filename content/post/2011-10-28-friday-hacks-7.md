@@ -1,6 +1,7 @@
 ---
 author: rctay
 categories:
+  - Friday Hacks
   - Events
   - Friday Hacks
 comments: true

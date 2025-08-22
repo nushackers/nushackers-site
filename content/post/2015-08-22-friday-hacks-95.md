@@ -3,6 +3,8 @@ author: Jingwen
 date: 2015-08-22T10:37:25.000Z
 title: 'Friday Hacks #95, August 28'
 url: /2015/08/friday-hacks-95
+categories:
+  - Friday Hacks
 ---
 
 {{< friday_hack_header venue="Seminar Room 2, School of Computing" date="August 28" >}}

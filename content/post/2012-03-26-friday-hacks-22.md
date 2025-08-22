@@ -1,6 +1,7 @@
 ---
 author: admin
 categories:
+  - Friday Hacks
   - Events
   - Friday Hacks
 comments: true

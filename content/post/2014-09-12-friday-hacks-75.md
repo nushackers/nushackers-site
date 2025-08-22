@@ -3,6 +3,8 @@ author: Joey
 date: 2014-09-12T15:08:08.000Z
 title: 'Friday Hacks #75, September 12'
 url: /2014/09/friday-hacks-75
+categories:
+  - Friday Hacks
 ---
 
 Learn about machine learning this week! Shamraz will share about using ML in geography and Shawn will show you how to use ML with scikit-learn.

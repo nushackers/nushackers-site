@@ -2,10 +2,16 @@
 <div class="container">
   <div class="row">
     <div>
-      {{ range .Pages }}
-      <h3>
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-      </h3>
+      <h1>View All {{ .Title }} Posts</h1>
+      {{ range .Pages.GroupByDate "2006" }}
+      <h3>{{ .Key }}</h3>
+      <ul>
+        {{ range .Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        </li>
+        {{ end }}
+      </ul>
       {{ end }}
     </div>
   </div>

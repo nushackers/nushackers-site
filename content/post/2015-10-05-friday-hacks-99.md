@@ -3,6 +3,8 @@ author: Jingwen
 date: 2015-10-05T00:14:25.000Z
 title: 'Friday Hacks #99, Oct 09'
 url: /2015/10/friday-hacks-99
+categories:
+  - Friday Hacks
 ---
 
 We're very happy to have two recent graduates of NUS School of Computing to speak at this week's Friday Hacks about a very important programming language construct: the parser. Omer will be introducing what monads are and how you can use them to build parsers, while Richard will give an overview about his FYP that lets you parse and evaluate C code inline in vim.

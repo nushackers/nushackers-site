@@ -1,6 +1,7 @@
 ---
 author: admin
 categories:
+  - Friday Hacks
   - Uncategorized
 comments: true
 date: 2013-10-24T00:00:00.000Z

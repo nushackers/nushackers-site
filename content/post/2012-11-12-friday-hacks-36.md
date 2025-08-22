@@ -1,6 +1,7 @@
 ---
 author: ejames
 categories:
+  - Friday Hacks
   - Uncategorized
 comments: true
 date: 2012-11-12T00:00:00.000Z

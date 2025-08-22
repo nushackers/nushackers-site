@@ -3,6 +3,8 @@ author: Joey
 date: 2014-11-14T18:05:44.000Z
 title: 'Friday Hacks #83, November 14'
 url: /2014/11/friday-hacks-83
+categories:
+  - Friday Hacks
 ---
 
 Join us for the last Friday Hacks of the semester this week! Find out what your peers have been up to, and take part in NUS Hackers' first Mystery Event! <strong>Please RSVP</strong> on <a href="https://www.facebook.com/events/368317163343825/">our Facebook event</a>. It'll help us in estimating numbers for the Mystery Event!

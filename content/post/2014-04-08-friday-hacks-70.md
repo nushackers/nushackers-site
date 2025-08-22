@@ -3,6 +3,8 @@ author: vishnu
 date: 2014-04-08T00:00:00.000Z
 title: 'Friday Hacks #70, April 11'
 url: /2014/04/friday-hacks-70
+categories:
+  - Friday Hacks
 ---
 
 For the last Friday hacks of the semester, we have 2 talks by engineers from Viki and Paypal! See you there!

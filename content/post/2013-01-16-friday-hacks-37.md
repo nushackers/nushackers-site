@@ -1,6 +1,7 @@
 ---
 author: omer
 categories:
+  - Friday Hacks
   - Uncategorized
 comments: true
 date: 2013-01-16T00:00:00.000Z

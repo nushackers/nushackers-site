@@ -1,6 +1,7 @@
 ---
 author: vishnu
 categories:
+  - Friday Hacks
   - Uncategorized
 comments: true
 date: 2014-03-31T00:00:00.000Z

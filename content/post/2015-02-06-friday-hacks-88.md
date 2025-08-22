@@ -3,6 +3,8 @@ author: Jingwen
 date: 2015-02-06T19:37:25.000Z
 title: 'Friday Hacks #88, February 13'
 url: /2015/02/friday-hacks-88
+categories:
+  - Friday Hacks
 ---
 
 Ever wanted to get involved in the tech/developer community but don't know where to

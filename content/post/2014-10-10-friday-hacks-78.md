@@ -3,6 +3,8 @@ author: Joey
 date: 2014-10-10T16:33:44.000Z
 title: 'Friday Hacks #78, October 10'
 url: /2014/10/friday-hacks-78
+categories:
+  - Friday Hacks
 ---
 
 This week's Friday Hacks is about cybercrime and NFC security by Vicky, Palo Alto Networks engineer, and Jeremias, NUS student, respectively!
