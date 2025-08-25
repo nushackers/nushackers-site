@@ -18,9 +18,9 @@ hacks:
     blog_post: /2025/08/friday-hacks-278
     topics:
       - speaker: Wu Xiaoyun
-        title: "[TBC] Rewriting a Critical Payment Services in Rust"
-      - speaker: TBC
-        title: TBC
+        title: Rewriting Services in Rust @ TikTok
+      - speaker: Sigurd Nordbye
+        title: The Hidden Power of APIs
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     blog_post: /2025/09/friday-hacks-279
     topics:
