@@ -20,7 +20,7 @@ hacks:
       - speaker: Wu Xiaoyun
         title: Rewriting Services in Rust @ TikTok
       - speaker: Sigurd Nordbye
-        title: The Hidden Power of APIs
+        title: The Hidden Power behind APIs
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     blog_post: /2025/09/friday-hacks-279
     topics:
