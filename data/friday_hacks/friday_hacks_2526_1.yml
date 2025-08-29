@@ -25,8 +25,8 @@ hacks:
     blog_post: /2025/09/friday-hacks-279
     topics:
       - speaker: Martin Henz
-        title: TBC
-      - speaker: Terry
+        title: Notional Machines for Modern Scripting Languages
+      - speaker: Terry Yin
         title: "Keeping Code Fresh: 20 Years of Lizard and Counting"
   - nospeaker: true
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
