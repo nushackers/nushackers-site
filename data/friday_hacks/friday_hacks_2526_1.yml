@@ -28,7 +28,13 @@ hacks:
         title: Notional Machines for Modern Scripting Languages
       - speaker: Terry Yin
         title: "Keeping Code Fresh: 20 Years of Lizard and Counting"
-  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/09/friday-hacks-280
+    topics:
+      - speaker: Li Kai
+        title: TBC
+      - speaker: Ritesh Hegde
+        title: "Automating AKS Deployments on Azure with Terraform: From Infrastructure to Workload"
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     blog_post: /2025/09/friday-hacks-281
     topics:
