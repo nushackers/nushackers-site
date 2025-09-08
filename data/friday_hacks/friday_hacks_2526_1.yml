@@ -32,7 +32,7 @@ hacks:
     blog_post: /2025/09/friday-hacks-280
     topics:
       - speaker: Li Kai
-        title: TBC
+        title: "Building a Compiler for a Presentation AI Assistant"
       - speaker: Ritesh Hegde
         title: "Automating AKS Deployments on Azure with Terraform: From Infrastructure to Workload"
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
