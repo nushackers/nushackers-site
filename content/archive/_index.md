@@ -9,6 +9,10 @@ Feel free to use the resources for your own workshops too, but please credit NUS
 
 You can find many more recordings on our [YouTube channel](https://www.youtube.com/@NUSHackersChannel) too.
 
+## Technical Tasks
+
+Here you can find our archive of [Friday Hack talks](/categories/friday-hacks), and [video recordings](https://www.youtube.com/@NUSHackersChannel/playlists).
+
 ## Programming Languages
 
 - Introduction to Rust: [resources](https://hckr.cc/hs2324s2-w4-resources) | [recording](https://www.youtube.com/watch?v=QMV_044Q2f8&ab_channel=NUSHackers)

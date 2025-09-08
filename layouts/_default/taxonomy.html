@@ -1,27 +1,36 @@
 {{ define "main" }}
-<div class="container">
-  <div class="row">
-    <div>
-      {{ if eq .Title "Categories" }}
-      <h1>All {{ .Title }}</h1>
-      {{ range .Pages }}
-      <h3>
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-      </h3>
-      {{ end }} {{ else }}
+<main class="row justify-content-center single main">
+  {{ partial "search.html" . }}
 
-      <h1>All {{ .Title }}</h1>
-      {{ range .Pages.GroupByDate "2006" }}
-      <h3>{{ .Key }}</h3>
-      <ul>
+  <section class="section col-12 col-md-8">
+    <div class="row">
+      <div>
+        {{ if eq .Title "Categories" }}
+        <h1 class="hero-title">All {{ .Title }}</h1>
         {{ range .Pages }}
-        <li>
+        <h3>
           <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-        </li>
-        {{ end }}
-      </ul>
-      {{ end }} {{ end }}
+        </h3>
+        {{ end }} {{ else }}
+
+        <h1 class="hero-title">All {{ .Title }}</h1>
+        {{ range .Pages.GroupByDate "2006" }}
+        <h3>{{ .Key }}</h3>
+        <ul>
+          {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }} {{ end }}
+      </div>
     </div>
-  </div>
-</div>
+  </section>
+</main>
+{{ end }} {{ define "scripts" }}
+<script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+<script>
+  {{ readFile "static/js/search.js" | safeJS }}
+</script>
 {{ end }}
