@@ -8,7 +8,7 @@ Our weekly Friday meetups are called Friday Hacks. They include one or two techn
 
 We have up to 2 talks at each session, with each talks being about 30&ndash;45 minutes long. Dinner is always served (usually pizza). Talks start at 7pm and food is typically served after the first talk.
 
-We believe that knowledge should be spread freely and openly. We typically record all our Friday Hacks sessions. Find our recordings [here](https://www.youtube.com/@NUSHackersChannel/playlists).
+We believe that knowledge should be spread freely and openly. We typically record all our Friday Hacks sessions. You can find our [archive of past Friday Hack talks](/categories/friday-hacks), and our [video recordings](https://www.youtube.com/@NUSHackersChannel/playlists) online.
 
 ![Friday Hacks #224](/img/fh.jpg)
 
