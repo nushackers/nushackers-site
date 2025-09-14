@@ -35,7 +35,7 @@ hacks:
         title: "Building a Compiler for a Presentation AI Assistant"
       - speaker: Ritesh Hegde
         title: "Automating AKS Deployments on Azure with Terraform: From Infrastructure to Workload"
-  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+  - venue: <a href="https://nusmods.com/venues/COM3-MPH">COM3-MPH, NUS</a>
     blog_post: /2025/09/friday-hacks-281
     topics:
       - title: Jane Street Estimathon®
