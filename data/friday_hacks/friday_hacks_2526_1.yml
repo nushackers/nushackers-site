@@ -45,10 +45,10 @@ hacks:
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     blog_post: /2025/10/friday-hacks-282
     topics:
-      - speaker: TBC
-        title: TBC
-      - speaker: Vercel
-        title: TBC
+      - speaker: Rach Pradhan
+        title: "The Bitter Lesson: Startups, AI, and the Future of Innovation"
+      - speaker: Robin Yoong
+        title: "From v0 to AI Cloud: Shipping AI Fast with Vercel"
   - nospeaker: true
   - nospeaker: true
   - nospeaker: true
