@@ -9,7 +9,7 @@ Feel free to use the resources for your own workshops too, but please credit NUS
 
 You can find many more recordings on our [YouTube channel](https://www.youtube.com/@NUSHackersChannel) too.
 
-## Technical Tasks
+## Technical Talks
 
 Here you can find our archive of [Friday Hack talks](/categories/friday-hacks), and [video recordings](https://www.youtube.com/@NUSHackersChannel/playlists).
 
