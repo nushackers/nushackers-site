@@ -49,10 +49,34 @@ hacks:
         title: "The Bitter Lesson: Startups, AI, and the Future of Innovation"
       - speaker: Robin Yoong
         title: "From v0 to AI Cloud: Shipping AI Fast with Vercel"
-  - nospeaker: true
-  - nospeaker: true
-  - nospeaker: true
-  - nospeaker: true
-  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2025/10/friday-hacks-283
+    topics:
+      - speaker: Noel Kwan
+        title: "Streaming Database Internals: RisingWave"
+      - speaker: Ruoyu Zhong
+        title: "Homebrew at Scale: Automated Builds and ARM64 Linux"
+  - nohack: NUS Well-Being Day
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    # blog_post: /2025/10/friday-hacks-284
+    topics:
+      - speaker: Harsh Gadodia
+        title: TBC
+      - speaker: Sheran Gunasekara
+        title: TBC
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    # blog_post: /2025/11/friday-hacks-285
+    topics:
+      - speaker: Ullas Kumar
+        title: "From 1G to 6G: The Evolution and Future of Mobile Communication Technologies"
+      - speaker: Charlie Yau
+        title: "Secret Management Made Simple with HashiCorp Vault"
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    # blog_post: /2025/11/friday-hacks-286
+    topics:
+      - speaker: TBC
+        title: TBC
+      - speaker: Ritesh Hegde [rescheduled]
+        title: "Automating AKS Deployments on Azure with Terraform: From Infrastructure to Workload"
   - nohack: Reading Week
   - nohack: Exam Week
