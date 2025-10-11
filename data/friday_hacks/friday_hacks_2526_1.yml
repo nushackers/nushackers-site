@@ -53,7 +53,7 @@ hacks:
     blog_post: /2025/10/friday-hacks-283
     topics:
       - speaker: Noel Kwan
-        title: TBC
+        title: "Streaming Database Internals: RisingWave"
       - speaker: Ruoyu Zhong
         title: "Homebrew at Scale: Automated Builds and ARM64 Linux"
   - nohack: NUS Well-Being Day
