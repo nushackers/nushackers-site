@@ -65,7 +65,7 @@ hacks:
       - speaker: Zayne Zhang
         title: Hacking AI and Hacking with AI
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
-    # blog_post: /2025/11/friday-hacks-285
+    blog_post: /2025/11/friday-hacks-285
     topics:
       - speaker: Ullas Kumar
         title: "From 1G to 6G: The Evolution and Future of Mobile Communication Technologies"
