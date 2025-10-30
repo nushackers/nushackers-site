@@ -58,12 +58,12 @@ hacks:
         title: "Homebrew at Scale: Automated Builds and ARM64 Linux"
   - nohack: NUS Well-Being Day
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
-    # blog_post: /2025/10/friday-hacks-284
+    blog_post: /2025/10/friday-hacks-284
     topics:
       - speaker: Harsh Gadodia
-        title: TBC
-      - speaker: Sheran Gunasekara
-        title: TBC
+        title: The Hacker's Mindset at Work
+      - speaker: Zayne Zhang
+        title: Hacking AI and Hacking with AI
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
     # blog_post: /2025/11/friday-hacks-285
     topics:
