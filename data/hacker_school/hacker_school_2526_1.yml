@@ -19,10 +19,10 @@ events:
     venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a>
     date: 2025-10-14T18:30:00
 
-  - topic: "Building Agentic AI Systems: From Principles to Practice"
-    venue: <a href="https://nusmods.com/venues/COM1-0206">Seminar Room 1 (COM1-0206)</a>
-    date: 2025-10-23T18:30:00
-
-  - topic: Introduction to Flutter
+  - topic: Introduction to Python
     venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a>
     date: 2025-10-28T18:30:00
+
+  - topic: Designing with Figma
+    venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a>
+    date: 2025-11-04T18:30:00
