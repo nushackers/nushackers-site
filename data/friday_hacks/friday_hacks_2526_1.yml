@@ -33,7 +33,7 @@ hacks:
     topics:
       - speaker: Li Kai
         title: "Building a Compiler for a Presentation AI Assistant"
-      - speaker: Ritesh Hegde
+      - speaker: Ritesh Hegde [cancelled]
         title: "Automating AKS Deployments on Azure with Terraform: From Infrastructure to Workload"
   - venue: <a href="https://nusmods.com/venues/COM3-MPH">COM3-MPH, NUS</a>
     blog_post: /2025/09/friday-hacks-281
@@ -72,10 +72,10 @@ hacks:
       - speaker: Charlie Yau
         title: "Secret Management Made Simple with HashiCorp Vault"
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
-    # blog_post: /2025/11/friday-hacks-286
+    blog_post: /2025/11/friday-hacks-286
     topics:
-      - speaker: TBC
-        title: TBC
+      - speaker: Martin Mirchev
+        title: "Strategic Platform for Autonomous Resilient and Trusted Agents @ NUS (SPARTAN)"
       - speaker: Ritesh Hegde [rescheduled]
         title: "Automating AKS Deployments on Azure with Terraform: From Infrastructure to Workload"
   - nohack: Reading Week
