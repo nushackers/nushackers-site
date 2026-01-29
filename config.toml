@@ -14,7 +14,7 @@ rssLimit = 10
 [params]
   description = "NUS Hackers"
   academicYear = "2526"
-  semester = 1
+  semester = 2
 
 [permalinks]
   post = "/:year/:month/:slug/"
