@@ -1,0 +1,10 @@
+start_date: 2026-01-30 19:00:00 +0800
+start_nr: 287
+hacks:
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/01/friday-hacks-287
+    topics:
+      - speaker: Terence and Yik Jin
+        title: "Quack & Roll: Making an electronic badge for over 1,000"
+      - speaker: Li Kai
+        title: "NUSMods: Building the timetable planner NUS relies on"
