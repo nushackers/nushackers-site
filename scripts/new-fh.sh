@@ -5,7 +5,7 @@ readonly FH_SCHED_DIR="data/friday_hacks"
 readonly TEMPLATE_SEMESTER_FILE="scripts/templates/fh_semester_template.yml"
 readonly TEMPLATE_POST_FILE="scripts/templates/fh_post_template.md"
 
-# Print usage information
+# print usage information
 usage() {
     cat << EOF
 Usage: $0 [OPTIONS]
@@ -23,16 +23,16 @@ Examples:
 EOF
 }
 
-# Find the latest Friday Hacks post number
+# find the latest Friday Hacks post number
 get_latest_fh_number() {
-    # Find all friday-hacks-<number>.md files, extract the number, and get the max
+    # find all friday-hacks-<number>.md files, extract the number, and get the max
     ls -1 "$FH_POSTS_DIR"/*friday-hacks-*.md 2>/dev/null | \
         sed -E 's/.*friday-hacks-([0-9]+)\.md/\1/' | \
         sort -n | \
         tail -1
 }
 
-# Find the latest semester file and get its info
+# find the latest semester file and get its info
 get_latest_semester_info() {
     local latest_file
     latest_file=$(ls -1 "$FH_SCHED_DIR"/friday_hacks_*.yml 2>/dev/null | sort | tail -1)
@@ -42,17 +42,17 @@ get_latest_semester_info() {
         return 1
     fi
     
-    # Extract filename without path
+    # extract filename without path
     local filename
     filename=$(basename "$latest_file")
     
-    # Extract acadyear and semester from filename "friday_hacks_<acadyear>_<semester>.yml"
-    # Using sed to extract: friday_hacks_2526_1.yml -> 2526 1
+    # extract acadyear and semester from filename "friday_hacks_<acadyear>_<semester>.yml"
+    # using sed to extract: friday_hacks_2526_1.yml -> 2526 1
     local acadyear semester
     acadyear=$(echo "$filename" | sed -E 's/friday_hacks_([0-9]+)_([0-9]+)\.yml/\1/')
     semester=$(echo "$filename" | sed -E 's/friday_hacks_([0-9]+)_([0-9]+)\.yml/\2/')
     
-    # Validate extraction
+    # validate extraction
     if [ -z "$acadyear" ] || [ -z "$semester" ] || [ "$acadyear" = "$filename" ]; then
         echo "Error: Could not parse semester file" >&2
         return 1
@@ -74,25 +74,25 @@ get_latest_semester_info() {
     echo "${next_acadyear}_${next_semester}"
 }
 
-# Create new semester file
+# create new semester file
 create_semester() {
     local start_date="$1"
     local start_nr="$2"
     
-    # Validate arguments
+    # validate arguments
     if [ -z "$start_date" ] || [ -z "$start_nr" ]; then
         echo "Error: -semester requires DATE and NUMBER arguments"
         usage
         return 1
     fi
     
-    # Validate date format
+    # validate date format
     if ! echo "$start_date" | grep -qE '^[0-9]{4}-[0-9]{2}-[0-9]{2}$'; then
         echo "Error: Invalid date format. Use YYYY-MM-DD"
         return 1
     fi
     
-    # Validate that start_nr is a number
+    # validate that start_nr is a number
     if ! echo "$start_nr" | grep -qE '^[0-9]+$'; then
         echo "Error: Start number must be a valid number"
         return 1
@@ -116,31 +116,31 @@ create_semester() {
         return 1
     fi
 
-    # Parse the date
+    # parse the date
     local year="${start_date%%-*}"
     local month_day="${start_date#*-}"
     local month="${month_day%%-*}"
     local day="${month_day##*-}"
     
-    # Read template and replace placeholders
+    # read template and replace placeholders
     local template_content
     template_content=$(cat "$TEMPLATE_SEMESTER_FILE")
     
-    # Replace placeholders (using sed for portability)
+    # replace placeholders (using sed for portability)
     template_content=$(echo "$template_content" | sed "s/YYYY/$year/g")
     template_content=$(echo "$template_content" | sed "s/MM/$month/g")
     template_content=$(echo "$template_content" | sed "s/DD/$day/g")
     template_content=$(echo "$template_content" | sed "s/XXX/$start_nr/g")
     
-    # Write to new file
+    # write to new file
     echo "$template_content" > "$new_filename"
     echo "Created new semester file: $new_filename"
 }
 
-# Convert month number to full month name
+# convert month number to full month name
 month_to_name() {
     local month=$1
-    # Remove leading zero to avoid octal interpretation
+    # remove leading zero to avoid octal interpretation
     month=$((10#$month))
     case $month in
         1) echo "January" ;;
@@ -159,11 +159,11 @@ month_to_name() {
     esac
 }
 
-# Create new Friday Hacks post
+# create new Friday Hacks post
 create_fh_post() {
     local date="$1"
     
-    # Validate date format YYYY-MM-DD
+    # validate date format YYYY-MM-DD
     if ! echo "$date" | grep -qE '^[0-9]{4}-[0-9]{2}-[0-9]{2}$'; then
         echo "Error: Invalid date format. Use YYYY-MM-DD"
         return 1
@@ -174,7 +174,7 @@ create_fh_post() {
         return 1
     fi
     
-    # Parse the date
+    # parse the date
     local year="${date%%-*}"
     local month_day="${date#*-}"
     local month="${month_day%%-*}"
@@ -182,7 +182,7 @@ create_fh_post() {
     local month_name
     month_name=$(month_to_name "$month")
     
-    # Get the latest Friday Hacks number
+    # get the latest Friday Hacks number
     local latest_num
     latest_num=$(get_latest_fh_number)
     
@@ -191,10 +191,10 @@ create_fh_post() {
         return 1
     fi
     
-    # Increment the number
+    # increment the number
     local new_num=$((latest_num + 1))
     
-    # Create new filename
+    # create new filename
     local new_filename="$FH_POSTS_DIR/${date}-friday-hacks-${new_num}.md"
     
     if [ -f "$new_filename" ]; then
@@ -202,18 +202,18 @@ create_fh_post() {
         return 1
     fi
     
-    # Read template and replace placeholders
+    # read template and replace placeholders
     local template_content
     template_content=$(cat "$TEMPLATE_POST_FILE")
     
-    # Replace placeholders (using sed for portability)
+    # replace placeholders (using sed for portability)
     template_content=$(echo "$template_content" | sed "s/YYYY/$year/g")
     template_content=$(echo "$template_content" | sed "s/MM/$month/g")
     template_content=$(echo "$template_content" | sed "s/DD/$day/g")
     template_content=$(echo "$template_content" | sed "s/XXX/$new_num/g")
     template_content=$(echo "$template_content" | sed "s/mmm/$month_name/g")
     
-    # Write to new file
+    # write to new file
     echo "$template_content" > "$new_filename"
     echo "Created new Friday Hacks post: $new_filename (Friday Hacks #$new_num)"
 }
