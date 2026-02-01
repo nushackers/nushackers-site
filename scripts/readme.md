@@ -1,4 +1,4 @@
-# NUS Hackers Scripts
+# Our Scripts
 
 ## Friday Hacks: [`./scripts/new-fh.sh`](./new-fh.sh)
 
