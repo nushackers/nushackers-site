@@ -1,6 +1,6 @@
 # Our Scripts
 
-## Friday Hacks: [`./scripts/new-fh.sh`](./new-fh.sh)
+## Friday Hacks: [`./scripts/new-fh.py`](./new-fh.py)
 
 Script to generate new Friday Hacks posts and semester schedule files.
 
@@ -8,27 +8,27 @@ Script to generate new Friday Hacks posts and semester schedule files.
 
 #### Help
 ```bash
-./scripts/new-fh.sh -h
+python ./scripts/new-fh.py -h
 ```
 
 #### Generate new FH semester schedule
 ```bash
-./scripts/new-fh.sh -semester <first-FH-date> <first-FH-number>
+python ./scripts/new-fh.py -semester <first-FH-date> <first-FH-number>
 ```
 
 Example:
 ```bash
-./scripts/new-fh.sh -semester 2026-01-30 287
+python ./scripts/new-fh.py -semester 2026-01-30 287
 ```
 
 #### Generate new FH blog post
 ```bash
-./scripts/new-fh.sh -fh <fh-date>
+python ./scripts/new-fh.py -fh <fh-date>
 ```
 
 Example:
 ```bash
-./scripts/new-fh.sh -fh 2026-01-30
+python ./scripts/new-fh.py -fh 2026-01-30
 ```
 
 ### How it works
@@ -41,6 +41,7 @@ Uses templates in the [`scripts/templates/`](./templates/) directory to generate
 - For creating new semester schedules, it automatically figures out the academic year and semester number from the previous one.
 - The semester schedule generation assumes that the first FH starts in week 3, with recess week, week 7 and reading week skipped. Public holidays are not considered.
 - The generated files are templates only, you will still need to copy the details over manually.
+- There is also a bash version of this script: [`./scripts/new-fh.sh`](./new-fh.sh). **The Python version is preferred.**
 
 ### Notes
 
