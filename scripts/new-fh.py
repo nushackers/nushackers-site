@@ -88,12 +88,12 @@ def get_latest_semester_info():
     
     return f"{next_acadyear}_{next_semester}"
 
-def validate_date(date_str):
+def validate_date(date_str: str) -> bool:
     """Validate date format YYYY-MM-DD"""
     pattern = re.compile(r"^\d{4}-\d{2}-\d{2}$")
     return pattern.match(date_str) is not None
 
-def month_to_name(month):
+def month_to_name(month: str) -> str:
     """Convert month number to full month name"""
     months = {
         1: "January", 2: "February", 3: "March", 4: "April",
@@ -102,7 +102,7 @@ def month_to_name(month):
     }
     return months.get(int(month), "Invalid")
 
-def create_semester(start_date, start_nr):
+def create_semester(start_date: str, start_nr: str) -> bool:
     """Create new semester file"""
     # Validate arguments
     if not start_date or not start_nr:
@@ -156,7 +156,7 @@ def create_semester(start_date, start_nr):
     print(f"Created new semester file: {new_filename}")
     return True
 
-def create_fh_post(date):
+def create_fh_post(date: str) -> bool:
     """Create new Friday Hacks post"""
     # Validate date format
     if not validate_date(date):
