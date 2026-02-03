@@ -220,10 +220,10 @@ def main():
 
     if args.semester:
         success = create_semester_schedule(args.semester[0], args.semester[1])
-        sys.exit(0 if success else 1)
+        sys.exit(success)
     elif args.fh:
         success = create_fh_post(args.fh)
-        sys.exit(0 if success else 1)
+        sys.exit(success)
     else:
         parser.print_help()
         sys.exit(0)
