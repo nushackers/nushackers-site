@@ -204,45 +204,29 @@ def main():
   %(prog)s -fh 2025-02-10"""
     )
 
-    subparsers = parser.add_subparsers(dest="command", help="Commands")
-
-    # FH semester schedule command
-    semester_parser = subparsers.add_parser(
-        "semester",
-        help="Create a new semester schedule file"
+    parser.add_argument(
+        "-semester",
+        nargs=2,
+        metavar=("DATE", "NUM"),
+        help="Create a new semester schedule file (requires DATE and NUM)"
     )
-    semester_parser.add_argument(
-        "date",
-        help="Start date in YYYY-MM-DD format"
-    )
-    semester_parser.add_argument(
-        "number",
-        help="Starting Friday Hacks number"
-    )
-
-    # FH blog post command
-    fh_parser = subparsers.add_parser(
-        "fh",
-        help="Create a new Friday Hacks post template"
-    )
-    fh_parser.add_argument(
-        "date",
-        help="Date in YYYY-MM-DD format"
+    parser.add_argument(
+        "-fh",
+        metavar="DATE",
+        help="Create a new Friday Hacks post template (requires DATE)"
     )
 
     args = parser.parse_args()
 
-    if args.command is None:
+    if args.semester:
+        success = create_semester_schedule(args.semester[0], args.semester[1])
+        sys.exit(0 if success else 1)
+    elif args.fh:
+        success = create_fh_post(args.fh)
+        sys.exit(0 if success else 1)
+    else:
         parser.print_help()
         sys.exit(0)
-
-    if args.command == "semester":
-        success = create_semester_schedule(args.date, args.number)
-        sys.exit(0 if success else 1)
-
-    elif args.command == "fh":
-        success = create_fh_post(args.date)
-        sys.exit(0 if success else 1)
 
 
 if __name__ == "__main__":
