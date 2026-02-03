@@ -1,71 +1,63 @@
 # Our Scripts
 
-## Friday Hacks: [`./scripts/new-fh.py`](./new-fh.py)
+## Friday Hacks Scripts
 
-Script to generate new Friday Hacks posts and semester schedule files.
+Scripts to generate new Friday Hacks posts and semester schedule files.
 
-### Usage
+### Generate new FH blog post: [`./scripts/new-fh-post.py`](./new-fh-post.py)
 
-#### Help
+#### Usage
+
+**Help:**
 ```bash
-python ./scripts/new-fh.py -h
-```
-or
-```bash
-./scripts/new-fh.py -h
+./scripts/new-fh-post.py -h
 ```
 
-**For FH semester schedule generation command:**
+**Generate new FH blog post:**
 ```bash
-python ./scripts/new-fh.py semester -h
-```
-or
-```bash
-./scripts/new-fh.py semester -h
-```
-
-**For FH blog post generation command:**
-```bash
-python ./scripts/new-fh.py fh -h
-```
-or
-```bash
-./scripts/new-fh.py fh -h
-```
-
-#### Generate new FH semester schedule
-```bash
-python ./scripts/new-fh.py semester <first-FH-date> <first-FH-number>
+./scripts/new-fh-post.py <fh-date>
 ```
 
 Example:
 ```bash
-python ./scripts/new-fh.py semester 2026-01-30 287
+./scripts/new-fh-post.py 2026-01-30
 ```
 
-#### Generate new FH blog post
+#### How it works
+
+- Uses the template in [`scripts/templates/fh_post_template.md`](./templates/fh_post_template.md) to generate the post file.
+- Automatically determines the FH number based on the previous FH number (last file in the folder when sorted in ascending order).
+- The generated file is a template only, you will still need to copy the details over manually.
+
+### Generate new FH semester schedule: [`./scripts/new-fh-sem.py`](./new-fh-sem.py)
+
+#### Usage
+
+**Help:**
 ```bash
-python ./scripts/new-fh.py fh <fh-date>
+./scripts/new-fh-sem.py -h
+```
+
+**Generate new FH semester schedule:**
+```bash
+./scripts/new-fh-sem.py <first-fh-date> <first-fh-number>
 ```
 
 Example:
 ```bash
-python ./scripts/new-fh.py fh 2026-01-30
+./scripts/new-fh-sem.py 2026-01-30 287
 ```
 
-### How it works
+#### How it works
 
-Uses templates in the [`scripts/templates/`](./templates/) directory to generate these files.
+- Uses the template in [`scripts/templates/fh_semester_template.yml`](./templates/fh_semester_template.yml) to generate the schedule file.
+- Automatically figures out the academic year and semester number from the previous one.
+- The semester schedule generation assumes that the first FH starts in week 3, with recess week, week 7 and reading week skipped. Public holidays are not considered.
+- The generated file is a template only, you will still need to copy the details over manually.
+
+### General Notes
 
 > [!WARNING]
 > **Dates MUST be in `YYYY-MM-DD` format.**
 
-- For creating new FH posts, it automatically determines the FH number based on the previous FH number (last file in the folder when sorted in ascending order).
-- For creating new semester schedules, it automatically figures out the academic year and semester number from the previous one.
-- The semester schedule generation assumes that the first FH starts in week 3, with recess week, week 7 and reading week skipped. Public holidays are not considered.
-- The generated files are templates only, you will still need to copy the details over manually.
-- There is also a bash version of this script: [`./scripts/new-fh.sh`](./new-fh.sh). **The Python version is preferred.**
-
-### Notes
-
-Meant to replace the old script `scripts/gen_fh.py` since it uses an older format of FH post and has dependencies.
+- These scripts are meant to replace the old script `scripts/gen_fh.py` since it uses an older format of FH post and has dependencies.

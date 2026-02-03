@@ -11,17 +11,14 @@ from typing import Any, Dict, Tuple
 ###############################
 # Directories, template files #
 ###############################
-FH_POSTS_DIR = os.path.join("content", "posts")
 FH_SCHED_DIR = os.path.join("data", "friday_hacks")
 TEMPLATE_SEMESTER_FILE = os.path.join("scripts", "templates", "fh_semester_template.yml")
-TEMPLATE_POST_FILE = os.path.join("scripts", "templates", "fh_post_template.md")
 
 
 ##################
 # Regex patterns #
 ##################
 DATE_PATTERN = re.compile(r"^(\d{4})-(\d{2})-(\d{2})$")
-FH_BLOG_POST_PATTERN = re.compile(r"^.*friday-hacks-(\d+)\.md$")
 FH_SCHED_PATTERN = re.compile(r"^friday_hacks_(\d{2})(\d{2})_([12])\.yml$")
 
 
@@ -37,73 +34,6 @@ def replace_placeholders(template: str, replacements: Dict[str, Any]) -> str:
     for placeholder, value in replacements.items():
         template = template.replace(placeholder, str(value))
     return template
-
-####################################
-# Friday Hacks blog post functions #
-####################################
-def get_latest_fh_number() -> int | None:
-    """Find the latest Friday Hacks post number"""
-    if not os.path.exists(FH_POSTS_DIR):
-        print("Posts directory not found: " + FH_POSTS_DIR, file=sys.stderr)
-        return None
-
-    blog_posts = [f for f in os.listdir(FH_POSTS_DIR) if FH_BLOG_POST_PATTERN.match(f)]
-
-    if not blog_posts:
-        print("No Friday Hacks posts found in " + FH_POSTS_DIR, file=sys.stderr)
-        return None
-
-    return max(blog_posts)
-
-def create_fh_post(date: str) -> bool:
-    """Create new Friday Hacks post"""
-    # validate date format
-    if not validate_date(date):
-        print("Error: Invalid date format. Use YYYY-MM-DD")
-        return False
-
-    # check template file exists
-    if not os.path.exists(TEMPLATE_POST_FILE):
-        print(f"Error: Template file not found at {TEMPLATE_POST_FILE}")
-        return False
-
-    # parse the date
-    year, month, day = validate_date(date)
-    month_name = calendar.month_name[int(month)]
-
-    # get the latest Friday Hacks number
-    latest_num = get_latest_fh_number()
-    if latest_num is None:
-        print("Error: Could not determine the latest Friday Hacks number")
-        return False
-
-    new_num = latest_num + 1
-
-    # create new file
-    new_filename = os.path.join(FH_POSTS_DIR, f"{date}-friday-hacks-{new_num}.md")
-
-    if os.path.exists(new_filename):
-        print(f"Error: File {new_filename} already exists")
-        return False
-
-    # read template and replace placeholders
-    with open(TEMPLATE_POST_FILE, "r") as f:
-        template_content = f.read()
-
-    template_content = replace_placeholders(template_content, {
-        "YYYY": year,
-        "MM": month,
-        "DD": day,
-        "XXX": new_num,
-        "mmm": month_name
-    })
-
-    # write to new file
-    with open(new_filename, "w") as f:
-        f.write(template_content)
-
-    print(f"Created new Friday Hacks post: {new_filename} (Friday Hacks #{new_num})")
-    return True
 
 
 ##################################
@@ -200,40 +130,25 @@ def create_semester_schedule(start_date: str, start_nr: str) -> bool:
 def main():
     """Main logic"""
     parser = argparse.ArgumentParser(
-        description="Generate new Friday Hacks posts and semester schedule files",
+        description="Generate a new Friday Hacks semester schedule file",
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""Examples:
-  %(prog)s semester 2026-01-30 300
-  %(prog)s fh 2025-02-06"""
+        epilog="""Example:
+  %(prog)s 2026-01-30 300"""
     )
 
     parser.add_argument(
-        "semester",
-        nargs=2,
-        metavar=("DATE", "NUM"),
-        help="Create a new semester schedule file (requires DATE and NUM)"
+        "date",
+        help="Start date in YYYY-MM-DD format"
     )
     parser.add_argument(
-        "fh",
-        metavar="DATE",
-        help="Create a new Friday Hacks post template (requires DATE)"
+        "number",
+        help="Starting Friday Hacks number"
     )
 
     args = parser.parse_args()
 
-    if args.semester and args.fh:
-        print("Error: Please specify only one of `semester` or `fh`", file=sys.stderr)
-        parser.print_help()
-        sys.exit(1)
-    elif args.semester:
-        success = create_semester_schedule(args.semester[0], args.semester[1])
-        sys.exit(success)
-    elif args.fh:
-        success = create_fh_post(args.fh)
-        sys.exit(success)
-    else:
-        parser.print_help()
-        sys.exit(0)
+    success = create_semester_schedule(args.date, args.number)
+    sys.exit(success)
 
 
 if __name__ == "__main__":
