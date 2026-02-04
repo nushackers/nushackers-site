@@ -8,7 +8,13 @@ hacks:
         title: "Quack & Roll: Making an electronic badge for over 1,000"
       - speaker: Li Kai
         title: "NUSMods: Building the timetable planner NUS relies on"
-  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/02/friday-hacks-288
+    topics:
+      - speaker: Davis Zheng
+        title: "Information Warfare: How the Internet Became a Battlefield"
+      - speaker: Cool Projects from Hack&Roll 2026!
+        title: "Wi-Find and Oz: The Generative OS"
   - nospeaker: true
   - nospeaker: true
   - nohack: Recess Week
