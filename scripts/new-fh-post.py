@@ -11,7 +11,7 @@ from typing import Any, Dict, Tuple
 ###############################
 # Directories, template files #
 ###############################
-FH_POSTS_DIR = os.path.join("content", "posts")
+FH_POSTS_DIR = os.path.join("content", "post")
 TEMPLATE_POST_FILE = os.path.join("scripts", "templates", "fh_post_template.md")
 
 
@@ -45,6 +45,7 @@ def get_latest_fh_number() -> int | None:
         return None
 
     blog_posts = [f for f in os.listdir(FH_POSTS_DIR) if FH_BLOG_POST_PATTERN.match(f)]
+    blog_posts = [int(FH_BLOG_POST_PATTERN.match(f).group(1)) for f in blog_posts]
 
     if not blog_posts:
         print("No Friday Hacks posts found in " + FH_POSTS_DIR, file=sys.stderr)
