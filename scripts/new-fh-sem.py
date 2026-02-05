@@ -148,7 +148,7 @@ def main():
     args = parser.parse_args()
 
     success = create_semester_schedule(args.date, args.number)
-    sys.exit(success)
+    sys.exit(not success) # success == True -> exit code 0 else exit code 1
 
 
 if __name__ == "__main__":

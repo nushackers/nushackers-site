@@ -123,7 +123,7 @@ def main():
     args = parser.parse_args()
 
     success = create_fh_post(args.date)
-    sys.exit(success)
+    sys.exit(not success) # success == True -> exit code 0 else exit code 1
 
 
 if __name__ == "__main__":
