@@ -15,11 +15,12 @@ hacks:
         title: "Information Warfare: How the Internet Became a Battlefield"
       - speaker: Cool Projects from Hack&Roll 2026!
         title: "Wi-Find and Oz: The Generative OS"
-  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+  - venue: <a href="https://nusmods.com/venues/COM3-MPH">COM3-MPH, NUS</a>
     blog_post: /2026/02/friday-hacks-289
     topics:
-      - speaker: Khor Shi-Jie, Jane Street
+      - speaker: Khor Shi-Jie
         title: "Keeping state straight in distributed systems"
+        from: Jane Street
   - nospeaker: true
   - nohack: Recess Week
   - nohack: Midterms
