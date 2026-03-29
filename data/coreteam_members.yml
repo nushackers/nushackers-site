@@ -190,3 +190,9 @@ members:
       He is the proud administrator of a Linux home server running on an old ThinkPad that is one bad battery day away from a house fire.
       When not managing fire hazards, he is probably busy watching history documentaries or obsessively running <code>brew upgrade</code> on his MacBook.
       Reach him at <a href="mailto:tiencheng@nushackers.org">tiencheng@nushackers.org</a>.
+  - name: Benedict Woo
+    description: |
+      a Computer Science undergraduate who always seems to have a million things to do.
+      He is probably either coding, thinking of what to code, or trying to stop coding and failing.
+      When he finally stops coding, he tries his best to touch some grass.
+      Reach him at <a href="mailto:benedict@nushackers.org">benedict@nushackers.org</a>.
