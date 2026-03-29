@@ -21,13 +21,36 @@ hacks:
       - speaker: Khor Shi-Jie
         title: "Keeping state straight in distributed systems"
         from: Jane Street
-  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    topics:
+      - speaker: Bernardino Lintang and Patil Kaveri Vinod
+        title: "Building an Explainable AI Analyst for Company Intelligence"
   - nohack: Recess Week
   - nohack: Midterms
-  - nospeaker: true
-  - nospeaker: true
-  - nospeaker: true
-  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    topics:
+      - speaker: Zhen Ning Ng
+        title: "Twinkle Twinkle Little Star, How I Wonder Myself to Space"
+        from: NuSpace
+      - speaker: Flavien Solt
+        title: "How a CPU Performance Feature Became a Security Vulnerability"
+        from: NUS School of Computing
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    topics:
+      - speaker: Varick
+        title: "From ARKit to AI Video: Building a Cinematic Tool on iOS"
+        from: Voltade
+      - speaker: Manuel Rigger
+        title: "Toward Reliable Database Systems at Scale"
+        from: NUS School of Computing
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    topics:
+      - speaker: Ken Jin
+        title: "5 Years of Working on Python's Performance"
+        from: Python Core Team
+      - speaker: Aayush Mathur
+        title: "Synthetic Societies: Building a Simulated Nation From Open Data"
+  - nohack: Good Friday
   - nospeaker: true
   - nospeaker: true
   - nohack: Reading Week
