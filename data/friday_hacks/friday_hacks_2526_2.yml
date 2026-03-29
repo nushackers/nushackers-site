@@ -51,7 +51,16 @@ hacks:
       - speaker: Aayush Mathur
         title: "Synthetic Societies: Building a Simulated Nation From Open Data"
   - nohack: Good Friday
-  - nospeaker: true
-  - nospeaker: true
+  - topics:
+      - speaker: Eldon Chung
+        title: ""
+      - speaker: Virtu
+        title: ""
+  - topics:
+      - speaker: Nguyen Van Binh
+        title: ""
+      - speaker: Anand
+        title: ""
+        from: invigilo.io
   - nohack: Reading Week
   - nohack: Exam Week
