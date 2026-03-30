@@ -22,12 +22,14 @@ hacks:
         title: "Keeping state straight in distributed systems"
         from: Jane Street
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/02/friday-hacks-290
     topics:
       - speaker: Bernardino Lintang and Patil Kaveri Vinod
         title: "Building an Explainable AI Analyst for Company Intelligence"
   - nohack: Recess Week
   - nohack: Midterms
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/03/friday-hacks-291
     topics:
       - speaker: Zhen Ning Ng
         title: "Twinkle Twinkle Little Star, How I Wonder Myself to Space"
@@ -36,6 +38,7 @@ hacks:
         title: "How a CPU Performance Feature Became a Security Vulnerability"
         from: NUS School of Computing
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/03/friday-hacks-292
     topics:
       - speaker: Varick
         title: "From ARKit to AI Video: Building a Cinematic Tool on iOS"
@@ -44,6 +47,7 @@ hacks:
         title: "Toward Reliable Database Systems at Scale"
         from: NUS School of Computing
   - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/03/friday-hacks-293
     topics:
       - speaker: Ken Jin
         title: "5 Years of Working on Python's Performance"
@@ -51,12 +55,14 @@ hacks:
       - speaker: Aayush Mathur
         title: "Synthetic Societies: Building a Simulated Nation From Open Data"
   - nohack: Good Friday
-  - topics:
+  - venue: <a href="https://nusmods.com/venues/COM1-02-10">COM1-02-10, NUS</a>
+    topics:
       - speaker: Eldon Chung
         title: ""
       - speaker: Virtu
         title: ""
-  - topics:
+  - venue: <a href="https://nusmods.com/venues/COM1-02-10">COM1-02-10, NUS</a>
+    topics:
       - speaker: Nguyen Van Binh
         title: ""
       - speaker: Anand
