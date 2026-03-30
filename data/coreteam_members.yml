@@ -5,7 +5,7 @@ members:
       a computer science undergraduate who enjoys building things that make people's lives easier. He spends as much time playing frisbee as he does coding.
       He's always down to chat over a cup of coffee, or a game of bridge late into the night.
       Reach him at <a href="mailto:jonathan@nushackers.org">jonathan@nushackers.org</a>
-      
+
   - name: Aditya
     description: |
       a computer science undergrad with an interest in experimenting with things. He hates coffee.
@@ -20,7 +20,7 @@ members:
     description: |
       a Computer Science undergraduate interested in programming languages and software engineering. He also enjoys reading, climbing and watching movies.
       Reach out to him at <a href="mailto:ravern@nushackers.org">ravern@nushackers.org</a>.
-      
+
   - name: Jia Hao
     description: |
       a computer science undergraduate who enjoys learning and talking about the many sides of computer science (but mostly
@@ -153,7 +153,7 @@ members:
     description: |
       a computer science undergraduate who enjoys tackling everyday challenges with code, balancing studies with a good book or a run, and diving into the Marvel universe.
       When not coding, he's lost in comics. Drop into his inbox at <a href="mailto:jeya@nushackers.org">jeya@nushackers.org</a>.
-  
+
   - name: Bhagat Sai
     description: |
       a computer science undergraduate who loves figuring out how things work from the inside out.
@@ -165,7 +165,7 @@ members:
       a computer science undergraduate who enjoys playing and designing games :D
       She also loves playing badminton and lying in bed rewatching her favourite Ghibli movies.
       Feel free to reach her at <a href="mailto:liuzhiwei@nushackers.org">liuzhiwei@nushackers.org</a>.
-      
+
   - name: Xinyang Yu
     description: |
       a computer science undergraduate who loves breaking things just to redesign them better.
@@ -173,26 +173,35 @@ members:
       When he's not wiring up new tools, he's probably documenting what he learns or automating something he definitely shouldn't.
       Reach him at <a href="mailto:xinyang@nushackers.org">xinyang@nushackers.org</a>.
 
-  - name: Aarav 
+  - name: Aarav
     description: |
       a computer science undergraduate who loves staying up till 5AM and building weird side projects.
       When he's not coding, he's probably sleeping on his keyboard or cycling around Singapore.
       Reach him at <a href="mailto:aarav@nushackers.org">aarav@nushackers.org</a>.
-      
+
   - name: Melody Phyu Sin
     description: |
       a Computer Science and Math undergraduate who does everything and anything possible.
       She loves playing at jazz clubs or in an orchestra, trying another skate flip, finding a new corner restaurant, and exploding things.
       If you like making freaky robots or just want to try something different, dap her up at <a href="mailto:melodyps@nushackers.org">melodyps@nushackers.org</a>.
+
   - name: Tien Cheng Oh
     description: |
       a computer science undergraduate who considers laziness a virtue. He has given this a lot of thought.
       He is the proud administrator of a Linux home server running on an old ThinkPad that is one bad battery day away from a house fire.
       When not managing fire hazards, he is probably busy watching history documentaries or obsessively running <code>brew upgrade</code> on his MacBook.
       Reach him at <a href="mailto:tiencheng@nushackers.org">tiencheng@nushackers.org</a>.
+
   - name: Benedict Woo
     description: |
       a Computer Science undergraduate who always seems to have a million things to do.
       He is probably either coding, thinking of what to code, or trying to stop coding and failing.
       When he finally stops coding, he tries his best to touch some grass.
       Reach him at <a href="mailto:benedict@nushackers.org">benedict@nushackers.org</a>.
+
+  - name: Kah Ho
+    description: |
+      a computer science undergraduate who loves to build fun and (occasionally) useful projects at hackathons.
+      He is a huge fan of the local hawker culture, and is always on the lookout for new food gems to try.
+      When he's not busy debugging, he also enjoys playing dodgeball, reading a book or meeting new people. 
+      Reach him at <a href="mailto:kahho@nushackers.org">kahho@nushackers.org</a>.
