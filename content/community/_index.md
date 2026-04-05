@@ -8,22 +8,22 @@ We host a community of like-minded, interested hackers in NUS.
 
 To follow what we do, follow us on:
 
-- [Telegram Channel](https://t.me/nushackers)
-- [Luma](https://luma.com/user/nushackers)
-- [Instagram](https://instagram.com/nushackers)
-- [YouTube](https://www.youtube.com/nushackerschannel)
-- [Twitter](https://twitter.com/nushackers)
-- [Facebook](https://www.facebook.com/NUSHackers)
+- [Telegram Channel](https://hckr.cc/telegram)
+- [Luma](https://hckr.cc/luma)
+- [Instagram](https://hckr.cc/instagram)
+- [YouTube](https://hckr.cc/youtube)
+- [Twitter/X](https://hckr.cc/join-x)
+- [Facebook](https://hckr.cc/facebook)
 - [Our mailing list](/mailing-list)
 
 You can also join us on:
 
-- [Discord](https://discord.gg/Au3VJxz)
-- [Our Facebook group](https://www.facebook.com/groups/nushackers/)
-- [Our Telegram group](https://t.me/nushackers_chat)
+- [Discord](https://hckr.cc/join-discord)
+- [Our Facebook group](https://hckr.cc/join-facebook-group)
+- [Our Telegram group](https://hckr.cc/join-telegram-group)
 
 These other accounts are official accounts that are managed by us:
 
-- [Reddit (/u/nushackers)](https://reddit.com/u/nushackers)
+- [Reddit (/u/nushackers)](https://hckr.cc/reddit)
 
 If you'd like to share an ad or opportunity, please [contact us]({{< ref "/contact" >}}). We have to make sure that the content is relevant to those who are subscribed to our lists.
