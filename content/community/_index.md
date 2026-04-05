@@ -20,7 +20,7 @@ You can also join us on:
 
 - [Discord](https://hckr.cc/join-discord)
 - [Our Facebook group](https://hckr.cc/join-facebook-group)
-- [Our Telegram group](https://hckr.cc/join-telegram-group)
+- [Our Telegram chat](https://hckr.cc/join-telegram-group)
 
 These other accounts are official accounts that are managed by us:
 
