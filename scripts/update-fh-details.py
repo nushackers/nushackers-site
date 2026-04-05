@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
 import argparse
+import json
 import os
 import re
 import sys
+import yaml
 from typing import Dict, Any, Optional
 
 ###############################
@@ -48,6 +50,19 @@ def find_sched_file(acadyear: str) -> Optional[str]:
     print(f"Schedule file not found: {sched_file} or {sched_file_alt}", file=sys.stderr)
     return None
 
+
+def sanitize_venue_name(venue: str) -> str:
+    """Sanitize venue name to match keys in venue_map.json"""
+    return "_".join(venue.strip().upper().split())
+
+def get_venue_details(venue: str) -> Dict[str, Any]:
+    """Get venue details based on venue name"""
+    sanitized_venue_name = sanitize_venue_name(venue)
+    with open(os.path.join(os.path.dirname(__file__), "venue_map.json"), "r") as f:
+        venue_map = json.load(f)
+    return venue_map.get(sanitized_venue_name, {})
+
+
 ####################################
 # Friday Hacks update functions #
 ####################################
@@ -72,6 +87,17 @@ def update_fh_details(fhnum: str, acadyear: str) -> bool:
     talk_2_title = input("talk 2 title: ")
     talk_2_desc = input("talk 2 description: ")
 
+    venue_details = get_venue_details(venue)
+    if not venue_details:
+        print(f"Warning: Venue '{venue}' not found in venue_map.json. Venue details will be empty.", file=sys.stderr)
+        venue_details = {
+            "name": venue,
+            "address": "",
+            "link": ""
+        }
+
+
+
     # TODO: In the future, this is where we would update the files directly
     # with the input variables using yaml and markdown parsing/replacement.
 
@@ -86,7 +112,7 @@ def main():
         description="Update Friday Hacks details given the FH post number and academic year semester.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""Example:
-  %(prog)s 235 2526_1"""
+  %(prog)s 287 2526_2"""
     )
 
     parser.add_argument(

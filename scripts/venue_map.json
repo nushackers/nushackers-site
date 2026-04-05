@@ -1,0 +1,26 @@
+{
+    "COM3_SR14": {
+        "address": "COM3-01-23 Seminar Room 14, 11 Research Link, SGP 119391",
+        "link": "https://nusmods.com/venues/COM3-01-23"
+    },
+    "COM3_SR13": {
+        "address": "COM3-01-22 Seminar Room 13, 11 Research Link, SGP 119391",
+        "link": "https://nusmods.com/venues/COM3-01-22"
+    },
+    "COM3_SR12": {
+        "address": "COM3-01-21 Seminar Room 12, 11 Research Link, SGP 119391",
+        "link": "https://nusmods.com/venues/COM3-01-21"
+    },
+    "COM3_SR11": {
+        "address": "COM3-01-20 Seminar Room 11, 11 Research Link, SGP 119391",
+        "link": "https://nusmods.com/venues/COM3-01-20"
+    },
+    "COM1_SR2": {
+        "address": "COM1-02-04 Seminar Room 2, 15 Computing Drive, SGP 117418",
+        "link": "https://nusmods.com/venues/COM1-0204"
+    },
+    "COM1_SR3": {
+        "address": "COM1-02-05 Seminar Room 3, 15 Computing Drive, SGP 117418",
+        "link": "https://nusmods.com/venues/COM1-0212"
+    }
+}
