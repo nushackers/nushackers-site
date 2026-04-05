@@ -1,7 +1,7 @@
 ---
 title: Community
 description: Community
-date: "2020-05-18"
+date: "2026-04-05"
 ---
 
 We host a community of like-minded, interested hackers in NUS.
@@ -9,11 +9,11 @@ We host a community of like-minded, interested hackers in NUS.
 To follow what we do, follow us on:
 
 - [Telegram Channel](https://t.me/nushackers)
-- [Facebook](https://www.facebook.com/NUSHackers)
-- [Twitter](https://twitter.com/nushackers)
+- [Luma](https://luma.com/user/nushackers)
 - [Instagram](https://instagram.com/nushackers)
-- [Meetup.com](https://www.meetup.com/NUSHackers/)
 - [YouTube](https://www.youtube.com/nushackerschannel)
+- [Twitter](https://twitter.com/nushackers)
+- [Facebook](https://www.facebook.com/NUSHackers)
 - [Our mailing list](/mailing-list)
 
 You can also join us on:
