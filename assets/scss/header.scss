@@ -122,14 +122,16 @@
 
     .dropdown-item a {
       display: block;
-      padding: 0.4rem 0.6rem;
+      padding: 0.3rem 0.5rem;
       text-decoration: none;
       color: black;
+      font-size: 0.85em;
+      white-space: nowrap;
       svg {
-        width: 16px;
-        height: 16px;
+        width: 14px;
+        height: 14px;
         vertical-align: middle;
-        margin-right: 4px;
+        margin-right: 3px;
       }
       &:hover {
         background: #f5f5f5;
