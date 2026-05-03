@@ -44,11 +44,13 @@ rssLimit = 10
   parent = "Archive"
   weight = 1
   url = "/archive/friday-hacks"
+  pre = '/static/img/microphone-logo.svg'
 [[menu.main]]
   name = "Hackerschool"
   parent = "Archive"
   weight = 2
   url = "/archive/hackerschool"
+  pre = '/static/img/gear-logo.svg'
 [[menu.main]]
   name = "Contact"
   identifier = "Contact"

@@ -1,10 +1,10 @@
 ---
 title: "Friday Hacks"
 description: Friday Hacks Archive
-sidebar: false
+nested: false
 ---
 
-## AY 25/26 Semester 2 📹
+## AY 25/26 Semester 2 
 - Friday Hacks #293: [Post](/2026/03/friday-hacks-293)
   - [Synthetic Societies: Building a Simulated Nation From Open Data](https://www.youtube.com/watch?v=n7T7SxSMiXk)
   - [5 Years of Working on Python's Performance](https://www.youtube.com/watch?v=B-BVCxcVdrE)
@@ -24,7 +24,7 @@ sidebar: false
   - [Making an electronic badge for over 1,000](https://www.youtube.com/watch?v=UMsLgt-5gy8)
 
 
-## AY 25/26 Semester 1 📹
+## AY 25/26 Semester 1 
 
 - Friday Hacks #286: [Post](/2025/11/friday-hacks-286)
   - [Building LLM Coding Agents From A Software Engineering Perspective](https://www.youtube.com/watch?v=qP-c3bEZVG8)
@@ -53,7 +53,7 @@ sidebar: false
   - [Open Evolve: Towards Open Evolutionary Agents](https://www.youtube.com/watch?v=uRPXxNuTv3M)
 - Friday Hacks #276: [Post](/2025/08/friday-hacks-276)
 
-## AY 24/25 Semester 2 📹
+## AY 24/25 Semester 2 
 
 - Friday Hacks #275: [Post](/2025/04/friday-hacks-275)
   - [Understanding HCI's Contribution to Modern Health Practices by Dr. Foong Pin Sim](https://www.youtube.com/watch?v=HP2JHF16vPM)
@@ -74,8 +74,7 @@ sidebar: false
 - Friday Hacks #269: [Post](/2025/02/friday-hacks-269)
   - [Cool Projects from Hack&Roll 2025](https://www.youtube.com/watch?v=AnJ0TxJjWN0)
 
-<details>
-<summary><h2 style="display: inline">AY 24/25 Semester 1 📹</h2></summary>
+## AY 24/25 Semester 1 
 
 - Friday Hacks #268: [Post](/2024/11/friday-hacks-268)
   - [Automating Kubernetes Deplovments on Azure with Terraform: From Infrastructure to Workload](https://www.youtube.com/watch?v=hwM5xPSCRp4)
@@ -104,10 +103,8 @@ sidebar: false
 - Friday Hacks #258: [Post](/2024/08/friday-hacks-258)
   - [NUS Hackers Welcome Tea 2024](https://www.youtube.com/watch?v=2XyOmbPSZbA)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 23/24 Semester 2 📹</h2></summary>
+## AY 23/24 Semester 2 
 
 - Friday Hacks #257: [Post](/2024/04/friday-hacks-257)
   - [The New XOR Problem](https://www.youtube.com/watch?v=bzEEtRXqpTg)
@@ -130,10 +127,8 @@ sidebar: false
   - [Multiplayer game programming with Mirror](https://www.youtube.com/watch?v=NMsLklwWqeQ)
   - [Hack&Roll 2024 Winning Game Projects](https://www.youtube.com/watch?v=dt96bLjNwj4)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 23/24 Semester 1 📹</h2></summary>
+## AY 23/24 Semester 1 
 
 - Friday Hacks #249: [Post](/2023/11/friday-hacks-249)
   - [Real World Quantum Technology: Space Quantum Lasers](https://www.youtube.com/watch?v=dwnVA6CCjbo)
@@ -155,10 +150,8 @@ sidebar: false
 - Friday Hacks #241: [Post](/2023/08/friday-hacks-241)
   - [NUS Hackers Welcome Tea 2023](https://www.youtube.com/watch?v=YdzGyNUdSC4)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 22/23 Semester 2 📹</h2></summary>
+## AY 22/23 Semester 2 
 
 - Friday Hacks #240: [Post](/2023/03/friday-hacks-240)
 - Friday Hacks #239: [Post](/2023/03/friday-hacks-239)
@@ -175,10 +168,8 @@ sidebar: false
 - Friday Hacks #233: [Post](/2023/01/friday-hacks-233)
   - [You’ve Learnt Programming. Now What?](https://www.youtube.com/watch?v=S3Lw7OHgBao)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 22/23 Semester 1 📹</h2></summary>
+## AY 22/23 Semester 1 
 
 - Friday Hacks #232: [Post](/2022/11/friday-hacks-232)
   - [Graphs at Scale](https://www.youtube.com/watch?v=KCUM_FKK_Sk)
@@ -199,10 +190,8 @@ sidebar: false
   - [The Journey of an Indie OSS Developer](https://www.youtube.com/watch?v=LGb0xL2FheE)
 - Friday Hacks #223: [Post](/2022/08/friday-hacks-223)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 21/22 Semester 2 📹</h2></summary>
+## AY 21/22 Semester 2 
 
 - Friday Hacks #222: [Post](/2022/04/friday-hacks-222)
   - [Using AI & metaverse to land on Mars & FoodDX: From Zero to Production](https://www.youtube.com/watch?v=sZehZnBBKXg)
@@ -223,10 +212,8 @@ sidebar: false
 - Friday Hacks #214: [Post](/2022/01/friday-hacks-214)
   - [GPU.JS and H&R 2022 Projects](https://www.youtube.com/watch?v=-u0MLm9b1Ms)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 21/22 Semester 1 📹</h2></summary>
+## AY 21/22 Semester 1 
 
 - Friday Hacks #213: [Post](/2021/11/friday-hacks-213)
   - [Security at ExpressVPN, and Becoming a Better Engineer](https://www.youtube.com/watch?v=tDb_t-8i6C8)
@@ -248,10 +235,8 @@ sidebar: false
 - Friday Hacks #204: [Post](/2021/08/friday-hacks-204)
   - [NUS Hackers Welcome Tea 2021, and Building in Public](https://www.youtube.com/watch?v=r8H1-GDxjN4)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 20/21 Semester 2 📹</h2></summary>
+## AY 20/21 Semester 2 
 
 - Friday Hacks #203: [Post](/2021/03/friday-hacks-203)
 - Friday Hacks #202: [Post](/2021/03/friday-hacks-202)
@@ -265,10 +250,8 @@ sidebar: false
 - Friday Hacks #198: [Post](/2021/01/friday-hacks-198)
   - [How Fluminu(r)s was Built, and URA - Space Out Project](https://www.youtube.com/watch?v=mSscqVhKKfU)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 20/21 Semester 1 📹</h2></summary>
+## AY 20/21 Semester 1 
 
 - Friday Hacks #197: [Post](/2020/11/friday-hacks-197)
   - [Resurgence of AI in Travel and Tourism, and Stream Processing with Kafka Stream](https://www.youtube.com/watch?v=yOK9E9M6JR8)
@@ -287,19 +270,15 @@ sidebar: false
 - Friday Hacks #190: [Post](/2020/08/friday-hacks-190)
   - [NUS Hackers Welcome Tea 2020](https://www.youtube.com/watch?v=y9qlimIOGBE)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 19/20 Semester 2</h2></summary>
+## AY 19/20 Semester 2
 
 - Friday Hacks #189: [Post](/2020/02/friday-hacks-189)
 - Friday Hacks #188: [Post](/2020/02/friday-hacks-188)
 - Friday Hacks #187: [Post](/2020/01/friday-hacks-187)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 19/20 Semester 1</h2></summary>
+## AY 19/20 Semester 1
 
 - Friday Hacks #186: [Post](/2019/11/friday-hacks-186)
 - Friday Hacks #185: [Post](/2019/11/friday-hacks-185)
@@ -314,9 +293,7 @@ sidebar: false
 - Friday Hacks #176: [Post](/2019/08/friday-hacks-176)
 - Friday Hacks #175: [Post](/2019/08/friday-hacks-175)
 
-</details>
-<details>
-<summary><h2 style="display: inline">AY 18/19 Semester 2</h2></summary>
+## AY 18/19 Semester 2
 
 - Friday Hacks #174: [Post](/2019/04/friday-hacks-174)
 - Friday Hacks #173: [Post](/2019/04/friday-hacks-173)
@@ -327,10 +304,8 @@ sidebar: false
 - Friday Hacks #168: [Post](/2019/02/friday-hacks-168)
 - Friday Hacks #167: [Post](/2019/02/friday-hacks-167)
 - Friday Hacks #166: [Post](/2019/01/friday-hacks-166)
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 18/19 Semester 1</h2></summary>
+## AY 18/19 Semester 1
 
 - Friday Hacks #165: [Post](/2018/11/friday-hacks-165)
 - Friday Hacks #164: [Post](/2018/11/friday-hacks-164)
@@ -344,10 +319,8 @@ sidebar: false
 - Friday Hacks #156: [Post](/2018/08/friday-hacks-156)
 - Friday Hacks #155: [Post](/2018/08/friday-hacks-155)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 17/18 Semester 2 (surprises here! 🎁)</h2></summary>
+## AY 17/18 Semester 2
 
 - Friday Hacks #154: [Post](/2018/04/friday-hacks-154)
 - Friday Hacks #153: [Post](/2018/04/friday-hacks-153)
@@ -363,10 +336,8 @@ sidebar: false
 - Friday Hacks #147: [Post](/2018/02/friday-hacks-147)
 - Friday Hacks #146: [Post](/2018/01/friday-hacks-146)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 17/18 Semester 1</h2></summary>
+## AY 17/18 Semester 1
 
 - Friday Hacks #145: [Post](/2017/11/friday-hacks-145)
 - Friday Hacks #144: [Post](/2017/11/friday-hacks-144)
@@ -380,10 +351,8 @@ sidebar: false
 - Friday Hacks #136: [Post](/2017/09/friday-hacks-136)
 - Friday Hacks #135: [Post](/2017/08/friday-hacks-135)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 16/17 Semester 2</h2></summary>
+## AY 16/17 Semester 2
 
 - Friday Hacks #134: [Post](/2017/04/friday-hacks-134)
 - Friday Hacks #133: [Post](/2017/04/friday-hacks-133)
@@ -396,10 +365,8 @@ sidebar: false
 - Friday Hacks #126: [Post](/2017/02/friday-hacks-126)
 - Friday Hacks #125: [Post](/2017/01/friday-hacks-125)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 16/17 Semester 1</h2></summary>
+## AY 16/17 Semester 1
 
 - Friday Hacks #124: [Post](/2016/11/friday-hacks-124)
 - Friday Hacks #123: [Post](/2016/10/friday-hacks-123)
@@ -413,10 +380,8 @@ sidebar: false
 - Friday Hacks #115: [Post](/2016/08/friday-hacks-115)
 - Friday Hacks #114: [Post](/2016/08/friday-hacks-114)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 15/16 Semester 2</h2></summary>
+## AY 15/16 Semester 2
 
 - Friday Hacks #113: [Post](/2016/04/friday-hacks-113)
 - Friday Hacks #112: [Post](/2016/04/friday-hacks-112)
@@ -428,10 +393,8 @@ sidebar: false
 - Friday Hacks #106: [Post](/2016/01/friday-hacks-106)
 - Friday Hacks #105: [Post](/2016/01/friday-hacks-105)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 15/16 Semester 1</h2></summary>
+## AY 15/16 Semester 1
 
 - Friday Hacks #104: [Post](/2015/11/friday-hacks-104)
 - Friday Hacks #103: [Post](/2015/11/friday-hacks-103)
@@ -445,10 +408,8 @@ sidebar: false
 - Friday Hacks #95: [Post](/2015/08/friday-hacks-95)
 - Friday Hacks #94: [Post](/2015/08/friday-hacks-94)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 14/15 Semester 2</h2></summary>
+## AY 14/15 Semester 2
 
 - Friday Hacks #93: [Post](/2015/04/friday-hacks-93)
 - Friday Hacks #92: [Post](/2015/04/friday-hacks-92)
@@ -461,10 +422,8 @@ sidebar: false
 - Friday Hacks #85: [Post](/2015/01/friday-hacks-85)
 - Friday Hacks #84: [Post](/2015/01/friday-hacks-84)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 14/15 Semester 1</h2></summary>
+## AY 14/15 Semester 1
 
 - Friday Hacks #83: [Post](/2014/11/friday-hacks-83)
 - Friday Hacks #82: [Post](/2014/11/friday-hacks-82)
@@ -480,10 +439,8 @@ sidebar: false
 - Friday Hacks #72: [Post](/2014/08/friday-hacks-72)
 - Friday Hacks #71: [Post](/2014/08/friday-hacks-71)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 13/14 Semester 2</h2></summary>
+## AY 13/14 Semester 2
 
 - Friday Hacks #70: [Post](/2014/04/friday-hacks-70)
 - Friday Hacks #69: [Post](/2014/03/friday-hacks-69)
@@ -496,10 +453,8 @@ sidebar: false
 - Friday Hacks #62: [Post](/2014/02/friday-hacks-62)
 - Friday Hacks #60: [Post](/2014/01/friday-hacks-60)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 13/14 Semester 1</h2></summary>
+## AY 13/14 Semester 1
 
 - Friday Hacks #59: [Post](/2013/11/friday-hacks-59)
 - Friday Hacks #58: [Post](/2013/11/friday-hacks-58)
@@ -511,10 +466,8 @@ sidebar: false
 - Friday Hacks #50: [Post](/2013/08/friday-hacks-50)
 - Friday Hacks #49: [Post](/2013/08/friday-hacks-49)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 12/13 Semester 2</h2></summary>
+## AY 12/13 Semester 2
 
 - Friday Hacks #48: [Post](/2013/04/friday-hacks-48)
 - Friday Hacks #47: [Post](/2013/04/friday-hacks-47)
@@ -529,10 +482,8 @@ sidebar: false
 - Friday Hacks #38: [Post](/2013/01/friday-hacks-38)
 - Friday Hacks #37: [Post](/2013/01/friday-hacks-37)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 12/13 Semester 1</h2></summary>
+## AY 12/13 Semester 1
 
 - Friday Hacks #36: [Post](/2012/11/friday-hacks-36)
 - Friday Hacks #35: [Post](/2012/11/friday-hacks-35)
@@ -547,10 +498,8 @@ sidebar: false
 - Friday Hacks #26: [Post](/2012/08/friday-hacks-26)
 - Friday Hacks #25: [Post](/2012/08/friday-hacks-25)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 11/12 Semester 2</h2></summary>
+## AY 11/12 Semester 2
 
 - Friday Hacks #24: [Post](/2012/04/friday-hacks-24)
 - Friday Hacks #23: [Post](/2012/04/friday-hacks-23)
@@ -561,10 +510,8 @@ sidebar: false
 - Friday Hacks #18: [Post](/2012/02/friday-hacks-18)
 - Friday Hacks #17: [Post](/2012/02/friday-hacks-17)
 
-</details>
 
-<details>
-<summary><h2 style="display: inline">AY 11/12 Semester 1</h2></summary>
+## AY 11/12 Semester 1
 
 - Friday Hacks #8: [Post](/2011/11/friday-hacks-8)
 - Friday Hacks #7: [Post](/2011/10/friday-hacks-7)
@@ -575,4 +522,3 @@ sidebar: false
 - Friday Hacks #2: [Post](/2011/09/friday-hacks-2)
 - Friday Hacks #1: [Post](/2011/08/friday-hacks-1)
 
-</details>

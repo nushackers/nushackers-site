@@ -7,7 +7,7 @@
       {{ $currentURL := .Permalink }}
       {{ range .Site.Menus.main }}
       <li class="nav-menu-item{{ if in $currentURL .URL }} nav-menu-active{{ end }}">
-        <a class="nav-menu-link" {{ if .HasChildren }}style="cursor: default;"{{ else }}href="{{ .URL }}"{{ end }}>{{ .Name }}</a>
+        <a class="nav-menu-link" href="{{ .URL }}"{{ if .HasChildren }} style="cursor: pointer;"{{ end }}>{{ .Name }}</a>
         {{ if .HasChildren }}
           <ul class="dropdown">
             {{ range .Children }}
