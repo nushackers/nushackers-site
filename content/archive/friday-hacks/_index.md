@@ -1,7 +1,6 @@
 ---
 title: "Friday Hacks"
 description: Friday Hacks Archive
-layout: single
 ---
 
 ## AY 25/26 Semester 2 📹
