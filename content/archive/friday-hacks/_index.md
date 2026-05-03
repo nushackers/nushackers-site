@@ -1,0 +1,3 @@
+---
+title: "Friday Hacks"
+---
