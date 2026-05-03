@@ -15,7 +15,9 @@
     </article>
     <aside class="col-md-4 aside">
       {{ range .Pages }}
-        {{ .Content }}
+        {{ if not (eq .Params.sidebar false) }}
+          {{ .Content }}
+        {{ end }}
       {{ end }}
     </aside>
     {{ else }}
