@@ -12,7 +12,7 @@
           <ul class="dropdown">
             {{ range .Children }}
             <li class="dropdown-item">
-              <a href="{{ .URL }}">{{ .Name }}</a>
+              <a href="{{ .URL }}">{{ with .Pre }}{{ readFile . | safeHTML }}{{ end }} {{ .Name }}</a>
             </li>
             {{ end }}
           </ul>
