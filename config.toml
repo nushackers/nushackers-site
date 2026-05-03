@@ -36,17 +36,17 @@ rssLimit = 10
   url = "/community"
 [[menu.main]]
   name = "Archive"
-  identifier = "archive"
+  identifier = "Archive"
   weight = 3
   url = "/archive"
 [[menu.main]]
   name = "Friday Hacks"
-  parent = "archive"
+  parent = "Archive"
   weight = 1
   url = "/archive/friday-hacks"
 [[menu.main]]
   name = "Hackerschool"
-  parent = "archive"
+  parent = "Archive"
   weight = 2
   url = "/archive/hackerschool"
 [[menu.main]]
