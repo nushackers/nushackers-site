@@ -11,7 +11,7 @@ nested: false
 - Introduction to Javascript (Oct 2021): [resources](https://nushackers.github.io/p-hs2110-js/) | [recording](https://www.youtube.com/watch?v=1h8n0l30ptA&ab_channel=NUSHackers)
 - Introduction to Python (Aug 2021): [resources](https://drive.google.com/file/d/1mWiFrU73rvPOFOkiAltl3pEWuJRsc415/view) | [recording](https://www.youtube.com/watch?v=9ZaTx2eTscI&ab_channel=NUSHackers)
 - Introduction to Elixir (Feb 2024): [resources](https://hckr.cc/practical-elixir-workshop-guide) | [recording](https://hckr.cc/hs2324s2-w5-recording)
-- Introduction to C++ by Benn (Apr 2026): [recording](https://youtu.be/_-7HyNerp3U) | [resources](https://learncpp.benntan.com)
+- Introduction to C++ (Apr 2026): [resources](https://learncpp.benntan.com) | [recording](https://youtu.be/_-7HyNerp3U)
 - C++ for Programmers with Optiver (Oct 2023): [recording](https://youtu.be/891rtsZdCKg)
 - Introduction to Zig (May 2025): [resources](https://wiki.nushackers.org/hackerschool/introduction-to-zig) | [recording](https://youtu.be/PikxwR-HgYY)
 
