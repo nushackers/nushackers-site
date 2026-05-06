@@ -11,8 +11,8 @@ You can find many more recordings on our [YouTube channel](https://www.youtube.c
 
 ## Friday Hacks
 
-Our weekly speaker series since 2011. Browse all past posts and recordings at the [Friday Hacks archive](/archive/friday-hacks).
+Our weekly speaker series since 2011. Browse all past posts and recordings at the [Friday Hacks Archive](/archive/friday-hacks).
 
 ## Hackerschool
 
-Our hands-on, introductory workshops spanning a range of technical topics like programming languages, frameworks and tools. Browse the full list at the [Hackerschool archive](/archive/hackerschool).
+Our hands-on, introductory workshops spanning a range of technical topics like programming languages, frameworks and tools. Browse the full list at the [Hackerschool Archive](/archive/hackerschool).
