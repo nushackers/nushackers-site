@@ -61,7 +61,7 @@ nested: false
 
 ## Design
 - UI/UX Design with Figma (Feb 2026): [recording](https://youtu.be/mZ9QSpNxJlY)
-- Introduction to PCB Design (Feb 2026): [recording](https://youtu.be/2ei3KIMcw2c)
+- Introduction to PCB Design (Feb 2026): [resources](https://hckr.cc/hsp-pcb-intro) | [recording](https://youtu.be/2ei3KIMcw2c)
 - Cosplay for Starters — Design, Model, 3D Print (Mar 2023): [recording](https://youtu.be/Jx7EufqL5zc)
 
 ## Web Development
