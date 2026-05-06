@@ -8,7 +8,7 @@ enableEmoji = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "emacs"
--ignoreFiles = ["\\.scss$"]
+ignoreFiles = ["\\.scss$"]
 rssLimit = 10
 
 [params]
