@@ -8,7 +8,7 @@ enableEmoji = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "emacs"
-ignoreFiles = ["\\.scss$"]
+-ignoreFiles = ["\\.scss$"]
 rssLimit = 10
 
 [params]
@@ -44,13 +44,13 @@ rssLimit = 10
   parent = "Archive"
   weight = 1
   url = "/archive/friday-hacks"
-  pre = '/static/img/microphone-logo.svg'
+  pre = '/static/img/friday-hacks-icon.svg'
 [[menu.main]]
   name = "Hackerschool"
   parent = "Archive"
   weight = 2
   url = "/archive/hackerschool"
-  pre = '/static/img/gear-logo.svg'
+  pre = '/static/img/hackerschool-icon.svg'
 [[menu.main]]
   name = "Contact"
   identifier = "Contact"
