@@ -75,4 +75,3 @@ nested: false
 - AR/VR (Apr 2021): [recording](https://youtu.be/6k2pMh3q84g)
 - Introduction to Electronic Music Production (Sep 2025): [recording](https://youtu.be/rqHNc2k2BD8)
 - Web Browsers and Privacy (Oct 2023): [recording](https://youtu.be/yTuT4SlS_XU)
-- Introduction to Hybrid Search by Ahrefs (Jan 2026): [recording](https://youtu.be/jIxBYlIiyqI)
