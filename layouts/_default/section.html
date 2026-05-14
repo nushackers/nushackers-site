@@ -15,7 +15,9 @@
     </article>
     <aside class="col-md-4 aside">
       {{ range .Pages }}
-        {{ .Content }}
+        {{ if not (eq .Params.nested false) }}
+          {{ .Content }}
+        {{ end }}
       {{ end }}
     </aside>
     {{ else }}

@@ -53,7 +53,7 @@
       font-size: 1.25rem;
     }
 
-    
+
   }
   .nav-menu-item {
     position: relative;
@@ -98,4 +98,49 @@
   .nav-menu-item:hover .nav-menu-link {
     text-decoration: none;
   }
+
+  .dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    padding: 0;
+    background: white;
+    list-style: none;
+    z-index: 1000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    min-width: 180px;
+    @include media-breakpoint-down(sm) {
+      min-width: 140px;
+    }
+    @include media-breakpoint-up(md) {
+      min-width: 180px;
+    }
+    @include media-breakpoint-up(lg) {
+      min-width: 200px;
+    }
+
+    .dropdown-item a {
+      display: block;
+      padding: 0.3rem 0.5rem;
+      text-decoration: none;
+      color: black;
+      font-size: 0.85em;
+      white-space: nowrap;
+      svg {
+        width: 14px;
+        height: 14px;
+        vertical-align: middle;
+        margin-right: 3px;
+      }
+      &:hover {
+        background: #f5f5f5;
+      }
+    }
+  }
+
+  .nav-menu-item:hover > .dropdown {
+    display: block;
+  }
+ 
 }

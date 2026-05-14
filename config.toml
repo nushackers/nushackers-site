@@ -40,6 +40,18 @@ rssLimit = 10
   weight = 3
   url = "/archive"
 [[menu.main]]
+  name = "Friday Hacks"
+  parent = "Archive"
+  weight = 1
+  url = "/archive/friday-hacks"
+  pre = '/static/img/friday-hacks-icon.svg'
+[[menu.main]]
+  name = "Hackerschool"
+  parent = "Archive"
+  weight = 2
+  url = "/archive/hackerschool"
+  pre = '/static/img/hackerschool-icon.svg'
+[[menu.main]]
   name = "Contact"
   identifier = "Contact"
   weight = 4

@@ -5,7 +5,7 @@ categories:
 comments: true
 date: 2012-10-04T00:00:00.000Z
 title: 'Fridiay Hacks #31, Oct 5'
-url: /2012/10/fridiay-hacks-31-oct-5/
+url: /2012/10/friday-hacks-31
 aliases:
   - /2012/10/04/fridiay-hacks-31-oct-5/
 ---
