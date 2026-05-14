@@ -42,14 +42,13 @@ class FHSession:
             return match.group(1), match.group(2)
         else:
             return venue_str, ""
-        
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHSession":
         for key in [KEY_SESSION_NUMBER, KEY_DATE, KEY_VENUE, KEY_TALKS]:
             if key not in data:
                 raise ValueError(f"Missing required field: '{key}'")
-        
+
         if not data[KEY_TALKS]:
             raise ValueError(f"The '{KEY_TALKS}' field must be a non-empty list")
 
@@ -107,6 +106,6 @@ def main() -> None:
 
     print(f"Successfully parsed input for Session {args.session_number}, Semester {args.semester}.")
     print(f"Model loaded: Session {session_model.session_number} with {len(session_model.talks)} talks.")
-    
+
 if __name__ == "__main__":
     main()
