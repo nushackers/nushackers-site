@@ -112,6 +112,7 @@ function processSessions() {
                 date: firstRow[COL_DATE],
                 venue: firstRow[COL_VENUE],
                 no_hack: !!firstRow[COL_NO_HACK], // Convert to boolean
+                no_hack_reason: firstRow[COL_NO_HACK_R], // optional, can be empty
                 talks: rows.map(r => ({
                     start_time: r[COL_START_TIME],
                     end_time: r[COL_END_TIME],
@@ -119,7 +120,6 @@ function processSessions() {
                     speaker: r[COL_SPEAKER],
                     description: r[COL_DESC],
                     luma_link: r[COL_LUMA],
-                    no_hack_reason: r[COL_NO_HACK_R],
                     from: r[COL_FROM],
                     poster: r[COL_POSTER_LINK]
                 }))
