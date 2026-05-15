@@ -111,6 +111,7 @@ function processSessions() {
                 session_number: parseInt(sessionNum, 10),
                 date: firstRow[COL_DATE],
                 venue: firstRow[COL_VENUE],
+                luma_link: firstRow[COL_LUMA],
                 no_hack: !!firstRow[COL_NO_HACK], // Convert to boolean
                 no_hack_reason: firstRow[COL_NO_HACK_R], // optional, can be empty
                 talks: rows.map(r => ({
@@ -119,7 +120,6 @@ function processSessions() {
                     title: r[COL_TITLE],
                     speaker: r[COL_SPEAKER],
                     description: r[COL_DESC],
-                    luma_link: r[COL_LUMA],
                     from: r[COL_FROM],
                     poster: r[COL_POSTER_LINK]
                 }))
