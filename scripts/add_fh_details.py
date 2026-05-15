@@ -30,6 +30,7 @@ class FHSession:
     no_hack: bool
     no_hack_reason: str | None
     talks: List[Dict[str, Any]]
+    signup_link: str
 
     @classmethod
     def parse_venue_details(cls, venue_str: str) -> Tuple[str, str]:

@@ -29,6 +29,7 @@ const COL_FROM            = 12; // M
 const COL_POSTER_LINK     = 13; // N
 
 const READY_STATUS = "Yes";
+const READY_STATUS_UPDATED = "Already added";
 
 /**
  * Filters rows based on column A.
@@ -38,6 +39,24 @@ const READY_STATUS = "Yes";
  */
 function filterNonEmptyRows(data) {
     return data.filter(row => row[COL_SESSION] !== "" && row[COL_SESSION] !== null && row[COL_SESSION] !== undefined);
+}
+
+/**
+ * Updates the ready status for all rows of a given session number.
+ * @param {Sheet} sheet - The spreadsheet sheet object.
+ * @param {number} sessionNumber - The session number to update.
+ * @param {string} newStatus - The new status to set in COL_READY.
+ */
+function updateSessionReadyStatus(sheet, sessionNumber, newStatus) {
+    const data = sheet.getRange(TABLE_RANGE).getValues();
+    
+    for (let i = 0; i < data.length; i++) {
+        if (data[i][COL_SESSION] === sessionNumber) {
+            const rowNum = i + 1; // Google Sheets is 1-indexed
+            const colLetter = String.fromCharCode(65 + COL_READY); // A=65
+            sheet.getRange(`${colLetter}${rowNum}`).setValue(newStatus);
+        }
+    }
 }
 
 /**
@@ -163,6 +182,10 @@ function processSessions() {
     };
 
     triggerWorkflow(workflowInputs);
+
+    // Update the ready status in the spreadsheet for all rows of this session
+    updateSessionReadyStatus(sheet, targetSession.session_number, READY_STATUS_UPDATED);
+    console.log(`Updated session ${targetSession.session_number} ready status to "${READY_STATUS_UPDATED}".`);
 }
 
 function main() {
