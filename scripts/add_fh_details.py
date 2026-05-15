@@ -14,6 +14,7 @@ KEY_NO_HACK_REASON = "no_hack_reason"
 KEY_TALKS = "talks"
 KEY_START_TIME = "start_time"
 KEY_END_TIME = "end_time"
+KEY_SIGNUP_LINK = "signup_link"
 
 def _parse_dt(dt_str: str) -> datetime.datetime:
     """Helper to parse JS ISO strings like 2026-05-14T10:00:00.000Z"""
@@ -46,7 +47,7 @@ class FHSession:
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHSession":
-        for key in [KEY_SESSION_NUMBER, KEY_DATE, KEY_VENUE, KEY_TALKS]:
+        for key in [KEY_SESSION_NUMBER, KEY_DATE, KEY_VENUE, KEY_TALKS, KEY_SIGNUP_LINK]:
             if key not in data:
                 raise ValueError(f"Missing required field: '{key}'")
 
@@ -78,7 +79,8 @@ class FHSession:
             venue_link=venue_link,
             no_hack=no_hack,
             no_hack_reason=data.get(KEY_NO_HACK_REASON),
-            talks=parsed_talks
+            talks=parsed_talks,
+            signup_link=data[KEY_SIGNUP_LINK]
         )
 
 def main() -> None:
@@ -94,7 +96,7 @@ def main() -> None:
         sys.exit(1)
 
     # Read JSON string from standard input
-    raw_json: str = sys.stdin.read()
+    raw_json: str = input()
 
     # Parse JSON string
     try:

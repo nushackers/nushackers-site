@@ -21,7 +21,7 @@ const COL_VENUE           = 4;  // E
 const COL_TITLE           = 5;  // F
 const COL_SPEAKER         = 6;  // G
 const COL_DESC            = 7;  // H
-const COL_LUMA            = 8;  // I
+const COL_SIGNUP_LINK     = 8;  // I
 const COL_NO_HACK         = 9;  // J
 const COL_NO_HACK_R       = 10; // K
 const COL_READY           = 11; // L
@@ -130,7 +130,7 @@ function processSessions() {
                 session_number: parseInt(sessionNum, 10),
                 date: firstRow[COL_DATE],
                 venue: firstRow[COL_VENUE],
-                luma_link: firstRow[COL_LUMA],
+                signup_link: firstRow[COL_SIGNUP_LINK],
                 no_hack: !!firstRow[COL_NO_HACK], // Convert to boolean
                 no_hack_reason: firstRow[COL_NO_HACK_R], // optional, can be empty
                 talks: rows.map(r => ({
