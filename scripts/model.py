@@ -5,7 +5,7 @@ from dataclasses import dataclass
 from typing import Any, Dict, List, Optional, Tuple
 
 from constants import (
-    KEY_SESSION_NUMBER, KEY_DATE, KEY_VENUE, KEY_NO_HACK, KEY_NO_HACK_REASON,
+    KEY_HACKS, KEY_SESSION_NUMBER, KEY_DATE, KEY_START_DATE, KEY_START_NR, KEY_VENUE, KEY_NO_HACK, KEY_NO_HACK_REASON,
     KEY_TALKS, KEY_START_TIME, KEY_END_TIME, KEY_SIGNUP_LINK, SESSION_FIELD_TOPICS, SESSION_FIELD_VENUE,
     TALK_FIELD_SPEAKER, TALK_FIELD_TITLE, TALK_FIELD_DESCRIPTION, TALK_FIELD_POSTER_LINK, TALK_FIELD_FROM,
     SCHEDULE_FIELD_START_NR, SCHEDULE_FIELD_START_DATE, SCHEDULE_FIELD_HACKS
@@ -22,6 +22,14 @@ class FHSchedule:
     def __str__(self) -> str:
         """Return a human-readable string representation of the schedule."""
         return f"FHSchedule(start_nr={self.start_nr}, start_date={self.start_date}, hacks_count={len(self.hacks)})"
+
+    def to_dict(self) -> Dict[str, Any]:
+        """Convert the FHSchedule instance to a dictionary format for YAML serialization."""
+        return {
+            KEY_START_DATE: self.start_date.strftime("%Y-%m-%d") + " 19:00:00 +0800",
+            KEY_START_NR: self.start_nr,
+            KEY_HACKS: self.hacks
+        }
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHSchedule":
@@ -53,6 +61,37 @@ class FHSchedule:
             start_date=start_date,
             hacks=data[SCHEDULE_FIELD_HACKS]
         )
+
+    def update_session(self, week_number: int, session_details: Dict[str, Any]) -> None:
+        """
+        Update the schedule with the details of a specific session.
+        
+        Args:
+            week_number: The week number to update (int)
+            session_details: A dictionary containing the session details to update in the schedule
+        """
+        index = week_number - self.start_nr
+        if 0 <= index < len(self.hacks):
+            self.hacks[index] = session_details
+        else:
+            raise IndexError(f"Week number {week_number} is out of range for the schedule starting at {self.start_nr} with {len(self.hacks)} sessions.")
+
+    def update_by_date(self, date: datetime.date, session_details: Dict[str, Any]) -> None:
+        """
+        Update the schedule with session details based on the session date.
+        Calculates the week number from the date relative to the schedule's start date.
+        
+        Args:
+            date: The date of the session (datetime.date)
+            session_details: A dictionary containing the session details to update in the schedule
+        
+        Raises:
+            IndexError: If the calculated week number is out of range
+        """
+        # Calculate weeks from start_date to the given date
+        weeks_from_start = (date - self.start_date).days // 7
+        week_number = self.start_nr + weeks_from_start
+        self.update_session(week_number, session_details)
 
 
 @dataclass
@@ -143,41 +182,63 @@ class FHSession:
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHSession":
-        for key in [KEY_SESSION_NUMBER, KEY_DATE, KEY_VENUE, KEY_TALKS, KEY_SIGNUP_LINK]:
-            if key not in data:
-                raise ValueError(f"Missing required field: '{key}'")
-
-        if not data[KEY_TALKS]:
-            raise ValueError(f"The '{KEY_TALKS}' field must be a non-empty list")
-
+        # Check if this is a no-hack session
         no_hack = data.get(KEY_NO_HACK, False)
+        
+        # All sessions require date
+        if KEY_DATE not in data:
+            raise ValueError(f"Missing required field: '{KEY_DATE}'")
+        
         if no_hack:
+            # For no-hack sessions, only date and reason are required
             if not data.get(KEY_NO_HACK_REASON):
                 raise ValueError(f"{KEY_NO_HACK} is True but {KEY_NO_HACK_REASON} is missing or empty")
-
-        parsed_date = cls._parse_dt(data[KEY_DATE]).date()
-
-        parsed_talks = []
-        for t in data[KEY_TALKS]:
-            parsed_t = dict(t)
-            if parsed_t.get(KEY_START_TIME):
-                parsed_t[KEY_START_TIME] = cls._parse_dt(parsed_t[KEY_START_TIME]).time()
-            if parsed_t.get(KEY_END_TIME):
-                parsed_t[KEY_END_TIME] = cls._parse_dt(parsed_t[KEY_END_TIME]).time()
-            parsed_talks.append(FHTalk.from_dict(parsed_t))
-
-        venue, venue_link = cls._parse_venue_details(data[KEY_VENUE])
-
-        return cls(
-            session_number=data[KEY_SESSION_NUMBER],
-            date=parsed_date,
-            venue=venue,
-            venue_link=venue_link,
-            no_hack=no_hack,
-            no_hack_reason=data.get(KEY_NO_HACK_REASON),
-            talks=parsed_talks,
-            signup_link=data[KEY_SIGNUP_LINK]
-        )
+            
+            parsed_date = cls._parse_dt(data[KEY_DATE]).date()
+            
+            return cls(
+                session_number=0,  # Placeholder for no-hack sessions
+                date=parsed_date,
+                venue="",
+                venue_link="",
+                no_hack=True,
+                no_hack_reason=data[KEY_NO_HACK_REASON],
+                talks=[],
+                signup_link=""
+            )
+        else:
+            # For regular sessions, all fields are required
+            required_fields = [KEY_SESSION_NUMBER, KEY_VENUE, KEY_TALKS, KEY_SIGNUP_LINK]
+            for key in required_fields:
+                if key not in data:
+                    raise ValueError(f"Missing required field: '{key}'")
+            
+            if not data[KEY_TALKS]:
+                raise ValueError(f"The '{KEY_TALKS}' field must be a non-empty list")
+            
+            parsed_date = cls._parse_dt(data[KEY_DATE]).date()
+            
+            parsed_talks = []
+            for t in data[KEY_TALKS]:
+                parsed_t = dict(t)
+                if parsed_t.get(KEY_START_TIME):
+                    parsed_t[KEY_START_TIME] = cls._parse_dt(parsed_t[KEY_START_TIME]).time()
+                if parsed_t.get(KEY_END_TIME):
+                    parsed_t[KEY_END_TIME] = cls._parse_dt(parsed_t[KEY_END_TIME]).time()
+                parsed_talks.append(FHTalk.from_dict(parsed_t))
+            
+            venue, venue_link = cls._parse_venue_details(data[KEY_VENUE])
+            
+            return cls(
+                session_number=data[KEY_SESSION_NUMBER],
+                date=parsed_date,
+                venue=venue,
+                venue_link=venue_link,
+                no_hack=False,
+                no_hack_reason=None,
+                talks=parsed_talks,
+                signup_link=data[KEY_SIGNUP_LINK]
+            )
 
     def to_schedule_ready_dict(self) -> Dict[str, Any]:
         """Convert the session details into a dictionary format ready for schedule update."""
