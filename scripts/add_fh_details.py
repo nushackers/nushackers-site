@@ -5,6 +5,8 @@ import sys
 from typing import Any, Dict
 
 from model import FHSession
+from fh_sched_update import update_schedule_session
+from fh_post_update import create_or_update_post
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Process FH details from stdin.")
@@ -29,6 +31,22 @@ def main() -> None:
 
     print(f"Successfully parsed input with start session {args.start_nr}, semester {args.semester}.")
     print(f"Model loaded: {session_model}")
+
+    # Update the schedule file
+    try:
+        update_schedule_session(args.semester, session_model)
+    except Exception as e:
+        print(f"Error: Failed to update schedule. {e}", file=sys.stderr)
+        sys.exit(1)
+
+    # Create or update the blog post
+    try:
+        create_or_update_post(session_model)
+    except Exception as e:
+        print(f"Error: Failed to create/update blog post. {e}", file=sys.stderr)
+        sys.exit(1)
+
+    print(f"Successfully processed Friday Hacks session {session_model.session_number}!")
 
 if __name__ == "__main__":
     main()
