@@ -6,7 +6,7 @@ from typing import Any, Dict, List, Optional, Tuple
 
 from constants import (
     KEY_HACKS, KEY_SESSION_NUMBER, KEY_DATE, KEY_START_DATE, KEY_START_NR, KEY_VENUE, KEY_NO_HACK, KEY_NO_HACK_REASON,
-    KEY_TALKS, KEY_START_TIME, KEY_END_TIME, KEY_SIGNUP_LINK, SESSION_FIELD_TOPICS, SESSION_FIELD_VENUE,
+    KEY_TALKS, KEY_START_TIME, KEY_END_TIME, KEY_SIGNUP_LINK, SESSION_FIELD_BLOG_POST, SESSION_FIELD_TOPICS, SESSION_FIELD_VENUE,
     TALK_FIELD_SPEAKER, TALK_FIELD_TITLE, TALK_FIELD_DESCRIPTION, TALK_FIELD_POSTER_LINK, TALK_FIELD_FROM,
     SCHEDULE_FIELD_START_NR, SCHEDULE_FIELD_START_DATE, SCHEDULE_FIELD_HACKS
 )
@@ -247,7 +247,7 @@ class FHSession:
         else:
             return {
                 KEY_VENUE: f'<a href="{self.venue_link}">{self.venue}</a>',
-                SESSION_FIELD_VENUE: f"/{self.date.year}/{self.date.month:02d}/friday-hacks-{self.session_number}",
+                SESSION_FIELD_BLOG_POST: f"/{self.date.year}/{self.date.month:02d}/friday-hacks-{self.session_number}",
                 SESSION_FIELD_TOPICS: [talk.to_schedule_ready_dict() for talk in self.talks]
             }
 

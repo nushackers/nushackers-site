@@ -147,9 +147,16 @@ def create_or_update_post(session: FHSession) -> None:
     Creates or updates the file at content/post/YYYY-MM-DD-friday-hacks-{session_number}.md
     with the formatted blog post content.
     
+    Skips blog post creation for no-hack sessions.
+    
     Args:
         session: The FHSession instance containing all session details
     """
+    # Skip creating blog post for no-hack sessions
+    if session.no_hack:
+        print(f"Skipping blog post creation for no-hack session {session.session_number}: {session.no_hack_reason}")
+        return
+
     # Convert date to string for file path
     date_str = session.date.strftime("%Y-%m-%d")
 

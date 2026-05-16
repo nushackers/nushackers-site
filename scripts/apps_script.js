@@ -174,20 +174,20 @@ function processSessions() {
 
     const filteredData = filterNonEmptyRows(rawData);
 
-    // Group by session number
-    const sessions = {};
+    // Group by date
+    const sessionsByDate = {};
     for (const row of filteredData) {
-        const sessionNum = row[COL_DATE];
-        if (!sessions[sessionNum]) {
-            sessions[sessionNum] = [];
+        const dateKey = row[COL_DATE];
+        if (!sessionsByDate[dateKey]) {
+            sessionsByDate[dateKey] = [];
         }
-        sessions[sessionNum].push(row);
+        sessionsByDate[dateKey].push(row);
     }
 
     // Filter and format ready sessions
     const readySessionsFormatted = [];
 
-    for (const [sessionNum, rows] of Object.entries(sessions)) {
+    for (const [dateKey, rows] of Object.entries(sessionsByDate)) {
         // 1a & 1b: Only keep sessions where ALL talks are marked "Yes" for Ready for website
         const allReady = rows.every(row => row[COL_READY] === READY_STATUS);
 
@@ -195,7 +195,7 @@ function processSessions() {
             // 2: Format rows
             const firstRow = rows[0];
             const sessionData = {
-                session_number: parseInt(sessionNum, 10),
+                session_number: firstRow[COL_SESSION],
                 date: formatDateAsISO(firstRow[COL_DATE]),
                 venue: firstRow[COL_VENUE],
                 signup_link: firstRow[COL_SIGNUP_LINK],
