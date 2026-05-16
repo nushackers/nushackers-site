@@ -191,9 +191,9 @@ function processSessions() {
         return;
     }
 
-    // Note: For now, assume single session updated at a time, so pick the last session
+    // Note: For now, assume single session updated at a time, so pick the first session
     readySessionsFormatted.sort((a, b) => a.session_number - b.session_number);
-    const targetSession = readySessionsFormatted[readySessionsFormatted.length - 1];
+    const targetSession = readySessionsFormatted[0];
 
     // Validate session details
     let isValid = true;
