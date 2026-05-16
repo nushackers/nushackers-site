@@ -1,4 +1,5 @@
 const AY = "2627_1";
+const START_NR = 250;
 const TABLE_RANGE = "A:N";
 const SCHEDULE_SHEET_NAME = "schedule";
 
@@ -49,7 +50,7 @@ function filterNonEmptyRows(data) {
  */
 function updateSessionReadyStatus(sheet, sessionNumber, newStatus) {
     const data = sheet.getRange(TABLE_RANGE).getValues();
-    
+
     for (let i = 0; i < data.length; i++) {
         if (data[i][COL_SESSION] === sessionNumber) {
             const rowNum = i + 1; // Google Sheets is 1-indexed
@@ -176,7 +177,7 @@ function processSessions() {
 
     // Send session details as inputs to GitHub workflow
     const workflowInputs = {
-        session_number: targetSession.session_number.toString(),
+        start_nr: START_NR,
         session_data: JSON.stringify(targetSession),
         semester: AY
     };
