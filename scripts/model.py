@@ -6,7 +6,7 @@ from typing import Any, Dict, List, Optional, Tuple
 
 from constants import (
     KEY_SESSION_NUMBER, KEY_DATE, KEY_VENUE, KEY_NO_HACK, KEY_NO_HACK_REASON,
-    KEY_TALKS, KEY_START_TIME, KEY_END_TIME, KEY_SIGNUP_LINK,
+    KEY_TALKS, KEY_START_TIME, KEY_END_TIME, KEY_SIGNUP_LINK, SESSION_FIELD_TOPICS, SESSION_FIELD_VENUE,
     TALK_FIELD_SPEAKER, TALK_FIELD_TITLE, TALK_FIELD_DESCRIPTION, TALK_FIELD_POSTER_LINK, TALK_FIELD_FROM,
     SCHEDULE_FIELD_START_NR, SCHEDULE_FIELD_START_DATE, SCHEDULE_FIELD_HACKS
 )
@@ -41,13 +41,13 @@ class FHSchedule:
         for field in required_fields:
             if field not in data:
                 raise ValueError(f"Missing required field for FHSchedule: '{field}'")
-        
+
         # Parse start_date string (format: "YYYY-MM-DD HH:MM:SS +HHMM")
         start_date_str = data[SCHEDULE_FIELD_START_DATE]
         # Extract just the date part
         date_part = start_date_str.split()[0]
         start_date = datetime.datetime.strptime(date_part, "%Y-%m-%d").date()
-        
+
         return cls(
             start_nr=data[SCHEDULE_FIELD_START_NR],
             start_date=start_date,
@@ -65,11 +65,6 @@ class FHTalk:
     start_time: datetime.time
     end_time: datetime.time
     talk_from: Optional[str] = None
-
-    def __str__(self) -> str:
-        """Return a human-readable string representation of the talk."""
-        from_str = f" (from {self.talk_from})" if self.talk_from else ""
-        return f"FHTalk(speaker={self.speaker!r}, title={self.title!r}, time={self.start_time}-{self.end_time}{from_str})"
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHTalk":
@@ -89,7 +84,7 @@ class FHTalk:
         for field in required_fields:
             if field not in data:
                 raise ValueError(f"Missing required field for FHTalk: '{field}'")
-        
+
         return cls(
             speaker=data[TALK_FIELD_SPEAKER],
             title=data[TALK_FIELD_TITLE],
@@ -99,6 +94,20 @@ class FHTalk:
             start_time=data[KEY_START_TIME],
             end_time=data[KEY_END_TIME]
         )
+
+    def to_schedule_ready_dict(self) -> Dict[str, Any]:
+        d = {
+            TALK_FIELD_SPEAKER: self.speaker,
+            TALK_FIELD_TITLE: self.title,
+        }
+        if self.talk_from:
+            d[TALK_FIELD_FROM] = self.talk_from
+        return d
+
+    def __str__(self) -> str:
+        """Return a human-readable string representation of the talk."""
+        from_str = f" (from {self.talk_from})" if self.talk_from else ""
+        return f"FHTalk(speaker={self.speaker!r}, title={self.title!r}, time={self.start_time}-{self.end_time}{from_str})"
 
 
 @dataclass
@@ -112,13 +121,6 @@ class FHSession:
     no_hack_reason: Optional[str]
     talks: List[FHTalk]
     signup_link: str
-
-    def __str__(self) -> str:
-        """Return a human-readable string representation of the session."""
-        talks_summary = f"{len(self.talks)} talk(s)" if self.talks else "no talks"
-        if self.no_hack:
-            return f"FHSession(#{self.session_number}, {self.date}, {self.venue}, NO HACK: {self.no_hack_reason})"
-        return f"FHSession(#{self.session_number}, {self.date}, {self.venue}, {talks_summary})"
 
     @classmethod
     def _parse_dt(cls, dt_str: str) -> datetime.datetime:
@@ -176,3 +178,21 @@ class FHSession:
             talks=parsed_talks,
             signup_link=data[KEY_SIGNUP_LINK]
         )
+
+    def to_schedule_ready_dict(self) -> Dict[str, Any]:
+        """Convert the session details into a dictionary format ready for schedule update."""
+        if self.no_hack:
+            return {KEY_NO_HACK: self.no_hack_reason or "No hack"}
+        else:
+            return {
+                KEY_VENUE: f'<a href="{self.venue_link}">{self.venue}</a>',
+                SESSION_FIELD_VENUE: f"/{self.date.year}/{self.date.month:02d}/friday-hacks-{self.session_number}",
+                SESSION_FIELD_TOPICS: [talk.to_schedule_ready_dict() for talk in self.talks]
+            }
+
+    def __str__(self) -> str:
+        """Return a human-readable string representation of the session."""
+        talks_summary = f"{len(self.talks)} talk(s)" if self.talks else "no talks"
+        if self.no_hack:
+            return f"FHSession(#{self.session_number}, {self.date} NO HACK: {self.no_hack_reason})"
+        return f"FHSession(#{self.session_number}, {self.date}, {self.venue}, {talks_summary})"

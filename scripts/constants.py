@@ -16,6 +16,11 @@ KEY_HACKS = "hacks"
 KEY_NOSPEAKER = "nospeaker"
 KEY_NOHACK = "nohack"
 
+# FHSession field keys
+SESSION_FIELD_BLOG_POST = "blog_post"
+SESSION_FIELD_VENUE = "venue"
+SESSION_FIELD_TOPICS = "topics"
+
 # FHTalk field keys
 TALK_FIELD_SPEAKER = "speaker"
 TALK_FIELD_TITLE = "title"
