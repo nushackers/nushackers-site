@@ -3,22 +3,11 @@ import yaml
 from pathlib import Path
 from typing import Any, Dict
 
-# Dictionary keys
-KEY_SESSION_NUMBER = "session_number"
-KEY_DATE = "date"
-KEY_VENUE = "venue"
-KEY_NO_HACK = "no_hack"
-KEY_NO_HACK_REASON = "no_hack_reason"
-KEY_TALKS = "talks"
-KEY_START_TIME = "start_time"
-KEY_END_TIME = "end_time"
-
-# YAML schedule keys
-KEY_START_DATE = "start_date"
-KEY_START_NR = "start_nr"
-KEY_HACKS = "hacks"
-KEY_NOSPEAKER = "nospeaker"
-KEY_NOHACK = "nohack"
+from constants import (
+    KEY_SESSION_NUMBER, KEY_DATE, KEY_VENUE, KEY_NO_HACK, KEY_NO_HACK_REASON,
+    KEY_TALKS, KEY_START_TIME, KEY_END_TIME, KEY_START_DATE, KEY_START_NR,
+    KEY_HACKS, KEY_NOSPEAKER, KEY_NOHACK
+)
 
 def load_or_create_schedule(
     semester: str, 

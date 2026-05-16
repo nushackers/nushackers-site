@@ -6,15 +6,10 @@ import datetime
 from dataclasses import dataclass
 from typing import Any, Dict, List, Tuple
 
-KEY_SESSION_NUMBER = "session_number"
-KEY_DATE = "date"
-KEY_VENUE = "venue"
-KEY_NO_HACK = "no_hack"
-KEY_NO_HACK_REASON = "no_hack_reason"
-KEY_TALKS = "talks"
-KEY_START_TIME = "start_time"
-KEY_END_TIME = "end_time"
-KEY_SIGNUP_LINK = "signup_link"
+from constants import (
+    KEY_SESSION_NUMBER, KEY_DATE, KEY_VENUE, KEY_NO_HACK, KEY_NO_HACK_REASON,
+    KEY_TALKS, KEY_START_TIME, KEY_END_TIME, KEY_SIGNUP_LINK
+)
 
 def _parse_dt(dt_str: str) -> datetime.datetime:
     """Helper to parse JS ISO strings like 2026-05-14T10:00:00.000Z"""

@@ -1,6 +1,7 @@
 import datetime
 from typing import Any, Dict, List
 from time import localtime, strftime
+from pathlib import Path
 
 METADATA_TEMPLATE = """\
 ---
@@ -37,24 +38,23 @@ SINGLE_TALK_TEMPLATE = """\
 SEE_YOU_THERE_STR = "👋 See you there!"
 
 
-def format_metadata(session_number: int, date_str: str) -> str:
+def _format_metadata(session_number: int, date: datetime.date) -> str:
     """
     Format the metadata template with session number, date, and current time.
 
     Args:
         session_number: The session number
-        date_str: Date string in format YYYY-MM-DD
+        date: The date of the event (datetime.date)
 
     Returns:
         Formatted metadata string
     """
-    date_obj = datetime.datetime.strptime(date_str, "%Y-%m-%d").date()
     current_time = strftime("%H:%M:%S", localtime())
 
-    month_name = date_obj.strftime("%B")
-    day = date_obj.day
-    year = date_obj.year
-    month = f"{date_obj.month:02d}"
+    month_name = date.strftime("%B")
+    day = date.day
+    year = date.year
+    month = f"{date.month:02d}"
 
     template = METADATA_TEMPLATE
     template = template.replace("{{ session_number }}", str(session_number))
@@ -67,7 +67,7 @@ def format_metadata(session_number: int, date_str: str) -> str:
     return template
 
 
-def format_event_details(date_obj: datetime.date, venue: str, venue_link: str, signup_link: str) -> str:
+def _format_event_details(date_obj: datetime.date, venue: str, venue_link: str, signup_link: str) -> str:
     """
     Format the event details template with date, venue, and signup information.
     
@@ -93,7 +93,7 @@ def format_event_details(date_obj: datetime.date, venue: str, venue_link: str, s
     return template
 
 
-def format_talks(talks: List[Dict[str, Any]], date_obj: datetime.date, session_number: int) -> str:
+def _format_talks(talks: List[Dict[str, Any]], date_obj: datetime.date, session_number: int) -> str:
     """
     Format an array of talk details into the single talk template.
     
@@ -122,7 +122,7 @@ def format_talks(talks: List[Dict[str, Any]], date_obj: datetime.date, session_n
     return "\n".join(formatted_talks)
 
 
-def generate_post_content(metadata: str, event_details: str, talks_content: str) -> str:
+def _generate_post_content(metadata: str, event_details: str, talks_content: str) -> str:
     """
     Join all formatted strings into the complete post content.
     
@@ -135,5 +135,51 @@ def generate_post_content(metadata: str, event_details: str, talks_content: str)
         Complete post content with all sections joined
     """
     return "\n".join([metadata, event_details, talks_content, SEE_YOU_THERE_STR])
+
+
+def create_or_update_post(
+    session_number: int,
+    date: datetime.date,
+    venue: str,
+    venue_link: str,
+    signup_link: str,
+    talks: List[Dict[str, Any]]
+) -> None:
+    """
+    Create or update a Friday Hacks blog post markdown file.
+    
+    Creates or updates the file at content/post/YYYY-MM-DD-friday-hacks-{session_number}.md
+    with the formatted blog post content.
+    
+    Args:
+        session_number: The session number
+        date: The date of the event (datetime.date)
+        venue: The venue name
+        venue_link: The link to the venue
+        signup_link: The signup link for the event
+        talks: List of talk detail dictionaries
+    """
+    # Convert date to string for file path
+    date_str = date.strftime("%Y-%m-%d")
+
+    # Format all sections
+    metadata = _format_metadata(session_number, date)
+    event_details = _format_event_details(date, venue, venue_link, signup_link)
+    talks_content = _format_talks(talks, date, session_number)
+    
+    # Generate complete post content
+    post_content = _generate_post_content(metadata, event_details, talks_content)
+    
+    # Construct file path using Path with os-agnostic delimiters
+    file_path = Path("content") / "post" / f"{date_str}-friday-hacks-{session_number}.md"
+    
+    # Create parent directories if needed
+    file_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    # Write the content to the file
+    with open(file_path, 'w') as f:
+        f.write(post_content)
+    
+    print(f"Blog post updated at {file_path}")
 
 
