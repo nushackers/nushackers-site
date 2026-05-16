@@ -1,7 +1,6 @@
 import datetime
-from typing import Any, Dict, List
+from typing import List
 from time import localtime, strftime
-from pathlib import Path
 
 from model import FHSession, FHTalk
 from constants import REPO_ROOT
