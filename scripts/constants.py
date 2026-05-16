@@ -15,3 +15,15 @@ KEY_START_NR = "start_nr"
 KEY_HACKS = "hacks"
 KEY_NOSPEAKER = "nospeaker"
 KEY_NOHACK = "nohack"
+
+# FHTalk field keys
+TALK_FIELD_SPEAKER = "speaker"
+TALK_FIELD_TITLE = "title"
+TALK_FIELD_DESCRIPTION = "description"
+TALK_FIELD_POSTER_LINK = "poster"
+TALK_FIELD_FROM = "from"
+
+# FHSchedule field keys
+SCHEDULE_FIELD_START_NR = "start_nr"
+SCHEDULE_FIELD_START_DATE = "start_date"
+SCHEDULE_FIELD_HACKS = "hacks"
