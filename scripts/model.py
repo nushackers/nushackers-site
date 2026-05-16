@@ -35,13 +35,13 @@ class FHSchedule:
     def from_dict(cls, data: Dict[str, Any]) -> "FHSchedule":
         """
         Create an FHSchedule from a dictionary.
-        
+
         Args:
             data: Dictionary with keys: start_nr, start_date (string like "YYYY-MM-DD HH:MM:SS +HHMM"), and hacks
-        
+
         Returns:
             FHSchedule instance
-        
+
         Raises:
             ValueError: If any required field is missing
         """
@@ -65,7 +65,7 @@ class FHSchedule:
     def update_session(self, week_number: int, session_details: Dict[str, Any]) -> None:
         """
         Update the schedule with the details of a specific session.
-        
+
         Args:
             week_number: The week number to update (int)
             session_details: A dictionary containing the session details to update in the schedule
@@ -80,13 +80,10 @@ class FHSchedule:
         """
         Update the schedule with session details based on the session date.
         Calculates the week number from the date relative to the schedule's start date.
-        
+
         Args:
             date: The date of the session (datetime.date)
             session_details: A dictionary containing the session details to update in the schedule
-        
-        Raises:
-            IndexError: If the calculated week number is out of range
         """
         # Calculate weeks from start_date to the given date
         weeks_from_start = (date - self.start_date).days // 7
@@ -109,13 +106,13 @@ class FHTalk:
     def from_dict(cls, data: Dict[str, Any]) -> "FHTalk":
         """
         Create an FHTalk from a dictionary.
-        
+
         Args:
             data: Dictionary with keys: speaker, title, description, poster_link, and optional talk_from
-        
+
         Returns:
             FHTalk instance
-        
+
         Raises:
             ValueError: If any required field is missing
         """
@@ -184,18 +181,18 @@ class FHSession:
     def from_dict(cls, data: Dict[str, Any]) -> "FHSession":
         # Check if this is a no-hack session
         no_hack = data.get(KEY_NO_HACK, False)
-        
+
         # All sessions require date
         if KEY_DATE not in data:
             raise ValueError(f"Missing required field: '{KEY_DATE}'")
-        
+
         if no_hack:
             # For no-hack sessions, only date and reason are required
             if not data.get(KEY_NO_HACK_REASON):
                 raise ValueError(f"{KEY_NO_HACK} is True but {KEY_NO_HACK_REASON} is missing or empty")
-            
+
             parsed_date = cls._parse_dt(data[KEY_DATE]).date()
-            
+
             return cls(
                 session_number=0,  # Placeholder for no-hack sessions
                 date=parsed_date,
@@ -212,12 +209,12 @@ class FHSession:
             for key in required_fields:
                 if key not in data:
                     raise ValueError(f"Missing required field: '{key}'")
-            
+
             if not data[KEY_TALKS]:
                 raise ValueError(f"The '{KEY_TALKS}' field must be a non-empty list")
-            
+
             parsed_date = cls._parse_dt(data[KEY_DATE]).date()
-            
+
             parsed_talks = []
             for t in data[KEY_TALKS]:
                 parsed_t = dict(t)
@@ -226,9 +223,9 @@ class FHSession:
                 if parsed_t.get(KEY_END_TIME):
                     parsed_t[KEY_END_TIME] = cls._parse_dt(parsed_t[KEY_END_TIME]).time()
                 parsed_talks.append(FHTalk.from_dict(parsed_t))
-            
+
             venue, venue_link = cls._parse_venue_details(data[KEY_VENUE])
-            
+
             return cls(
                 session_number=data[KEY_SESSION_NUMBER],
                 date=parsed_date,
