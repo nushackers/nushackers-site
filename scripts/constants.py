@@ -1,5 +1,10 @@
 # Dictionary/JSON keys
-KEY_SESSION_NUMBER = "session_number"
+from pathlib import Path
+
+# Repository root directory (parent of scripts folder)
+REPO_ROOT = Path(__file__).parent.parent
+
+# Dictionary/JSON keys
 KEY_DATE = "date"
 KEY_VENUE = "venue"
 KEY_NO_HACK = "no_hack"

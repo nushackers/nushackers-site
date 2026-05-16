@@ -1,11 +1,9 @@
 import datetime
 import yaml
-from pathlib import Path
-from typing import Any, Dict, List, Optional
 
 from model import FHSchedule, FHSession
 from constants import (
-    KEY_START_DATE, KEY_START_NR, KEY_HACKS, KEY_NOSPEAKER, KEY_NOHACK
+    REPO_ROOT, KEY_START_DATE, KEY_START_NR, KEY_HACKS, KEY_NOSPEAKER, KEY_NOHACK
 )
 
 
@@ -22,7 +20,7 @@ def _load_schedule(semester: str) -> FHSchedule:
     Raises:
         FileNotFoundError: If the schedule file doesn't exist
     """
-    schedule_path = Path("data") / "friday_hacks" / f"friday_hacks_{semester}.yml"
+    schedule_path = REPO_ROOT / "data" / "friday_hacks" / f"friday_hacks_{semester}.yml"
 
     if not schedule_path.exists():
         raise FileNotFoundError(f"Schedule file not found: {schedule_path}")
@@ -97,7 +95,7 @@ def _load_or_create_schedule(
     try:
         return _load_schedule(semester)
     except FileNotFoundError:
-        schedule = _create_schedule(semester, start_date, start_nr)
+        schedule = _create_schedule(start_date, start_nr)
         _save_schedule(semester, schedule)
         return schedule
 
@@ -110,7 +108,7 @@ def _save_schedule(semester: str, schedule: FHSchedule) -> None:
         semester: The semester string (e.g., "2627_1")
         schedule: The FHSchedule instance to save
     """
-    schedule_path = Path("data") / "friday_hacks" / f"friday_hacks_{semester}.yml"
+    schedule_path = REPO_ROOT / "data" / "friday_hacks" / f"friday_hacks_{semester}.yml"
 
     # Create parent directories if needed
     schedule_path.parent.mkdir(parents=True, exist_ok=True)

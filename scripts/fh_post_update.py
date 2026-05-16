@@ -4,6 +4,7 @@ from time import localtime, strftime
 from pathlib import Path
 
 from model import FHSession, FHTalk
+from constants import REPO_ROOT
 
 METADATA_TEMPLATE = """\
 ---
@@ -84,14 +85,14 @@ def _format_event_details(date_obj: datetime.date, venue: str, venue_link: str, 
     """
     month_name = date_obj.strftime("%B")
     day = date_obj.day
-    
+
     template = EVENT_DETAILS_TEMPLATE
     template = template.replace("{{ month_name }}", month_name)
     template = template.replace("{{ day }}", str(day))
     template = template.replace("{{ venue }}", venue)
     template = template.replace("{{ venue_link }}", venue_link)
     template = template.replace("{{ signup_link }}", signup_link)
-    
+
     return template
 
 
@@ -109,7 +110,7 @@ def _format_talks(talks: List[FHTalk], date_obj: datetime.date, session_number: 
     """
     year = date_obj.year
     formatted_talks = []
-    
+
     for idx, talk in enumerate(talks, start=1):
         template = SINGLE_TALK_TEMPLATE
         template = template.replace("{{ year }}", str(year))
@@ -119,9 +120,9 @@ def _format_talks(talks: List[FHTalk], date_obj: datetime.date, session_number: 
         template = template.replace("{{ description }}", talk.description)
         # Use speaker name as the speaker profile since FHTalk doesn't have a separate profile field
         template = template.replace("{{ speaker_profile }}", f"Speaker: {talk.speaker}")
-        
+
         formatted_talks.append(template)
-    
+
     return "\n".join(formatted_talks)
 
 
@@ -157,20 +158,20 @@ def create_or_update_post(session: FHSession) -> None:
     metadata = _format_metadata(session.session_number, session.date)
     event_details = _format_event_details(session.date, session.venue, session.venue_link, session.signup_link)
     talks_content = _format_talks(session.talks, session.date, session.session_number)
-    
+
     # Generate complete post content
     post_content = _generate_post_content(metadata, event_details, talks_content)
-    
-    # Construct file path using Path with os-agnostic delimiters
-    file_path = Path("content") / "post" / f"{date_str}-friday-hacks-{session.session_number}.md"
-    
+
+    # Construct file path using REPO_ROOT with os-agnostic delimiters
+    file_path = REPO_ROOT / "content" / "post" / f"{date_str}-friday-hacks-{session.session_number}.md"
+
     # Create parent directories if needed
     file_path.parent.mkdir(parents=True, exist_ok=True)
-    
+
     # Write the content to the file
     with open(file_path, 'w') as f:
         f.write(post_content)
-    
+
     print(f"Blog post updated at {file_path}")
 
 

@@ -36,6 +36,32 @@ const READY_STATUS = "Yes";
 const READY_STATUS_UPDATED = "Already added";
 
 /**
+ * Formats a date as an ISO string with +0800 timezone offset.
+ * @param {any} dateValue - The date (Date object or string YYYY-MM-DD).
+ * @returns {string} ISO formatted date string (e.g., "2026-04-12T19:00:00+0800").
+ */
+function formatDateAsISO(dateValue) {
+    if (!dateValue) {
+        return null;
+    }
+
+    let dateStr;
+    if (typeof dateValue === 'string') {
+        dateStr = dateValue.split('T')[0]; // Extract date part if ISO string
+    } else if (dateValue instanceof Date) {
+        const year = dateValue.getFullYear();
+        const month = String(dateValue.getMonth() + 1).padStart(2, '0');
+        const day = String(dateValue.getDate()).padStart(2, '0');
+        dateStr = `${year}-${month}-${day}`;
+    } else {
+        return null; // Can't parse date value
+    }
+
+    // Use 19:00 (7pm) as the default time for Friday Hacks
+    return `${dateStr}T19:00:00+0800`;
+}
+
+/**
  * Combines a date with a time Date object to create a full ISO timestamp.
  * Extracts time from the time Date object and combines with the actual session date.
  * @param {any} dateValue - The session date (Date object or string YYYY-MM-DD).
@@ -170,7 +196,7 @@ function processSessions() {
             const firstRow = rows[0];
             const sessionData = {
                 session_number: parseInt(sessionNum, 10),
-                date: firstRow[COL_DATE],
+                date: formatDateAsISO(firstRow[COL_DATE]),
                 venue: firstRow[COL_VENUE],
                 signup_link: firstRow[COL_SIGNUP_LINK],
                 no_hack: !!firstRow[COL_NO_HACK], // Convert to boolean
