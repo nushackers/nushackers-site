@@ -59,6 +59,8 @@ class FHTalk:
     description: str
     poster_link: str
     talk_from: Optional[str] = None
+    start_time: datetime.time
+    end_time: datetime.time
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHTalk":
@@ -74,7 +76,7 @@ class FHTalk:
         Raises:
             ValueError: If any required field is missing
         """
-        required_fields = [TALK_FIELD_SPEAKER, TALK_FIELD_TITLE, TALK_FIELD_DESCRIPTION, TALK_FIELD_POSTER_LINK]
+        required_fields = [TALK_FIELD_SPEAKER, TALK_FIELD_TITLE, TALK_FIELD_DESCRIPTION, TALK_FIELD_POSTER_LINK, KEY_START_TIME, KEY_END_TIME]
         for field in required_fields:
             if field not in data:
                 raise ValueError(f"Missing required field for FHTalk: '{field}'")
@@ -84,7 +86,9 @@ class FHTalk:
             title=data[TALK_FIELD_TITLE],
             description=data[TALK_FIELD_DESCRIPTION],
             poster_link=data[TALK_FIELD_POSTER_LINK],
-            talk_from=data.get(TALK_FIELD_FROM)
+            talk_from=data.get(TALK_FIELD_FROM),
+            start_time=data[KEY_START_TIME],
+            end_time=data[KEY_END_TIME]
         )
 
 
