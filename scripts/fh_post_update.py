@@ -3,6 +3,8 @@ from typing import Any, Dict, List
 from time import localtime, strftime
 from pathlib import Path
 
+from model import FHSession, FHTalk
+
 METADATA_TEMPLATE = """\
 ---
 title: "Friday Hacks # {{ session_number }}, {{ month_name }} {{ day }}: ..."
@@ -93,12 +95,12 @@ def _format_event_details(date_obj: datetime.date, venue: str, venue_link: str, 
     return template
 
 
-def _format_talks(talks: List[Dict[str, Any]], date_obj: datetime.date, session_number: int) -> str:
+def _format_talks(talks: List[FHTalk], date_obj: datetime.date, session_number: int) -> str:
     """
-    Format an array of talk details into the single talk template.
+    Format an array of FHTalk instances into the single talk template.
     
     Args:
-        talks: List of talk detail dictionaries
+        talks: List of FHTalk instances
         date_obj: The date of the event (datetime.date)
         session_number: The session number
     
@@ -113,9 +115,10 @@ def _format_talks(talks: List[Dict[str, Any]], date_obj: datetime.date, session_
         template = template.replace("{{ year }}", str(year))
         template = template.replace("{{ session_number }}", str(session_number))
         template = template.replace("{{ idx }}", str(idx))
-        template = template.replace("{{ title }}", talk.get("title", f"Talk {idx}"))
-        template = template.replace("{{ description }}", talk.get("description", f"Description for talk {idx}"))
-        template = template.replace("{{ speaker_profile }}", talk.get("speaker_profile", f"Speaker profile for talk {idx}"))
+        template = template.replace("{{ title }}", talk.title)
+        template = template.replace("{{ description }}", talk.description)
+        # Use speaker name as the speaker profile since FHTalk doesn't have a separate profile field
+        template = template.replace("{{ speaker_profile }}", f"Speaker: {talk.speaker}")
         
         formatted_talks.append(template)
     
@@ -137,41 +140,29 @@ def _generate_post_content(metadata: str, event_details: str, talks_content: str
     return "\n".join([metadata, event_details, talks_content, SEE_YOU_THERE_STR])
 
 
-def create_or_update_post(
-    session_number: int,
-    date: datetime.date,
-    venue: str,
-    venue_link: str,
-    signup_link: str,
-    talks: List[Dict[str, Any]]
-) -> None:
+def create_or_update_post(session: FHSession) -> None:
     """
-    Create or update a Friday Hacks blog post markdown file.
+    Create or update a Friday Hacks blog post markdown file from an FHSession instance.
     
     Creates or updates the file at content/post/YYYY-MM-DD-friday-hacks-{session_number}.md
     with the formatted blog post content.
     
     Args:
-        session_number: The session number
-        date: The date of the event (datetime.date)
-        venue: The venue name
-        venue_link: The link to the venue
-        signup_link: The signup link for the event
-        talks: List of talk detail dictionaries
+        session: The FHSession instance containing all session details
     """
     # Convert date to string for file path
-    date_str = date.strftime("%Y-%m-%d")
+    date_str = session.date.strftime("%Y-%m-%d")
 
     # Format all sections
-    metadata = _format_metadata(session_number, date)
-    event_details = _format_event_details(date, venue, venue_link, signup_link)
-    talks_content = _format_talks(talks, date, session_number)
+    metadata = _format_metadata(session.session_number, session.date)
+    event_details = _format_event_details(session.date, session.venue, session.venue_link, session.signup_link)
+    talks_content = _format_talks(session.talks, session.date, session.session_number)
     
     # Generate complete post content
     post_content = _generate_post_content(metadata, event_details, talks_content)
     
     # Construct file path using Path with os-agnostic delimiters
-    file_path = Path("content") / "post" / f"{date_str}-friday-hacks-{session_number}.md"
+    file_path = Path("content") / "post" / f"{date_str}-friday-hacks-{session.session_number}.md"
     
     # Create parent directories if needed
     file_path.parent.mkdir(parents=True, exist_ok=True)
