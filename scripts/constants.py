@@ -13,6 +13,7 @@ KEY_TALKS = "talks"
 KEY_START_TIME = "start_time"
 KEY_END_TIME = "end_time"
 KEY_SIGNUP_LINK = "signup_link"
+KEY_SESSION_NUMBER = "session_number"
 
 # YAML schedule keys
 KEY_START_DATE = "start_date"
