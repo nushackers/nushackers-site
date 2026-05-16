@@ -4,60 +4,33 @@
 
 Scripts to generate new Friday Hacks posts and semester schedule files.
 
-### Generate new FH blog post: [`./scripts/new-fh-post.py`](./new-fh-post.py)
+### Automated FH Details Update: [`./scripts/add_fh_details.py`](./add_fh_details.py)
 
 #### Usage
 
-**Help:**
+**Command-line arguments:**
 ```bash
-./scripts/new-fh-post.py -h
+python add_fh_details.py <session_number> <semester>
 ```
 
-**Generate new FH blog post:**
-```bash
-./scripts/new-fh-post.py <fh-date>
-```
+- `session_number`: The Friday Hacks session number (integer)
+- `semester`: Semester string in format `XXXX_1` or `XXXX_2` (e.g., `2627_1`)
 
-Example:
+**Input:** JSON formatted session data via stdin
+
+**Example:**
 ```bash
-./scripts/new-fh-post.py 2026-01-30
+echo '{"session_number": 250, "date": "2026-04-12T19:00:00.000Z", ...}' | python add_fh_details.py 250 2627_1
 ```
 
 #### How it works
 
-- Uses the template in [`scripts/templates/fh_post_template.md`](./templates/fh_post_template.md) to generate the post file.
-- Automatically determines the FH number based on the previous FH number (last file in the folder when sorted in ascending order).
-- The generated file is a template only, you will still need to copy the details over manually.
+**With talks:** Validates all required fields (session number, date, venue, talks, signup link), then updates the schedule and creates/replaces the blog post.
 
-### Generate new FH semester schedule: [`./scripts/new-fh-sem.py`](./new-fh-sem.py)
+**No-hack sessions:** Updates the schedule with the no-hack reason only; skips blog post creation entirely.
 
-#### Usage
+**Schedule file exists:** Loads the existing schedule, updates the entry for the session date (calculated from start_nr offset), and saves the updated schedule.
 
-**Help:**
-```bash
-./scripts/new-fh-sem.py -h
-```
+**Schedule file doesn't exist:** Creates a new schedule file assuming the first session (start_nr) is in week 3 of the semester, with 14 total weeks (including Recess Week, Midterms, Reading Week, and Exam Week placeholders).
 
-**Generate new FH semester schedule:**
-```bash
-./scripts/new-fh-sem.py <first-fh-date> <first-fh-number>
-```
-
-Example:
-```bash
-./scripts/new-fh-sem.py 2026-01-30 287
-```
-
-#### How it works
-
-- Uses the template in [`scripts/templates/fh_semester_template.yml`](./templates/fh_semester_template.yml) to generate the schedule file.
-- Automatically figures out the academic year and semester number from the previous one.
-- The semester schedule generation assumes that the first FH starts in week 3, with recess week, week 7 and reading week skipped. Public holidays are not considered.
-- The generated file is a template only, you will still need to copy the details over manually.
-
-### General Notes
-
-> [!WARNING]
-> **Dates MUST be in `YYYY-MM-DD` format.**
-
-- These scripts are meant to replace the old script `scripts/gen_fh.py` since it uses an older format of FH post and has dependencies.
+**Blog post file:** Creates new blog post if it doesn't exist, or replaces it if it does; uses date-based filename format `YYYY-MM-DD-friday-hacks-{session_number}.md`.
