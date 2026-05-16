@@ -5,7 +5,7 @@ categories:
 comments: true
 date: 2013-08-08T00:00:00.000Z
 title: NUS Hackers Welcome Tea
-url: /2013/08/nus-hackers-welcome-tea-3/
+url: /2013/08/friday-hacks-49
 aliases:
   - /2013/08/08/nus-hackers-welcome-tea-3/
 ---

@@ -6,7 +6,18 @@
     <ul class="nav-menu">
       {{ $currentURL := .Permalink }}
       {{ range .Site.Menus.main }}
-      <li class="nav-menu-item{{ if in $currentURL .URL }} nav-menu-active{{ end }}"><a class="nav-menu-link" href="{{ .URL }}">{{ .Name }}</a></li>
+      <li class="nav-menu-item{{ if in $currentURL .URL }} nav-menu-active{{ end }}">
+        <a class="nav-menu-link" href="{{ .URL }}"{{ if .HasChildren }} style="cursor: pointer;"{{ end }}>{{ .Name }}</a>
+        {{ if .HasChildren }}
+          <ul class="dropdown">
+            {{ range .Children }}
+            <li class="dropdown-item">
+              <a href="{{ .URL }}">{{ with .Pre }}{{ readFile . | safeHTML }}{{ end }} {{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </li>
       {{ end }}
 
       <li class="nav-menu-item">
