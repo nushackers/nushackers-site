@@ -1,5 +1,8 @@
+// Change every semester
 const AY = "2627_1";
 const START_NR = 250;
+
+// Spreadsheet Constants - change if needed
 const TABLE_RANGE = "A:N";
 const SCHEDULE_SHEET_NAME = "schedule";
 
