@@ -33,6 +33,44 @@ const READY_STATUS = "Yes";
 const READY_STATUS_UPDATED = "Already added";
 
 /**
+ * Combines a date with a time Date object to create a full ISO timestamp.
+ * Extracts time from the time Date object and combines with the actual session date.
+ * @param {any} dateValue - The session date (Date object or string YYYY-MM-DD).
+ * @param {Date} timeValue - The time as a Date object (1899-12-30 with actual time).
+ * @returns {string} Combined ISO timestamp with +0800 timezone (e.g., "2026-04-12T19:00:00+0800").
+ */
+function combineDateAndTime(dateValue, timeValue) {
+    if (!timeValue) {
+        return null;
+    }
+
+    // Extract HH:MM:SS from the time Date object
+    let hour, minute, second;
+    if (timeValue instanceof Date) {
+        hour = String(timeValue.getHours()).padStart(2, '0');
+        minute = String(timeValue.getMinutes()).padStart(2, '0');
+        second = String(timeValue.getSeconds()).padStart(2, '0');
+    } else {
+        return null; // Can't parse non-Date time value
+    }
+
+    // Format the date as YYYY-MM-DD
+    let dateStr;
+    if (typeof dateValue === 'string') {
+        dateStr = dateValue.split('T')[0]; // Extract date part if ISO string
+    } else if (dateValue instanceof Date) {
+        const year = dateValue.getFullYear();
+        const month = String(dateValue.getMonth() + 1).padStart(2, '0');
+        const day = String(dateValue.getDate()).padStart(2, '0');
+        dateStr = `${year}-${month}-${day}`;
+    } else {
+        return null; // Can't parse date value
+    }
+
+    return `${dateStr}T${hour}:${minute}:${second}+0800`;
+}
+
+/**
  * Filters rows based on column A.
  * Keeps rows that are NOT empty in column A.
  * @param {Array<Array<any>>} data - The 2D array of spreadsheet data.
@@ -135,8 +173,8 @@ function processSessions() {
                 no_hack: !!firstRow[COL_NO_HACK], // Convert to boolean
                 no_hack_reason: firstRow[COL_NO_HACK_R], // optional, can be empty
                 talks: rows.map(r => ({
-                    start_time: r[COL_START_TIME],
-                    end_time: r[COL_END_TIME],
+                    start_time: combineDateAndTime(firstRow[COL_DATE], r[COL_START_TIME]),
+                    end_time: combineDateAndTime(firstRow[COL_DATE], r[COL_END_TIME]),
                     title: r[COL_TITLE],
                     speaker: r[COL_SPEAKER],
                     description: r[COL_DESC],
