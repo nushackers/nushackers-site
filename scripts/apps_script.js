@@ -106,7 +106,7 @@ function combineDateAndTime(dateValue, timeValue) {
  * @returns {Array<Array<any>>} Filtered data.
  */
 function filterNonEmptyRows(data) {
-    return data.filter(row => row[COL_SESSION] !== "" && row[COL_SESSION] !== null && row[COL_SESSION] !== undefined);
+    return data.filter(row => row[COL_DATE] !== "" && row[COL_DATE] !== null && row[COL_DATE] !== undefined);
 }
 
 /**
@@ -177,7 +177,7 @@ function processSessions() {
     // Group by session number
     const sessions = {};
     for (const row of filteredData) {
-        const sessionNum = row[COL_SESSION];
+        const sessionNum = row[COL_DATE];
         if (!sessions[sessionNum]) {
             sessions[sessionNum] = [];
         }
@@ -221,7 +221,6 @@ function processSessions() {
     }
 
     // Note: For now, assume single session updated at a time, so pick the first session
-    readySessionsFormatted.sort((a, b) => a.session_number - b.session_number);
     const targetSession = readySessionsFormatted[0];
 
     // Validate session details
