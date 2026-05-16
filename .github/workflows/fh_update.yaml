@@ -1,0 +1,76 @@
+name: Update Friday Hacks
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_nr:
+        description: 'Starting session number for the semester'
+        required: true
+        type: string
+      semester:
+        description: 'Semester code (e.g., 2627_1)'
+        required: true
+        type: string
+      session_data:
+        description: 'Session data as JSON'
+        required: true
+        type: string
+      branch_suffix:
+        description: 'Branch suffix (e.g., session-250)'
+        required: true
+        type: string
+
+jobs:
+  update-fh:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create branch
+        run: |
+          BRANCH="branch-fh-${{ inputs.branch_suffix }}"
+          git checkout -b "$BRANCH"
+          echo "BRANCH=$BRANCH" >> "$GITHUB_ENV"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run add_fh_details script
+        run: |
+          echo '${{ inputs.session_data }}' | python scripts/add_fh_details.py ${{ inputs.start_nr }} ${{ inputs.semester }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ content/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            echo "HAS_CHANGES=false" >> "$GITHUB_ENV"
+          else
+            git commit -m "chore: update friday hacks schedule and blog post"
+            git push origin "$BRANCH"
+            echo "HAS_CHANGES=true" >> "$GITHUB_ENV"
+          fi
+
+      - name: Create pull request
+        if: env.HAS_CHANGES == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr create \
+            --title "Add FH session details for ${{ inputs.branch_suffix }}" \
+            --body "Automated Friday Hacks update via add_fh_details\n\nPlease ensure that all session details are correct and in the right place. Review the Netlify preview before merging." \
+            --base "${{ github.ref_name }}" \
+            --head "$BRANCH"
