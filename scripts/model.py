@@ -19,6 +19,10 @@ class FHSchedule:
     start_date: datetime.date
     hacks: List[Dict[str, Any]]
 
+    def __str__(self) -> str:
+        """Return a human-readable string representation of the schedule."""
+        return f"FHSchedule(start_nr={self.start_nr}, start_date={self.start_date}, hacks_count={len(self.hacks)})"
+
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHSchedule":
         """
@@ -58,9 +62,14 @@ class FHTalk:
     title: str
     description: str
     poster_link: str
-    talk_from: Optional[str] = None
     start_time: datetime.time
     end_time: datetime.time
+    talk_from: Optional[str] = None
+
+    def __str__(self) -> str:
+        """Return a human-readable string representation of the talk."""
+        from_str = f" (from {self.talk_from})" if self.talk_from else ""
+        return f"FHTalk(speaker={self.speaker!r}, title={self.title!r}, time={self.start_time}-{self.end_time}{from_str})"
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHTalk":
@@ -104,12 +113,19 @@ class FHSession:
     talks: List[FHTalk]
     signup_link: str
 
+    def __str__(self) -> str:
+        """Return a human-readable string representation of the session."""
+        talks_summary = f"{len(self.talks)} talk(s)" if self.talks else "no talks"
+        if self.no_hack:
+            return f"FHSession(#{self.session_number}, {self.date}, {self.venue}, NO HACK: {self.no_hack_reason})"
+        return f"FHSession(#{self.session_number}, {self.date}, {self.venue}, {talks_summary})"
+
     @classmethod
     def _parse_dt(cls, dt_str: str) -> datetime.datetime:
-        """Helper to parse JS ISO strings like 2026-05-14T10:00:00.000Z"""
+        """Helper to parse JS ISO strings like 2026-05-14T10:00:00.000+08:00"""
         if not dt_str:
             return None
-        return datetime.datetime.fromisoformat(dt_str.replace("Z", "+08:00"))
+        return datetime.datetime.fromisoformat(dt_str)
 
     @classmethod
     def _parse_venue_details(cls, venue_str: str) -> Tuple[str, str]:

@@ -28,7 +28,7 @@ def main() -> None:
     session_model: FHSession = FHSession.from_dict(data_dict)
 
     print(f"Successfully parsed input with start session {args.start_nr}, semester {args.semester}.")
-    print(f"Model loaded: Session {session_model.session_number} with {len(session_model.talks)} talks.")
+    print(f"Model loaded: {session_model}")
 
 if __name__ == "__main__":
     main()
