@@ -122,18 +122,18 @@ def update_schedule_session(start_nr: int, semester: str, session: FHSession) ->
     Update the schedule entry for a given session using FHSession data.
 
     Updates the schedule file at data/friday_hacks/friday_hacks_{semester}.yml
-    with the session details at the appropriate date-based index.
+    with the session details at the appropriate week_number index.
 
     Args:
         start_nr: The session number of the first session (int)
         semester: The semester string (e.g., "2627_1")
-        session: The FHSession instance containing session details
+        session: The FHSession instance containing session details (includes week_number)
     """
     # Load or create schedule
     schedule = _load_or_create_schedule(semester, session.date, start_nr)
 
-    # Update using the session's ready-formatted data
-    schedule.update_by_date(session.date, session.to_schedule_ready_dict())
+    # Update using the session's week number and ready-formatted data
+    schedule.update_session(session.week_number, session.to_schedule_ready_dict())
 
     # Save the updated schedule
     _save_schedule(semester, schedule)

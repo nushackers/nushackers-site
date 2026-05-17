@@ -86,20 +86,6 @@ class FHSchedule:
         else:
             raise IndexError(f"Week number {week_number} is out of range for the schedule starting at {self.start_nr} with {len(self.hacks)} sessions.")
 
-    def update_by_date(self, date: datetime.date, session_details: Dict[str, Any]) -> None:
-        """
-        Update the schedule with session details based on the session date.
-        Calculates the week number from the date relative to the schedule's start date.
-
-        Args:
-            date: The date of the session (datetime.date)
-            session_details: A dictionary containing the session details to update in the schedule
-        """
-        # Calculate weeks from start_date to the given date
-        weeks_from_start = (date - self.start_date).days // 7
-        week_number = self.start_nr + weeks_from_start
-        self.update_session(week_number, session_details)
-
 
 @dataclass
 class FHTalk:
@@ -157,6 +143,7 @@ class FHTalk:
 class FHSession:
     """Represents the details of a single Friday Hacks session."""
     session_number: int
+    week_number: int
     date: datetime.date
     venue: str
     venue_link: str
@@ -186,12 +173,16 @@ class FHSession:
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHSession":
-        # Check if this is a no-hack session
-        no_hack = data.get(JSONInputKeys.NO_HACK, False)
-
-        # All sessions require date
+        # All sessions require week_number and date
+        if JSONInputKeys.WEEK_NUMBER not in data:
+            raise ValueError(f"Missing required field: '{JSONInputKeys.WEEK_NUMBER}'")
         if JSONInputKeys.DATE not in data:
             raise ValueError(f"Missing required field: '{JSONInputKeys.DATE}'")
+        
+        week_number = data[JSONInputKeys.WEEK_NUMBER]
+        
+        # Check if this is a no-hack session
+        no_hack = data.get(JSONInputKeys.NO_HACK, False)
 
         if no_hack:
             # For no-hack sessions, only date and reason are required
@@ -202,6 +193,7 @@ class FHSession:
 
             return cls(
                 session_number=0,  # Placeholder for no-hack sessions
+                week_number=week_number,
                 date=parsed_date,
                 venue="",
                 venue_link="",
@@ -232,6 +224,7 @@ class FHSession:
 
             return cls(
                 session_number=data[JSONInputKeys.SESSION_NUMBER],
+                week_number=week_number,
                 date=parsed_date,
                 venue=venue,
                 venue_link=venue_link,
@@ -256,5 +249,5 @@ class FHSession:
         """Return a human-readable string representation of the session."""
         talks_summary = f"{len(self.talks)} talk(s)" if self.talks else "no talks"
         if self.no_hack:
-            return f"FHSession(#{self.session_number}, {self.date} NO HACK: {self.no_hack_reason})"
-        return f"FHSession(#{self.session_number}, {self.date}, {self.venue}, {talks_summary})"
+            return f"FHSession(week #{self.week_number}, {self.date} NO HACK: {self.no_hack_reason})"
+        return f"FHSession(#{self.session_number}, week #{self.week_number}, {self.date}, {self.venue}, {talks_summary})"

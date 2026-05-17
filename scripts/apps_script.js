@@ -1,6 +1,7 @@
 // Change every semester
-const AY = "2627_1";
+const SEMESTER = "2627_1";
 const START_NR = 250;
+const START_DATE = "2026-04-05T19:00:00+0800";
 
 // Spreadsheet Constants - change if needed
 const TABLE_RANGE = "A:P";
@@ -244,7 +245,7 @@ function processSessions() {
     const workflowInputs = {
         start_nr: START_NR,
         session_data: JSON.stringify(targetSession),
-        semester: AY
+        semester: SEMESTER
     };
 
     triggerWorkflow(workflowInputs);

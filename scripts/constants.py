@@ -12,6 +12,7 @@ class JSONInputKeys(StrEnum):
     """Input JSON keys for Friday Hacks session data"""
     SESSION_NUMBER = "session_number"
     DATE = "date"
+    WEEK_NUMBER = "week_number"
     VENUE = "venue"
     NO_HACK = "no_hack"
     NO_HACK_REASON = "no_hack_reason"
