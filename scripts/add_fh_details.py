@@ -38,6 +38,14 @@ def main() -> None:
     print(f"Successfully parsed input with start session {args.start_nr}, semester {args.semester}.")
     print(f"Model loaded: {session_model}")
 
+    # Validate session model structure early before any file operations
+    try:
+        _ = session_model.to_schedule_ready_dict()
+        print(f"Successfully validated session model structure.")
+    except Exception as e:
+        print(f"Error: Session model validation failed - {e}", file=sys.stderr)
+        sys.exit(1)
+
     # Update the schedule file
     try:
         update_schedule_session(args.start_nr, args.semester, session_model, start_date)

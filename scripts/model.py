@@ -75,16 +75,26 @@ class FHSchedule:
     def update_session(self, week_number: int, session_details: Dict[str, Any]) -> None:
         """
         Update the schedule with the details of a specific session.
+        
+        If week_number exceeds the current schedule length, extends self.hacks with 
+        NOSPEAKER entries until the given week_number can be accommodated.
 
         Args:
             week_number: The week number to update (int)
             session_details: A dictionary containing the session details to update in the schedule
         """
-        week_number = max(0, week_number - 1)
-        if 0 <= week_number < len(self.hacks):
-            self.hacks[week_number] = session_details
+        index = week_number - 1  # Convert 1-based week_number to 0-based index
+        
+        # Extend hacks array if necessary
+        if index >= len(self.hacks):
+            num_to_add = index - len(self.hacks) + 1
+            for _ in range(num_to_add):
+                self.hacks.append({YAMLScheduleKeys.NOSPEAKER.value: True})
+        
+        if 0 <= index < len(self.hacks):
+            self.hacks[index] = session_details
         else:
-            raise IndexError(f"Week number {week_number} is out of range for the schedule starting at {self.start_nr} with {len(self.hacks)} sessions.")
+            raise IndexError(f"Week number {week_number} is invalid. Must be >= 1.")
 
 
 @dataclass
