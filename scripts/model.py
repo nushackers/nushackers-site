@@ -5,11 +5,24 @@ from dataclasses import dataclass
 from typing import Any, Dict, List, Optional, Tuple
 
 from constants import (
-    KEY_HACKS, KEY_SESSION_NUMBER, KEY_DATE, KEY_START_DATE, KEY_START_NR, KEY_VENUE, KEY_NO_HACK, KEY_NO_HACK_REASON,
-    KEY_TALKS, KEY_START_TIME, KEY_END_TIME, KEY_SIGNUP_LINK, SESSION_FIELD_BLOG_POST, SESSION_FIELD_TOPICS, SESSION_FIELD_VENUE,
-    TALK_FIELD_SPEAKER, TALK_FIELD_TITLE, TALK_FIELD_DESCRIPTION, TALK_FIELD_POSTER_LINK, TALK_FIELD_FROM,
-    SCHEDULE_FIELD_START_NR, SCHEDULE_FIELD_START_DATE, SCHEDULE_FIELD_HACKS
+    JSONInputKeys, YAMLScheduleKeys, SessionOutputFields, TalkOutputFields
 )
+
+
+def assert_fields_in_dictionary(required_fields: List[str], data: Dict[str, Any]) -> None:
+    """
+    Assert that all required fields are present in the dictionary.
+    
+    Args:
+        required_fields: List of field names that must be present in data
+        data: Dictionary to check
+        
+    Raises:
+        ValueError: If any required field is missing from data
+    """
+    for field in required_fields:
+        if field not in data:
+            raise ValueError(f"Missing required field: '{field}'")
 
 
 @dataclass
@@ -26,9 +39,9 @@ class FHSchedule:
     def to_dict(self) -> Dict[str, Any]:
         """Convert the FHSchedule instance to a dictionary format for YAML serialization."""
         return {
-            KEY_START_DATE: self.start_date.strftime("%Y-%m-%d") + " 19:00:00 +0800",
-            KEY_START_NR: self.start_nr,
-            KEY_HACKS: self.hacks
+            YAMLScheduleKeys.START_DATE: self.start_date.strftime("%Y-%m-%d") + " 19:00:00 +0800",
+            YAMLScheduleKeys.START_NR: self.start_nr,
+            YAMLScheduleKeys.HACKS: self.hacks
         }
 
     @classmethod
@@ -45,21 +58,18 @@ class FHSchedule:
         Raises:
             ValueError: If any required field is missing
         """
-        required_fields = [SCHEDULE_FIELD_START_NR, SCHEDULE_FIELD_START_DATE, SCHEDULE_FIELD_HACKS]
-        for field in required_fields:
-            if field not in data:
-                raise ValueError(f"Missing required field for FHSchedule: '{field}'")
+        assert_fields_in_dictionary([YAMLScheduleKeys.START_NR, YAMLScheduleKeys.START_DATE, YAMLScheduleKeys.HACKS], data)
 
         # Parse start_date string (format: "YYYY-MM-DD HH:MM:SS +HHMM")
-        start_date_str = data[SCHEDULE_FIELD_START_DATE]
+        start_date_str = data[YAMLScheduleKeys.START_DATE]
         # Extract just the date part
         date_part = start_date_str.split()[0]
         start_date = datetime.datetime.strptime(date_part, "%Y-%m-%d").date()
 
         return cls(
-            start_nr=data[SCHEDULE_FIELD_START_NR],
+            start_nr=data[YAMLScheduleKeys.START_NR],
             start_date=start_date,
-            hacks=data[SCHEDULE_FIELD_HACKS]
+            hacks=data[YAMLScheduleKeys.HACKS]
         )
 
     def update_session(self, week_number: int, session_details: Dict[str, Any]) -> None:
@@ -116,28 +126,25 @@ class FHTalk:
         Raises:
             ValueError: If any required field is missing
         """
-        required_fields = [TALK_FIELD_SPEAKER, TALK_FIELD_TITLE, TALK_FIELD_DESCRIPTION, TALK_FIELD_POSTER_LINK, KEY_START_TIME, KEY_END_TIME]
-        for field in required_fields:
-            if field not in data:
-                raise ValueError(f"Missing required field for FHTalk: '{field}'")
+        assert_fields_in_dictionary([TalkOutputFields.SPEAKER, TalkOutputFields.TITLE, TalkOutputFields.DESCRIPTION, TalkOutputFields.POSTER_LINK, JSONInputKeys.START_TIME, JSONInputKeys.END_TIME], data)
 
         return cls(
-            speaker=data[TALK_FIELD_SPEAKER],
-            title=data[TALK_FIELD_TITLE],
-            description=data[TALK_FIELD_DESCRIPTION],
-            poster_link=data[TALK_FIELD_POSTER_LINK],
-            talk_from=data.get(TALK_FIELD_FROM),
-            start_time=data[KEY_START_TIME],
-            end_time=data[KEY_END_TIME]
+            speaker=data[TalkOutputFields.SPEAKER],
+            title=data[TalkOutputFields.TITLE],
+            description=data[TalkOutputFields.DESCRIPTION],
+            poster_link=data[TalkOutputFields.POSTER_LINK],
+            talk_from=data.get(TalkOutputFields.TALK_FROM),
+            start_time=data[JSONInputKeys.START_TIME],
+            end_time=data[JSONInputKeys.END_TIME]
         )
 
     def to_schedule_ready_dict(self) -> Dict[str, Any]:
         d = {
-            TALK_FIELD_SPEAKER: self.speaker,
-            TALK_FIELD_TITLE: self.title,
+            TalkOutputFields.SPEAKER: self.speaker,
+            TalkOutputFields.TITLE: self.title,
         }
         if self.talk_from:
-            d[TALK_FIELD_FROM] = self.talk_from
+            d[TalkOutputFields.TALK_FROM] = self.talk_from
         return d
 
     def __str__(self) -> str:
@@ -180,18 +187,18 @@ class FHSession:
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "FHSession":
         # Check if this is a no-hack session
-        no_hack = data.get(KEY_NO_HACK, False)
+        no_hack = data.get(JSONInputKeys.NO_HACK, False)
 
         # All sessions require date
-        if KEY_DATE not in data:
-            raise ValueError(f"Missing required field: '{KEY_DATE}'")
+        if JSONInputKeys.DATE not in data:
+            raise ValueError(f"Missing required field: '{JSONInputKeys.DATE}'")
 
         if no_hack:
             # For no-hack sessions, only date and reason are required
-            if not data.get(KEY_NO_HACK_REASON):
-                raise ValueError(f"{KEY_NO_HACK} is True but {KEY_NO_HACK_REASON} is missing or empty")
+            if not data.get(JSONInputKeys.NO_HACK_REASON):
+                raise ValueError(f"{JSONInputKeys.NO_HACK} is True but {JSONInputKeys.NO_HACK_REASON} is missing or empty")
 
-            parsed_date = cls._parse_dt(data[KEY_DATE]).date()
+            parsed_date = cls._parse_dt(data[JSONInputKeys.DATE]).date()
 
             return cls(
                 session_number=0,  # Placeholder for no-hack sessions
@@ -199,53 +206,50 @@ class FHSession:
                 venue="",
                 venue_link="",
                 no_hack=True,
-                no_hack_reason=data[KEY_NO_HACK_REASON],
+                no_hack_reason=data[JSONInputKeys.NO_HACK_REASON],
                 talks=[],
                 signup_link=""
             )
         else:
             # For regular sessions, all fields are required
-            required_fields = [KEY_SESSION_NUMBER, KEY_VENUE, KEY_TALKS, KEY_SIGNUP_LINK]
-            for key in required_fields:
-                if key not in data:
-                    raise ValueError(f"Missing required field: '{key}'")
+            assert_fields_in_dictionary([JSONInputKeys.SESSION_NUMBER, JSONInputKeys.VENUE, JSONInputKeys.TALKS, JSONInputKeys.SIGNUP_LINK], data)
 
-            if not data[KEY_TALKS]:
-                raise ValueError(f"The '{KEY_TALKS}' field must be a non-empty list")
+            if not data[JSONInputKeys.TALKS]:
+                raise ValueError(f"The '{JSONInputKeys.TALKS}' field must be a non-empty list")
 
-            parsed_date = cls._parse_dt(data[KEY_DATE]).date()
+            parsed_date = cls._parse_dt(data[JSONInputKeys.DATE]).date()
 
             parsed_talks = []
-            for t in data[KEY_TALKS]:
+            for t in data[JSONInputKeys.TALKS]:
                 parsed_t = dict(t)
-                if parsed_t.get(KEY_START_TIME):
-                    parsed_t[KEY_START_TIME] = cls._parse_dt(parsed_t[KEY_START_TIME]).time()
-                if parsed_t.get(KEY_END_TIME):
-                    parsed_t[KEY_END_TIME] = cls._parse_dt(parsed_t[KEY_END_TIME]).time()
+                if parsed_t.get(JSONInputKeys.START_TIME):
+                    parsed_t[JSONInputKeys.START_TIME] = cls._parse_dt(parsed_t[JSONInputKeys.START_TIME]).time()
+                if parsed_t.get(JSONInputKeys.END_TIME):
+                    parsed_t[JSONInputKeys.END_TIME] = cls._parse_dt(parsed_t[JSONInputKeys.END_TIME]).time()
                 parsed_talks.append(FHTalk.from_dict(parsed_t))
 
-            venue, venue_link = cls._parse_venue_details(data[KEY_VENUE])
+            venue, venue_link = cls._parse_venue_details(data[JSONInputKeys.VENUE])
 
             return cls(
-                session_number=data[KEY_SESSION_NUMBER],
+                session_number=data[JSONInputKeys.SESSION_NUMBER],
                 date=parsed_date,
                 venue=venue,
                 venue_link=venue_link,
                 no_hack=False,
                 no_hack_reason=None,
                 talks=parsed_talks,
-                signup_link=data[KEY_SIGNUP_LINK]
+                signup_link=data[JSONInputKeys.SIGNUP_LINK]
             )
 
     def to_schedule_ready_dict(self) -> Dict[str, Any]:
         """Convert the session details into a dictionary format ready for schedule update."""
         if self.no_hack:
-            return {KEY_NO_HACK: self.no_hack_reason or "No hack"}
+            return {YAMLScheduleKeys.NOHACK: self.no_hack_reason or "No hack"}
         else:
             return {
-                KEY_VENUE: f'<a href="{self.venue_link}">{self.venue}</a>',
-                SESSION_FIELD_BLOG_POST: f"/{self.date.year}/{self.date.month:02d}/friday-hacks-{self.session_number}",
-                SESSION_FIELD_TOPICS: [talk.to_schedule_ready_dict() for talk in self.talks]
+                SessionOutputFields.VENUE: f'<a href="{self.venue_link}">{self.venue}</a>',
+                SessionOutputFields.BLOG_POST: f"/{self.date.year}/{self.date.month:02d}/friday-hacks-{self.session_number}",
+                SessionOutputFields.TOPICS: [talk.to_schedule_ready_dict() for talk in self.talks]
             }
 
     def __str__(self) -> str:

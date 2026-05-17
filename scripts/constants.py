@@ -1,40 +1,47 @@
 # Dictionary/JSON keys
+from enum import StrEnum
 from pathlib import Path
 
 # Repository root directory (parent of scripts folder)
 REPO_ROOT = Path(__file__).parent.parent
+FH_SCHEDULE_DIR = REPO_ROOT / "data" / "friday_hacks"
+FH_POST_DIR = REPO_ROOT / "content" / "post"
 
-# Dictionary/JSON keys
-KEY_DATE = "date"
-KEY_VENUE = "venue"
-KEY_NO_HACK = "no_hack"
-KEY_NO_HACK_REASON = "no_hack_reason"
-KEY_TALKS = "talks"
-KEY_START_TIME = "start_time"
-KEY_END_TIME = "end_time"
-KEY_SIGNUP_LINK = "signup_link"
-KEY_SESSION_NUMBER = "session_number"
 
-# YAML schedule keys
-KEY_START_DATE = "start_date"
-KEY_START_NR = "start_nr"
-KEY_HACKS = "hacks"
-KEY_NOSPEAKER = "nospeaker"
-KEY_NOHACK = "nohack"
+class JSONInputKeys(StrEnum):
+    """Input JSON keys for Friday Hacks session data"""
+    SESSION_NUMBER = "session_number"
+    DATE = "date"
+    VENUE = "venue"
+    NO_HACK = "no_hack"
+    NO_HACK_REASON = "no_hack_reason"
+    TALKS = "talks"
+    START_TIME = "start_time"
+    END_TIME = "end_time"
+    SIGNUP_LINK = "signup_link"
 
-# FHSession field keys
-SESSION_FIELD_BLOG_POST = "blog_post"
-SESSION_FIELD_VENUE = "venue"
-SESSION_FIELD_TOPICS = "topics"
 
-# FHTalk field keys
-TALK_FIELD_SPEAKER = "speaker"
-TALK_FIELD_TITLE = "title"
-TALK_FIELD_DESCRIPTION = "description"
-TALK_FIELD_POSTER_LINK = "poster"
-TALK_FIELD_FROM = "from"
+class YAMLScheduleKeys(StrEnum):
+    """YAML schedule file keys"""
+    START_DATE = "start_date"
+    START_NR = "start_nr"
+    HACKS = "hacks"
+    NOSPEAKER = "nospeaker"
+    NOHACK = "nohack"
 
-# FHSchedule field keys
-SCHEDULE_FIELD_START_NR = "start_nr"
-SCHEDULE_FIELD_START_DATE = "start_date"
-SCHEDULE_FIELD_HACKS = "hacks"
+
+class SessionOutputFields(StrEnum):
+    """Session-level output fields for schedule"""
+    BLOG_POST = "blog_post"
+    VENUE = "venue"
+    TOPICS = "topics"
+
+
+class TalkOutputFields(StrEnum):
+    """Talk-level output fields for schedule"""
+    SPEAKER = "speaker"
+    SPEAKER_PROFILE = "speaker_profile"
+    TITLE = "title"
+    DESCRIPTION = "description"
+    POSTER_LINK = "poster"
+    TALK_FROM = "from"

@@ -10,10 +10,10 @@ Scripts to generate new Friday Hacks posts and semester schedule files.
 
 **Command-line arguments:**
 ```bash
-python add_fh_details.py <session_number> <semester>
+python add_fh_details.py <start_nr> <semester>
 ```
 
-- `session_number`: The Friday Hacks session number (integer)
+- `start_nr`: The first Friday Hacks session number (integer)
 - `semester`: Semester string in format `XXXX_1` or `XXXX_2` (e.g., `2627_1`)
 
 **Input:** JSON formatted session data via stdin
@@ -35,19 +35,19 @@ echo '{"session_number": 250, "date": "2026-04-12T19:00:00.000Z", ...}' | python
 
 **Blog post file:** Creates new blog post if it doesn't exist, or replaces it if it does.
 
-### GitHub Workflow: Update Friday Hacks ([`.github/workflows/fh_update.yaml`](../.github/workflows/fh_update.yaml))
+### GitHub Workflow: Update Friday Hacks ([`.github/workflows/fh_updater.yaml`](../.github/workflows/fh_updater.yaml))
 
 #### Inputs
 
 - `start_nr`: Starting session number for the semester (integer)
 - `semester`: Semester code in format `XXXX_1` or `XXXX_2` (e.g., `2627_1`)
-- `session_data`: Session data as **base64-encoded JSON** (handled by apps_script.js)
+- `session_data`: Session data as stringified JSON (handled by apps_script.js)
 - `branch_suffix`: Branch identifier (e.g., `session-250`)
 
 #### How it works
 
 1. Creates a new branch named `branch-fh-{branch_suffix}`
-2. Decodes the base64-encoded session_data and pipes it to `add_fh_details.py`
+2. Pipes the JSON session data to `add_fh_details.py`
 3. Commits changes to `data/` and `content/` directories
 4. Pushes the branch and automatically creates a pull request with review guidance
 

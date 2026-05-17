@@ -16,7 +16,7 @@ def main() -> None:
     args: argparse.Namespace = parser.parse_args()
 
     if not re.match(r"^\d{4}_[12]$", args.semester):
-        print(f"Error: Invalid semester format '{args.semester}'. It must match \\d{{4}}_[12]", file=sys.stderr)
+        print(f"Error: Invalid semester format '{args.semester}'. It must be in the format XXXX_1 or XXXX_2. (e.g., 2627_1, 2728_2)", file=sys.stderr)
         sys.exit(1)
 
     raw_json: str = input()
@@ -34,7 +34,7 @@ def main() -> None:
 
     # Update the schedule file
     try:
-        update_schedule_session(args.semester, session_model)
+        update_schedule_session(args.start_nr, args.semester, session_model)
     except Exception as e:
         print(f"Error: Failed to update schedule. {e}", file=sys.stderr)
         sys.exit(1)

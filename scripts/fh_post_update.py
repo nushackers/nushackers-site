@@ -3,7 +3,7 @@ from typing import List
 from time import localtime, strftime
 
 from model import FHSession, FHTalk
-from constants import REPO_ROOT
+from constants import FH_POST_DIR
 
 METADATA_TEMPLATE = """\
 ---
@@ -54,17 +54,12 @@ def _format_metadata(session_number: int, date: datetime.date) -> str:
     current_time = strftime("%H:%M:%S", localtime())
 
     month_name = date.strftime("%B")
-    day = date.day
+    day = f"{date.day:02d}"
     year = date.year
     month = f"{date.month:02d}"
 
     template = METADATA_TEMPLATE
-    template = template.replace("{{ session_number }}", str(session_number))
-    template = template.replace("{{ month_name }}", month_name)
-    template = template.replace("{{ day }}", str(day))
-    template = template.replace("{{ year }}", str(year))
-    template = template.replace("{{ month }}", month)
-    template = template.replace("{{ current_time }}", current_time)
+    template = template.replace("{{ session_number }}", str(session_number)).replace("{{ month_name }}", month_name).replace("{{ day }}", str(day)).replace("{{ year }}", str(year)).replace("{{ month }}", month).replace("{{ current_time }}", current_time)
 
     return template
 
@@ -86,11 +81,7 @@ def _format_event_details(date_obj: datetime.date, venue: str, venue_link: str, 
     day = date_obj.day
 
     template = EVENT_DETAILS_TEMPLATE
-    template = template.replace("{{ month_name }}", month_name)
-    template = template.replace("{{ day }}", str(day))
-    template = template.replace("{{ venue }}", venue)
-    template = template.replace("{{ venue_link }}", venue_link)
-    template = template.replace("{{ signup_link }}", signup_link)
+    template = template.replace("{{ month_name }}", month_name).replace("{{ day }}", str(day)).replace("{{ venue }}", venue).replace("{{ venue_link }}", venue_link).replace("{{ signup_link }}", signup_link)
 
     return template
 
@@ -112,11 +103,7 @@ def _format_talks(talks: List[FHTalk], date_obj: datetime.date, session_number: 
 
     for idx, talk in enumerate(talks, start=1):
         template = SINGLE_TALK_TEMPLATE
-        template = template.replace("{{ year }}", str(year))
-        template = template.replace("{{ session_number }}", str(session_number))
-        template = template.replace("{{ idx }}", str(idx))
-        template = template.replace("{{ title }}", talk.title)
-        template = template.replace("{{ description }}", talk.description)
+        template = template.replace("{{ year }}", str(year)).replace("{{ session_number }}", str(session_number)).replace("{{ idx }}", str(idx)).replace("{{ title }}", talk.title).replace("{{ description }}", talk.description)
         # Use speaker name as the speaker profile since FHTalk doesn't have a separate profile field
         template = template.replace("{{ speaker_profile }}", f"Speaker: {talk.speaker}")
 
@@ -128,12 +115,12 @@ def _format_talks(talks: List[FHTalk], date_obj: datetime.date, session_number: 
 def _generate_post_content(metadata: str, event_details: str, talks_content: str) -> str:
     """
     Join all formatted strings into the complete post content.
-    
+
     Args:
         metadata: Formatted metadata string
         event_details: Formatted event details string
         talks_content: Formatted talks content string
-    
+
     Returns:
         Complete post content with all sections joined
     """
@@ -169,7 +156,7 @@ def create_or_update_post(session: FHSession) -> None:
     post_content = _generate_post_content(metadata, event_details, talks_content)
 
     # Construct file path using REPO_ROOT with os-agnostic delimiters
-    file_path = REPO_ROOT / "content" / "post" / f"{date_str}-friday-hacks-{session.session_number}.md"
+    file_path = FH_POST_DIR / f"{date_str}-friday-hacks-{session.session_number}.md"
 
     # Create parent directories if needed
     file_path.parent.mkdir(parents=True, exist_ok=True)

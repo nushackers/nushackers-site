@@ -3,14 +3,14 @@ const AY = "2627_1";
 const START_NR = 250;
 
 // Spreadsheet Constants - change if needed
-const TABLE_RANGE = "A:N";
+const TABLE_RANGE = "A:P";
 const SCHEDULE_SHEET_NAME = "schedule";
 
 // GitHub Workflow Constants (Placeholders)
 const GITHUB_API_BASE = "https://api.github.com";
 const OWNER = "nushackers";
 const REPO = "nushackers-site";
-const WORKFLOW_FILE = "fh_update_action.yml";
+const WORKFLOW_FILE = "fh_updater.yml";
 const TARGET_BRANCH = "master";
 
 // Will load from env somehow
@@ -18,19 +18,21 @@ const GITHUB_PAT = "YOUR_GITHUB_PAT";
 
 // Column Indices
 const COL_SESSION         = 0;  // A
-const COL_DATE            = 1;  // B
-const COL_START_TIME      = 2;  // C
-const COL_END_TIME        = 3;  // D
-const COL_VENUE           = 4;  // E
-const COL_TITLE           = 5;  // F
-const COL_SPEAKER         = 6;  // G
-const COL_DESC            = 7;  // H
-const COL_SIGNUP_LINK     = 8;  // I
-const COL_NO_HACK         = 9;  // J
-const COL_NO_HACK_R       = 10; // K
-const COL_READY           = 11; // L
-const COL_FROM            = 12; // M
-const COL_POSTER_LINK     = 13; // N
+const COL_WEEK_NUM        = 1;  // B
+const COL_DATE            = 2;  // C
+const COL_START_TIME      = 3;  // D
+const COL_END_TIME        = 4;  // E
+const COL_VENUE           = 5;  // F
+const COL_TITLE           = 6;  // G
+const COL_SPEAKER         = 7;  // H
+const COL_DESC            = 8;  // I
+const COL_SPEAKER_PROFILE = 9;  // J
+const COL_SIGNUP_LINK     = 10; // K
+const COL_NO_HACK         = 11; // L
+const COL_NO_HACK_R       = 12; // M
+const COL_READY           = 13; // N
+const COL_FROM            = 14; // O
+const COL_POSTER_LINK     = 15; // P
 
 const READY_STATUS = "Yes";
 const READY_STATUS_UPDATED = "Already added";
@@ -174,20 +176,20 @@ function processSessions() {
 
     const filteredData = filterNonEmptyRows(rawData);
 
-    // Group by date
-    const sessionsByDate = {};
+    // Group by week number
+    const sessionsByWeek = {};
     for (const row of filteredData) {
-        const dateKey = row[COL_DATE];
-        if (!sessionsByDate[dateKey]) {
-            sessionsByDate[dateKey] = [];
+        const weekKey = row[COL_WEEK_NUM];
+        if (!sessionsByWeek[weekKey]) {
+            sessionsByWeek[weekKey] = [];
         }
-        sessionsByDate[dateKey].push(row);
+        sessionsByWeek[weekKey].push(row);
     }
 
     // Filter and format ready sessions
     const readySessionsFormatted = [];
 
-    for (const [dateKey, rows] of Object.entries(sessionsByDate)) {
+    for (const [weekKey, rows] of Object.entries(sessionsByWeek)) {
         // 1a & 1b: Only keep sessions where ALL talks are marked "Yes" for Ready for website
         const allReady = rows.every(row => row[COL_READY] === READY_STATUS);
 
@@ -195,6 +197,7 @@ function processSessions() {
             // 2: Format rows
             const firstRow = rows[0];
             const sessionData = {
+                week_number: firstRow[COL_WEEK_NUM],
                 session_number: firstRow[COL_SESSION],
                 date: formatDateAsISO(firstRow[COL_DATE]),
                 venue: firstRow[COL_VENUE],
@@ -207,6 +210,7 @@ function processSessions() {
                     title: r[COL_TITLE],
                     speaker: r[COL_SPEAKER],
                     description: r[COL_DESC],
+                    speaker_profile: r[COL_SPEAKER_PROFILE],
                     from: r[COL_FROM],
                     poster: r[COL_POSTER_LINK]
                 }))
@@ -228,15 +232,10 @@ function processSessions() {
     if (!targetSession.no_hack) {
         for (const talk of targetSession.talks) {
             if (!talk.title || !talk.speaker || !talk.description) {
-                isValid = false;
-                break;
+                console.error(`Validation failed for session ${targetSession.session_number}: Missing required talk details.`);
+                return; // 3a.ii: log to console as error, and continue (in this case, abort since we're acting on one session)
             }
         }
-    }
-
-    if (!isValid) {
-        console.error(`Validation failed for session ${targetSession.session_number}: Missing required talk details.`);
-        return; // 3a.ii: log to console as error, and continue (in this case, abort since we're acting on one session)
     }
 
     console.log(`Validation passed for session ${targetSession.session_number}. Dispatching workflow...`);

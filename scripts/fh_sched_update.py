@@ -3,7 +3,7 @@ import yaml
 
 from model import FHSchedule, FHSession
 from constants import (
-    REPO_ROOT, KEY_START_DATE, KEY_START_NR, KEY_HACKS, KEY_NOSPEAKER, KEY_NOHACK
+    FH_SCHEDULE_DIR, YAMLScheduleKeys
 )
 
 
@@ -20,7 +20,7 @@ def _load_schedule(semester: str) -> FHSchedule:
     Raises:
         FileNotFoundError: If the schedule file doesn't exist
     """
-    schedule_path = REPO_ROOT / "data" / "friday_hacks" / f"friday_hacks_{semester}.yml"
+    schedule_path = FH_SCHEDULE_DIR / f"friday_hacks_{semester}.yml"
 
     if not schedule_path.exists():
         raise FileNotFoundError(f"Schedule file not found: {schedule_path}")
@@ -47,26 +47,26 @@ def _create_schedule(start_date: datetime.date, start_nr: int) -> FHSchedule:
     formatted_date = start_date.strftime("%Y-%m-%d") + " 19:00:00 +0800"
 
     hacks = [
-        {KEY_NOSPEAKER: True},
-        {KEY_NOSPEAKER: True},
-        {KEY_NOSPEAKER: True},
-        {KEY_NOSPEAKER: True},
-        {KEY_NOHACK: "Recess Week"},
-        {KEY_NOHACK: "Midterms"},
-        {KEY_NOSPEAKER: True},
-        {KEY_NOSPEAKER: True},
-        {KEY_NOSPEAKER: True},
-        {KEY_NOSPEAKER: True},
-        {KEY_NOSPEAKER: True},
-        {KEY_NOSPEAKER: True},
-        {KEY_NOHACK: "Reading Week"},
-        {KEY_NOHACK: "Exam Week"},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOHACK: "Recess Week"},
+        {YAMLScheduleKeys.NOHACK: "Midterms"},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOSPEAKER: True},
+        {YAMLScheduleKeys.NOHACK: "Reading Week"},
+        {YAMLScheduleKeys.NOHACK: "Exam Week"},
     ]
 
     schedule_dict = {
-        KEY_START_DATE: formatted_date,
-        KEY_START_NR: start_nr,
-        KEY_HACKS: hacks
+        YAMLScheduleKeys.START_DATE: formatted_date,
+        YAMLScheduleKeys.START_NR: start_nr,
+        YAMLScheduleKeys.HACKS: hacks
     }
 
     return FHSchedule.from_dict(schedule_dict)
@@ -108,7 +108,7 @@ def _save_schedule(semester: str, schedule: FHSchedule) -> None:
         semester: The semester string (e.g., "2627_1")
         schedule: The FHSchedule instance to save
     """
-    schedule_path = REPO_ROOT / "data" / "friday_hacks" / f"friday_hacks_{semester}.yml"
+    schedule_path = FH_SCHEDULE_DIR / f"friday_hacks_{semester}.yml"
 
     # Create parent directories if needed
     schedule_path.parent.mkdir(parents=True, exist_ok=True)
@@ -117,7 +117,7 @@ def _save_schedule(semester: str, schedule: FHSchedule) -> None:
         yaml.dump(schedule.to_dict(), f, default_flow_style=False, sort_keys=False)
 
 
-def update_schedule_session(semester: str, session: FHSession) -> None:
+def update_schedule_session(start_nr: int, semester: str, session: FHSession) -> None:
     """
     Update the schedule entry for a given session using FHSession data.
 
@@ -125,11 +125,12 @@ def update_schedule_session(semester: str, session: FHSession) -> None:
     with the session details at the appropriate date-based index.
 
     Args:
+        start_nr: The session number of the first session (int)
         semester: The semester string (e.g., "2627_1")
         session: The FHSession instance containing session details
     """
     # Load or create schedule
-    schedule = _load_or_create_schedule(semester, session.date, session.session_number)
+    schedule = _load_or_create_schedule(semester, session.date, start_nr)
 
     # Update using the session's ready-formatted data
     schedule.update_by_date(session.date, session.to_schedule_ready_dict())
