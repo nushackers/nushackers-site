@@ -117,7 +117,7 @@ def _save_schedule(semester: str, schedule: FHSchedule) -> None:
         yaml.dump(schedule.to_dict(), f, default_flow_style=False, sort_keys=False)
 
 
-def update_schedule_session(start_nr: int, semester: str, session: FHSession) -> None:
+def update_schedule_session(start_nr: int, semester: str, session: FHSession, start_date: datetime.datetime) -> None:
     """
     Update the schedule entry for a given session using FHSession data.
 
@@ -128,9 +128,10 @@ def update_schedule_session(start_nr: int, semester: str, session: FHSession) ->
         start_nr: The session number of the first session (int)
         semester: The semester string (e.g., "2627_1")
         session: The FHSession instance containing session details (includes week_number)
+        start_date: The starting date for the semester (datetime.datetime)
     """
-    # Load or create schedule
-    schedule = _load_or_create_schedule(semester, session.date, start_nr)
+    # Load or create schedule using the provided start_date
+    schedule = _load_or_create_schedule(semester, start_date.date(), start_nr)
 
     # Update using the session's week number and ready-formatted data
     schedule.update_session(session.week_number, session.to_schedule_ready_dict())

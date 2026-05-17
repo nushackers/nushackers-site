@@ -242,10 +242,13 @@ function processSessions() {
     console.log(`Validation passed for session ${targetSession.session_number}. Dispatching workflow...`);
 
     // Send session details as inputs to GitHub workflow
+    const branch_suffix = targetSession.session_number ? `session-${targetSession.session_number}` : `week-${targetSession.week_number}`;
     const workflowInputs = {
         start_nr: START_NR,
         session_data: JSON.stringify(targetSession),
-        semester: SEMESTER
+        semester: SEMESTER,
+        start_date: START_DATE,
+        branch_suffix: branch_suffix
     };
 
     triggerWorkflow(workflowInputs);
