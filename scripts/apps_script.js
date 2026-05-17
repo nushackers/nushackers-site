@@ -109,7 +109,7 @@ function combineDateAndTime(dateValue, timeValue) {
  * @returns {Array<Array<any>>} Filtered data.
  */
 function filterNonEmptyRows(data) {
-    return data.filter(row => row[COL_DATE] !== "" && row[COL_DATE] !== null && row[COL_DATE] !== undefined);
+    return data.filter(row => row[COL_WEEK_NUM] !== "" && row[COL_WEEK_NUM] !== null && row[COL_WEEK_NUM] !== undefined);
 }
 
 /**
@@ -122,7 +122,7 @@ function updateSessionReadyStatus(sheet, sessionNumber, newStatus) {
     const data = sheet.getRange(TABLE_RANGE).getValues();
 
     for (let i = 0; i < data.length; i++) {
-        if (data[i][COL_SESSION] === sessionNumber) {
+        if (data[i][COL_WEEK_NUM] === sessionNumber) {
             const rowNum = i + 1; // Google Sheets is 1-indexed
             const colLetter = String.fromCharCode(65 + COL_READY); // A=65
             sheet.getRange(`${colLetter}${rowNum}`).setValue(newStatus);
@@ -169,6 +169,16 @@ function triggerWorkflow(inputs = {}) {
     }
 
     console.error(`❌ Failed to trigger workflow (HTTP ${responseCode}):`, errorBody);
+}
+
+/**
+ * Formats data as JSON string with a trailing newline.
+ * @param {Object} data - The data to format.
+ * @returns {string} The formatted JSON string.
+ */
+function formatJSONData(data) {
+    // format the JSON as string and add a newline at the end
+    return JSON.stringify(data) + "\n";
 }
 
 function processSessions() {
@@ -243,9 +253,10 @@ function processSessions() {
 
     // Send session details as inputs to GitHub workflow
     const branch_suffix = targetSession.session_number ? `session-${targetSession.session_number}` : `week-${targetSession.week_number}`;
+    const formattedSessionData = formatJSONData(targetSession);
     const workflowInputs = {
         start_nr: START_NR,
-        session_data: JSON.stringify(targetSession),
+        session_data: formattedSessionData,
         semester: SEMESTER,
         start_date: START_DATE,
         branch_suffix: branch_suffix

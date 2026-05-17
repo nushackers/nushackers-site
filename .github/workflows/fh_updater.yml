@@ -3,6 +3,10 @@ name: Update Friday Hacks
 on:
   workflow_dispatch:
     inputs:
+      start_date:
+        description: 'Starting date for the semester (ISO format, e.g., 2026-04-05T19:00:00+0800)'
+        required: true
+        type: string
       start_nr:
         description: 'Starting session number for the semester'
         required: true
@@ -48,7 +52,7 @@ jobs:
 
       - name: Run add_fh_details script
         run: |
-          echo '${{ inputs.session_data }}' | python scripts/add_fh_details.py ${{ inputs.start_nr }} ${{ inputs.semester }}
+          printf "%s" "${{ inputs.session_data }}" | python scripts/add_fh_details.py ${{ inputs.start_nr }} ${{ inputs.semester }} ${{ inputs.start_date }}
 
       - name: Commit and push changes
         run: |

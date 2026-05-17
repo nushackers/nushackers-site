@@ -103,10 +103,7 @@ def _format_talks(talks: List[FHTalk], date_obj: datetime.date, session_number: 
 
     for idx, talk in enumerate(talks, start=1):
         template = SINGLE_TALK_TEMPLATE
-        template = template.replace("{{ year }}", str(year)).replace("{{ session_number }}", str(session_number)).replace("{{ idx }}", str(idx)).replace("{{ title }}", talk.title).replace("{{ description }}", talk.description)
-        # Use speaker name as the speaker profile since FHTalk doesn't have a separate profile field
-        template = template.replace("{{ speaker_profile }}", f"Speaker: {talk.speaker}")
-
+        template = template.replace("{{ year }}", str(year)).replace("{{ session_number }}", str(session_number)).replace("{{ idx }}", str(idx)).replace("{{ title }}", talk.title).replace("{{ description }}", talk.description).replace("{{ speaker_profile }}", talk.speaker_profile)
         formatted_talks.append(template)
 
     return "\n".join(formatted_talks)

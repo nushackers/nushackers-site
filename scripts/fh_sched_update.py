@@ -47,26 +47,26 @@ def _create_schedule(start_date: datetime.date, start_nr: int) -> FHSchedule:
     formatted_date = start_date.strftime("%Y-%m-%d") + " 19:00:00 +0800"
 
     hacks = [
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOHACK: "Recess Week"},
-        {YAMLScheduleKeys.NOHACK: "Midterms"},
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOSPEAKER: True},
-        {YAMLScheduleKeys.NOHACK: "Reading Week"},
-        {YAMLScheduleKeys.NOHACK: "Exam Week"},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOHACK.value: "Recess Week"},
+        {YAMLScheduleKeys.NOHACK.value: "Midterms"},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOSPEAKER.value: True},
+        {YAMLScheduleKeys.NOHACK.value: "Reading Week"},
+        {YAMLScheduleKeys.NOHACK.value: "Exam Week"},
     ]
 
     schedule_dict = {
-        YAMLScheduleKeys.START_DATE: formatted_date,
-        YAMLScheduleKeys.START_NR: start_nr,
-        YAMLScheduleKeys.HACKS: hacks
+        YAMLScheduleKeys.START_DATE.value: formatted_date,
+        YAMLScheduleKeys.START_NR.value: start_nr,
+        YAMLScheduleKeys.HACKS.value: hacks
     }
 
     return FHSchedule.from_dict(schedule_dict)

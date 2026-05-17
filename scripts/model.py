@@ -39,9 +39,9 @@ class FHSchedule:
     def to_dict(self) -> Dict[str, Any]:
         """Convert the FHSchedule instance to a dictionary format for YAML serialization."""
         return {
-            YAMLScheduleKeys.START_DATE: self.start_date.strftime("%Y-%m-%d") + " 19:00:00 +0800",
-            YAMLScheduleKeys.START_NR: self.start_nr,
-            YAMLScheduleKeys.HACKS: self.hacks
+            YAMLScheduleKeys.START_DATE.value: self.start_date.strftime("%Y-%m-%d") + " 19:00:00 +0800",
+            YAMLScheduleKeys.START_NR.value: self.start_nr,
+            YAMLScheduleKeys.HACKS.value: self.hacks
         }
 
     @classmethod
@@ -80,9 +80,9 @@ class FHSchedule:
             week_number: The week number to update (int)
             session_details: A dictionary containing the session details to update in the schedule
         """
-        index = week_number - self.start_nr
-        if 0 <= index < len(self.hacks):
-            self.hacks[index] = session_details
+        week_number = max(0, week_number - 1)
+        if 0 <= week_number < len(self.hacks):
+            self.hacks[week_number] = session_details
         else:
             raise IndexError(f"Week number {week_number} is out of range for the schedule starting at {self.start_nr} with {len(self.hacks)} sessions.")
 
@@ -91,6 +91,7 @@ class FHSchedule:
 class FHTalk:
     """Represents a single talk at a Friday Hacks session."""
     speaker: str
+    speaker_profile: str
     title: str
     description: str
     poster_link: str
@@ -112,10 +113,11 @@ class FHTalk:
         Raises:
             ValueError: If any required field is missing
         """
-        assert_fields_in_dictionary([TalkOutputFields.SPEAKER, TalkOutputFields.TITLE, TalkOutputFields.DESCRIPTION, TalkOutputFields.POSTER_LINK, JSONInputKeys.START_TIME, JSONInputKeys.END_TIME], data)
+        assert_fields_in_dictionary([TalkOutputFields.SPEAKER, TalkOutputFields.SPEAKER_PROFILE, TalkOutputFields.TITLE, TalkOutputFields.DESCRIPTION, TalkOutputFields.POSTER_LINK, JSONInputKeys.START_TIME, JSONInputKeys.END_TIME], data)
 
         return cls(
             speaker=data[TalkOutputFields.SPEAKER],
+            speaker_profile=data[TalkOutputFields.SPEAKER_PROFILE],
             title=data[TalkOutputFields.TITLE],
             description=data[TalkOutputFields.DESCRIPTION],
             poster_link=data[TalkOutputFields.POSTER_LINK],
@@ -126,11 +128,11 @@ class FHTalk:
 
     def to_schedule_ready_dict(self) -> Dict[str, Any]:
         d = {
-            TalkOutputFields.SPEAKER: self.speaker,
-            TalkOutputFields.TITLE: self.title,
+            TalkOutputFields.SPEAKER.value: self.speaker,
+            TalkOutputFields.TITLE.value: self.title,
         }
         if self.talk_from:
-            d[TalkOutputFields.TALK_FROM] = self.talk_from
+            d[TalkOutputFields.TALK_FROM.value] = self.talk_from
         return d
 
     def __str__(self) -> str:
@@ -237,12 +239,12 @@ class FHSession:
     def to_schedule_ready_dict(self) -> Dict[str, Any]:
         """Convert the session details into a dictionary format ready for schedule update."""
         if self.no_hack:
-            return {YAMLScheduleKeys.NOHACK: self.no_hack_reason or "No hack"}
+            return {YAMLScheduleKeys.NOHACK.value: self.no_hack_reason or "No hack"}
         else:
             return {
-                SessionOutputFields.VENUE: f'<a href="{self.venue_link}">{self.venue}</a>',
-                SessionOutputFields.BLOG_POST: f"/{self.date.year}/{self.date.month:02d}/friday-hacks-{self.session_number}",
-                SessionOutputFields.TOPICS: [talk.to_schedule_ready_dict() for talk in self.talks]
+                SessionOutputFields.VENUE.value: f'<a href="{self.venue_link}">{self.venue}</a>',
+                SessionOutputFields.BLOG_POST.value: f"/{self.date.year}/{self.date.month:02d}/friday-hacks-{self.session_number}",
+                SessionOutputFields.TOPICS.value: [talk.to_schedule_ready_dict() for talk in self.talks]
             }
 
     def __str__(self) -> str:
