@@ -80,3 +80,7 @@ typings/
 
 # Local Netlify folder
 .netlify
+
+# Python stuff
+__pycache__/
+.venv/
