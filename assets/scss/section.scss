@@ -16,9 +16,8 @@
   }
 
   details.card {
-    summary {
-      @extend h2;
-    }
+    border: 1px solid #ddd; /* Gray */
+    border-radius: 8px;
   }
 }
 
