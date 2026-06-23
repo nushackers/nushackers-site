@@ -16,8 +16,18 @@
   }
 
   details.card {
+    /* put all children of summary on the same line */
+    summary * {
+      display: inline-block;
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
     border: 1px solid #ddd; /* Gray */
     border-radius: 8px;
+    padding: 8px 16px;
   }
 }
 
