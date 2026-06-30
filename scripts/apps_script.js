@@ -157,7 +157,7 @@ function triggerWorkflow(inputs = {}) {
     // 204 No Content = success
     if (responseCode === 204) {
         console.log("✅ Workflow triggered successfully!");
-        return;
+        return true;
     }
 
     // Anything else is an error
@@ -169,6 +169,7 @@ function triggerWorkflow(inputs = {}) {
     }
 
     console.error(`❌ Failed to trigger workflow (HTTP ${responseCode}):`, errorBody);
+    return false;
 }
 
 /**
@@ -262,11 +263,17 @@ function processSessions() {
         branch_suffix: branch_suffix
     };
 
-    triggerWorkflow(workflowInputs);
+    console.debug(formattedSessionData);
+
+    const success = triggerWorkflow(workflowInputs);
 
     // Update the ready status in the spreadsheet for all rows of this session
-    updateSessionReadyStatus(sheet, targetSession.session_number, READY_STATUS_UPDATED);
-    console.log(`Updated session ${targetSession.session_number} ready status to "${READY_STATUS_UPDATED}".`);
+    if (success) {
+        updateSessionReadyStatus(sheet, targetSession.session_number, READY_STATUS_UPDATED);
+        console.log(`Updated session ${targetSession.session_number} ready status to "${READY_STATUS_UPDATED}".`);
+    } else {
+        console.warn(`Failed to trigger workflow for session ${targetSession.session_number}. Ready status not updated.`);
+    }
 }
 
 function main() {
