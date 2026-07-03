@@ -1,5 +1,6 @@
 import argparse
 import json
+import os
 import re
 import sys
 from typing import Any, Dict
@@ -8,8 +9,17 @@ from model import FHSession
 from fh_sched_update import update_schedule_session
 from fh_post_update import create_or_update_post
 
+
+def _load_raw_json_payload() -> str:
+    """Load session JSON from environment first, then fallback to stdin."""
+    raw_json = os.getenv("FH_SESSION_DATA", "").strip()
+    if raw_json:
+        return raw_json
+
+    raise RuntimeError("No JSON payload found. Set FH_SESSION_DATA or provide input via stdin.")
+
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Process FH details from stdin.")
+    parser = argparse.ArgumentParser(description="Process FH details from environment variable or stdin.")
     parser.add_argument("start_nr", type=int, help="The first session number (integer).")
     parser.add_argument("semester", type=str, help="The semester string, following the pattern XXXX_1 or XXXX_2 (e.g., 2627_1).")
     parser.add_argument("start_date", type=str, help="The starting date for the semester in ISO format (e.g., 2026-04-05T19:00:00+0800).")
@@ -19,18 +29,21 @@ def main() -> None:
     if not re.match(r"^\d{4}_[12]$", args.semester):
         print(f"Error: Invalid semester format '{args.semester}'. It must be in the format XXXX_1 or XXXX_2. (e.g., 2627_1, 2728_2)", file=sys.stderr)
         sys.exit(1)
-    
+
     start_date = FHSession._parse_dt(args.start_date)
     if not start_date:
         print(f"Error: Invalid start date format '{args.start_date}'. It must be in ISO format (e.g., 2026-04-05T19:00:00+0800).", file=sys.stderr)
         sys.exit(1)
 
-    raw_json: str = input()
+    raw_json = _load_raw_json_payload()
+    if not raw_json:
+        print("Error: No JSON payload found. Set FH_SESSION_DATA.", file=sys.stderr)
+        sys.exit(1)
 
     try:
         data_dict: Dict[str, Any] = json.loads(raw_json)
     except json.JSONDecodeError as e:
-        print(f"Error: Failed to parse JSON from stdin. {e}\nContent was: {raw_json[:100]}...", file=sys.stderr)
+        print(f"Error: Failed to parse JSON payload. {e}\nContent was: {raw_json[:100]}...", file=sys.stderr)
         sys.exit(1)
 
     session_model: FHSession = FHSession.from_dict(data_dict)
