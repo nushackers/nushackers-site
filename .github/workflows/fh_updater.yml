@@ -10,7 +10,7 @@ on:
       start_nr:
         description: 'Starting session number for the semester'
         required: true
-        type: string
+        type: number
       semester:
         description: 'Semester code (e.g., 2627_1)'
         required: true
@@ -77,6 +77,6 @@ jobs:
         run: |
           gh pr create \
             --title "Add FH session details for ${{ inputs.branch_suffix }}" \
-            --body "Automated Friday Hacks update via add_fh_details\n\nPlease ensure that all session details are correct and in the right place. Review the Netlify preview before merging." \
+            --body "Automated Friday Hacks update via add_fh_details. Please ensure that all session details are correct and in the right place. Review the Netlify preview before merging." \
             --base "${{ github.ref_name }}" \
             --head "$BRANCH"
