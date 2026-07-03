@@ -256,7 +256,7 @@ function processSessions() {
     const branch_suffix = targetSession.session_number ? `session-${targetSession.session_number}` : `week-${targetSession.week_number}`;
     const formattedSessionData = formatJSONData(targetSession);
     const workflowInputs = {
-        start_nr: START_NR,
+        start_nr: String(START_NR),
         session_data: formattedSessionData,
         semester: SEMESTER,
         start_date: START_DATE,
