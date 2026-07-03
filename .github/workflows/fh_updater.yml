@@ -51,8 +51,10 @@ jobs:
         run: pip install pyyaml
 
       - name: Run add_fh_details script
+        env:
+          FH_SESSION_DATA: ${{ inputs.session_data }}
         run: |
-          printf "%s" "${{ inputs.session_data }}" | python scripts/add_fh_details.py ${{ inputs.start_nr }} ${{ inputs.semester }} ${{ inputs.start_date }}
+          python scripts/add_fh_details.py "${{ inputs.start_nr }}" "${{ inputs.semester }}" "${{ inputs.start_date }}"
 
       - name: Commit and push changes
         run: |
