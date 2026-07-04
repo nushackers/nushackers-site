@@ -113,16 +113,16 @@ function filterNonEmptyRows(data) {
 }
 
 /**
- * Updates the ready status for all rows of a given session number.
+ * Updates the ready status for all rows of a given week number.
  * @param {Sheet} sheet - The spreadsheet sheet object.
- * @param {number} sessionNumber - The session number to update.
+ * @param {number} weekNumber - The week number to update.
  * @param {string} newStatus - The new status to set in COL_READY.
  */
-function updateSessionReadyStatus(sheet, sessionNumber, newStatus) {
+function updateSessionReadyStatus(sheet, weekNumber, newStatus) {
     const data = sheet.getRange(TABLE_RANGE).getValues();
 
     for (let i = 0; i < data.length; i++) {
-        if (data[i][COL_WEEK_NUM] === sessionNumber) {
+        if (data[i][COL_WEEK_NUM] === weekNumber) {
             const rowNum = i + 1; // Google Sheets is 1-indexed
             const colLetter = String.fromCharCode(65 + COL_READY); // A=65
             sheet.getRange(`${colLetter}${rowNum}`).setValue(newStatus);
@@ -256,23 +256,23 @@ function processSessions() {
     const branch_suffix = targetSession.session_number ? `session-${targetSession.session_number}` : `week-${targetSession.week_number}`;
     const formattedSessionData = formatJSONData(targetSession);
     const workflowInputs = {
-        start_nr: START_NR,
+        start_nr: String(START_NR),
         session_data: formattedSessionData,
         semester: SEMESTER,
         start_date: START_DATE,
         branch_suffix: branch_suffix
     };
 
-    console.debug(formattedSessionData);
+    console.log(formattedSessionData);
 
     const success = triggerWorkflow(workflowInputs);
 
     // Update the ready status in the spreadsheet for all rows of this session
     if (success) {
-        updateSessionReadyStatus(sheet, targetSession.session_number, READY_STATUS_UPDATED);
-        console.log(`Updated session ${targetSession.session_number} ready status to "${READY_STATUS_UPDATED}".`);
+        updateSessionReadyStatus(sheet, targetSession.week_number, READY_STATUS_UPDATED);
+        console.log(`Updated week ${targetSession.week_number} ready status to "${READY_STATUS_UPDATED}".`);
     } else {
-        console.warn(`Failed to trigger workflow for session ${targetSession.session_number}. Ready status not updated.`);
+        console.warn(`Failed to trigger workflow for week ${targetSession.week_number}. Ready status not updated.`);
     }
 }
 

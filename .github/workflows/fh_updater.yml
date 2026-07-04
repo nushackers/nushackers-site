@@ -74,9 +74,19 @@ jobs:
         if: env.HAS_CHANGES == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
+          PR_BODY: |
+            Automated Friday Hacks update via add_fh_details. Please ensure that all session details are correct and in the right place. Review the Netlify preview before merging.
+
+            - [ ] Talk details correct?
+            - [ ] Date correct?
+            - [ ] Venue and venue link correct?
+            - [ ] Signup link correct?
+            - [ ] Posters added?
+            - [ ] Visible on website preview?
+            - [ ] Confirm no formatting issues?
         run: |
           gh pr create \
             --title "Add FH session details for ${{ inputs.branch_suffix }}" \
-            --body "Automated Friday Hacks update via add_fh_details\n\nPlease ensure that all session details are correct and in the right place. Review the Netlify preview before merging." \
+            --body "$PR_BODY" \
             --base "${{ github.ref_name }}" \
             --head "$BRANCH"
