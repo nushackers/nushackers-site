@@ -13,23 +13,13 @@ Scripts to generate new Friday Hacks posts and semester schedule files.
 python add_fh_details.py <start_nr> <semester> <start_date>
 ```
 
-- `start_nr`: The first Friday Hacks session number (integer)
+- `start_nr`: The first Friday Hacks session number (e.g. `250`)
 - `semester`: Semester string in format `XXXX_1` or `XXXX_2` (e.g., `2627_1`)
 - `start_date`: The starting date for the semester in ISO format (e.g., `2026-04-05T19:00:00+0800`)
 
-**Input:** JSON formatted session data via stdin. Required fields:
-- `session_number`: The session number (integer)
-- `week_number`: The week number for scheduling (integer, used to update schedule directly)
-- `date`: ISO format datetime
-- `venue`: Venue name with optional markdown link format `[name](url)`
-- `talks`: Array of talk objects
-- `signup_link`: Sign-up link for the session
-- `no_hack`: Boolean, if true creates a no-hack week entry
-- `no_hack_reason`: Reason for no-hack week (required if `no_hack` is true)
-
 **Example:**
 ```bash
-echo '{"session_number": 250, "week_number": 3, "date": "2026-04-12T19:00:00+0800", ...}' | python add_fh_details.py 250 2627_1 '2026-04-05T19:00:00+0800'
+python add_fh_details.py 250 2627_1 '2026-04-05T19:00:00+0800'
 ```
 
 #### Behaviour
@@ -57,7 +47,7 @@ echo '{"session_number": 250, "week_number": 3, "date": "2026-04-12T19:00:00+080
 #### How it works
 
 1. Creates a new branch named `branch-fh-{branch_suffix}`
-2. Pipes the JSON session data to `add_fh_details.py` with `start_nr`, `semester`, and `start_date` arguments
+2. Passes the JSON session data via the `FH_SESSION_DATA` environment variable to `add_fh_details.py` with `start_nr`, `semester`, and `start_date` arguments
 3. Commits changes to `data/` and `content/` directories
 4. Pushes the branch and automatically creates a pull request with review guidance
 
@@ -68,3 +58,18 @@ The Google Apps Script (apps_script.js) automatically:
 - Includes `week_number`, `session_number`, and other required fields in the JSON
 - Triggers this workflow with the session data, start_nr, semester, start_date, and a branch suffix
 - Updates the spreadsheet status when complete
+
+**IMPORTANT**: To work, the Apps Script needs a valid GitHub fine-grained PAT configured:
+```js
+const GITHUB_PAT = "YOUR_GITHUB_PAT";
+```
+
+Follow the steps [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token) to create a PAT. Configure the following:
+
+* Repository access - scope it to this repo (`nushackers/nushackers-site`)
+* Permissions - minimally give it the `actions` permission with `read` and `workflows` permissions with `write`
+
+### Upcoming features
+
+- [ ] A single PAT will be in use and stored in a file in the Google Drive, and loaded into the script
+- [ ] Google drive links of posters can be added to load the poster images directly. For now, they will need to be added to the PR manually.
