@@ -5,7 +5,7 @@ Script to generate new Friday Hacks posts and semester schedule files.
 ## Setup for FH team
 
 Every semester:
-1. Create a google sheet, and add a table to it. The table schema columns should follow the same schema as the sheet [here](). You can also simply make a copy of that same sheet.
+1. Create a google sheet, and add a table to it. The table schema columns should follow the same schema as the sheet [here](https://docs.google.com/spreadsheets/d/1yMdfEOY8SypoHqXr8Sd4nuLFq7L2AznUlmG54GiAF4k/edit?usp=sharing). You can also simply make a copy of that same sheet.
 2. Add an Apps Script to the sheet. Copy the code from [`scripts/apps_script.js`](./apps_script.js) into the new script.
     * Steps 1-2 can be skipped by duplicating last semester's sheet. The table and apps script are duplicated when a sheet is duplicated.
     * Steps 3-5 need to be redone every semester, since the script properties and triggers are NOT duplicated along with the sheet and script.
