@@ -14,8 +14,8 @@ const REPO = "nushackers-site";
 const WORKFLOW_FILE = "fh_updater.yml";
 const TARGET_BRANCH = "master";
 
-// Will load from env somehow
-const GITHUB_PAT = "YOUR_GITHUB_PAT";
+const scriptProperties = PropertiesService.getScriptProperties();
+const GITHUB_PAT = scriptProperties.getProperty("GITHUB_PAT");
 
 // Column Indices
 const COL_SESSION         = 0;  // A
