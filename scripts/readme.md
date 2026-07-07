@@ -104,5 +104,5 @@ Follow the steps [here](https://docs.github.com/en/authentication/keeping-your-a
 
 ## Upcoming features
 
-- [ ] A single PAT will be in use and stored in a file in the Google Drive, and loaded into the script
+- [X] PAT will be loaded from script properties instead of hardcoding
 - [ ] Google drive links of posters can be added to load the poster images directly. For now, they will need to be added to the PR manually.
