@@ -12,11 +12,11 @@ from constants import (
 def assert_fields_in_dictionary(required_fields: List[str], data: Dict[str, Any]) -> None:
     """
     Assert that all required fields are present in the dictionary.
-    
+
     Args:
         required_fields: List of field names that must be present in data
         data: Dictionary to check
-        
+
     Raises:
         ValueError: If any required field is missing from data
     """
@@ -75,8 +75,8 @@ class FHSchedule:
     def update_session(self, week_number: int, session_details: Dict[str, Any]) -> None:
         """
         Update the schedule with the details of a specific session.
-        
-        If week_number exceeds the current schedule length, extends self.hacks with 
+
+        If week_number exceeds the current schedule length, extends self.hacks with
         NOSPEAKER entries until the given week_number can be accommodated.
 
         Args:
@@ -84,13 +84,13 @@ class FHSchedule:
             session_details: A dictionary containing the session details to update in the schedule
         """
         index = week_number - 1  # Convert 1-based week_number to 0-based index
-        
+
         # Extend hacks array if necessary
         if index >= len(self.hacks):
             num_to_add = index - len(self.hacks) + 1
             for _ in range(num_to_add):
                 self.hacks.append({YAMLScheduleKeys.NOSPEAKER.value: True})
-        
+
         if 0 <= index < len(self.hacks):
             self.hacks[index] = session_details
         else:
@@ -190,9 +190,9 @@ class FHSession:
             raise ValueError(f"Missing required field: '{JSONInputKeys.WEEK_NUMBER}'")
         if JSONInputKeys.DATE not in data:
             raise ValueError(f"Missing required field: '{JSONInputKeys.DATE}'")
-        
+
         week_number = data[JSONInputKeys.WEEK_NUMBER]
-        
+
         # Check if this is a no-hack session
         no_hack = data.get(JSONInputKeys.NO_HACK, False)
 

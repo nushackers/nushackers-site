@@ -28,6 +28,8 @@ def _load_schedule(semester: str) -> FHSchedule:
     with open(schedule_path, 'r') as f:
         data = yaml.safe_load(f) or {}
 
+    print(f"Loaded schedule file: {schedule_path}")
+
     return FHSchedule.from_dict(data)
 
 
@@ -68,13 +70,14 @@ def _create_schedule(start_date: datetime.date, start_nr: int) -> FHSchedule:
         YAMLScheduleKeys.START_NR.value: start_nr,
         YAMLScheduleKeys.HACKS.value: hacks
     }
+    print(f"Created schedule template for start session {start_nr} on {formatted_date}")
 
     return FHSchedule.from_dict(schedule_dict)
 
 
 def _load_or_create_schedule(
-    semester: str, 
-    start_date: datetime.date, 
+    semester: str,
+    start_date: datetime.date,
     start_nr: int
 ) -> FHSchedule:
     """
@@ -115,6 +118,8 @@ def _save_schedule(semester: str, schedule: FHSchedule) -> None:
 
     with open(schedule_path, 'w') as f:
         yaml.dump(schedule.to_dict(), f, default_flow_style=False, sort_keys=False)
+
+    print(f"Saved schedule file: {schedule_path}")
 
 
 def update_schedule_session(start_nr: int, semester: str, session: FHSession, start_date: datetime.datetime) -> None:

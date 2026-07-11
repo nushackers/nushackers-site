@@ -77,7 +77,8 @@ def main() -> None:
     # Load and save the posters
     try:
         image_loader = ImageLoader(year=session_model.date.year, session_number=session_model.session_number)
-        for idx, poster_link in enumerate(session_model.posters, start=1):
+        for idx, talk in enumerate(session_model.talks, start=1):
+            poster_link = talk.poster_link
             saved_path = image_loader.load_and_save_image_from_drive(poster_link, idx)
             print(f"Poster {idx} saved to: {saved_path}")
     except Exception as e:

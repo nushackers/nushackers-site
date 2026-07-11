@@ -26,6 +26,7 @@ class ImageLoader:
         self.year = year
         self.session_number = session_number
         self.service = self._authenticate_google_drive()
+        print(f"Connected to Google Drive for session {self.session_number}")
 
     def _authenticate_google_drive(self):
         """Authenticate with Google Drive using service account credentials."""
@@ -93,6 +94,7 @@ class ImageLoader:
             raise ValueError(f"File is not an image (MIME type: {mime_type})")
 
         file_extension = self._get_file_extension(mime_type)
+        print(f"Found and validated image {file_id} as {mime_type}")
 
         request = self.service.files().get_media(fileId=file_id)
         file_content = BytesIO()
@@ -122,6 +124,8 @@ class ImageLoader:
                 f.write(image_content)
         except IOError as e:
             raise IOError(f"Failed to save image to {save_path}: {e}")
+
+        print(f"Saved image to {save_path}")
 
         return str(save_path)
 
