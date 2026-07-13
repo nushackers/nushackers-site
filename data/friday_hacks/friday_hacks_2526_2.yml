@@ -56,12 +56,14 @@ hacks:
         title: "Synthetic Societies: Building a Simulated Nation From Open Data"
   - nohack: Good Friday
   - venue: <a href="https://nusmods.com/venues/COM1-0201">COM1-02-01, NUS</a>
+    blog_post: /2026/04/friday-hacks-294
     topics:
       - speaker: Eldon Chung
         title: "Data Structures for Text Editors — Beyond Arrays of Arrays"
       - speaker: Hans Phua
         title: "Building a Trading System from Scratch (By Virtu)"
   - venue: <a href="https://nusmods.com/venues/COM1-0201">COM1-02-01, NUS</a>
+    blog_post: /2026/04/friday-hacks-295
     topics:
       - speaker: Nguyen Van Binh
         title: "Thinking Fast and Slow with AI Agents"
