@@ -58,15 +58,15 @@ hacks:
   - venue: <a href="https://nusmods.com/venues/COM1-0201">COM1-02-01, NUS</a>
     topics:
       - speaker: Eldon Chung
-        title: ""
-      - speaker: Virtu
-        title: ""
+        title: "Data Structures for Text Editors — Beyond Arrays of Arrays"
+      - speaker: Hans Phua
+        title: "Building a Trading System from Scratch (By Virtu)"
   - venue: <a href="https://nusmods.com/venues/COM1-0201">COM1-02-01, NUS</a>
     topics:
       - speaker: Nguyen Van Binh
-        title: ""
+        title: "Thinking Fast and Slow with AI Agents"
       - speaker: Anand
-        title: ""
+        title: "Everything I Hate About Computer Vision (And Why I'm Still Doing It)"
         from: invigilo.io
   - nohack: Reading Week
   - nohack: Exam Week

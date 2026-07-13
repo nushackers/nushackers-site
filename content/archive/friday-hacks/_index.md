@@ -6,6 +6,8 @@ nested: false
 
 ## 2026
 
+* Friday Hacks #295, April 17: [Thing Fast and Slow with AI Agents and Everything I Hate about Computer Vision](/2026/03/friday-hacks-295)
+* Friday Hacks #294, April 10: [Data Structures for TExt Editors and The Tech and Infrastructure Behind a Market Making Trading System](/2026/03/friday-hacks-294)
 * Friday Hacks #293, March 27: [Python's Performance and Synthetic Societies](/2026/03/friday-hacks-293)
    * [Recording 1](https://www.youtube.com/watch?v=n7T7SxSMiXk)
    * [Recording 2](https://www.youtube.com/watch?v=B-BVCxcVdrE)
