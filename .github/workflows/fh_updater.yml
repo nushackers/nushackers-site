@@ -53,6 +53,7 @@ jobs:
       - name: Run add_fh_details script
         env:
           FH_SESSION_DATA: ${{ inputs.session_data }}
+          GOOGLE_DRIVE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS_JSON }}
         run: |
           python scripts/add_fh_details.py "${{ inputs.start_nr }}" "${{ inputs.semester }}" "${{ inputs.start_date }}"
 

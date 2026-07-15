@@ -162,6 +162,8 @@ def create_or_update_post(session: FHSession) -> None:
     with open(file_path, 'w') as f:
         f.write(post_content)
 
+    print(f"Created blog post file: {file_path}")
+
     print(f"Blog post updated at {file_path}")
 
 

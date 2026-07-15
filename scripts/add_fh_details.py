@@ -8,6 +8,7 @@ from typing import Any, Dict
 from model import FHSession
 from fh_sched_update import update_schedule_session
 from fh_post_update import create_or_update_post
+from scripts.image_loader import ImageLoader
 
 
 def _load_raw_json_payload() -> str:
@@ -72,6 +73,17 @@ def main() -> None:
     except Exception as e:
         print(f"Error: Failed to create/update blog post. {e}", file=sys.stderr)
         sys.exit(1)
+
+    # Load and save the posters
+    try:
+        image_loader = ImageLoader(year=session_model.date.year, session_number=session_model.session_number)
+        for idx, talk in enumerate(session_model.talks, start=1):
+            poster_link = talk.poster_link
+            saved_path = image_loader.load_and_save_image_from_drive(poster_link, idx)
+            print(f"Poster {idx} saved to: {saved_path}")
+    except Exception as e:
+        print(f"Warning: Failed to load/save posters. {e}\nSave the posters manually.", file=sys.stderr)
+        sys.exit(0)
 
     print(f"Successfully processed Friday Hacks session {session_model.session_number}!")
 

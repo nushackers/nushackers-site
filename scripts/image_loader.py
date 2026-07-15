@@ -1,13 +1,4 @@
-"""
-Image Loader Module for Google Drive Integration
-
-This module provides functionality to:
-1. Authenticate with Google Drive API
-2. Load images from Google Drive links
-3. Save images to the repository static directory
-
-Note: This module is designed to integrate with the Friday Hacks script pipeline.
-"""
+"""Image loader utilities for Google Drive integration."""
 
 import os
 import re
@@ -17,221 +8,143 @@ from typing import Tuple
 from io import BytesIO
 
 import dotenv
-from google.auth.transport.requests import Request
 from google.oauth2.service_account import Credentials
-from google.auth import default
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
 
 from constants import REPO_ROOT
 
 # Load environment variables
-dotenv.load_dotenv(REPO_ROOT / ".env")
+dotenv.load_dotenv(REPO_ROOT / "scripts" / ".env")
 
 # Google Drive API scope
-DRIVE_SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
+DRIVE_SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
 
 
-def authenticate_google_drive():
-    """
-    Authenticate with Google Drive API using service account credentials.
+class ImageLoader:
+    def __init__(self, year: int, session_number: int):
+        self.year = year
+        self.session_number = session_number
+        self.service = self._authenticate_google_drive()
+        print(f"Connected to Google Drive for session {self.session_number}")
 
-    Expects either GOOGLE_DRIVE_CREDENTIALS_JSON to contain the JSON credentials string,
-    or GOOGLE_DRIVE_CREDENTIALS_PATH to point to a Google Service Account JSON key file.
+    def _authenticate_google_drive(self):
+        """Authenticate with Google Drive using service account credentials."""
+        credentials_json = os.getenv("GOOGLE_DRIVE_CREDENTIALS_JSON")
 
-    Returns:
-        googleapiclient.discovery.Resource: An authenticated Google Drive service object.
+        if credentials_json:
+            creds_dict = json.loads(credentials_json)
+            credentials = Credentials.from_service_account_info(
+                creds_dict,
+                scopes=DRIVE_SCOPES
+            )
+        else:
+            raise ValueError(
+                "GOOGLE_DRIVE_CREDENTIALS_JSON environment variable is not set. Please configure it."
+            )
 
-    Raises:
-        FileNotFoundError: If the credentials file is not found.
-        ValueError: If credentials are not properly configured.
-    """
-    credentials_json = os.getenv('GOOGLE_DRIVE_CREDENTIALS_JSON')
-    credentials_path = os.getenv('GOOGLE_DRIVE_CREDENTIALS_PATH')
+        return build("drive", "v3", credentials=credentials)
 
-    if credentials_json:
-        creds_dict = json.loads(credentials_json)
-        credentials = Credentials.from_service_account_info(
-            creds_dict,
-            scopes=DRIVE_SCOPES
-        )
-    elif credentials_path:
-        if not os.path.exists(credentials_path):
-            raise FileNotFoundError(f"Credentials file not found: {credentials_path}")
-        credentials = Credentials.from_service_account_file(
-            credentials_path,
-            scopes=DRIVE_SCOPES
-        )
-    else:
-        raise ValueError(
-            "Neither GOOGLE_DRIVE_CREDENTIALS_JSON nor GOOGLE_DRIVE_CREDENTIALS_PATH "
-            "environment variables are set. Please configure one of them."
-        )
+    def _extract_file_id_from_drive_link(self, drive_link: str) -> str:
+        """Extract the file ID from a Google Drive link or raw file ID."""
+        match = re.search(r"/d/([a-zA-Z0-9-_]+)", drive_link)
+        if match:
+            return match.group(1)
 
-    # Build the Drive API service
-    service = build('drive', 'v3', credentials=credentials)
+        match = re.search(r"id=([a-zA-Z0-9-_]+)", drive_link)
+        if match:
+            return match.group(1)
 
-    return service
+        if re.match(r"^[a-zA-Z0-9-_]+$", drive_link):
+            return drive_link
 
+        raise ValueError(f"Could not extract file ID from Google Drive link: {drive_link}")
 
-def _extract_file_id_from_drive_link(drive_link: str) -> str:
-    """
-    Extract the file ID from a Google Drive link.
+    def _get_file_extension(self, mime_type: str) -> str:
+        """Determine file extension from MIME type."""
+        mime_to_ext = {
+            "image/jpeg": "jpg",
+            "image/png": "png",
+            "image/gif": "gif",
+            "image/webp": "webp",
+            "image/svg+xml": "svg",
+            "image/bmp": "bmp",
+            "image/tiff": "tiff",
+        }
 
-    Supports formats:
-    - https://drive.google.com/file/d/{file_id}/view?usp=sharing
-    - https://drive.google.com/open?id={file_id}
-    - {file_id} (if it's just the ID)
+        if mime_type not in mime_to_ext:
+            raise ValueError(f"Unsupported image MIME type: {mime_type}")
 
-    Args:
-        drive_link: The Google Drive link or file ID
+        return mime_to_ext[mime_type]
 
-    Returns:
-        str: The extracted file ID
+    def _load_image_from_drive(self, drive_link: str) -> Tuple[bytes, str]:
+        """Download an image from Google Drive and return its bytes and file extension."""
+        file_id = self._extract_file_id_from_drive_link(drive_link)
 
-    Raises:
-        ValueError: If the file ID cannot be extracted
-    """
-    # Try format: https://drive.google.com/file/d/{file_id}/view
-    match = re.search(r'/d/([a-zA-Z0-9-_]+)', drive_link)
-    if match:
-        return match.group(1)
+        try:
+            file_metadata = self.service.files().get(
+                fileId=file_id,
+                fields="mimeType, name"
+            ).execute()
+        except Exception as e:
+            raise FileNotFoundError(f"File not found on Google Drive (ID: {file_id}): {e}")
 
-    # Try format: https://drive.google.com/open?id={file_id}
-    match = re.search(r'id=([a-zA-Z0-9-_]+)', drive_link)
-    if match:
-        return match.group(1)
+        mime_type = file_metadata.get("mimeType")
+        if not mime_type or not mime_type.startswith("image/"):
+            raise ValueError(f"File is not an image (MIME type: {mime_type})")
 
-    # Check if it's just the file ID
-    if re.match(r'^[a-zA-Z0-9-_]+$', drive_link):
-        return drive_link
+        file_extension = self._get_file_extension(mime_type)
+        print(f"Found and validated image {file_id} as {mime_type}")
 
-    raise ValueError(f"Could not extract file ID from Google Drive link: {drive_link}")
+        request = self.service.files().get_media(fileId=file_id)
+        file_content = BytesIO()
+        downloader = MediaIoBaseDownload(file_content, request)
 
+        done = False
+        while not done:
+            _, done = downloader.next_chunk()
 
-def _get_file_extension(mime_type: str) -> str:
-    """
-    Determine file extension from MIME type.
+        return file_content.getvalue(), file_extension
 
-    Args:
-        mime_type: The MIME type of the file (e.g., 'image/jpeg')
+    def _save_image(self, image_content: bytes, file_extension: str, idx: int) -> str:
+        """Save image content to the repository static directory."""
+        if not file_extension or not isinstance(file_extension, str):
+            raise ValueError(f"Invalid file extension: {file_extension}")
 
-    Returns:
-        str: The file extension without the dot (e.g., 'jpg')
+        file_extension = file_extension.lstrip(".")
 
-    Raises:
-        ValueError: If the MIME type is not a recognized image type
-    """
-    mime_to_ext = {
-        'image/jpeg': 'jpg',
-        'image/png': 'png',
-        'image/gif': 'gif',
-        'image/webp': 'webp',
-        'image/svg+xml': 'svg',
-        'image/bmp': 'bmp',
-        'image/tiff': 'tiff',
-    }
+        save_dir = REPO_ROOT / "static" / "img" / str(self.year) / "fh"
+        save_dir.mkdir(parents=True, exist_ok=True)
 
-    if mime_type not in mime_to_ext:
-        raise ValueError(f"Unsupported image MIME type: {mime_type}")
+        filename = f"{self.session_number}-{idx}.{file_extension}"
+        save_path = save_dir / filename
 
-    return mime_to_ext[mime_type]
+        try:
+            with open(save_path, "wb") as f:
+                f.write(image_content)
+        except IOError as e:
+            raise IOError(f"Failed to save image to {save_path}: {e}")
+
+        print(f"Saved image to {save_path}")
+
+        return str(save_path)
+
+    def load_and_save_image_from_drive(self, drive_link: str, idx: int) -> str:
+        """Load an image from Google Drive and save it to the static directory."""
+        image_content, file_extension = self._load_image_from_drive(drive_link)
+        return self._save_image(image_content, file_extension, idx)
 
 
-def load_image_from_drive(drive_link: str, service=None) -> Tuple[bytes, str]:
-    """
-    Download an image from a Google Drive link and return its content and extension.
+if __name__ == "__main__":
+    # Example usage
+    drive_link = "https://drive.google.com/file/d/1vRJ2dtJe2hBbx6JIrptN_XktmG9D2Vdf/view?usp=drive_link"
+    year = 2026
+    session_number = 300
+    idx = 1
 
-    Args:
-        drive_link: The Google Drive link or file ID
-        service: Optional pre-authenticated Google Drive service. If None, authenticates.
-
-    Returns:
-        Tuple[bytes, str]: A tuple of (image_content, file_extension) where:
-            - image_content is the raw bytes of the image
-            - file_extension is the file extension (without dot, e.g., 'jpg')
-
-    Raises:
-        ValueError: If the file ID cannot be extracted or MIME type is invalid
-        FileNotFoundError: If the file is not found on Google Drive
-        Exception: If there's an error communicating with Google Drive API
-    """
-    # Authenticate if service not provided
-    if service is None:
-        service = authenticate_google_drive()
-
-    # Extract file ID from link
-    file_id = _extract_file_id_from_drive_link(drive_link)
-
-    # Get file metadata (to extract MIME type)
     try:
-        file_metadata = service.files().get(
-            fileId=file_id,
-            fields='mimeType, name'
-        ).execute()
+        loader = ImageLoader(year, session_number)
+        saved_path = loader.load_and_save_image_from_drive(drive_link, idx)
+        print(f"Image saved to: {saved_path}")
     except Exception as e:
-        raise FileNotFoundError(f"File not found on Google Drive (ID: {file_id}): {e}")
-
-    mime_type = file_metadata.get('mimeType')
-
-    # Validate it's an image
-    if not mime_type or not mime_type.startswith('image/'):
-        raise ValueError(f"File is not an image (MIME type: {mime_type})")
-
-    # Get file extension
-    file_extension = _get_file_extension(mime_type)
-
-    # Download file content
-    request = service.files().get_media(fileId=file_id)
-    file_content = BytesIO()
-    downloader = MediaIoBaseDownload(file_content, request)
-
-    done = False
-    while not done:
-        status, done = downloader.next_chunk()
-
-    image_bytes = file_content.getvalue()
-
-    return image_bytes, file_extension
-
-
-def save_image(image_content: bytes, file_extension: str, year: int, session_number: int, idx: int) -> str:
-    """
-    Save image content to the repository static directory.
-
-    Args:
-        image_content: The raw bytes of the image
-        file_extension: The file extension (without dot, e.g., 'jpg')
-        year: The year of the Friday Hacks session
-        session_number: The session number
-        idx: The talk index within the session
-
-    Returns:
-        str: The full path to the saved image file
-
-    Raises:
-        ValueError: If file_extension is invalid
-        IOError: If there's an error writing the file
-    """
-    # Validate file extension
-    if not file_extension or not isinstance(file_extension, str):
-        raise ValueError(f"Invalid file extension: {file_extension}")
-
-    # Remove leading dot if present
-    file_extension = file_extension.lstrip('.')
-
-    # Construct the save path
-    save_dir = REPO_ROOT / "static" / "img" / str(year) / "fh"
-    save_dir.mkdir(parents=True, exist_ok=True)
-
-    filename = f"{session_number}-{idx}.{file_extension}"
-    save_path = save_dir / filename
-
-    # Write image to file
-    try:
-        with open(save_path, 'wb') as f:
-            f.write(image_content)
-    except IOError as e:
-        raise IOError(f"Failed to save image to {save_path}: {e}")
-
-    return str(save_path)
+        print(f"Error: {e}")

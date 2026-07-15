@@ -4,7 +4,7 @@ Script to generate new Friday Hacks posts and semester schedule files.
 
 ## Setup for FH team
 
-Every semester:
+**Every semester:**
 1. Create a google sheet, and add a table to it. The table schema columns should follow the same schema as the sheet [here](https://docs.google.com/spreadsheets/d/1yMdfEOY8SypoHqXr8Sd4nuLFq7L2AznUlmG54GiAF4k/edit?usp=sharing). You can also simply make a copy of that same sheet.
 2. Add an Apps Script to the sheet. Copy the code from [`scripts/apps_script.js`](./apps_script.js) into the new script.
     * Steps 1-2 can be skipped by duplicating last semester's sheet. The table and apps script are duplicated when a sheet is duplicated.
@@ -26,7 +26,7 @@ Every semester:
     * Save the trigger
 7. Ready to go!
 
-Long-term:
+**Long-term:**
 1. The PAT should be rotated. Either do this using an account with admin access, or ask someone with admin access to follow these steps to create the PAT.
 2. See [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token) on how to create a fine-grained PAT. When creating the fine-grained PAT, give it the following permissions:
     * Scope it to repository, choose `nushackers/nushackers-site`
@@ -34,6 +34,15 @@ Long-term:
     * Workfows - read/write
     * Expiry - 1 year / should cover 2 semesters
 3. Add it to bitwarden. Don't add new credentials, just update the previous item.
+
+**For each talk:**
+1. Just add the details to the correct columns.
+2. For the talk description, write it in markdown.
+3. Make sure dates and times are formatted correctly (DD/MM/YYYY and HH:MM am/pm)
+4. For the talk poster, add the image to the google drive under `NUS Hackers / Friday Hacks / <semester> / <wherever>. Then right click > share > copy link > paste the link into the spreadsheet.
+5. Once all the talk details are ready, select "Yes" on the talk's dropdown for `Ready for website?`.
+6. Once all the talks for the week are ready, the script will pick it up and create the PR automatically. Review the PR and merge it in.
+
 
 Note: Do NOT update past semester schedule app script properties. Only use the new PAT for subsequent semesters.
 
@@ -66,6 +75,8 @@ python add_fh_details.py 250 2627_1 '2026-04-05T19:00:00+0800'
 **Schedule file doesn't exist:** Creates a new schedule file using the `start_date` parameter as the semester start, with 14 total weeks (including Recess Week, Midterms, Reading Week, and Exam Week placeholders).
 
 **Blog post file:** Creates new blog post if it doesn't exist, or replaces it if it does. Skipped for no-hack sessions.
+
+**Images:** If there is any error while trying to load the images, the rest of the script still completes with a warning. The images will then need to be added manually.
 
 ## GitHub Workflow: Update Friday Hacks ([`.github/workflows/fh_updater.yaml`](../.github/workflows/fh_updater.yaml))
 
