@@ -1,18 +1,23 @@
 ---
 title: About Hackerschool
-description: About Hackerschool
+description: Beginner-friendly, hands-on technology workshops by NUS Hackers
 date: "2014-06-23"
 ---
 
-## [View our event schedule here]({{< ref "/hackerschool/schedule" >}})
+## Learn Together
 
-We learn with two core premises
+Learning something new is hard. Learning it alone is harder.
 
-- Learning is hard
-- Learning **alone** is _really_ hard
+Since 2012, **Hackerschool** has helped students take their first steps into unfamiliar technologies. Our hands-on workshops focus on useful skills that are not always taught in class, giving you the guidance and community to get past the initial hurdle and keep exploring on your own.
 
-**Hackerschool** teaches basic, supplementary skills that are good to know, and not always covered in school. We hope to make learning these skills easier by getting people past the initial hurdle through workshops and classes.
+Sessions are beginner-friendly and open to anyone. Whether you are a student or even a working professional, there is always something to learn! Over the years, we have covered programming languages, Git and developer tools, web and game development, data and AI, hardware, design, electronic music, and plenty in between.
 
-## Our Goal
+## Join a Session
 
-Though we are starting small with only a few courses, we have a **big** ambition. The hope is to ultimately have a comprehensive list of workshops that all students can look forward to and take part in.
+[See the current schedule]({{< ref "/hackerschool/schedule" >}}), or explore the [Hackerschool archive]({{< ref "/archive/hackerschool" >}}) for resources and recordings from past workshops.
+
+![Students learning together at a Hackerschool session](/img/hs.jpeg)
+
+## Know something cool? Teach it!
+
+Know something that others would enjoy learning? We are always keen to hear from people who want to run a practical, beginner-friendly workshop. [Tell us what you would like to teach]({{< ref "/contact" >}}), and we can help shape it into a Hackerschool session.
