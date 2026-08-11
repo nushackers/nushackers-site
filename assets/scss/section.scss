@@ -15,24 +15,32 @@
     border-left: 3px solid $hackers-orange;
   }
 
-  .card-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 16px;
+  .workgroups {
+    margin: 1.5rem 0;
 
     details {
-      /* put all children of summary on the same line */
-      summary * {
-        display: inline-block;
+      border-top: 1px solid #ddd;
+
+      &:last-child {
+        border-bottom: 1px solid #ddd;
       }
 
-      summary::-webkit-details-marker {
-        display: none;
+      summary {
+        padding: 0.9rem 0;
+        color: $gray-900;
+        cursor: pointer;
+        font-size: 1.2rem;
+        font-weight: 500;
+
+        &:focus-visible {
+          outline: 2px solid $hackers-orange;
+          outline-offset: 4px;
+        }
       }
 
-      border: 1px solid #ddd; /* Gray */
-      border-radius: 8px;
-      padding: 8px 16px;
+      p {
+        margin: 0 0 1rem;
+      }
     }
   }
 }

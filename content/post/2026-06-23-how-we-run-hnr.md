@@ -1,47 +1,58 @@
 ---
-title: "How We Roll"
+title: "How We Run Hack&Roll"
 date: 2026-06-23
 author: Jonathan Loh
 url: /2026/06/how-we-run-hnr
 featured: true
 ---
-Over the years, people have asked us how NUS Hackers, a fully student-driven interest group, runs Hack&Roll. Today we share some of our insights (hopefully) inside coreteam and how we operate.
+How does our 30-person strong coreteam pull off a 800-person hackathon? Mostly by splitting an enormous problem into small pieces, then trusting people to own them - hacker culture is built into the way we do things. Over the years, people have asked us how we run Hack&Roll, so here is a look inside coreteam, from my small perspective.
 
-> Disclaimer: Before you continue reading - Opinions in this post are mine alone and do not fully reflect that of NUS Hackers
+> The opinions in this post are my own and do not necessarily reflect those of NUS Hackers coreteam.
 
-## Overview
-If you're reading this and have never attended a Hack&Roll, let me give a quick introduction:
+## What is Hack&Roll?
 
-- Hack&Roll is a 24-hour "build anything you want" in-person hackathon that runs annually
-- Throughout the event we provide free food, fun games and amazing vibes over one weekend
-- For the last few years, it has been held in NUS University Town, housing more than 800 participants in the 2026 iteration
+If you've never been to Hack&Roll,
 
-NUS Hackers organizes this event (alongside many others like [Friday Hacks](/fridayhacks/) and [Hackerschool](/hackerschool/)) to [**spread hacker culture**](/hackerdefined/), encouraging everyone to build for the fun of it, not really for any particular reason. This drives many of our decisions made for Hack&Roll - for anything we do, we think really hard about how it encourages the community to try building something, or anything!
+- It is a 24-hour, in-person hackathon where students build anything they want
+- Throughout the event, we provide free food, fun games, and good vibes over one weekend
+- In recent years, it has been held in NUS University Town with Hack&Roll 2026 welcoming more than 800 participants
 
-## Organization
-As of 2026, we have approximately 30 coreteam members, not all of whom are based locally in Singapore. We are split into various self-sustaining smaller workgroups with a few general guiding principles:
+NUS Hackers' coreteam runs this event, alongside others like [Friday Hacks](/fridayhacks/) and [Hackerschool](/hackerschool/), to [**spread hacker culture**](/hackerdefined/). We aim to encourage people to build for the fun of it, not because they have been given a particular problem to solve. That idea shapes our decisions: whenever we choose what to build, buy, or prioritize, we ask whether it helps people try making something.
 
-1. **Each workgroup should be 2-4 people**: This ensures everyone on the team is responsible for their share of work to be done
-2. **Each coreteam should be in 2-3 workgroups**: This allows cross-workgroup collaboration. All coreteam should be equally responsible for each of their workgroups. This is only possible if the critical timing of different workgroups does not coincide. e.g. someone doing AV should not do sponsorships as sponsors arrive about the same time that AV requires setup for the opening ceremony.
+## Small Team, Big Ownership
 
-Expand each of the workgroups below to see how they function!
+In 2026, coreteam had approximately 30 members, not all of whom were based locally in Singapore. We organize ourselves into small workgroups. Each group owns a part of the event, but no one works in isolation.
 
-<div class="card-grid">
+Two principles guide us:
+
+- **Keep workgroups small** (usually 2–4 people): This keeps the work manageable and makes it clear who owns each part of the job
+- **Each coreteam is responsible for 2–3 workgroups**: This encourages collaboration and gives people a chance to understand more of the event than just their own area
+
+This only works if we schedule things thoughtfully. Someone handling AV should not also be responsible for sponsorship setup if both need to happen at the same time before the opening ceremony. This is less about drawing a perfect org chart and more about making sure people can help each other without teleporting between two places at a time.
+
+## What this looks like on the ground
+
+These are only three examples from a much larger team, but they show the range of work that goes into making the weekend feel effortless for participants.
+
+<div class="workgroups">
   <details>
-    <summary><h3>AV</h3></summary>
-    This year, we invested more effort into Audio Visual (AV) - that is the sound setup, video projections, and streaming across different venues. AV is usually treated as a specialized skill within coreteam, and often limited to "those who know". However, Hack&Roll return participants would soon realize that this year's setup was a major step up from previous years. That is because we had both coreteam "who know" and coreteam willing to learn. This year we even set up our own RTSP server to avoid music copyright strikes! Kudos to the AV team this year, who jumped through a ridiculous number of hurdles!
+    <summary>AV</summary>
+    <p>This year, we invested more effort into AV (audio visual) setup: the sound setup, video projections, and streaming across different venues. Returning participants may have noticed that the setup was a major step up from previous years. That was possible because we had both people who already knew the systems and people willing to learn. We even set up our own RTSP server to avoid music copyright strikes. It was a ridiculous number of hurdles, but the AV team kept jumping over them. As someone who learnt AV from projections, to sound mixing, it's honestly not rocket science, it just takes some time and effort to sit down and play around with the systems.</p>
   </details>
 
   <details>
-    <summary><h3>Food</h3></summary>
-    Often the most memorable part of the event is food. However, a lesser known fact is how we ensure food expenditure is kept within budget, with sufficient quantity and quality. In true hacker mindset, we enjoy making data-driven decisions. We require participants to sca their tags / hardware badges for their first portion of food, allowing us to make well-informed decisions on how many portions of food to cater for participants.
+    <summary>Food</summary>
+    <p>Food is often one of the most memorable parts of the event. A less visible challenge is keeping food expenditure within budget while still providing enough variety and quantity. Rather than rely only on registration numbers, we ask participants to scan their tags or hardware badges for their first portion. That gives us a better estimate of how many portions people are actually eating, so we can make more informed catering decisions.</p>
   </details>
 
   <details>
-    <summary><h3>Venue</h3></summary>
-    Venue is in-charge of booking all our venues - the main dining hall, the side venue halls, our ops rooms and logistics store rooms. On top of that, general facilities and logistics like ensuring we have sufficient trash bags, chairs and tables are also managed by a small team of 3. They are usually one of the earliest teams to start - afterall, we can't host 800 in-person participants if we lack even one of these venues.
+    <summary>Venue</summary>
+    <p>The Venue workgroup is in charge of booking every space we use: the main dining hall, side venue halls, ops rooms, and logistics storerooms. A three-person team also handles facilities and logistics, from trash bags to chairs and tables. They are usually one of the earliest teams to start, because you cannot host 800 in-person participants if even one of those spaces is missing.</p>
   </details>
 </div>
 
-## Final Words
-(Not meant to be self-praise) Personally seeing Hack&Roll as a participant for 3 years, and a coreteam for 2 years, I am always grateful and amazed at how coreteam organizes such a huge event. Thank you to the coreteam, past and present, for making Hack&Roll an amazing and unforgettable experience. More importantly, thank you to those who have supported us - participants, volunteers, judges and sponsors - without whom this event would not be possible. Your presence each year motivates us, the coreteam, to continue striving to be the best hackathon, or at least one that people across Singapore look forward to, yearly. And above all, a hackathon that motivates you to build for fun!
+## What keeps it together
+
+Running Hack&Roll is not about one person having the whole plan. The work is distributed, but the responsibility and ownership is shared: groups make decisions, people help outside their usual areas, and team members learn what they do not already know. That is how coreteam makes such a large event feel welcoming, chaotic, and fun at the same time.
+
+After attending Hack&Roll as a participant for three years and serving on coreteam for two, I'm still grateful to everyone who makes it happen: past and present coreteam members, participants, volunteers, judges, and sponsors. The best part is not simply that we run Singapore's largest student-run hackathon. It is that the event gives people a reason to build for fun.
