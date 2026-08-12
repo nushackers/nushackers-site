@@ -48,7 +48,7 @@ jobs:
           python-version: "3.14"
 
       - name: Install dependencies
-        run: pip install pyyaml
+        run: pip install -r scripts/requirements.txt
 
       - name: Run add_fh_details script
         env:
