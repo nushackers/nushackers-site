@@ -1,0 +1,34 @@
+events:
+  - topic: Intro to Python
+    venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a>
+    date: 2026-08-18T19:00:00
+  - topic: Intro to Terminal + Vim
+    venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a>
+    date: 2026-08-25T19:00:00
+  - topic: Manage Coding Projects with Git
+    venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a>
+    date: 2026-09-01T19:00:00
+  - topic: Electronic Music Production (In collaboration with NUS EML)
+    venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a>
+    date: 2026-09-08T19:00:00
+  - topic: <i>TBD</i>
+    venue: <i>TBD</i>
+    date: 2026-09-15T19:00:00
+  - topic: <i>TBD</i>
+    venue: <i>TBD</i>
+    date: 2026-10-06T19:00:00
+  - topic: <i>TBD</i>
+    venue: <i>TBD</i>
+    date: 2026-10-13T19:00:00
+  - topic: <i>TBD</i>
+    venue: <i>TBD</i>
+    date: 2026-10-20T19:00:00
+  - topic: <i>TBD</i>
+    venue: <i>TBD</i>
+    date: 2026-10-27T19:00:00
+  - topic: AI Research Reading <i>(TBC)</i>
+    venue: <i>TBD</i>
+    date: 2026-11-03T19:00:00
+  - topic: <i>TBD</i>
+    venue: <i>TBD</i>
+    date: 2026-11-10T19:00:00
