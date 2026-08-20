@@ -206,11 +206,21 @@ $font-small: 0.9rem;
     margin-top: 0.5rem;
   }
   .hs-signup {
-    flex: 1 1 10rem;
+    flex: 0 0 auto;
     padding: 0.35rem 0.75rem;
     text-align: center;
-    border: 1px solid $gray-400;
-    border-radius: 0.2rem;
+    color: white;
+    background-color: $hackers-orange;
+    border: 1px solid $hackers-orange;
+    border-radius: 999px;
+    font-weight: 600;
+    box-shadow: $material-shadow;
+
+    &:hover {
+      color: white;
+      background-color: $highlight-orange;
+      border-color: $highlight-orange;
+    }
   }
   &:not(:last-of-type) {
     @include media-breakpoint-down(sm) {
