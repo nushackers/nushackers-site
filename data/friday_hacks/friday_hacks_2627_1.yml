@@ -1,8 +1,18 @@
 start_date: 2026-08-14 19:00:00 +0800
 start_nr: 296
 hacks:
-  - nohack: NUS Hackers Welcome Tea
-  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/UT-AUD2">UTown Auditorium 2, NUS</a>
+    blog_post: /2026/08/friday-hacks-296
+    topics:
+      - speaker: NUS Hackers
+        title: NUS Hackers Welcome Tea
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/08/friday-hacks-297
+    topics:
+      - speaker: James Li and Team
+        title: "Evaluating AI Agents @ Airwallex"
+      - speaker: Yang Jun
+        title: "LiquidJS - Building and Growing Open Source"
   - nospeaker: true
   - venue: To be announced
     blog_post: 
@@ -10,12 +20,22 @@ hacks:
       - speaker: To be announced
         title: To be announced
         from: Jane Street
-  - nospeaker: true
+  - venue: To be announced
+    topics:
+      - speaker: To be announced
+        title: To be announced
+      - speaker: To be announced
+        title: To be announced
   - nospeaker: true
   - nohack: Recess Week
   - nohack: Midterms
   - nohack: NUS Well-being day
-  - nospeaker: true
+  - venue: To be announced
+    topics:
+      - speaker: To be announced
+        title: To be announced
+      - speaker: To be announced
+        title: To be announced
   - nospeaker: true
   - nospeaker: true
   - nospeaker: true
