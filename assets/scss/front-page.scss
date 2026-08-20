@@ -199,6 +199,19 @@ $font-small: 0.9rem;
   .hs-time {
     display: block;
   }
+  .hs-signups {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  .hs-signup {
+    flex: 1 1 10rem;
+    padding: 0.35rem 0.75rem;
+    text-align: center;
+    border: 1px solid $gray-400;
+    border-radius: 0.2rem;
+  }
   &:not(:last-of-type) {
     @include media-breakpoint-down(sm) {
       margin-bottom: 1.5rem;

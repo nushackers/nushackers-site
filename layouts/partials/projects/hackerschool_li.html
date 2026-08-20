@@ -1,7 +1,17 @@
 <li class="events-item item">
-  <h3 class=hs-topic>{{ .event.topic | safeHTML }}{{- if and (ne .event.sign_up nil) ((time .event.date).After now) }} [<a href="{{ .event.sign_up }}">Sign up</a>]{{- end -}}</h3>
+  <h3 class=hs-topic>{{ .event.topic | safeHTML }}</h3>
   <time class="hs-time" datetime={{ dateFormat "2006-01-02T15:04:05-07:00" .event.date }}>
     {{ dateFormat "Mon, Jan 2, 3:04pm" (time .event.date) }}
   </time>
   <address class="events-address">{{ .event.venue | safeHTML }}</address>
+  {{- if (time .event.date).After now }}
+    <div class="hs-signups">
+    {{- if ne .event.nus_sign_up nil }}
+      <a class="hs-signup" href="{{ .event.nus_sign_up }}">NUS sign up</a>
+    {{- end }}
+    {{- if ne .event.sign_up nil }}
+      <a class="hs-signup" href="{{ .event.sign_up }}">Non-NUS sign up</a>
+    {{- end }}
+    </div>
+  {{- end }}
 </li>
