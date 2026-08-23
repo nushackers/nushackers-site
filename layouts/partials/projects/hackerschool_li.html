@@ -4,12 +4,12 @@
     {{ dateFormat "Mon, Jan 2, 3:04pm" (time .event.date) }}
   </time>
   <address class="events-address">{{ .event.venue | safeHTML }}</address>
-  {{- if (time .event.date).After now }}
+  {{- if and ((time .event.date).After now) (or .event.nus_sign_up .event.sign_up) }}
     <div class="hs-signups">
-    {{- if ne .event.nus_sign_up nil }}
+    {{- if .event.nus_sign_up }}
       <a class="hs-signup" href="{{ .event.nus_sign_up }}">NUS sign up</a>
     {{- end }}
-    {{- if ne .event.sign_up nil }}
+    {{- if .event.sign_up }}
       <a class="hs-signup" href="{{ .event.sign_up }}">Non-NUS sign up</a>
     {{- end }}
     </div>
