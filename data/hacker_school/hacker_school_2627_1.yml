@@ -7,8 +7,8 @@ events:
   - topic: Intro to Terminal + Vim
     venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a> <i>(TBC)</i>
     date: 2026-08-25T19:00:00
-    sign_up: https://hckr.cc/
-    nus_sign_up: https://hckr.cc/
+    sign_up: https://hckr.cc/hs-2627s1-vim-luma
+    nus_sign_up: https://hckr.cc/hs-2627s1-vim-nusync
 
   - topic: Manage Coding Projects with Git
     venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a> <i>(TBC)</i>
