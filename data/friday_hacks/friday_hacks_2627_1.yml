@@ -13,7 +13,13 @@ hacks:
         title: "Evaluating AI Agents @ Airwallex"
       - speaker: Yang Jun
         title: "LiquidJS - Building and Growing Open Source"
-  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/08/friday-hacks-298
+    topics:
+      - speaker: Phil Hedayatnia
+        title: "In Search of Taste"
+      - speaker: Rob Liu
+        title: "How to Build a Startup"
   - venue: To be announced
     blog_post: 
     topics: 
