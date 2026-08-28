@@ -6,6 +6,8 @@ nested: false
 
 ## 2026
 
+* Friday Hacks #298, August 28: [In Search of Taste and Building Startup](/2026/08/friday-hacks-297)
+   * [Recording](https://www.youtube.com/watch?v=GZYVgkaMT5Y)
 * Friday Hacks #297, August 21: [Evaluating AI Agents and LiquidJS](/2026/08/friday-hacks-297)
    * [Recording 1](https://www.youtube.com/watch?v=8Bds17bb-M8)
    * [Recording 2](https://www.youtube.com/watch?v=K-6Ij2ZJzS0)
