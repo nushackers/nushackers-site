@@ -7,7 +7,7 @@ nested: false
 ## 2026
 
 * Friday Hacks #297, August 21: [Evaluating AI Agents and LiquidJS](/2026/08/friday-hacks-297)
-   * [Recording 1](https://www.youtube.com/watch?v=qqbWLKGsBYQ)
+   * [Recording 1](https://www.youtube.com/watch?v=8Bds17bb-M8)
    * [Recording 2](https://www.youtube.com/watch?v=K-6Ij2ZJzS0)
 * Friday Hacks #296, August 14: [Welcome Tea](/2026/08/friday-hacks-296)
 * Friday Hacks #295, April 17: [Think Fast and Slow with AI Agents and Computer Vision](/2026/04/friday-hacks-295)
