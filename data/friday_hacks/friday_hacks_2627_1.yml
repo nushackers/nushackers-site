@@ -20,12 +20,11 @@ hacks:
         title: "In Search of Taste"
       - speaker: Rob Liu
         title: "How to Build a Startup"
-  - venue: To be announced
-    blog_post: 
-    topics: 
-      - speaker: To be announced
-        title: To be announced
-        from: Jane Street
+  - venue: <a href="https://nusmods.com/venues/COM3-MPH">Multi-Purpose Hall, COM3-MPH, NUS</a>
+    blog_post: /2026/09/friday-hacks-299
+    topics:
+      - speaker: Jane Street
+        title: "Jane Street x NUS Hackers Game Night"
   - venue: To be announced
     topics:
       - speaker: To be announced
