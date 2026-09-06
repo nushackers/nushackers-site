@@ -19,9 +19,11 @@ events:
   - topic: Electronic Music Production (In collaboration with NUS EML)
     venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a>
     date: 2026-09-08T19:00:00
+    sign_up: https://hckr.cc/hs-2627s1-eml-luma
+    nus_sign_up: https://hckr.cc/hs-2627s1-eml-nusync
 
   - topic: <i>TBD</i>
-    venue: <i>TBD</i>
+    venue: <a href="https://nusmods.com/venues/COM3-01-22">Seminar Room 13 (COM3-01-22)</a>
     date: 2026-09-15T19:00:00
 
   - topic: <i>TBD</i>
