@@ -6,6 +6,7 @@ nested: false
 
 ## 2026
 
+* Friday Hacks #300, September 11: [The Long Tail of AI and Ten Years of Maintaining GoDNS](/2026/09/friday-hacks-300)
 * Friday Hacks #299, September 4: [Jane Street x NUS Hackers Game Night](/2026/09/friday-hacks-299)
 * Friday Hacks #298, August 28: [In Search of Taste and Building Startup](/2026/08/friday-hacks-298)
    * [Recording](https://www.youtube.com/watch?v=GZYVgkaMT5Y)
