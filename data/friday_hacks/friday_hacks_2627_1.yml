@@ -25,12 +25,13 @@ hacks:
     topics:
       - speaker: Jane Street
         title: "Jane Street x NUS Hackers Game Night"
-  - venue: To be announced
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/09/friday-hacks-300
     topics:
-      - speaker: To be announced
-        title: To be announced
-      - speaker: To be announced
-        title: To be announced
+      - speaker: Ron Tay
+        title: "The Long Tail of AI: Why the Future Isn't Just One Big Super-Model"
+      - speaker: Timothy Ye
+        title: "Ten Years of Maintaining a Small Open Source Project: Lessons from GoDNS"
   - nospeaker: true
   - nohack: Recess Week
   - nohack: Midterms
