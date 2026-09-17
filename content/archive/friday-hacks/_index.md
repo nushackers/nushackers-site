@@ -6,6 +6,7 @@ nested: false
 
 ## 2026
 
+* Friday Hacks #301, September 18: [Vigolium and the Art of Shipping Infrastructure](/2026/09/friday-hacks-301)
 * Friday Hacks #300, September 11: [The Long Tail of AI and Ten Years of Maintaining GoDNS](/2026/09/friday-hacks-300)
    * [Recording 1](https://www.youtube.com/watch?v=XkpnDxkiYMg)
    * [Recording 2](https://www.youtube.com/watch?v=uw03hwy7nno)

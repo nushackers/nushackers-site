@@ -32,7 +32,13 @@ hacks:
         title: "The Long Tail of AI: Why the Future Isn't Just One Big Super-Model"
       - speaker: Timothy Ye
         title: "Ten Years of Maintaining a Small Open Source Project: Lessons from GoDNS"
-  - nospeaker: true
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/09/friday-hacks-301
+    topics:
+      - speaker: Jessie Ho
+        title: "Vigolium: A High-Quality Hybrid DAST Tool in the Agentic Era"
+      - speaker: Justin Hoe
+        title: "Terraform, Telebots & the Art of Shipping Infrastructure"
   - nohack: Recess Week
   - nohack: Midterms
   - nohack: NUS Well-being day
