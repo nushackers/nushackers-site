@@ -2,7 +2,7 @@
 title: "How We Run Hack&Roll"
 date: 2026-10-05
 author: Jonathan Loh
-url: /2026/06/how-we-run-hnr
+url: /2026/10/how-we-run-hnr
 featured: true
 ---
 
