@@ -103,7 +103,7 @@ Click on each of the workgroups below to see how they function! These are not ex
 
   <details>
     <summary>Design</summary>
-    <p>Design is responsible for making Hack&Roll look like Hack&Roll. This includes the posters and slides people see before the event, but also the registration booth, hardware hub, coffee cart, stickers, shirts, badges, backdrops and other small details that appear everywhere during the weekend. It is easy to only notice design when something looks bad, so the team does a lot of work that participants hopefully never have to think about.</p>
+    <p>Design is responsible for making Hack&Roll look like Hack&Roll. This includes the posters around the event, but also the registration booth, coffee cart, stickers, shirts, badges, backdrops and other small details that appear everywhere during the weekend. It is easy to only notice design when something looks bad, so the team does a lot of work that participants hopefully never have to think about. I'm sure many of you loved the posters from last year too as we had many people asking us if they could bring them home!</p>
   </details>
 
   <details>
