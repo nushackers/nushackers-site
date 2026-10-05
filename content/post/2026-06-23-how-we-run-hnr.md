@@ -20,6 +20,11 @@ If you've never been to Hack&Roll,
 - Throughout the event, we provide free food, fun games, and good vibes over one weekend
 - In recent years, it has been held in NUS University Town with Hack&Roll 2026 welcoming more than 800 participants
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; padding: 20px 0 5px;">
+  <img src="/img/2026/hnr/1.webp" alt="Participants working on their projects in CAPTxRC4 Dining Hall" style="width: 30rem" />
+  <img src="/img/2026/hnr/2.webp" alt="Participants working on their projects in RC4 MPSH" style="width: 30rem" />
+</div>
+
 NUS Hackers' coreteam runs this event, alongside others like [Friday Hacks](/fridayhacks/) and [Hackerschool](/hackerschool/), to [**spread hacker culture**](/hackerdefined/). Coreteam aims to encourage people to build for the fun of it, not because of some problem statement - we don't need everyone to save the world. This hacker culture mindset shapes our decisions: whenever we choose what to build, buy, or prioritize, we ask whether it helps people try building something.
 
 ## Small Team, Big Ownership
@@ -35,6 +40,10 @@ This only works if we tetris our people and time with some thought. e.g. someone
 
 Of course, in the week before Hack&Roll, this is more chaotic - our volunteers will tell you the number of last minute changes, but that's part and parcel of what we do.
 
+<div style="display: flex; justify-content: center; padding: 20px 0 5px;">
+  <img src="/img/2026/hnr/organisers-2026.webp" alt="Hack&Roll 2026 organisers gathered for a group photo" style="width: 32rem; max-width: 100%; height: auto" />
+</div>
+
 ## What this looks like on the ground
 
 Click on each of the workgroups below to see how they function! These are not exhaustive, since there are many small jobs which do not fit cleanly into one team, but they give you a sense of what coreteam spends our time doing.
@@ -48,16 +57,25 @@ Click on each of the workgroups below to see how they function! These are not ex
   <details>
     <summary>Food</summary>
     <p>Often the most memorable part of our event is food. However, a lesser known fact is how we ensure sufficient quantity and quality. In true hacker mindset, we enjoy making data-driven decisions. We ask participants to scan their tags / hardware badges for their first portion of food, allowing us to make better informed decisions on how many portions to cater for participants. There's also more to it than just "order food for 800 people", buffet line positioning, timings, etc all have to be factored in. As if that wasn't enough work, the various food carts like coffee and ice cream carts also require independent coordination! Kudos to our food team!</p>
+    <div style="display: flex; justify-content: center; padding: 20px; padding-top: 5px;">
+      <img src="/img/2026/hnr/food-line-2026.webp" alt="Hack&Roll participants and volunteers at the food line in the main hall" style="width: 24rem; max-width: 100%; height: auto" />
+    </div>
   </details>
 
   <details>
     <summary>Fringe Events</summary>
     <p>Fringe Events runs the games that let participants take a break from their hacks. Over the years, this has included Tetris, Typeracer, Duck Hunt, Esolang, and board games. Small games and events like this keep the event more lively, especially going into the dreaded 8-12h mark at night when nothing is working. The team has to handle the game rules, game masters, venues, timings and prizes, which is more work than it sounds like when the plan is simply "let's play Tetris". A common problem is realizing 5 minutes before the event that the free tier cannot accommodate our 800 participants and scrambling for someone with a subscription, or an alternate platform (yes, better hindsight could've been used, but things like that do happen when we've got other stuff to prepare for too!).</p>
+    <div style="display: flex; justify-content: center; padding: 20px; padding-top: 5px;">
+      <img src="/img/2026/hnr/typeracer-2026.webp" alt="A participant plays Typeracer during Hack&Roll 2026" style="width: 30rem; max-width: 100%; height: auto" />
+    </div>
   </details>
 
   <details>
     <summary>Hardware</summary>
     <p>Hardware used to be mostly about loaning equipment to participants. In 2026, we expanded this into our first custom PCB badge, so participants could not only borrow hardware but also hack on the thing they were wearing. With more than 1000 badges prepared for an event with over 800 participants, this was probably the biggest badgelife event in Singapore at the time. (thanks to the team, including some volunteers who we onboarded earlier, who pulled this off!) The badge had to be designed, soldered, flashed, distributed, explained, and then supported when people tried to make it do more. It was a lot of work, but seeing participants colour and hack on their badges was such a huge W! We took an L because the badge was rather heavy with the batteries and we had to hand solder the battery holder and reprogram the NFC on each badge too. But nonetheless, the feedback turned out great!</p>
+    <div style="display: flex; justify-content: center; padding: 20px; padding-top: 5px;">
+      <img src="/img/2026/hnr/badges.webp" alt="Colored custom PCB badges" style="width: 18rem" />
+    </div>
   </details>
 
   <details>
@@ -68,6 +86,9 @@ Click on each of the workgroups below to see how they function! These are not ex
   <details>
     <summary>Judging</summary>
     <p>This year, we expanded judging to work across multiple venues (3 venues spaced ~30m apart), hundreds of projects and more than a hundred judges. The team recruits and briefs judges, prepares the modified [Gavel](https://github.com/anishathalye/gavel) and judging system, prints venue maps, and helps judges find the teams they are meant to see. It is also one of the places where the Webapp and Venue teams have to work closely, because a judging process that looks simple on paper can become confusing when people are walking between halls. The team also optimizes for judging experience, ensuring each team gets judged fairly. We've been gradually expanding this team as it involves such a wide scope from technical development to judges outreach and diversity and administrative work.</p>
+    <div style="display: flex; justify-content: center; padding: 20px; padding-top: 5px;">
+      <img src="/img/2026/hnr/judges-2026.webp" alt="Hack&Roll 2026 judges gathered in an auditorium" style="width: 30rem; max-width: 100%; height: auto" />
+    </div>
   </details>
 
   <details>
@@ -98,6 +119,9 @@ Click on each of the workgroups below to see how they function! These are not ex
   <details>
     <summary>Swag</summary>
     <p>Swag is a surprisingly large physical logistics problem. Someone has to decide what participants receive, coordinate the items arriving, sort them, move them to the right venue, and hand them out. Some of it arrives much later than we would like, which makes the midnight surprise especially exciting for the people who have to pack it. Hack&Roll has enough swag that this can turn into a whole operation by itself, especially when we try to give things out fairly without making the collection process take the entire night. Recurring participants would know by now how the long snake forms around the main venue around 23:55 at night, so I guess the midnight surprise isn't so surprising anymore.</p>
+    <div style="display: flex; justify-content: center; padding: 20px; padding-top: 5px;">
+      <img src="/img/2026/hnr/swag-2026.webp" alt="Organisers sorting and distributing Hack&Roll 2026 swag" style="width: 30rem; max-width: 100%; height: auto" />
+    </div>
   </details>
 
   <details>
