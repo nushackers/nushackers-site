@@ -6,6 +6,19 @@ nested: false
 
 ## 2026
 
+* Friday Hacks #301, September 18: [Vigolium and the Art of Shipping Infrastructure](/2026/09/friday-hacks-301)
+* Friday Hacks #300, September 11: [The Long Tail of AI and Ten Years of Maintaining GoDNS](/2026/09/friday-hacks-300)
+   * [Recording 1](https://www.youtube.com/watch?v=XkpnDxkiYMg)
+   * [Recording 2](https://www.youtube.com/watch?v=uw03hwy7nno)
+* Friday Hacks #299, September 4: [Jane Street x NUS Hackers Game Night](/2026/09/friday-hacks-299)
+* Friday Hacks #298, August 28: [In Search of Taste and Building Startup](/2026/08/friday-hacks-298)
+   * [Recording](https://www.youtube.com/watch?v=GZYVgkaMT5Y)
+* Friday Hacks #297, August 21: [Evaluating AI Agents and LiquidJS](/2026/08/friday-hacks-297)
+   * [Recording 1](https://www.youtube.com/watch?v=8Bds17bb-M8)
+   * [Recording 2](https://www.youtube.com/watch?v=K-6Ij2ZJzS0)
+* Friday Hacks #296, August 14: [Welcome Tea](/2026/08/friday-hacks-296)
+* Friday Hacks #295, April 17: [Think Fast and Slow with AI Agents and Computer Vision](/2026/04/friday-hacks-295)
+* Friday Hacks #294, April 10: [Data Structures for TExt Editors and The Tech and Infrastructure Behind Trading System](/2026/04/friday-hacks-294)
 * Friday Hacks #293, March 27: [Python's Performance and Synthetic Societies](/2026/03/friday-hacks-293)
    * [Recording 1](https://www.youtube.com/watch?v=n7T7SxSMiXk)
    * [Recording 2](https://www.youtube.com/watch?v=B-BVCxcVdrE)

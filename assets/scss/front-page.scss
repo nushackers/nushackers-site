@@ -199,6 +199,29 @@ $font-small: 0.9rem;
   .hs-time {
     display: block;
   }
+  .hs-signups {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  .hs-signup {
+    flex: 0 0 auto;
+    padding: 0.35rem 0.75rem;
+    text-align: center;
+    color: white;
+    background-color: $hackers-orange;
+    border: 1px solid $hackers-orange;
+    border-radius: 999px;
+    font-weight: 600;
+    box-shadow: $material-shadow;
+
+    &:hover {
+      color: white;
+      background-color: $highlight-orange;
+      border-color: $highlight-orange;
+    }
+  }
   &:not(:last-of-type) {
     @include media-breakpoint-down(sm) {
       margin-bottom: 1.5rem;

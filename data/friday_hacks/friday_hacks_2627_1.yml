@@ -1,0 +1,56 @@
+start_date: 2026-08-14 19:00:00 +0800
+start_nr: 296
+hacks:
+  - venue: <a href="https://nusmods.com/venues/UT-AUD2">UTown Auditorium 2, NUS</a>
+    blog_post: /2026/08/friday-hacks-296
+    topics:
+      - speaker: NUS Hackers
+        title: NUS Hackers Welcome Tea
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/08/friday-hacks-297
+    topics:
+      - speaker: James Li and Team
+        title: "Evaluating AI Agents @ Airwallex"
+      - speaker: Yang Jun
+        title: "LiquidJS - Building and Growing Open Source"
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/08/friday-hacks-298
+    topics:
+      - speaker: Phil Hedayatnia
+        title: "In Search of Taste"
+      - speaker: Rob Liu
+        title: "How to Build a Startup"
+  - venue: <a href="https://nusmods.com/venues/COM3-MPH">Multi-Purpose Hall, COM3-MPH, NUS</a>
+    blog_post: /2026/09/friday-hacks-299
+    topics:
+      - speaker: Jane Street
+        title: "Jane Street x NUS Hackers Game Night"
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/09/friday-hacks-300
+    topics:
+      - speaker: Ron Tay
+        title: "The Long Tail of AI: Why the Future Isn't Just One Big Super-Model"
+      - speaker: Timothy Ye
+        title: "Ten Years of Maintaining a Small Open Source Project: Lessons from GoDNS"
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/09/friday-hacks-301
+    topics:
+      - speaker: Jessie Ho
+        title: "Vigolium: A High-Quality Hybrid DAST Tool in the Agentic Era"
+      - speaker: Justin Hoe
+        title: "Terraform, Telebots & the Art of Shipping Infrastructure"
+  - nohack: Recess Week
+  - nohack: Midterms
+  - nohack: NUS Well-being day
+  - venue: To be announced
+    topics:
+      - speaker: To be announced
+        title: To be announced
+      - speaker: To be announced
+        title: To be announced
+  - nospeaker: true
+  - nospeaker: true
+  - nospeaker: true
+  - nospeaker: true
+  - nohack: Reading Week
+  - nohack: Exam Week
