@@ -14,6 +14,35 @@
     font-size: 0.95rem;
     border-left: 3px solid $hackers-orange;
   }
+
+  .workgroups {
+    margin: 1.5rem 0;
+
+    details {
+      border-top: 1px solid #ddd;
+
+      &:last-child {
+        border-bottom: 1px solid #ddd;
+      }
+
+      summary {
+        padding: 0.9rem 0;
+        color: $gray-900;
+        cursor: pointer;
+        font-size: 1.2rem;
+        font-weight: 500;
+
+        &:focus-visible {
+          outline: 2px solid $hackers-orange;
+          outline-offset: 4px;
+        }
+      }
+
+      p {
+        margin: 0 0 1rem;
+      }
+    }
+  }
 }
 
 .aside {
@@ -36,7 +65,7 @@
 
   .post-previous {
     a:before {
-      content: '← ';
+      content: "← ";
       color: $gray-800;
     }
   }
@@ -45,7 +74,7 @@
     text-align: right;
 
     a:after {
-      content: ' →';
+      content: " →";
       color: $gray-800;
     }
   }
