@@ -6,9 +6,9 @@ url: /2026/10/how-we-run-hnr
 featured: true
 ---
 
-> The opinions in this post are my own and do not necessarily reflect those of NUS Hackers coreteam. Grammar and phrasing was fixed with AI so you guys don't have to read my verbose vomit...
-
 How does our relatively small coreteam pull off an 800+ person hackathon? Mostly by splitting this huge event into many small pieces, then trusting coreteam to take ownership of them. Hacker culture is built into the way we do things. Over the years, people have asked us how we run Hack&Roll, so here is a look inside coreteam, from my small perspective.
+
+> The opinions in this post are my own and do not necessarily reflect those of NUS Hackers coreteam. Grammar and phrasing was fixed with AI so you guys don't have to read my verbose vomit...
 
 Of course, this is a simplified view of the work. In the week of Hack&Roll, the Discord is full of people asking for updates, checking whether something has arrived, and trying to make one more thing work before participants arrive. This is part of the fun of coreteam: everyone has their own workgroup, but nobody gets to stay in it all weekend.
 
@@ -85,7 +85,7 @@ Click on each of the workgroups below to see how they function! These are not ex
 
   <details>
     <summary>Judging</summary>
-    <p>This year, we expanded judging to work across multiple venues (3 venues spaced ~30m apart), hundreds of projects and more than a hundred judges. The team recruits and briefs judges, prepares the modified [Gavel](https://github.com/anishathalye/gavel) and judging system, prints venue maps, and helps judges find the teams they are meant to see. It is also one of the places where the Webapp and Venue teams have to work closely, because a judging process that looks simple on paper can become confusing when people are walking between halls. The team also optimizes for judging experience, ensuring each team gets judged fairly. We've been gradually expanding this team as it involves such a wide scope from technical development to judges outreach and diversity and administrative work.</p>
+    <p>This year, we expanded judging to work across multiple venues (3 venues spaced ~30m apart), hundreds of projects and more than a hundred judges. The team recruits and briefs judges, prepares the modified <a href="https://github.com/anishathalye/gavel">Gavel</a> and judging system, prints venue maps, and helps judges find the teams' locations. It is also one of the places where the Webapp and Venue teams have to work closely, because a judging process that looks simple on paper can become confusing when people are walking between halls. The team also optimizes for judging experience, ensuring each team gets judged fairly. We've been gradually expanding this team as it involves such a wide scope from technical development to judges outreach and administrative work.</p>
     <div style="display: flex; justify-content: center; padding: 20px; padding-top: 5px;">
       <img src="/img/2026/hnr/judges-2026.webp" alt="Hack&Roll 2026 judges gathered in an auditorium" style="width: 30rem; max-width: 100%; height: auto" />
     </div>
@@ -108,12 +108,12 @@ Click on each of the workgroups below to see how they function! These are not ex
 
   <details>
     <summary>Registration</summary>
-    <p>Registration is the first workgroup most participants meet. They handle the registration form, selection, acceptance emails, team appeals, check-in, and all the cases where someone's details do not quite match what the system expects. During Hack&Roll, this also connects to the Webapp, QR codes, participant tags, lanyards, and the physical process of getting hundreds of people into the venue without making everyone queue forever. This last part is particularly hard because throwing more people at the problem frequently causes a larger mess and confusion.</p>
+    <p>Registration is the first workgroup most participants meet. They handle the registration form, selection, acceptance emails, team appeals and day-of check ins. During Hack&Roll, this also connects to the Webapp, QR codes, participant tags, lanyards, and the physical process of getting hundreds of people into the venue without making everyone queue forever. This last part is particularly hard because throwing more people at the problem frequently causes a larger mess and confusion. With such high load and movement, there are bound to be problems. Backup processes are also in place when Supabase (historically Firebase) authentication goes down, or for example in 2025, we accidentally tagged badges to the wrong participants.</p>
   </details>
 
   <details>
     <summary>Sponsorship</summary>
-    <p>Hack&Roll only exists because other people help us make them happen. The Sponsorship team finds and works with these sponsors/partners, then coordinates with the rest of coreteam to turn that support into workshops, hardware, food, prizes, and other parts of the event. There is also a lot of follow-up, emails and last minute coordination, which is less visible than confirming a sponsor via email, but takes up a lot of time. As an organization working with so many sponsors, we aim to keep the sponsor experience and tiers fair - balancing a fun & enjoyable event, sponsor benefits, and sponsor visibility. The sponsorship team frequently requires contextual knowledge of the entire event to present to sponsors as well, they serve as the frontdesk of Hack&Roll, providing information about the event where possible.</p>
+    <p>The food and atmosphere of Hack&Roll only exists because our sponsors help us make them happen. The Sponsorship team finds and works with these sponsors/partners, then coordinates with the rest of coreteam to turn that support into workshops, hardware, food, prizes, and other parts of the event. There is also a lot of followup emails and last minute coordination, which is less visible than simply confirming a sponsor via email, but takes up a lot of time. As an organization working with so many sponsors, we aim to keep the sponsor experience and tiers fair - balancing a fun & enjoyable event, sponsor benefits, and sponsor visibility. The sponsorship team frequently requires additional contextual knowledge of the entire event to present to sponsors as well, they serve as the frontdesk of Hack&Roll for companies, providing information about the event where possible.</p>
   </details>
 
   <details>
@@ -136,12 +136,12 @@ Click on each of the workgroups below to see how they function! These are not ex
 
   <details>
     <summary>Webapp</summary>
-    <p>The Webapp workgroup builds many of the parts of Hack&Roll that people use without thinking about them: registration, the participant dashboard, check-in, food and swag collection, judging, and fringe games. It also has to connect to the physical event, where a QR code, tag or scanner is often involved. The team is also regularly asked to remove friction from everyone else's work, whether that means better navigation during registration, syncing the judging system, or making it easier for participants to find information without searching through Discord. The goal is for the normal flow to be boringly simple; the work becomes visible when something breaks and the team has to find another way to keep the event moving.</p>
+    <p>The Webapp workgroup builds many of the parts of Hack&Roll that people use without thinking about them: registration, the participant dashboard, check in, food and swag collection, judging, and fringe games. It also has to connect to the physical event, where a QR code, tag or scanner is often involved. The team is also regularly asked to remove friction from everyone else's work, whether that means better navigation during registration, syncing the judging system, or making it easier for participants to find information without searching through Discord. The goal is for the normal flow to be boringly simple. Ensuring the relevant teams test their workflow proves to be hard when we are scrambling in our own other teams a week before the event.</p>
   </details>
 </div>
 
 ## What keeps it together
 
-Running Hack&Roll is not about one person having the whole plan. The work is distributed, but the responsibility and ownership is shared: groups make decisions, people help outside their usual areas, and team members learn what they do not already know. That is how coreteam makes such a large event feel welcoming, chaotic, and fun at the same time.
+Running Hack&Roll is not about one person having the whole plan. The work is distributed, but the responsibility and ownership is shared: groups have the agency to make decisions, people help outside their usual areas, and team members learn what they do not already know. That is how coreteam makes such a large event feel welcoming, chaotic, and fun at the same time.
 
-After attending Hack&Roll as a participant for three years and serving on coreteam for two, I'm still grateful to everyone who makes it happen: past and present coreteam members, participants, volunteers, judges, and sponsors. The best part is not simply that we run Singapore's largest student-run hackathon. It is that the event gives people a reason to build for fun.
+After attending Hack&Roll as a participant for 3 years and serving on coreteam for 2, I'm still grateful to everyone who makes it happen: past and present coreteam members, participants, volunteers, judges, and sponsors. The best part is not simply that we run Singapore's largest student-run hackathon. It is that the event gives people a reason to build for fun.
