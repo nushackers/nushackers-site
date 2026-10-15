@@ -34,7 +34,7 @@ As a high level overview, we are organized into the workgroups with these princi
 - **Keep workgroups small** (usually 2–4 people): This keeps the work manageable and makes it clear who owns each part of the job
 - **Each coreteam is part of 2–3 workgroups**: This encourages cross-team collaboration and gives organizers a chance to understand more of the event than just their own area
 
-This only works if we tetris our people and time thoughtfully. e.g. someone handling AV should not also be responsible for sponsorship setup if both need to happen at the same time before the opening ceremony. While we want to optimize such that every coreteam gets to do whatever we want to, sometimes what we want may conflict in with day-of timelines.
+This only works if we tetris our people and time thoughtfully. e.g. someone handling AV should not also be responsible for sponsorship setup if both need to happen at the same time before the opening ceremony. While we want to optimize such that every coreteam gets to do whatever we want to, sometimes what we want may conflict with day-of timelines.
 
 Of course, in the days before Hack&Roll, this is more chaotic - our volunteers will tell you the number of last minute changes, but that's part and parcel of what we do.
 
@@ -42,9 +42,9 @@ Of course, in the days before Hack&Roll, this is more chaotic - our volunteers w
   <img src="/img/2026/hnr/organisers-2026.webp" alt="Hack&Roll 2026 organisers gathered for a group photo" style="width: 32rem; max-width: 100%; height: auto" />
 </div>
 
-## What this looks like on the ground
+## How We Function
 
-Click on each of the workgroups below to see how they function! These are not exhaustive, since there are many small jobs which do not fit cleanly into one team, but they give you a sense of the major moving parts in Hack&Roll and how they come together.
+Click on each of the workgroups below to see what a coreteam member means when we say "I am part of the \_\_\_\_\_\_\_\_\_\_ team".  These are not exhaustive, since there are many small jobs which do not fit cleanly into one team, but they give you a sense of the major moving parts in Hack&Roll and how they come together.
 
 <div class="workgroups">
   <details>
@@ -59,7 +59,7 @@ Click on each of the workgroups below to see how they function! These are not ex
 
   <details>
     <summary>Workshops</summary>
-    <p>Workshops happen before the main 24 hours, and are a way for participants to try something before they start building. The team coordinates instructors, materials, rooms and schedules, including technical workshops where participants get to use hardware they may not have tried before. The 2026 edition included a sneak peak into our PCB badge! They also need to update the Hack&Roll page, publish the forms, and remind people who signed up to actually show up. Every workshop is its own small event, so a lot of work goes into making the 2 hour workshop on the schedule look easy. For context, our teams for Friday Hacks and Hackerschool are usually about 3-4 people each and the events are held once a week. In contrast, the workshops team is usually 2-3 people who work tirelessly for 1-2 weeks daily. They also get ridiculously sick of eating pizza for dinner across consecutive days.</p>
+    <p>Workshops happen before the main 24 hours, and are a way for participants to try something before they start building. The team coordinates instructors, materials, rooms and schedules, including technical workshops where participants get to use hardware they may not have tried before. The 2026 edition included a sneak peak into our PCB badge! They also need to update the Hack&Roll page, publish the forms, and remind people who signed up to actually show up. Every workshop is its own small event, so a lot of work goes into making the 2 hour workshop on the schedule look easy. For context, our teams for Friday Hacks and Hackerschool are usually about 3-4 people each and the events are held once a week. In contrast, the workshops team consists of 2-3 people, and they work everyday tirelessly for 1-2 weeks. They also get ridiculously sick of eating pizza for dinner across consecutive days.</p>
   </details>
 
   <details>
@@ -69,7 +69,7 @@ Click on each of the workgroups below to see how they function! These are not ex
 
   <details>
     <summary>Venue</summary>
-    <p>The Venue workgroup is in charge of booking all our venues: the main dining hall, side venue halls, ops rooms and logistics storerooms. They are one of the earliest teams to start, because we cannot host 800 in-person participants if we are missing even one of these spaces. There is a surprising amount of planning in deciding not just where people hack, but where food, workshops, judging, hardware and coreteam can all fit. We also need to book rooms for the workshops before the main event, which means this work starts long before most participants have heard of Hack&Roll. They also take care of the "physical infra" of the event - this includes tables, chairs, trash bags, power, signage, room setup, and fighting fires throughout the event. During the event, they are usually moving between halls and solving problems before most participants notice them. If a trash bag is suddenly overflowing, this is usually the team that gets called.</p>
+    <p>The Venue workgroup is in charge of booking all our venues: the main dining hall, side venue halls, ops rooms and logistics storerooms. They are one of the earliest teams to start, because we cannot host 800 in-person participants if we are missing even one of these spaces. There is a surprising amount of planning in deciding not just where people hack, but where food, workshops, judging, hardware and coreteam can all fit. We also need to book rooms for the workshops before the main event, which means this work starts long before most participants have heard of Hack&Roll. They also take care of the "physical infra" of the event - this includes tables, chairs, trash bags, power, signage, room setup, and fighting fires throughout the event. During the event, they are usually moving between halls and solving problems before most participants notice them. If a trash bag is suddenly overflowing, this is usually the team that gets activated.</p>
   </details>
 
   <details>
@@ -140,6 +140,6 @@ Click on each of the workgroups below to see how they function! These are not ex
 
 ## What keeps it together
 
-Running Hack&Roll is not about the president organizing coreteam together. It is more like coreteam running it, with the president ensuring that communication happens when it needs to. The work is distributed, but the responsibility and ownership is shared: groups have the agency to make decisions, people help outside their usual areas, and team members learn what they do not already know. That is how coreteam makes such a large event feel welcoming, chaotic, and fun at the same time. On top of that, we do our planning mostly on one massive Discord server with all workgroups. This keeps our communications transparent and accountable to each other.
+Running Hack&Roll is not about the president organizing coreteam, and coreteam organizing the event. It is more like coreteam running it, with the president ensuring that communication happens when it needs to. The work is distributed, but the responsibility and ownership is shared: groups have the agency to make decisions, people help outside their usual areas, and team members learn what they do not already know. That is how coreteam makes such a large event feel welcoming, chaotic, and fun at the same time. On top of that, we do our planning mostly on one massive Discord server with all workgroups. This keeps our communications transparent and accountable to each other.
 
-After attending Hack&Roll as a participant for 3 years and serving on coreteam for another 2, I'm still grateful to everyone who makes it happen: past/present/future coreteam members, participants, volunteers, judges, and sponsors. The best part is not simply that we run Singapore's largest student-run hackathon. It is that the event gives people a reason to build for fun.
+After attending Hack&Roll as a participant for 3 years and serving on coreteam for another 2, I'm still grateful to everyone who makes it happen: past/present/future coreteam members, participants, volunteers, judges, and sponsors. The best part is not simply that we run Singapore's largest student-run hackathon. It is that Hack&Roll gives people (like you!) a reason to build for fun.
