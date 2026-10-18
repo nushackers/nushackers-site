@@ -1,9 +1,10 @@
 ---
-title: "How We Run Hack&Roll"
+title: "How We Roll"
 date: 2026-10-20
 author: Jonathan Loh
 url: /2026/10/how-we-run-hnr
 featured: true
+summary: "How we run Hack&Roll"
 ---
 
 How does our relatively small coreteam pull off an 800+ person hackathon? Hacker culture is built into the way we do things. Over the years, people have asked us how we run Hack&Roll, so here is a look inside our coreteam, from my small perspective.
