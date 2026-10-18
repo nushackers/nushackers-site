@@ -42,15 +42,29 @@ hacks:
   - nohack: Recess Week
   - nohack: Midterms
   - nohack: NUS Well-being day
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/10/friday-hacks-302
+    topics:
+      - speaker: Shannon Teoh and Chee Wei Xian
+        title: "Behind the Graphics: Data Storytelling and Frontend Architecture at The Straits Times"
   - venue: To be announced
     topics:
       - speaker: To be announced
         title: To be announced
       - speaker: To be announced
         title: To be announced
-  - nospeaker: true
-  - nospeaker: true
-  - nospeaker: true
+  - venue: To be announced
+    topics:
+      - speaker: To be announced
+        title: To be announced
+      - speaker: To be announced
+        title: To be announced
+  - venue: To be announced
+    topics:
+      - speaker: To be announced
+        title: To be announced
+      - speaker: To be announced
+        title: To be announced
   - nospeaker: true
   - nohack: Reading Week
   - nohack: Exam Week
