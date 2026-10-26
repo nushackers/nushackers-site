@@ -47,18 +47,20 @@ hacks:
     topics:
       - speaker: Shannon Teoh and Chee Wei Xian
         title: "Behind the Graphics: Data Storytelling and Frontend Architecture at The Straits Times"
-  - venue: To be announced
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/10/friday-hacks-303
     topics:
-      - speaker: To be announced
-        title: To be announced
-      - speaker: To be announced
-        title: To be announced
-  - venue: To be announced
+      - speaker: Ibrahim Mammadov
+        title: "Flip One Bit: Unlocking, Counting and Repairing Huge Grids of 0s and 1s"
+      - speaker: Lai Xintao
+        title: "Do You Want to Be an SRE?"
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/10/friday-hacks-304
     topics:
-      - speaker: To be announced
-        title: To be announced
-      - speaker: To be announced
-        title: To be announced
+      - speaker: Shaun Livingston
+        title: "Trust Is the Product: Deploying AI Agents to Highly Regulated Enterprises"
+      - speaker: Kris Concepcion
+        title: "What Is Software Engineering in 2026?"
   - venue: To be announced
     topics:
       - speaker: To be announced
