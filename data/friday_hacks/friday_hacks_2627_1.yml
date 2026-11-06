@@ -68,6 +68,11 @@ hacks:
         title: "Coding with AI: Changes and Constants"
       - speaker: He Li
         title: "Keeping Secrets from Your AI Agent: How to Protect Your Credentials"
-  - nospeaker: true
+  - venue: To be announced
+    topics:
+      - speaker: To be announced
+        title: To be announced
+      - speaker: To be announced
+        title: To be announced
   - nohack: Reading Week
   - nohack: Exam Week
