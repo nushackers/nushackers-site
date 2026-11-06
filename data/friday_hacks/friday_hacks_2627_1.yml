@@ -61,12 +61,13 @@ hacks:
         title: "Trust Is the Product: Deploying AI Agents to Highly Regulated Enterprises"
       - speaker: Kris Concepcion
         title: "What Is Software Engineering in 2026?"
-  - venue: To be announced
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/11/friday-hacks-305
     topics:
-      - speaker: To be announced
-        title: To be announced
-      - speaker: To be announced
-        title: To be announced
+      - speaker: Shaoyin Song
+        title: "Coding with AI: Changes and Constants"
+      - speaker: He Li
+        title: "Keeping Secrets from Your AI Agent: How to Protect Your Credentials"
   - nospeaker: true
   - nohack: Reading Week
   - nohack: Exam Week

@@ -6,7 +6,9 @@ nested: false
 
 ## 2026
 
+* Friday Hacks #305, November 6: [Coding with AI and Keeping Secrets from Your AI Agent](/2026/11/friday-hacks-305)
 * Friday Hacks #304, October 30: [Trust Is the Product and Software Engineering in 2026](/2026/10/friday-hacks-304)
+   * [Recording](https://www.youtube.com/watch?v=P4BzO8U5GV0)
 * Friday Hacks #303, October 23: [Flip One Bit and Do You Want to Be an SRE?](/2026/10/friday-hacks-303)
    * [Recording 2](https://www.youtube.com/watch?v=5JAaVBztrUQ)
 * Friday Hacks #302, October 16: [AI Coding and Interactive Graphics at The Straits Times](/2026/10/friday-hacks-302)
