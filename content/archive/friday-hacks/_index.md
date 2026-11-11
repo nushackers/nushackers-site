@@ -6,7 +6,10 @@ nested: false
 
 ## 2026
 
+* Friday Hacks #306, November 13: [C++ as an Interpreted Language and Applied Research in the Age of AI](/2026/11/friday-hacks-306)
 * Friday Hacks #305, November 6: [Coding with AI and Keeping Secrets from Your AI Agent](/2026/11/friday-hacks-305)
+   * [Recording 1](https://www.youtube.com/watch?v=X61FkZ4SM6U)
+   * [Recording 2](https://www.youtube.com/watch?v=5lGpMhZm8B8)
 * Friday Hacks #304, October 30: [Trust Is the Product and Software Engineering in 2026](/2026/10/friday-hacks-304)
    * [Recording](https://www.youtube.com/watch?v=P4BzO8U5GV0)
 * Friday Hacks #303, October 23: [Flip One Bit and Do You Want to Be an SRE?](/2026/10/friday-hacks-303)

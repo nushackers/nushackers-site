@@ -68,11 +68,12 @@ hacks:
         title: "Coding with AI: Changes and Constants"
       - speaker: He Li
         title: "Keeping Secrets from Your AI Agent: How to Protect Your Credentials"
-  - venue: To be announced
+  - venue: <a href="https://nusmods.com/venues/COM3-01-21">Seminar Room 12, COM3-01-21, NUS</a>
+    blog_post: /2026/11/friday-hacks-306
     topics:
-      - speaker: To be announced
-        title: To be announced
-      - speaker: To be announced
-        title: To be announced
+      - speaker: James Lim
+        title: "C++ as an Interpreted Language"
+      - speaker: Devansh Shah
+        title: "Applied Research in the Age of AI"
   - nohack: Reading Week
   - nohack: Exam Week
